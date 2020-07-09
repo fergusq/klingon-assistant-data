@@ -394,7 +394,7 @@
       <column name="entry_name">lam</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be dirty</column>
-      <column name="definition_de">dreckig</column>
+      <column name="definition_de">dreckig sein</column>
       <column name="definition_fa">کثیف بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara smutsig</column>
       <column name="definition_ru">быть грязным, быть нечистоплотным</column>
@@ -501,10 +501,47 @@
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">lanSoy</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">row or line (of people or things expected to be in motion)</column>
+      <column name="definition_de">Reihe (von Personen oder Gegenständen in Bewegung)</column>
+      <column name="definition_fa"></column>
+      <column name="definition_sv"></column>
+      <column name="definition_ru"></column>
+      <column name="definition_zh_HK"></column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{wIyqap:n}, {wev:n}</column>
+      <column name="notes">This would be used for a queue, i.e., a line of people waiting to get into a movie. It is expected that the row or line of people or things is (or will or might be) in motion, so that eventually it diminishes until it's gone (in contrasted to a {wIyqap:n:nolink} which is stationary). This word is used even if the people or things are bunched up. If there are two rows of people waiting to get into two side-by-side entrances, {lanSoy:n:nolink} would still be used for each of them (and not {wev:n:nolink}).
+
+The word {mIr:n:1} can be used as a slang term for this, if things are clear.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="search_tags">queue</column>
+      <column name="search_tags_de">Warteschlange, Schlange</column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="source">[1] {KLI mailing list 2020.04.21:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">lang</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be thin, be narrow</column>
-      <column name="definition_de">dünn</column>
+      <column name="definition_de">dünn sein</column>
       <column name="definition_fa">نازک باشد، باریک باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara tunn</column>
       <column name="definition_ru">быть тонким, быть худым</column>
@@ -1118,7 +1155,7 @@ If the swinging is continuously back and forth, use {ler:v} instead.</column>
       <column name="entry_name">law'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be many, be numerous</column>
-      <column name="definition_de">viele, zahlreich</column>
+      <column name="definition_de">viele, zahlreich sein</column>
       <column name="definition_fa">خیلی زیاد باشد، تعداد زیادی باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara många, vara talrika, vara mycket</column>
       <column name="definition_ru">быть многочисленным, быть множественным</column>
@@ -1668,7 +1705,7 @@ The following example shows that the verb of quality can take a suffix:
       <column name="entry_name">leD</column>
       <column name="part_of_speech">v:i_c</column>
       <column name="definition">be perpendicular, be at a right angle</column>
-      <column name="definition_de">senkrecht zu etwas</column>
+      <column name="definition_de">senkrecht zu etwas sein</column>
       <column name="definition_fa">عمود بر آن باشد، در یک زاویه راست قرار گیرید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara vinkelrätt, vara i rätt vinkel [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -2684,7 +2721,7 @@ For movement to the side without rotation or being fixed to a point, see {Dav:v:
       <column name="entry_name">let</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be hard (like a rock)</column>
-      <column name="definition_de">hart (wie ein Stein)</column>
+      <column name="definition_de">hart sein (wie ein Stein)</column>
       <column name="definition_fa">سخت (مانند یک سنگ) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara hård</column>
       <column name="definition_ru">быть твердым, быть тяжелым(как камень)</column>
@@ -2931,7 +2968,7 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="entry_name">le'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be special, exceptional</column>
-      <column name="definition_de">besonders, außergewöhnlich</column>
+      <column name="definition_de">besonders, außergewöhnlich sein</column>
       <column name="definition_fa">مخصوص، استثنایی</column>
       <column name="definition_sv">vara speciell, vara exceptionell, vara särskild</column>
       <column name="definition_ru">быть специальным, быть особым, быть особенным, быть исключительным, быть специфичным</column>
@@ -2966,7 +3003,7 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="entry_name">le'be'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be unexceptional, be nonspecific</column>
-      <column name="definition_de">gewöhnlich, nicht besonders</column>
+      <column name="definition_de">gewöhnlich, nicht besonders sein</column>
       <column name="definition_fa">بی قاعده باشد، ناسازگار باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara oexeptionell, vara icke-utmärkande</column>
       <column name="definition_ru">Быть неисключительнмы, быть неособенным, бытьнеособым</column>
@@ -3133,7 +3170,7 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="entry_name">lIb</column>
       <column name="part_of_speech">v:i_c</column>
       <column name="definition">be impending, imminent, loom</column>
-      <column name="definition_de">bevorstehend, latent, drohend</column>
+      <column name="definition_de">bevorstehend, latent, drohend sein</column>
       <column name="definition_fa">قریب الوقوع، قریب الوقوع، دامن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara överhängande, överhängande, väv [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -3147,12 +3184,11 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes">The prefix in the example sentence is incorrect, as it should be {bo-:v:pref}. Possibly it was mixed up with {lI-:v:pref}, which forced {lIb:v:nolink} to be created.</column>
+      <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {Qob lIb bam SoH chuDlI' je.@@Qob:n, lIb:v, bam:v, SoH:n, chuD:n, -lI':n, je:conj} "You and your people are in danger."[2]</column>
-      <column name="examples_de">
-▶ {Qob lIb bam SoH chuDlI' je.@@Qob:n, lIb:v, bam:v, SoH:n, chuD:n, -lI':n, je:conj} "Du und deine Leute sind in Gefahr."[2]</column>
+▶ {Qob lIb bam SoH chuDlI' je.:sen}</column>
+      <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
@@ -3184,7 +3220,7 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is a possible verb to use with {watrIn:n}.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -3198,7 +3234,7 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {KGT:src}</column>
+      <column name="source">[1] {KGT:src}, [2] {KLI mailing list 2020.04.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -3895,7 +3931,7 @@ When a computer (or computer system) is online, it's said to be "sharing". See {
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was confirmed to mean to cause to gather in one place, as with prisoners or livestock.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -3909,7 +3945,7 @@ When a computer (or computer system) is online, it's said to be "sharing". See {
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {qep'a' 18 (2011):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -4195,6 +4231,43 @@ This was used to refer to "variables" (a memory location used for storing data i
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {KGT:src}, [2] {HQ 5.1, Mar. 1996 p.10:src}, [3] {KLI mailing list 2014.11.26:src}, [4] {KLI mailing list 2016.11.25:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">lIwnal</column>
+          <column name="part_of_speech">n:being</column>
+          <column name="definition">concubine</column>
+          <column name="definition_de">Kebsweib, Konkubine, Maitresse</column>
+          <column name="definition_fa"></column>
+          <column name="definition_sv"></column>
+          <column name="definition_ru"></column>
+          <column name="definition_zh_HK"></column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">The cultural connotations are a bit different than the English word "concubine". In Klingon culture, everything associated with a {lIwnal:n:nolink} lacks honor, which is not necessarily the case for a (Terran) king's concubines or courtesans.
+
+Only married people could have a partner who could be considered a {lIwnal:n:nolink}. A {lIwnal:n:nolink} could be male or female, so if it's necessary to distinguish, use {loD lIwnal:n@@loD:n, lIwnal:n} or {be' lIwnal:n@@be':n, lIwnal:n}.</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{lIw:n}, {nal:n:hyp}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">lIy</column>
@@ -4235,7 +4308,7 @@ This was used to refer to "variables" (a memory location used for storing data i
       <column name="entry_name">lI'</column>
       <column name="part_of_speech">v:1,is</column>
       <column name="definition">be useful</column>
-      <column name="definition_de">nützlich</column>
+      <column name="definition_de">nützlich sein</column>
       <column name="definition_fa">مفید بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara användbar</column>
       <column name="definition_ru">быть полезным, быть пригодным</column>
@@ -4445,7 +4518,7 @@ This was used to refer to "variables" (a memory location used for storing data i
       <column name="entry_name">loch</column>
       <column name="part_of_speech">v:t_c</column>
       <column name="definition">be a fraction of, make up a portion of, constitute part of</column>
-      <column name="definition_de">Teil von, Teilmenge von</column>
+      <column name="definition_de">ein Teil (von etwas) sein, eine Teilmenge (von etwas) sein</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
       <column name="definition_ru"></column>
@@ -6745,7 +6818,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="entry_name">lo'laH</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be valuable</column>
-      <column name="definition_de">brauchbar, wertvoll</column>
+      <column name="definition_de">brauchbar, wertvoll sein</column>
       <column name="definition_fa">ارزشمند بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara värdefull, vara användbar</column>
       <column name="definition_ru">Быть ценным</column>
@@ -6780,7 +6853,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="entry_name">lo'laHbe'</column>
       <column name="part_of_speech">v:is,deriv</column>
       <column name="definition">be worthless</column>
-      <column name="definition_de">wertlos, unbrauchbar</column>
+      <column name="definition_de">wertlos, unbrauchbar sein</column>
       <column name="definition_fa">بی ارزش باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara värdelös, vara oanvändbar</column>
       <column name="definition_ru">быть бесполезным, быть никчемным</column>
@@ -7004,7 +7077,7 @@ This prefix is sometimes dropped for unknown reasons. While an error, this is of
       <column name="entry_name">lugh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be right, correct</column>
-      <column name="definition_de">richtig, korrekt</column>
+      <column name="definition_de">richtig, korrekt sein</column>
       <column name="definition_fa">درست است، درست است [AUTOTRANSLATED]</column>
       <column name="definition_sv">ha rätt, vara rätt, vara korrekt</column>
       <column name="definition_ru">быть корректным, быть правым в чем-то</column>
@@ -8024,8 +8097,8 @@ When referring to one's left and right sides, possessive suffixes are used. For 
       <column name="source">[1] {KGT:src}</column>
     </table>
     <table name="mem">
-      <column name="_id"></column>
       <!-- Possibly a pun based on the tradition of accompanying oral tellings of stories with "lute" music. -->
+      <column name="_id"></column>
       <column name="entry_name">lut</column>
       <column name="part_of_speech">n</column>
       <column name="definition">story</column>
@@ -8037,13 +8110,13 @@ When referring to one's left and right sides, possessive suffixes are used. For 
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{torSIv:n}, {rorgh:v}</column>
-      <column name="notes"></column>
+      <column name="notes">The concept of a "fairy tale" might be expressed as {puq lut:n@@puq:n, lut:n} or {lut rorgh:n@@lut:n, rorgh:v} or {puq lut rorgh:n@@puq:n, lut:n, rorgh:v}.[3]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The translations for "fairy tales" are suggestions only. In particular, it was noted that {SIqnaSwaq:n} would probably not be used to translate this term.[3]</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {meb, lut tlhaQ DaSov'a'?} "Guest, do you know any funny stories?"[2]</column>
@@ -8053,55 +8126,55 @@ When referring to one's left and right sides, possessive suffixes are used. For 
       <column name="examples_ru">
 ▶ {meb, lut tlhaQ DaSov'a'?} "Гость, ты знаешь какие-то забавные истории?"[2]</column>
       <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
+      <column name="search_tags">fairy tale, tale</column>
+      <column name="search_tags_de">Kindergeschichte, Märchen</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}, [2] {PK:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {PK:src}, [3] {KLI mailing list 2020.04.21:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">lut mIr</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">series (of stories, movies, etc.)</column>
-      <column name="definition_de">Serie (z.B. von Geschichten, Filmen usw.)</column>
-      <column name="definition_fa">سری (داستان ها، فیلم ها، و غیره) [AUTOTRANSLATED]</column>
-      <column name="definition_sv">serie (av berättelser, filmer, etc.) [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
-      <column name="definition_zh_HK">系列（故事、電影等） [AUTOTRANSLATED]</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="hidden_notes">This was used in the Netflix Klingon-language press release for {DSC:src}, which was written by {Quvar:n:name}.</column>
-      <column name="components">{lut:n}, {mIr:n:2}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {Saarbrücken qepHom'a' 2017:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">lut mIr</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">series (of stories, movies, etc.)</column>
+          <column name="definition_de">Serie (z.B. von Geschichten, Filmen usw.)</column>
+          <column name="definition_fa">سری (داستان ها، فیلم ها، و غیره) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">serie (av berättelser, filmer, etc.) [AUTOTRANSLATED]</column>
+          <column name="definition_ru"></column>
+          <column name="definition_zh_HK">系列（故事、電影等） [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="hidden_notes">This was used in the Netflix Klingon-language press release for {DSC:src}, which was written by {Quvar:n:name}.</column>
+          <column name="components">{lut:n}, {mIr:n:2}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2017:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">lutlh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be primitive</column>
-      <column name="definition_de">primitiv</column>
+      <column name="definition_de">primitiv sein</column>
       <column name="definition_fa">ابتدایی باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara primitiv</column>
       <column name="definition_ru">быть примитивным, быть очень простым, быть отсталым</column>

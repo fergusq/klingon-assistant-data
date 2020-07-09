@@ -38,7 +38,7 @@
       <column name="entry_name">Hab</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be smooth</column>
-      <column name="definition_de">glatt</column>
+      <column name="definition_de">glatt sein</column>
       <column name="definition_fa">صاف بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara jämn, vara slät</column>
       <column name="definition_ru">быть гладким, быть плавным, быть без затруднений, быть однородным</column>
@@ -179,7 +179,7 @@
       <column name="entry_name">Hach</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be developed (e.g., civilization)</column>
-      <column name="definition_de">entwickelt</column>
+      <column name="definition_de">entwickelt sein</column>
       <column name="definition_fa">توسعه یابد (به عنوان مثال، تمدن) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara utvecklad, vara högtstående (om t.ex. civilisation)</column>
       <column name="definition_ru">быть развитым(ой)</column>
@@ -500,7 +500,7 @@
       <column name="entry_name">Ham</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be high (in pitch)</column>
-      <column name="definition_de">hoch (in Tonlage)</column>
+      <column name="definition_de">hoch sein (in Tonlage)</column>
       <column name="definition_fa">بالا بودن (در زمین) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara hög (i pitch) [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -1376,7 +1376,7 @@
       <column name="entry_name">Hat</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be illegal</column>
-      <column name="definition_de">illegal</column>
+      <column name="definition_de">illegal sein</column>
       <column name="definition_fa">غیرقانونی بودن</column>
       <column name="definition_sv">vara olaglig, vara illegal</column>
       <column name="definition_ru">быть незаконным</column>
@@ -1489,7 +1489,7 @@
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SuD:v:2}, {mI' nagh:n}</column>
-      <column name="notes">For random numbers, as when throwing dice, use {'al:v}.</column>
+      <column name="notes">For "random" in the sense of numbers, as when throwing dice, use {'al:v:2} instead.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -2435,7 +2435,30 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {bogh tlhInganpu', SuvwI'pu' moj, Hegh.:sen}</column>
+▶ {batlh bIHeghjaj.:sen}
+▶ {bISuvtaHvIS bIHeghjaj!:sen}
+▶ {bItuHpa' bIHeghjaj.:sen}
+▶ {Dajonlu'pa' bIHeghjaj.:sen}
+▶ {batlh Heghlu'chugh noDnISbe' vay'.:sen}
+▶ {bIDIlbe'chugh vaj bIHegh!:sen}
+▶ {bIjeghbe'chugh vaj bIHegh!:sen}
+▶ {bIje'be'chugh vaj bIHegh!:sen}
+▶ {bIHeghvIpchugh bIHeghpu'.:sen}
+▶ {bogh tlhInganpu', SuvwI'pu' moj, Hegh.:sen}
+▶ {DujDaj HubtaHvIS Hegh 'e' tul Hoch tlhIngan.:sen}
+▶ {Qu'Daj ta'taHvIS Hegh 'e' tul Hoch tlhIngan.:sen}
+▶ {wo' toy'taHvIS Hegh 'e' tul Hoch tlhIngan.:sen}
+▶ {qanchoHpa' qoH, Hegh qoH.:sen}
+▶ {QamvIS Hegh qaq law' torvIS yIn qaq puS.:sen}
+▶ {QI'tomerDaq Heghpu' Hoch.:sen}
+▶ {reH Hegh yoHwI'pu''e'.:sen}
+▶ {wej Heghchugh vay', SuvtaH SuvwI'.:sen}
+▶ {yIlop! wa'leS chaq maHegh!:sen}
+▶ {Hagh qoHpu' neH HeghtaHvIS SuvwI'pu'.:sen}
+▶ {HeghDI' SuvwI' nargh SuvwI' qa'.:sen}
+▶ {Heghlu'DI' mobbe'lu'chugh QaQqu' Hegh wanI'.:sen}
+▶ {Heghlu'meH QaQ jajvam.:sen}
+▶ {Hoch DaSopbe'chugh batlh bIHeghbe'.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -2470,7 +2493,10 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {Hegh bey:n}
+▶ {Hegh Duj:n}
+▶ {Hegh neH chav qoH.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -2920,7 +2946,7 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="entry_name">Hem</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be proud</column>
-      <column name="definition_de">stolz</column>
+      <column name="definition_de">stolz sein</column>
       <column name="definition_fa">افتخار کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara stolt</column>
       <column name="definition_ru">быть гордым, быть величавым</column>
@@ -4388,7 +4414,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="entry_name">HIr</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be stuck (physically fastened to something)</column>
-      <column name="definition_de">abgestempelt</column>
+      <column name="definition_de">festsitzen, festkleben</column>
       <column name="definition_fa">گیر کرده (از لحاظ جسمی به چیزی وصل شده) [AUTOTRANSLATED]</column>
       <column name="definition_sv">fastna (fysiskt fastsatt till något) [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -4423,7 +4449,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="entry_name">HIS</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be compressed (as in air)</column>
-      <column name="definition_de">komprimiert</column>
+      <column name="definition_de">komprimiert sein</column>
       <column name="definition_fa">فشرده شود (مانند هوا) [AUTOTRANSLATED]</column>
       <column name="definition_sv">komprimeras (som i luft) [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -5088,7 +5114,13 @@ If {Hoch:n:nolink} follows a noun, it means "all of X".[3; 4] Note that this is 
    {muptaHvIS tay''eghmoH QeHDaj Hoch:sen:nolink}
   "The bat'leth sunk into the post
    Of your fortified tower,
-   All his rage focussed in one blow"[4]</column>
+   All his rage focussed in one blow"[4, p.158-159]
+▶ {qeylISvaD jach 'ej beyDaj luqImmo':sen:nolink}
+   {yuQDaq ghaHtaHbogh Hoch tlhIngan'e':sen:nolink}
+   {Qomqa' Hoch Qo'noS nuvpu':sen:nolink}
+  "All of Kronos trembled once more,
+   For every Klingon on the planet
+   Followed her cry for Kahless."[2, p.186-187]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -5104,7 +5136,13 @@ If {Hoch:n:nolink} follows a noun, it means "all of X".[3; 4] Note that this is 
    {muptaHvIS tay''eghmoH QeHDaj Hoch:sen:nolink}
   "The bat'leth sunk into the post
    Of your fortified tower,
-   All his rage focussed in one blow"[4]</column>
+   All his rage focussed in one blow"[4, p.158-159]
+▶ {qeylISvaD jach 'ej beyDaj luqImmo':sen:nolink}
+   {yuQDaq ghaHtaHbogh Hoch tlhIngan'e':sen:nolink}
+   {Qomqa' Hoch Qo'noS nuvpu':sen:nolink}
+  "All of Kronos trembled once more,
+   For every Klingon on the planet
+   Followed her cry for Kahless."[2, p.186-187]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5112,7 +5150,7 @@ If {Hoch:n:nolink} follows a noun, it means "all of X".[3; 4] Note that this is 
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}, [2] {HQ 5.2, p.11, Jun. 1996:src}, [3] {KGT p.155:src}, [4] {paq'batlh p.159:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {HQ 5.2, p.11, Jun. 1996:src}, [3] {KGT p.155:src}, [4] {paq'batlh:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -5380,7 +5418,8 @@ If {Hoch:n:nolink} follows a noun, it means "all of X".[3; 4] Note that this is 
       <column name="definition_zh_HK">抓住所有機會。</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
+      <column name="see_also">
+▶ {'ebmey jonHa':sen}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -5599,82 +5638,82 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKDA:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">HoHwI'</column>
-      <column name="part_of_speech">n:weap,fic,deriv</column>
-      <column name="definition">Romulan hunter-killer probe</column>
-      <column name="definition_de">Romulanische Jagd- und Mord-Sonde</column>
-      <column name="definition_fa">پروانه شکارچی روحانی قاتل [AUTOTRANSLATED]</column>
-      <column name="definition_sv">romulansk jägar- och mördarsond</column>
-      <column name="definition_ru">Ромуланский зонд убийца</column>
-      <column name="definition_zh_HK">羅慕蘭獵人殺手探測器 [AUTOTRANSLATED]</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is short for {romuluSngan Sambogh 'ej HoHbogh nejwI':n}.</column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru">Это сокращенный вариант слова {romuluSngan Sambogh 'ej HoHbogh nejwI':n}.</column>
-      <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{HoH:v}, {-wI':v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {KCD:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">HoH'egh</column>
-      <column name="part_of_speech">v:i,deriv</column>
-      <column name="definition">commit suicide</column>
-      <column name="definition_de">Selbstmord begehen</column>
-      <column name="definition_fa">خودکشی را تحمل کردن [AUTOTRANSLATED]</column>
-      <column name="definition_sv">begå självmord</column>
-      <column name="definition_ru">совершить самоубийство</column>
-      <column name="definition_zh_HK">自殺</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is simply the verb {HoH:v} with the suffix {-'egh:v}.[2]</column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru">Это просто глагол {HoH:v} с суффиксом {-'egh:v}.[2]</column>
-      <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{HoH:v}, {-'egh:v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}, [2] {msn 1997.11.30:src} (repeated in {s.k 1998.02.23:src})</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">HoHwI'</column>
+          <column name="part_of_speech">n:weap,fic,deriv</column>
+          <column name="definition">Romulan hunter-killer probe</column>
+          <column name="definition_de">Romulanische Jagd- und Mord-Sonde</column>
+          <column name="definition_fa">پروانه شکارچی روحانی قاتل [AUTOTRANSLATED]</column>
+          <column name="definition_sv">romulansk jägar- och mördarsond</column>
+          <column name="definition_ru">Ромуланский зонд убийца</column>
+          <column name="definition_zh_HK">羅慕蘭獵人殺手探測器 [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is short for {romuluSngan Sambogh 'ej HoHbogh nejwI':n}.</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru">Это сокращенный вариант слова {romuluSngan Sambogh 'ej HoHbogh nejwI':n}.</column>
+          <column name="notes_zh_HK"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{HoH:v}, {-wI':v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="source">[1] {KCD:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">HoH'egh</column>
+          <column name="part_of_speech">v:i_c,deriv</column>
+          <column name="definition">commit suicide</column>
+          <column name="definition_de">Selbstmord begehen</column>
+          <column name="definition_fa">خودکشی را تحمل کردن [AUTOTRANSLATED]</column>
+          <column name="definition_sv">begå självmord</column>
+          <column name="definition_ru">совершить самоубийство</column>
+          <column name="definition_zh_HK">自殺</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{jIb'egh:v}</column>
+          <column name="notes">This is simply the verb {HoH:v} with the suffix {-'egh:v}.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru">Это просто глагол {HoH:v} с суффиксом {-'egh:v}.[2]</column>
+          <column name="notes_zh_HK"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{HoH:v}, {-'egh:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="source">[1] {TKD:src}, [2] {msn 1997.11.30:src} (repeated in {s.k 1998.02.23:src})</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">Hoj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be cautious</column>
-      <column name="definition_de">aufmerksam, vorsichtig</column>
+      <column name="definition_de">aufmerksam, vorsichtig sein</column>
       <column name="definition_fa">احتیاط کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara försiktig</column>
       <column name="definition_ru">быть осторожным, быть осмотрительным, быть предусмотрительным</column>
@@ -6243,7 +6282,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="entry_name">Hop</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be remote, far</column>
-      <column name="definition_de">weit, entfernt, auf Distanz</column>
+      <column name="definition_de">weit, entfernt, auf Distanz sein</column>
       <column name="definition_fa">دور، دور [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara avlägsen, vara långt bort</column>
       <column name="definition_ru">быть удаленным, быть далёким</column>
@@ -6352,7 +6391,7 @@ In Klingon, "deep space" is called {logh Hop:n}, literally, "far space".[3]</col
       <column name="entry_name">HoQ</column>
       <column name="part_of_speech">v:i</column>
       <column name="definition">be honored falsely, be falsely honorable</column>
-      <column name="definition_de">fälschlich geehrt</column>
+      <column name="definition_de">fälschlich geehrt sein</column>
       <column name="definition_fa">به دروغ محترم بماند، به اشتباه محترم شمرده شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara falskt ärad, vara felaktigt hedrad</column>
       <column name="definition_ru"></column>
@@ -6428,7 +6467,7 @@ Do not use this word lightly as it has very bad connotations in Klingon society.
       <column name="entry_name">HoS</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be strong</column>
-      <column name="definition_de">stark</column>
+      <column name="definition_de">stark sein</column>
       <column name="definition_fa">قوی بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara stark</column>
       <column name="definition_ru">быть сильным</column>
@@ -6753,7 +6792,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="entry_name">HoSghaj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be powerful</column>
-      <column name="definition_de">mächtig, gewaltig</column>
+      <column name="definition_de">mächtig, gewaltig sein</column>
       <column name="definition_fa">قدرتمند بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara kraftfull</column>
       <column name="definition_ru">быть мощным, быть могущественным</column>
@@ -7516,7 +7555,8 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">
+▶ {Ho' wIyqap:n@@Ho':n:1, wIyqap:n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -8631,7 +8671,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="entry_name">Hum</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be sticky</column>
-      <column name="definition_de">klebrig</column>
+      <column name="definition_de">klebrig sein</column>
       <column name="definition_fa">چسبنده بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara klibbig</column>
       <column name="definition_ru">быть липким, быть клейким, быть липучим</column>
@@ -8817,7 +8857,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_zh_HK">懲治 [AUTOTRANSLATED]</column>
       <column name="synonyms">{bIj:v}</column>
       <column name="antonyms"></column>
-      <column name="see_also">{bIj:n}, {HuS:v}, {rup:v}</column>
+      <column name="see_also">{bIj:n}, {jIb:v}, {rup:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -8956,7 +8996,7 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
       <column name="entry_name">Hurgh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be dark</column>
-      <column name="definition_de">dunkel, ohne Licht</column>
+      <column name="definition_de">dunkel, ohne Licht sein</column>
       <column name="definition_fa">تاریک بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara mörk</column>
       <column name="definition_ru">быть темным, быть мрачным</column>
@@ -9033,8 +9073,8 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
           <column name="definition_zh_HK"></column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
-          <column name="see_also"></column>
-          <column name="notes">The Klingon Empire has ships which could both fly and submerge underwater. Whether this refers specifically to a submarine or a blimp depends on context. To differentiate them, a submarine would be a {bIQ Hurgh Duj:n@@bIQ:n, Hurgh Duj:n} and a blimp would be a {muD Hurgh Duj:n@@muD:n:1, Hurgh Duj:n}.</column>
+          <column name="see_also">{weSjech ba'Suq Duj:n}</column>
+          <column name="notes">The Klingon Empire has ships which could both fly and submerge underwater. Whether this refers specifically to a submarine or a blimp depends on context. To differentiate them, a submarine would be a {bIQ Hurgh Duj:n@@bIQ:n, Hurgh Duj:n} and a blimp would be a {muD Hurgh Duj:n@@muD:n:1, Hurgh Duj:n}.[1] A {Hurgh Duj:n:nolink} typically has a motor for propulsion.[2]</column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
@@ -9054,7 +9094,7 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
           <column name="search_tags_sv"></column>
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
-          <column name="source">[1] {Saarbrücken qepHom'a' 2019:src}</column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2019:src}, [2] {KLI mailing list 2020.04.21:src}</column>
         </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9129,7 +9169,7 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">HuS</column>
-      <column name="part_of_speech">v:t</column>
+      <column name="part_of_speech">v:t_c</column>
       <column name="definition">hang</column>
       <column name="definition_de">hängen</column>
       <column name="definition_fa">آویزان شدن [AUTOTRANSLATED]</column>
@@ -9138,14 +9178,16 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
       <column name="definition_zh_HK">掛 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{bIj:v}, {Hup:v}</column>
-      <column name="notes"></column>
+      <column name="see_also"></column>
+      <column name="notes">This is used, for example, for hanging a coat on a hook or clothes on a clothesline. But it's not used for a spider dangling from a silk thread or a pair of shoes dangling by their laces from an overhead power line, which is {tlhep:v}.
+
+This is not used to mean "execute by hanging", which is {jIb:v}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes">It's unclear if this means "to be hung up" or "to hang something/someone".</column>
+      <column name="hidden_notes">It's confirmed this takes an object.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -9159,7 +9201,7 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2020.03.30:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -9587,7 +9629,7 @@ A {HurDagh:n:nolink} is not generally played with a bow, but a {ngItHel:n} may b
       <column name="entry_name">Huv</column>
       <column name="part_of_speech">v:1,is</column>
       <column name="definition">be clear, not obstructed</column>
-      <column name="definition_de">klar, niche trübe</column>
+      <column name="definition_de">klar, niche trübe sein</column>
       <column name="definition_fa">روشن شود، مانع شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara klar, vara icke-skymd</column>
       <column name="definition_ru">быть чистым, быть незатрудненным</column>

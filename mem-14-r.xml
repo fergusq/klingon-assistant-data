@@ -315,14 +315,14 @@
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {qep'a' 18 (2011):src}, via {'ISqu':n:name,nolink}</column>
+      <column name="source">[1] {qep'a' 18 (2011):src}, via {'ISqu':n:name}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ral</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be violent</column>
-      <column name="definition_de">gewalttätig</column>
+      <column name="definition_de">gewalttätig sein</column>
       <column name="definition_fa">خشنود باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara våldsam</column>
       <column name="definition_ru">быть насильственным, быть неистовым, быть яростным</column>
@@ -357,7 +357,7 @@
       <column name="entry_name">ram</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be trivial, be trifling, be unimportant, be insignificant</column>
-      <column name="definition_de">beiläufig, banal, unwichtig, unbedeutend</column>
+      <column name="definition_de">beiläufig, banal, unwichtig, unbedeutend sein</column>
       <column name="definition_fa">بی اهمیت بودن، بی ارزش بودن، بی اهمیت بودن، بی اهمیت باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara trivial, vara obetydlig, vara oviktig, vara insignifikant</column>
       <column name="definition_ru">быть тривиальным, быть банальным, быть незначительным, быть обыденным, быть пустяковым, быть плёвым, быть пустячным, быть неважным, быть малозначительным, быть несущественным</column>
@@ -3225,6 +3225,45 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">reStav</column>
+      <column name="part_of_speech">n:body</column>
+      <column name="definition">shin, forearm</column>
+      <column name="definition_de">Schienbein, Unterarm</column>
+      <column name="definition_fa"></column>
+      <column name="definition_sv"></column>
+      <column name="definition_ru"></column>
+      <column name="definition_zh_HK"></column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{cha'neH:n}, {nev'ob:n}, {qIv:n}, {DeSqIv:n}, {Do'ghI':n}</column>
+      <column name="notes">If it's necessary to make a distinction, this word can be preceded by {'uS:n} or {DeS:n:1}.
+
+This refers to the front of the lower leg, whereas the entire lower part of the leg would be {'uS cha'neH:n@@'uS:n, cha'neH:n}.
+
+The only way Maltz was aware of to refer to the shin bone is {reStav Hom:n@@reStav:n, Hom:n:1}.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="hidden_notes">The Hebrew letter "shin" comes between the letters "resh" and "tav".</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">ret</column>
       <column name="part_of_speech">n</column>
       <column name="definition">time period ago (past)</column>
@@ -3592,7 +3631,7 @@ This is the same word as the verb {ret:v}.[2]</column>
       <column name="entry_name">rIb</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be spread, spread out</column>
-      <column name="definition_de">verteilen, auffächern</column>
+      <column name="definition_de">verstreut, verteilt sein</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
       <column name="definition_ru"></column>
@@ -3697,7 +3736,7 @@ This is the same word as the verb {ret:v}.[2]</column>
       <column name="entry_name">rIgh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be lame</column>
-      <column name="definition_de">lahm</column>
+      <column name="definition_de">lahm sein</column>
       <column name="definition_fa">لنگ بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara lam</column>
       <column name="definition_ru">быть хромым</column>
@@ -3837,7 +3876,7 @@ This is the same word as the verb {ret:v}.[2]</column>
       <column name="entry_name">rIjHa'</column>
       <column name="part_of_speech">v:is,deriv</column>
       <column name="definition">be adrift</column>
-      <column name="definition_de">treibend</column>
+      <column name="definition_de">treibend sein</column>
       <column name="definition_fa">ببخشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara på drift, vara oförankrad</column>
       <column name="definition_ru"></column>
@@ -4163,7 +4202,7 @@ This verb is used with the suffix {-taH:v} to form {rIntaH:v}, a construction us
       <column name="entry_name">rIQ</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be injured, be damaged</column>
-      <column name="definition_de">verletzt</column>
+      <column name="definition_de">verletzt sein</column>
       <column name="definition_fa">مجروح شود، آسیب ببیند [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara skadad</column>
       <column name="definition_ru">быть раненым, быть поврежденным, быть травмированным</column>
@@ -4407,6 +4446,41 @@ This also refers to ink, as for a rubber stamp ({toqwIn:n}).[2]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2015:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">rIv</column>
+      <column name="part_of_speech">v:t_c</column>
+      <column name="definition">split</column>
+      <column name="definition_de">spalten</column>
+      <column name="definition_fa"></column>
+      <column name="definition_sv"></column>
+      <column name="definition_ru"></column>
+      <column name="definition_zh_HK"></column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{vIrgh:v}, {pe':v}</column>
+      <column name="notes">For example, this is what an ax does to a watermelon.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="hidden_notes">"Rive".</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="source">[1] {KLI mailing list 2020.03.30:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -5367,7 +5441,7 @@ This verb can be applied to aircraft, for which see {ron:v:2}.</column>
       <column name="entry_name">rop</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be sick, ill</column>
-      <column name="definition_de">krank, übel</column>
+      <column name="definition_de">krank, übel sein</column>
       <column name="definition_fa">بیمار باشد، بیمار باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara sjuk, vara illamående</column>
       <column name="definition_ru">быть хворым, быть больным, быть заболевшим, быть нездоровым</column>
@@ -5686,7 +5760,7 @@ This verb can be applied to aircraft, for which see {ron:v:2}.</column>
       <column name="entry_name">ror</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be fat (not lean)</column>
-      <column name="definition_de">fett</column>
+      <column name="definition_de">fett sein</column>
       <column name="definition_fa">چربی داشته بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara fet</column>
       <column name="definition_ru">быть толстым, быть упитанным, быть жирным</column>
@@ -5731,7 +5805,9 @@ A "fat book" would be a {paq qargh:n@@paq:n:1, qargh:v}, unless the book comes t
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lut:n}, {torSIv:n}</column>
-      <column name="notes">This is "be fantastic" in the fantasy sense; it does not mean "be wonderful, terrific".</column>
+      <column name="notes">This is "be fantastic" in the fantasy sense; it does not mean "be wonderful, terrific".[1]
+
+The concept of a "fairy tale" might be expressed as {puq lut:n@@puq:n, lut:n} or {lut rorgh:n@@lut:n, rorgh:v} or {puq lut rorgh:n@@puq:n, lut:n, rorgh:v}.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -5751,7 +5827,7 @@ A "fat book" would be a {paq qargh:n@@paq:n:1, qargh:v}, unless the book comes t
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {qep'a' 26 (2019):src}</column>
+      <column name="source">[1] {qep'a' 26 (2019):src}, [2] {KLI mailing list 2020.04.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -6075,7 +6151,7 @@ A "fat book" would be a {paq qargh:n@@paq:n:1, qargh:v}, unless the book comes t
       <column name="entry_name">rotlh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be tough</column>
-      <column name="definition_de">hart, widerstandsfähig</column>
+      <column name="definition_de">hart, widerstandsfähig sein</column>
       <column name="definition_fa">قوی بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara tuff</column>
       <column name="definition_ru">быть жестким, быть грубым, быть крутым</column>
@@ -6465,7 +6541,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">run</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be short (in stature)</column>
-      <column name="definition_de">klein, kurz (in Größe)</column>
+      <column name="definition_de">klein sein (körperliche Größe)</column>
       <column name="definition_fa">کوتاه (در قد) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara kort (kroppslängd)</column>
       <column name="definition_ru"></column>
@@ -7125,7 +7201,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">rutlh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be round</column>
-      <column name="definition_de">rund</column>
+      <column name="definition_de">rund sein</column>
       <column name="definition_fa">دور باش [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara rund [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть круглым, округлять, округляться</column>
@@ -7195,7 +7271,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">ru'</column>
       <column name="part_of_speech">v:1,is</column>
       <column name="definition">be temporary</column>
-      <column name="definition_de">temporär, zeitlich begrenzt, vorübergehend</column>
+      <column name="definition_de">temporär, zeitlich begrenzt, vorübergehend sein</column>
       <column name="definition_fa">موقت باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara temporär, vara tillfällig</column>
       <column name="definition_ru">быть временным</column>
@@ -7265,7 +7341,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="entry_name">ru'Ha'</column>
       <column name="part_of_speech">v:is,deriv</column>
       <column name="definition">be permanent</column>
-      <column name="definition_de">zeitlich unbegrenzt, permanent</column>
+      <column name="definition_de">zeitlich unbegrenzt, permanent sein</column>
       <column name="definition_fa">دائمی بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara permanent</column>
       <column name="definition_ru"></column>

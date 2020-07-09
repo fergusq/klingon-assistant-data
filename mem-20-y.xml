@@ -506,7 +506,9 @@ The toe verbs are used in the same way as the finger verbs, but they are not hea
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qu':n}, {Qu' poH:n}</column>
-      <column name="notes">This refers to any place where one does work, and isn't limited to military usage.</column>
+      <column name="notes">This refers to any place where one does work, and isn't limited to military usage.[2]
+
+Any place specifically designated for the performance of a specific task or tasks is a {yaH:n:nolink}. For example, a stage is the {yaH:n:nolink} for the performance of plays or music, a football field is the {yaH:n:nolink} for a football game, a laboratory ({Qulpa':n}) is a scientist's {yaH:n:nolink}. If context isn't enough to clarify what sort of {yaH:n:nolink} one is referring to, one can say things like {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, {tamlerQeD yaH:n@@tamlerQeD:n, yaH:n}, and so on.[3]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -515,6 +517,7 @@ The toe verbs are used in the same way as the finger verbs, but they are not hea
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
+▶ {much yaH:n}
 ▶ {Qu' vu'wI' yaH:n}
 ▶ {ropyaH:n}
 ▶ {yo'SeH yaHnIv:n}</column>
@@ -523,13 +526,13 @@ The toe verbs are used in the same way as the finger verbs, but they are not hea
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
-      <column name="search_tags">workplace, office</column>
+      <column name="search_tags">workplace, office, stage, field, laboratory</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}, [2] {qep'a' 24 (2017):src}</column>
+      <column name="source">[1] {TKD:src}, [2] {qep'a' 24 (2017):src}, [3] {KLI mailing list 2020.03.30:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -814,9 +817,9 @@ This word is also used as slang for a "bow" which is used to play the {ngItHel:n
       <column name="source">[1] {KGT:src}, [2] {Saarbrücken qepHom'a' 2019:src}</column>
     </table>
     <table name="mem">
+      <!-- Not marked deriv because the second part is uncertain. -->
       <column name="_id"></column>
       <column name="entry_name">yan 'ISletlh</column>
-      <!-- Not marked deriv because the second part is uncertain. -->
       <column name="part_of_speech">n:fic</column>
       <column name="definition">Brotherhood of the Sword, Yan-Isleth</column>
       <column name="definition_de">Bruderschaft des Schwertes, Yan-Isleth</column>
@@ -833,7 +836,7 @@ This word is also used as slang for a "bow" which is used to play the {ngItHel:n
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The Yan-Isleth was mentioned in {DS9 - Apocalypse Rising:src}. It appears in the glossary to the novel {A Burning House:src} spelled as {yanISletlh:sen:nolink}.</column>
       <column name="components">{yan:n}, {'ISletlh:n:hyp}</column>
       <column name="examples">
 ▶ {Qang QanmeH yan 'ISletlh Damuv 'e' wIvlu'.:sen:nolink} "You are chosen to serve on the Yan-Isleth and protect the Chancellor."[1]</column>
@@ -995,7 +998,7 @@ This word is also used as slang for a "bow" which is used to play the {ngItHel:n
       <column name="entry_name">yap</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be enough, sufficient</column>
-      <column name="definition_de">genug, ausreichend</column>
+      <column name="definition_de">genug, ausreichend sein</column>
       <column name="definition_fa">کافی است [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara nog, vara tillräcklig</column>
       <column name="definition_ru">быть достаточным</column>
@@ -1217,7 +1220,7 @@ The highest military officer, the head of the {ra'ghomquv:n}, is the {la'quv:n}.
       <column name="entry_name">yatlh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be pregnant</column>
-      <column name="definition_de">schwanger</column>
+      <column name="definition_de">schwanger sein</column>
       <column name="definition_fa">حامله باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara gravid</column>
       <column name="definition_ru"></column>
@@ -1469,7 +1472,7 @@ Maltz thought there must have been, historically, a connection between this word
       <column name="entry_name">yay'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be shocked, dumbfounded</column>
-      <column name="definition_de">schockiert, erstaunt</column>
+      <column name="definition_de">schockiert, erstaunt sein</column>
       <column name="definition_fa">شوکه شده، دلمشغولی [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara chockad, vara mållös, vara förstummad</column>
       <column name="definition_ru">быть потрясенным</column>
@@ -1609,7 +1612,7 @@ Maltz thought there must have been, historically, a connection between this word
       <column name="entry_name">yegh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be spotted</column>
-      <column name="definition_de">gepunktet</column>
+      <column name="definition_de">gepunktet sein</column>
       <column name="definition_fa">آشکار شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">ses [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -1859,7 +1862,7 @@ Do not confuse this with a society in the cultural sense, for which see {nugh:n}
       <column name="entry_name">yep</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be careful</column>
-      <column name="definition_de">vorsichtig</column>
+      <column name="definition_de">vorsichtig sein</column>
       <column name="definition_fa">مراقب بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara försiktig</column>
       <column name="definition_ru">быть осторожным</column>
@@ -1894,7 +1897,7 @@ Do not confuse this with a society in the cultural sense, for which see {nugh:n}
       <column name="entry_name">yepHa'</column>
       <column name="part_of_speech">v:is,deriv</column>
       <column name="definition">be careless</column>
-      <column name="definition_de">unvorsichtig</column>
+      <column name="definition_de">unvorsichtig sein</column>
       <column name="definition_fa">بی احتیاط [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara oförsiktig</column>
       <column name="definition_ru">быть небрежным</column>
@@ -3262,7 +3265,7 @@ An earlier translation of this phrase appears in UPN's Star Trek 25th Anniversar
       <column name="entry_name">yIQ</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be wet</column>
-      <column name="definition_de">nass</column>
+      <column name="definition_de">nass sein</column>
       <column name="definition_fa">خیس بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara våt</column>
       <column name="definition_ru">быть влажным</column>
@@ -4042,7 +4045,7 @@ In {TNK:src}, this word is used to translate "shirt", and {yIvbeH SeQHa':n:nolin
       <column name="entry_name">yoH</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be brave</column>
-      <column name="definition_de">tapfer, mutig</column>
+      <column name="definition_de">tapfer, mutig sein</column>
       <column name="definition_fa">شجاع بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara modig, vara djärv</column>
       <column name="definition_ru">быть храбрым</column>
@@ -4753,7 +4756,7 @@ Some of the known districts on {Qo'noS:n} are:
       <column name="entry_name">yoy</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be upside down</column>
-      <column name="definition_de">kopfüber</column>
+      <column name="definition_de">kopfüber sein</column>
       <column name="definition_fa">ببخشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara uppochnedvänd</column>
       <column name="definition_ru">быть в обратном порядке</column>
@@ -4783,41 +4786,41 @@ Some of the known districts on {Qo'noS:n} are:
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">yoymoH</column>
-      <column name="part_of_speech">v:t_c,deriv</column>
-      <column name="definition">turn upside down, flip, invert</column>
-      <column name="definition_de">umdrehen, auf den Kopf stellen</column>
-      <column name="definition_fa">چرخش وارونه، تلنگر، چرخش [AUTOTRANSLATED]</column>
-      <column name="definition_sv">vänd upp och ner, vänd invertera [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
-      <column name="definition_zh_HK">翻轉、反轉</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{DopmoH:v}</column>
-      <column name="notes">The verb {yoy:v} does not appear with the suffix {-moH:v} in canon. However, MO approved of {yoymoHwI'} as a bit of technobabble meaning "inverter".[1]</column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{yoy:v}, {-moH:v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="search_tags">inverter</column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {KLI mailing list 1997.04.07:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">yoymoH</column>
+          <column name="part_of_speech">v:t_c,deriv</column>
+          <column name="definition">turn upside down, flip, invert</column>
+          <column name="definition_de">umdrehen, auf den Kopf stellen</column>
+          <column name="definition_fa">چرخش وارونه، تلنگر، چرخش [AUTOTRANSLATED]</column>
+          <column name="definition_sv">vänd upp och ner, vänd invertera [AUTOTRANSLATED]</column>
+          <column name="definition_ru"></column>
+          <column name="definition_zh_HK">翻轉、反轉</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{DopmoH:v}</column>
+          <column name="notes">This can be used to mean "flip (all the way) over" (i.e., flip something else over). If something is just tipped over but not flipped over, see {qaw'moH:v}. If something flipped all the way over on its own accord or seemingly on its own accord, the verb to use would be {tach:v}.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="hidden_notes">The verb {yoy:v} does not appear with the suffix {-moH:v} in canon. However, MO approved of {yoymoHwI'} as a bit of technobabble meaning "inverter".[1] Subsequently, MO approved of the gloss "turn upside down, flip, invert".[2]</column>
+          <column name="components">{yoy:v}, {-moH:v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="search_tags">inverter</column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="source">[1] {KLI mailing list 1997.04.07:src}, [2] {KLI mailing list 2020.06.09:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">yo'</column>
@@ -5074,7 +5077,7 @@ The first and second {yu:n:nolink} are not an octave apart, but rather a nonave 
       <column name="entry_name">yuD</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be dishonest</column>
-      <column name="definition_de">unehrlich</column>
+      <column name="definition_de">unehrlich sein</column>
       <column name="definition_fa">خجالت بکش [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara oärlig</column>
       <column name="definition_ru">быть нечестным</column>
@@ -5109,7 +5112,7 @@ The first and second {yu:n:nolink} are not an octave apart, but rather a nonave 
       <column name="entry_name">yuDHa'</column>
       <column name="part_of_speech">v:is,deriv</column>
       <column name="definition">be honest</column>
-      <column name="definition_de">ehrlich</column>
+      <column name="definition_de">ehrlich sein</column>
       <column name="definition_fa">صادق بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara ärlig</column>
       <column name="definition_ru">быть честным</column>
@@ -5215,7 +5218,7 @@ The first and second {yu:n:nolink} are not an octave apart, but rather a nonave 
       <column name="entry_name">yul</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be itchy</column>
-      <column name="definition_de">juckend</column>
+      <column name="definition_de">juckend sein</column>
       <column name="definition_fa">خارش دار [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara kliande [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -5891,7 +5894,7 @@ The tones of the Klingon musical scale are: {yu:n:nolink}, {bIm:n}, {'egh:n}, {l
       <column name="definition_zh_HK">波浪</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{bIQ'a':n}, {wal:v}, {vI'Ir:n}</column>
+      <column name="see_also">{bIQ'a':n}, {wal:v}, {vI'Ir:n}, {'o'nI':n}</column>
       <column name="notes">It may just be a coincidence, but {yu:n} and {'egh:n} are the first and third tones of the Klingon nonatonic musical scale.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>

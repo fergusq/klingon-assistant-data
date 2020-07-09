@@ -607,7 +607,7 @@ The imperative verb prefix when {chaH:n:nolink} is the object is {tI-:v:pref}.</
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">rainwater</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -939,7 +939,7 @@ The imperative verb prefix when {chaH:n:nolink} is the object is {tI-:v:pref}.</
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">chap</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:body</column>
       <column name="definition">back (of hand)</column>
       <column name="definition_de">Handrücken</column>
       <column name="definition_fa">پشت دست</column>
@@ -1233,7 +1233,7 @@ The imperative verb prefix when {chaH:n:nolink} is the object is {tI-:v:pref}.</
       <column name="definition_zh_HK">湯（厚） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{'ep:v}, {tlhIq:n}, {Qev:v}, {chatlh:n:2}</column>
+      <column name="see_also">{'ep:v:1}, {tlhIq:n}, {Qev:v}, {chatlh:n:2}</column>
       <column name="notes">This contains less liquid than found in what a Terran might identify as soup. It is served in a {maHpIn:n}, and eaten in a {Duq:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -2189,10 +2189,12 @@ A {chaw':n:nolink} shows that you are officially or legally allowed to do or get
       <column name="definition_sv">underarm</column>
       <column name="definition_ru"></column>
       <column name="definition_zh_HK">前臂 [AUTOTRANSLATED]</column>
-      <column name="synonyms"></column>
+      <column name="synonyms">{DeS reStav:n@@DeS:n:1, reStav:n}</column>
       <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
+      <column name="see_also">{nev'ob:n}, {reStav:n}, {qIv:n}, {DeSqIv:n}, {Do'ghI':n}</column>
+      <column name="notes">When used alone, this means "forearm", but when preceded by {'uS:n}, it means "lower part of the leg". (The front of the lower leg is the {reStav:n}.)
+
+It's possible to say {DeS cha'neH:n@@DeS:n:1, cha'neH:n} for "forearm", but this would probably be used only in a context where one was talking about both the forearm and the lower leg and needed to distinguish them.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -2212,7 +2214,7 @@ A {chaw':n:nolink} shows that you are officially or legally allowed to do or get
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {qep'a' 18 (2011):src}, via {'ISqu':n:name,nolink}</column>
+      <column name="source">[1] {qep'a' 18 (2011):src}, via {'ISqu':n:name}, [2] {KLI mailing list 2020.03.30:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -4788,6 +4790,7 @@ This verb can be used for misplacing your keys, but also for things like losing 
       <column name="source">[1] {KGT:src}</column>
     </table>
     <table name="mem">
+      <!-- TODO: Fix Russian note. -->
       <column name="_id"></column>
       <column name="entry_name">chop</column>
       <column name="part_of_speech">v:t_c</column>
@@ -4799,12 +4802,16 @@ This verb can be used for misplacing your keys, but also for things like losing 
       <column name="definition_zh_HK">咬</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{noS:v}, {ngal:v}, {yIv:v:1}, {ghew:n}, {choptaH:v}</column>
-      <column name="notes">Watch a performance of {HIchop!:sen:lyr} by Jen Usellis: {YouTube video:url:http://youtu.be/v2bjc6U0tjI}</column>
+      <column name="see_also">{noS:v}, {ngal:v}, {yIv:v:1}, {ghew:n}, {choptaH:v}, {'ep:v:2}</column>
+      <column name="notes">This word can also denote a Klingon-style kiss.[4]
+
+Watch a performance of {HIchop!:sen:lyr} by Jen Usellis: {YouTube video:url:http://youtu.be/v2bjc6U0tjI}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Смотрите выступление {HIchop!:sen:lyr} Джен Юселлис: {YouTube video:url:http://youtu.be/v2bjc6U0tjI}</column>
+      <column name="notes_ru">This word can also denote a Klingon-style kiss.[4]
+
+Смотрите выступление {HIchop!:sen:lyr} Джен Юселлис: {YouTube video:url:http://youtu.be/v2bjc6U0tjI}</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This is almost a "chomp".
 
@@ -4826,7 +4833,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}, [2] {PK:src}, [3] {Radio Times Star Trek 30th Anniversary Special Issue:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {PK:src}, [3] {Radio Times Star Trek 30th Anniversary Special Issue:src}, [4] {KLI mailing list 2020.04.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -5775,7 +5782,7 @@ If the person you're speaking to is your superior, consider adding {-neS:v:suff}
       <column name="hidden_notes">This may have been a back-fit for a mispronunciation of {jup:n}.</column>
       <column name="components"></column>
       <column name="examples">
-▶ {Qob lIb bam SoH chuDlI' je.@@Qob:n, lIb:v, bam:v, SoH:n, chuD:n, -lI':n, je:conj} "You and your people are in danger."[2]</column>
+▶ {Qob lIb bam SoH chuDlI' je.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -6288,7 +6295,7 @@ If the person you're speaking to is your superior, consider adding {-neS:v:suff}
       <column name="entry_name">chuS</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be noisy</column>
-      <column name="definition_de">laut</column>
+      <column name="definition_de">laut sein</column>
       <column name="definition_fa">پر سر و صدا بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara högljudd, vara stojande, vara bråkig</column>
       <column name="definition_ru">Быть шумным</column>

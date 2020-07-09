@@ -221,7 +221,9 @@
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nga'chuq:v}, {Sep:v}, {qey'Hav:n}, {'InSep:n}</column>
-      <column name="notes"></column>
+      <column name="notes">This word can be applied to people as well as animals.[4]
+
+The concept of a "virgin" can be expressed by literally saying what a virgin is, e.g., {pagh ngaghpu'bogh be':n@@pagh:n:1, ngagh:v, -pu':v, -bogh:v, be':n} or {not vay' ngaghpu'bogh be':n@@not:adv, vay':n, ngagh:v, -pu':v, -bogh:v, be':n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -236,13 +238,13 @@
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
-      <column name="search_tags">fuck, sex</column>
+      <column name="search_tags">fuck, sex, virgin</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {KGT:src}, [2] {PK:src}, [3] {HQ 3.3, p.10-13, Sept. 1994:src}</column>
+      <column name="source">[1] {KGT:src}, [2] {PK:src}, [3] {HQ 3.3, p.10-13, Sept. 1994:src}, [4] {KLI mailing list 2020.03.30:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -284,7 +286,7 @@
       <column name="entry_name">ngaj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be short (in duration)</column>
-      <column name="definition_de">kurz (Zeitdauer)</column>
+      <column name="definition_de">kurz sein (Zeitdauer)</column>
       <column name="definition_fa">کوتاه باشد (در مدت زمان) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara kort (i tid)</column>
       <column name="definition_ru"></column>
@@ -354,7 +356,7 @@
       <column name="entry_name">ngal</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be chewy</column>
-      <column name="definition_de">zäh</column>
+      <column name="definition_de">zäh sein</column>
       <column name="definition_fa">جویدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara seg, vara läderaktig (i konsistensen), vara fast (ha tuggmotstånd)</column>
       <column name="definition_ru"></column>
@@ -564,7 +566,7 @@
       <column name="entry_name">ngaQ</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be locked, be sealed, be secured, be fastened</column>
-      <column name="definition_de">geschlossen, abgesperrt</column>
+      <column name="definition_de">geschlossen, abgesperrt sein</column>
       <column name="definition_fa">قفل شده باشد، مهر و موم شود، محافظت شود، بسته شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara låst, vara förseglad, vara säkrad, vara fäst</column>
       <column name="definition_ru"></column>
@@ -815,7 +817,7 @@ One can say {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} and so on, but this is a spe
       <column name="entry_name">ngar</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be miraculous, supernatural, wondrous</column>
-      <column name="definition_de">wundersam, übernatürlich, wunderlich</column>
+      <column name="definition_de">wundersam, übernatürlich, wunderlich sein</column>
       <column name="definition_fa">معجزه آسا، فوقالعاده، شگفت انگیز باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara mirakulös, övernaturlig, underbar [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
@@ -1202,7 +1204,7 @@ One can say {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} and so on, but this is a spe
       <column name="entry_name">ngeb</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be counterfeit, false, fake</column>
-      <column name="definition_de">unecht, gefälscht</column>
+      <column name="definition_de">unecht, gefälscht sein</column>
       <column name="definition_fa">تقلبی، دروغ، جعلی بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara förfalskad, vara falsk, vara oäkta</column>
       <column name="definition_ru">быть поддельным, быть подложным, быть ложным, быть ошибочным, быть подставным, быть липовым</column>
@@ -1270,7 +1272,7 @@ One can say {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} and so on, but this is a spe
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ngech</column>
-      <column name="part_of_speech">n:2,slang</column>
+      <column name="part_of_speech">n:2,slang,body</column>
       <column name="definition">woman's cleavage</column>
       <column name="definition_de">Busen einer Frau</column>
       <column name="definition_fa">شکاف زن [AUTOTRANSLATED]</column>
@@ -1307,7 +1309,7 @@ One can say {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} and so on, but this is a spe
       <column name="entry_name">ngeD</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be easy</column>
-      <column name="definition_de">einfach</column>
+      <column name="definition_de">einfach sein</column>
       <column name="definition_fa">سخت نگیر [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara lätt (inte svår)</column>
       <column name="definition_ru">быть лёгким, быть спокойным, быть нетрудным, быть непринужденным</column>
@@ -2159,7 +2161,7 @@ In {TNK:src}, "Where is the shop?" is translated as {nuqDaq ghaH ngevwI''e'?:sen
       <column name="entry_name">ngIj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be rowdy, unruly</column>
-      <column name="definition_de">rauflustig, ungestüm</column>
+      <column name="definition_de">rauflustig, ungestüm sein</column>
       <column name="definition_fa">خجالت بکش [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara bråkig, vara stökig, vara oregerlig, vara bångstyrig</column>
       <column name="definition_ru"></column>
@@ -2268,7 +2270,7 @@ In {TNK:src}, "Where is the shop?" is translated as {nuqDaq ghaH ngevwI''e'?:sen
       <column name="entry_name">ngIm</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be putrid</column>
-      <column name="definition_de">eklig</column>
+      <column name="definition_de">eklig sein</column>
       <column name="definition_fa">ببخشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara rutten, vara äcklig, vara vidrig</column>
       <column name="definition_ru">быть гнилым, быть вонючим, быть мерзким</column>
@@ -2411,6 +2413,43 @@ In {TNK:src}, "Where is the shop?" is translated as {nuqDaq ghaH ngevwI''e'?:sen
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {qep'a' 18 (2011):src}, [2] {paq'batlh:src}, [3] {Klingon Monopoly:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">ngIS</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">lubricant (special type)</column>
+      <column name="definition_de">Schmierstoff (besondere Art)</column>
+      <column name="definition_fa">نوع روان کننده [AUTOTRANSLATED]</column>
+      <column name="definition_sv">typ av smörjmedel [AUTOTRANSLATED]</column>
+      <column name="definition_ru"></column>
+      <column name="definition_zh_HK">潤滑劑類型 [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{nISwI' tal:n}, {watrIn:n}, {QIn:v}</column>
+      <column name="notes">This is a type of lubricant used on disruptor cannons.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="hidden_notes">The fact that this is used on disruptor cannons comes from the glossary to {Honor Bound:src}.
+
+For a very long time, this was an unofficial word, but it was confirmed by Okrand for a translation of The Wizard of Oz.[2]</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="search_tags">oil</column>
+      <column name="search_tags_de">Öl</column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="source">[1] {Honor Bound:src}, [2] {KLI mailing list 2020.04.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2820,14 +2859,14 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="definition_zh_HK">塗抹 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{ngoH:v:2}</column>
+      <column name="see_also">{ngoH:v:2}, {watrIn:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is a possible verb to use with {watrIn:n}.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -2841,7 +2880,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2020.04.21:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -2883,7 +2922,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="entry_name">ngoj</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be restless</column>
-      <column name="definition_de">unruhig, rastlos</column>
+      <column name="definition_de">unruhig, rastlos sein</column>
       <column name="definition_fa">بی قرار باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara rastlös</column>
       <column name="definition_ru">быть беспокойным, быть неспокойным, быть неугомонным, быть тревожным</column>
@@ -3390,7 +3429,7 @@ This word is also found in the archaic expression {ngoS tlhogh cha:sen:nolink} (
       <column name="entry_name">ngotlh</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be fanatical</column>
-      <column name="definition_de">fanatisch</column>
+      <column name="definition_de">fanatisch sein</column>
       <column name="definition_fa">متعصب باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara fanatisk</column>
       <column name="definition_ru">быть фанатичным</column>
@@ -3425,7 +3464,7 @@ This word is also found in the archaic expression {ngoS tlhogh cha:sen:nolink} (
       <column name="entry_name">ngoy'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be responsible</column>
-      <column name="definition_de">verantwortlich</column>
+      <column name="definition_de">verantwortlich sein</column>
       <column name="definition_fa">عهده دار شدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara ansvarig</column>
       <column name="definition_ru">быть ответственным, быть сознательным, быть несущим ответственность</column>
@@ -3462,7 +3501,7 @@ This word is also found in the archaic expression {ngoS tlhogh cha:sen:nolink} (
       <column name="entry_name">ngo'</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be old (not new)</column>
-      <column name="definition_de">alt (nicht neu)</column>
+      <column name="definition_de">alt sein (nicht neu)</column>
       <column name="definition_fa">قدیمی</column>
       <column name="definition_sv">vara gammal (inte ny)</column>
       <column name="definition_ru">быть старым (не новым)</column>
@@ -3861,7 +3900,7 @@ Note that "then" in the sense of "subsequently" is {ghIq:adv}.[1]</column>
       <column name="entry_name">nguq</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be arrogant, haughty, conceited</column>
-      <column name="definition_de">arrogant, hochmütig, eingebildet</column>
+      <column name="definition_de">arrogant, hochmütig, eingebildet sein</column>
       <column name="definition_fa">متکبر، متکبر، متکبر [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara arrogant, vara inbilsk, vara högfärdig, vara egenkär</column>
       <column name="definition_ru"></column>
@@ -4036,7 +4075,7 @@ Note that "then" in the sense of "subsequently" is {ghIq:adv}.[1]</column>
       <column name="entry_name">nguv</column>
       <column name="part_of_speech">v:is</column>
       <column name="definition">be dyed, be stained, be tinted</column>
-      <column name="definition_de">gefärbt, getönt</column>
+      <column name="definition_de">gefärbt, getönt sein</column>
       <column name="definition_fa">رنگ آمیزی شود، رنگ شود، رنگ شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara färgad, vara fläckad, vara tonad</column>
       <column name="definition_ru"></column>
