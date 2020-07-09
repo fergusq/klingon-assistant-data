@@ -99,7 +99,8 @@ class EntryNode:
                 name = child.attrib['name']
                 namesplit = name.split('_')
                 # Normalize Unicode characters into decomposed form
-                text = unicodedata.normalize('NFKD', ''.join(child.itertext()))
+                # text = unicodedata.normalize('NFKD', ''.join(child.itertext()))
+                text = "".join(child.itertext())
                 if text:
                     # Store localized fields hierarchically
                     if namesplit[0] in [
@@ -136,6 +137,7 @@ class EntryNode:
                     # Non localized fields are stored at the entry's top level
                     else:
                         self.data[name] = text
+        self.data["homonym"] = get_homonym_number(self.data["entry_name"], self.data["part_of_speech"])
 
     # Normalize the search name from the stored entry name and part of speech
     def searchName(self):
@@ -162,6 +164,19 @@ def normalize(name, pos):
             break
     return name + ':' + pos + homophone
 
+def get_homonym_number(name, pos):
+    posSplit = pos.split(":")
+    if len(posSplit) > 1:
+        flags = posSplit[1]
+    else:
+        return 1
+    homonym = ""
+    for flag in flags.split(","):
+        flag = flag.rstrip("h")
+        if flag.isdigit():
+            return int(flag)
+    return 1
+
 # Traverse the database tree and try to identify links that cannot be resolved
 # unambiguously to an entry. Report any unresolvable links to stderr.
 def validatelinks(root, node):
@@ -175,6 +190,8 @@ def validatelinks(root, node):
     else:
         # Find all text in {curly braces}
         remaining = node
+        if isinstance(remaining, int):
+            return
         while remaining.find('{') != -1:
             remaining = remaining[remaining.find('{')+1:]
             tag = remaining[0:remaining.find('}')]
