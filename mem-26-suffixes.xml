@@ -9,6 +9,7 @@
       <column name="definition_ru">он/она/оно-нет, он/она/оно-он/она/оно, он/она/оно-они, они-нет, они-они</column>
       <column name="definition_zh_HK">他、它：無、他、它、他們、它們；他們、它們：無、他們、它們</column>
       <column name="definition_pt">ele/ela-nenhum, ele/ela-ele/ela, ele/ela-eles, eles-nenhum, eles-eles</column>
+<column name="definition_fi">hän / se / ei kukaan, hän / se / hän / hän / se, hän / se / he-he, he-ei kukaan, he-he [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lu-:v:pref}</column>
@@ -27,6 +28,7 @@ Note that the prefix for "they-him/her/it" is {lu-:v:pref}.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -36,6 +38,7 @@ Note that the prefix for "they-him/her/it" is {lu-:v:pref}.</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">he-none, she-none, it-none, he-him, he-her, he-it, she-him, she-her, she-it, he-them, she-them, it-them</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -43,6 +46,7 @@ Note that the prefix for "they-him/her/it" is {lu-:v:pref}.</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -56,6 +60,7 @@ Note that the prefix for "they-him/her/it" is {lu-:v:pref}.</column>
       <column name="definition_ru">увеличение (сущ. тип 1)</column>
       <column name="definition_zh_HK">增補（第一類名詞後綴）</column>
       <column name="definition_pt">aumentativo (substantivo tipo 1)</column>
+<column name="definition_fi">lisäys (substantiivityyppi 1) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-Hom:n}</column>
       <column name="see_also"></column>
@@ -68,6 +73,9 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">{-'a':n:suff,nolink}: llä muodostettu substantiivi viittaa johonkin, joka on isompi, tärkeämpi tai voimakkaampi kuin substantiivi ilman loppuliitettä.
+
+Huomaa, että {-'a':n:suff,nolink}-substantiivin ei tarvitse olla kaikin tavoin parempi kuin paljas substantiivi, vain yhdellä tavalla, joka on merkittävä tälle substantiiville. Esimerkiksi {mIv'a':n} ei ole välttämättä kooltaan suurempi kuin {mIv:n:1}, ja {toy'wI''a':n} on todennäköisesti huonommassa asemassa monin tavoin verrattuna {toy'wI':n}: een. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -97,6 +105,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 1</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -104,6 +113,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.1:src}</column>
     </table>
     <table name="mem">
@@ -117,6 +127,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="definition_ru">уменьшение (сущ. тип 1)</column>
       <column name="definition_zh_HK">減小（第一類名詞後綴）</column>
       <column name="definition_pt">diminutivo (substantivo tipo 1)</column>
+<column name="definition_fi">vähäinen (substantiivityyppi 1) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-'a':n}</column>
       <column name="see_also"></column>
@@ -127,6 +138,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="notes_ru">Существительное, образованное с помощью {-Hom:n:suff,nolink}, относится к чему-то, что меньше, менее важно или менее сильно, чем существительное без суффикса. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">由{-Hom:n:suff,nolink}構成的名詞是指比沒有後綴的名詞更小，更重要或更不強大的事物。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O substantivo formado com {-Hom:n:suff,nolink} refere-se a algo menor, menos importante ou menos poderoso que o substantivo sem o sufixo. [AUTOTRANSLATED]</column>
+<column name="notes_fi">{-Hom:n:suff,nolink}: llä muodostettu substantiivi viittaa johonkin, joka on pienempi, vähemmän tärkeä tai vähemmän voimakas kuin substantiivi ilman loppuliitettä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -151,6 +163,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 1</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -158,6 +171,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.1:src}</column>
     </table>
     <table name="mem">
@@ -171,6 +185,7 @@ Note that the noun with {-'a':n:suff,nolink} need not be better than the bare no
       <column name="definition_ru">привязанность (сущ. тип 1)</column>
       <column name="definition_zh_HK">愛稱（第一類名詞後綴）</column>
       <column name="definition_pt">carinho (substantivo tipo 1)</column>
+<column name="definition_fi">hellyys (substantiivityyppi 1) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -183,6 +198,7 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">This sounds like the Cantonese word for "love" (愛).</column>
       <column name="components"></column>
       <column name="examples">
@@ -194,6 +210,7 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 1, -'oy</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -201,6 +218,7 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKDA 3.3.1:src}, [2] {KGT p.198:src}</column>
     </table>
     <table name="mem">
@@ -214,6 +232,7 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="definition_ru">множественное число (для существ, способных использовать речь) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數、們（能用語言）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (seres capazes de usar a linguagem) (substantivo tipo 2)</column>
+<column name="definition_fi">monikko (olennot, jotka pystyvät käyttämään kieltä) (substantiivi tyyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-mey:n}</column>
@@ -226,6 +245,10 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä pääte on liitetty substantiiviin, joka viittaa olentoja, jotka pystyvät puhumaan kieliä, kun tällaisia ​​olentoja on enemmän kuin yksi.
+
+Huomaa, että {-pu':n:suff,nolink}: n käyttö on substantiivi, eikä välttämättä niiden asioiden ominaisuus, joihin se viittaa. Esimerkiksi ryhmään klingoneita, jotka eivät pysty puhumaan, tai ryhmään klingonilaisia, jotka ovat liian nuoria ymmärtämään kieltä, kutsutaan edelleen nimellä {tlhInganpu':n:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -236,6 +259,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -243,6 +267,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.2:src}, [2] {KLI mailing list 1998.05.28:src}</column>
     </table>
     <table name="mem">
@@ -256,6 +281,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="definition_ru">множественное число (для частей тела) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數（身體部分）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (parte do corpo) (substantivo tipo 2)</column>
+<column name="definition_fi">monikko (ruumiinosa) (substantiivityyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-mey:n}</column>
@@ -266,6 +292,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="notes_ru">Этот суффикс используется для формирования множественного числа частей тела, независимо от того, принадлежат ли они существам, способным говорить, или любому другому животному. Однако, если часть тела становится отделенной от существа и превращается во что-то, что больше не является частью тела, вместо этого используется {-mey:n:suff,nolink}. Например, множественное число «pelt» {veDDIr:n} является {veDDIrmey:n:nolink}, а не {veDDIrDu':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esse sufixo é usado para formar o plural de partes do corpo, sejam elas de seres capazes de linguagem ou de qualquer outro animal. No entanto, se uma parte do corpo se separa de um ser e é transformada em algo que não é mais principalmente uma parte do corpo, então {-mey:n:suff,nolink} é usado. Por exemplo, o plural de {veDDIr:n} "pelt" é {veDDIrmey:n:nolink} em vez de {veDDIrDu':n:nolink}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tätä loppuliitettä käytetään muodostamaan useita kehon osia riippumatta siitä, kuuluvatko ne kielitaitoisiin olentoihin tai mihin tahansa muuhun eläimeen. Kuitenkin, jos ruumiinosa erottuu olennosta ja muuttuu sellaiseksi, joka ei enää ole ensisijaisesti ruumiinosa, käytetään sen sijaan {-mey:n:suff,nolink}. Esimerkiksi monikko {veDDIr:n} "pelt" on {veDDIrmey:n:nolink} eikä {veDDIrDu':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -276,6 +303,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -283,6 +311,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.2:src}</column>
     </table>
     <table name="mem">
@@ -296,6 +325,7 @@ Note that whether {-pu':n:suff,nolink} is used is a property of the noun, and no
       <column name="definition_ru">множественное число (в общем) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數（一般）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (geral) (substantivo tipo 2)</column>
+<column name="definition_fi">monikko (yleinen) (substantiivityyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-pu':n}, {-Du':n}</column>
@@ -308,6 +338,9 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Kun tätä päätettä käytetään olentoja varten, jotka pystyvät käyttämään kieltä (katso {-pu':n}), se lisää merkitykseen käsitteen "hajallaan kaikesta". Tätä loppuliitettä ei voida käyttää ruumiinosiin (katso {-Du':n}), mutta runoilijat rikkovat joskus tätä sääntöä.
+
+Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömuodot ovat täysin erillisiä. Näitä luontaisesti monikkomuotoja käsitellään kieliopillisesti yksikköinä, koska niissä käytetään yksikköpronomineja ja verbi-etuliitteitä. Kun liitettä {-mey:n:nolink} käytetään näiden substantiivien yksikkömuodoihin, tuloksena oleva monikkosana sisältää merkityksen "hajallaan kaikesta". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -321,6 +354,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -328,6 +362,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.2:src}</column>
     </table>
     <table name="mem">
@@ -341,6 +376,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">так называемый (сущ. тип 3)</column>
       <column name="definition_zh_HK">所謂（第三類名詞後綴）</column>
       <column name="definition_pt">assim chamado (substantivo tipo 3)</column>
+<column name="definition_fi">ns (substantiivityyppi 3) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -351,6 +387,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Этот суффикс указывает, что существительное используется в ложной или иронической манере. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示該名詞是以虛假或諷刺的方式使用的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o substantivo está sendo usado de maneira falsa ou irônica. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että substantiivia käytetään väärällä tai ironisella tavalla. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -361,6 +398,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 3</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -368,6 +406,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.3:src}</column>
     </table>
     <table name="mem">
@@ -381,6 +420,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">по-видимому (сущ. тип 3)</column>
       <column name="definition_zh_HK">似乎（第三類名詞後綴）</column>
       <column name="definition_pt">aparente (substantivo tipo 3)</column>
+<column name="definition_fi">apparent (noun type 3) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -391,6 +431,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Этот суффикс указывает, что говорящий думает, что объект, на который ссылается существительное, точно описан им, но имеет некоторые сомнения. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該後綴表明說話者認為名詞所指的對像已被其準確地描述了，但存在一些疑問。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o falante acha que o objeto referido pelo substantivo é descrito com precisão por ele, mas tem algumas dúvidas. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -401,6 +442,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 3</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -408,6 +450,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.3:src}</column>
     </table>
     <table name="mem">
@@ -421,6 +464,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">определенно (сущ. тип 3)</column>
       <column name="definition_zh_HK">確定（第三類名詞後綴）</column>
       <column name="definition_pt">definitivo (substantivo tipo 3)</column>
+<column name="definition_fi">määrätty (substantiivityyppi 3) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -431,6 +475,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Этот суффикс указывает, что говорящий не сомневается в том, что объект, на который ссылается существительное, точно описан им. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表明，說話者毫無疑問會正確地描述名詞所指的對象。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o falante não tem dúvida de que o objeto referido pelo substantivo é descrito com precisão por ele. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että puhujalla ei ole epäilystäkään siitä, että substantiivilla tarkoitettu objekti on kuvattu tarkasti. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -441,6 +486,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 3</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -448,6 +494,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.3:src}</column>
     </table>
     <table name="mem">
@@ -461,6 +508,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">мой, мои (сущ. тип 4)</column>
       <column name="definition_zh_HK">我的（第四類名詞後綴）</column>
       <column name="definition_pt">meu (substantivo tipo 4)</column>
+<column name="definition_fi">my (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-wI':n}, {jIH:n:1,pro}</column>
@@ -471,6 +519,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Считается унизительным использование этого суффикса в существительном, означающем существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在帶有語言能力的名詞上使用此後綴是貶義的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É considerado depreciativo usar esse sufixo em um substantivo referente a um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -480,6 +529,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -487,6 +537,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -500,6 +551,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">мой, мои (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">我的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">meu (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
+<column name="definition_fi">my (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-wIj:n}, {jIH:n:1,pro}</column>
@@ -510,6 +562,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Смотрите в {-pu':n:suff} объяснение, когда существительное квалифицируется как существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關名詞何時具有語言能力的說明，請參見{-pu':n:suff}下的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja em {-pu':n:suff} para obter uma explicação de quando um substantivo se qualifica como um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Katso {-pu':n:suff}-osiosta selitys siitä, milloin substantiivi luokitellaan kielikykyksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -519,6 +572,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -526,6 +580,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -539,6 +594,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">наш, наши (сущ. тип 4)</column>
       <column name="definition_zh_HK">我們（第四類名詞後綴）</column>
       <column name="definition_pt">nosso (substantivo type 4)</column>
+<column name="definition_fi">our (noun type 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-ma':n}, {maH:n:1h,pro}</column>
@@ -549,6 +605,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Считается унизительным использование этого суффикса в существительном, означающем существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在帶有語言能力的名詞上使用此後綴是貶義的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É considerado depreciativo usar esse sufixo em um substantivo referente a um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämän päätteen käyttämistä pidetään halveksivana substantiivissa, joka viittaa kykyyn puhua. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -558,6 +615,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -565,6 +623,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -578,6 +637,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">наш, наши (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">我們（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">nosso (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
+<column name="definition_fi">meidän (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-maj:n}, {maH:n:1h,pro}</column>
@@ -588,6 +648,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Смотрите в {-pu':n:suff} объяснение, когда существительное квалифицируется как существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關名詞何時具有語言能力的說明，請參見{-pu':n:suff}下的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja em {-pu':n:suff} para obter uma explicação de quando um substantivo se qualifica como um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Katso {-pu':n:suff}-osiosta selitys siitä, milloin substantiivi luokitellaan kielikykyksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -597,6 +658,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -604,6 +666,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -617,6 +680,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">твой, твои (сущ. тип 4)</column>
       <column name="definition_zh_HK">你的（第四類名詞後綴）</column>
       <column name="definition_pt">seu/teu (substantivo tipo 4)</column>
+<column name="definition_fi">sinun (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-lI':n}, {SoH:n}</column>
@@ -627,6 +691,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Считается унизительным использование этого суффикса в существительном, означающем существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在帶有語言能力的名詞上使用此後綴是貶義的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É considerado depreciativo usar esse sufixo em um substantivo referente a um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämän päätteen käyttämistä pidetään halveksivana substantiivissa, joka viittaa kykyyn puhua. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -636,6 +701,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -643,6 +709,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -656,6 +723,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">твой, твои (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">你的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">seu/teu (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
+<column name="definition_fi">sinun (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-lIj:n}, {SoH:n}</column>
@@ -666,6 +734,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Смотрите в {-pu':n:suff} объяснение, когда существительное квалифицируется как существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關名詞何時具有語言能力的說明，請參見{-pu':n:suff}下的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja em {-pu':n:suff} para obter uma explicação de quando um substantivo se qualifica como um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Katso {-pu':n:suff}-osiosta selitys siitä, milloin substantiivi luokitellaan kielikykyksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -675,6 +744,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -682,6 +752,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -695,6 +766,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">ваш, ваши (сущ. тип 4)</column>
       <column name="definition_zh_HK">你們的（第四類名詞後綴）</column>
       <column name="definition_pt">seus/vosso (plural) (substantivo tipo 4)</column>
+<column name="definition_fi">sinun (monikko) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-ra':n}, {tlhIH:n}</column>
@@ -705,6 +777,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Считается унизительным использование этого суффикса в существительном, означающем существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在帶有語言能力的名詞上使用此後綴是貶義的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É considerado depreciativo usar esse sufixo em um substantivo referente a um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -714,6 +787,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -721,6 +795,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -734,6 +809,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">ваш, ваши (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">你們的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">seus/vosso (plural) (substantivo capaz de usar o idioma) (substantivo tipo 4)</column>
+<column name="definition_fi">sinun (monikko) (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-raj:n}, {tlhIH:n}</column>
@@ -744,6 +820,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru">Смотрите в {-pu':n:suff} объяснение, когда существительное квалифицируется как существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關名詞何時具有語言能力的說明，請參見{-pu':n:suff}下的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja em {-pu':n:suff} para obter uma explicação de quando um substantivo se qualifica como um ser capaz de linguagem. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -753,6 +830,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -760,6 +838,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -773,6 +852,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">его, ее (сущ. тип 4)</column>
       <column name="definition_zh_HK">他的、她的、它的（第四類名詞後綴）</column>
       <column name="definition_pt">dele, dela (substantivo tipo 4)</column>
+<column name="definition_fi">hänen, hänen, sen (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oH:n}, {ghaH:n}</column>
@@ -783,6 +863,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -792,6 +873,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -799,6 +881,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -812,6 +895,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">их (сущ. тип 4)</column>
       <column name="definition_zh_HK">他們的、她們的、它們的（第四類名詞後綴）</column>
       <column name="definition_pt">deles / delas (substantivo tipo 4)</column>
+<column name="definition_fi">niiden (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIH:n}, {chaH:n}</column>
@@ -822,6 +906,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -831,6 +916,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -838,6 +924,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -851,6 +938,7 @@ Some nouns are inherently plural in meaning, with singular forms which are utter
       <column name="definition_ru">этот (сущ. тип 4)</column>
       <column name="definition_zh_HK">這（第四類名詞後綴）</column>
       <column name="definition_pt">esse (substantivo tipo 4)</column>
+<column name="definition_fi">tämä (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vetlh:n}</column>
@@ -863,6 +951,10 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä tarkoittaa, että substantiivi viittaa esineeseen, joka on lähellä tai joka on keskustelun aihe.
+
+Suurimmalle osalle kiinteää ajanjaksoa osoittavista sanoista tämä pääte osoittaa nykyisen ajanjakson: {DISvam:n:nolink} "kuluva vuosi", {jarvam:n:nolink} "kuluva kuukausi", {Hoghvam:n:nolink} "kuluva kuukausi" jne. {jajvam:n} "nykyinen päivä" on kuitenkin ei ole täysin vaihdettavissa {DaHjaj:n}: n kanssa "tänään" .[2][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -872,6 +964,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -879,6 +972,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}, [2] {msn 1997.06.29:src}</column>
     </table>
     <table name="mem">
@@ -892,6 +986,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="definition_ru">тот (сущ. тип 4)</column>
       <column name="definition_zh_HK">那（第四類名詞後綴）</column>
       <column name="definition_pt">aquele (substantivo tipo 4)</column>
+<column name="definition_fi">että (substantiivityyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vam:n}</column>
@@ -902,6 +997,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="notes_ru">Это указывает на то, что существительное относится к объекту, которого нет рядом или который снова упоминается как тема разговора. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這表明該名詞指的是不在附近的物體，或者該物體再次被帶出作為對話的主題。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso indica que o substantivo se refere a um objeto que não está próximo ou que é trazido novamente como o tópico da conversa. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä osoittaa, että substantiivi viittaa esineeseen, joka ei ole lähellä tai joka otetaan uudelleen esiin keskustelun aiheena. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -911,6 +1007,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -918,6 +1015,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.4:src}</column>
     </table>
     <table name="mem">
@@ -931,6 +1029,7 @@ For most words designating a fixed period of time, this suffix indicates the cur
       <column name="definition_ru">местоположение (сущ. тип 5)</column>
       <column name="definition_zh_HK">在地方（第五類名詞後綴）</column>
       <column name="definition_pt">locativo (substantivo tipo 5)</column>
+<column name="definition_fi">paikallinen (substantiivityyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-vo':n:suff}</column>
       <column name="see_also">{Daq:n}, {naDev:n}, {pa':n:2}, {Dat:n}, {chegh:v}</column>
@@ -946,6 +1045,12 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="notes_zh_HK"></column>
       <!-- http://www.santacruzsentinel.com/article/zz/20131109/NEWS/131107424 -->
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä pääte ilmaisee, että toiminto tapahtuu (tai on tapahtunut tai tulee tapahtumaan) sen substantiivin läheisyydessä, johon se on liitetty.[1] Sitä voidaan tyypillisesti käyttää vain fyysisiin sijainteihin.
+
+Joidenkin verbien merkitykset ovat paikannuskäsitteitä, ja {-Daq:n:suff,nolink}: n käyttämisessä tällaisten verbien kanssa on oltava varovainen. Katso lisätietoja kohdista {ghoS:v:1} ja {jaH:v}. Ammunta-verbeillä, kuten {baH:v} ja {bach:v}, {-Daq:n:suff,nolink} merkitsee kohteen.
+
+Kun verbiä käytetään adjektiivisesti, tämä pääte ja muut tyypin 5 substantiiviliitteet liitetään verbiin substantiivin sijaan.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was influenced by the locative "-tak" in the Mutsun language, which Marc Okrand wrote his Ph.D. dissertation on.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -955,6 +1060,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -962,6 +1068,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.5, 3.4, 4.4:src}, [2] {s.k 1998.03.23:src}</column>
     </table>
     <table name="mem">
@@ -975,6 +1082,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="definition_ru">из (сущ. тип 5)</column>
       <column name="definition_zh_HK">從、來自（第五類名詞後綴）</column>
       <column name="definition_pt">de (substantivo tipo 5)</column>
+<column name="definition_fi">alkaen (substantiivityyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-Daq:n:suff}</column>
       <column name="see_also">{chegh:v}</column>
@@ -985,6 +1093,9 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="notes_ru">Этот суффикс используется, когда действие идет в направлении от существительного, к которому оно прикреплено.[1] Обычно его можно использовать только для физических мест.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">當動作的方向遠離它所附加的名詞時，將使用此後綴。[1]它通常只能用於物理位置。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo é usado quando a ação está em uma direção distante do substantivo ao qual está anexada.[1] Geralmente, pode ser usado apenas para locais físicos.[2] [AUTOTRANSLATED]</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tätä loppuliitettä käytetään, kun toiminto on suunnassa, joka on poispäin substantiivista, johon se on liitetty.[1][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -994,6 +1105,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1001,6 +1113,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.5:src}, [2] {s.k 1998.03.23:src}</column>
     </table>
     <table name="mem">
@@ -1014,6 +1127,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="definition_ru">из-за, потому что, благодаря (сущ. тип 5)</column>
       <column name="definition_zh_HK">因為（第五類名詞後綴）</column>
       <column name="definition_pt">porque, devido a (substantivo tipo 5)</column>
+<column name="definition_fi">koska (substantiivityyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1024,6 +1138,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="notes_ru">Существует суффикс глагола {-mo':v} с тем же значением. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">動詞後綴{-mo':v}具有相同的含義。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um sufixo verbal {-mo':v} com o mesmo significado. [AUTOTRANSLATED]</column>
+<column name="notes_fi">On verbiliite {-mo':v}, jolla on sama merkitys. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1033,6 +1148,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1040,6 +1156,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.5:src}</column>
     </table>
     <table name="mem">
@@ -1053,6 +1170,7 @@ When a verb is used adjectivally, this suffix and the other type 5 noun suffixes
       <column name="definition_ru">для (сущ. тип 5)</column>
       <column name="definition_zh_HK">為、對（第五類名詞後綴）</column>
       <column name="definition_pt">para (substantivo tipo 5)</column>
+<column name="definition_fi">varten (substantiivityyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vI'Hop:n}</column>
@@ -1067,6 +1185,11 @@ See {qawmoH:v} for an explanation of how this suffix is used with the verb suffi
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että substantiivi, johon se on liitetty, on toiminnan edunsaaja.
+
+Sitä käytetään osoittamaan epäsuora esine, kun kohde on toiminnan vastaanottaja. ({TKDA 6.8:src})
+
+Kohdasta {qawmoH:v} on selitys siitä, miten tätä päätettä käytetään verbiliitteellä {-moH:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1076,6 +1199,7 @@ See {qawmoH:v} for an explanation of how this suffix is used with the verb suffi
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1083,6 +1207,7 @@ See {qawmoH:v} for an explanation of how this suffix is used with the verb suffi
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.5:src}</column>
     </table>
     <table name="mem">
@@ -1096,6 +1221,7 @@ See {qawmoH:v} for an explanation of how this suffix is used with the verb suffi
       <column name="definition_ru">тема (сущ. тип 5)</column>
       <column name="definition_zh_HK">主題（第五類名詞後綴）</column>
       <column name="definition_pt">tópico (substantivo tipo 5)</column>
+<column name="definition_fi">aihe (substantiivityyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1114,6 +1240,20 @@ Do not confuse this suffix with the pronoun {'e':n:pro}.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #5. -->
+<!-- ERROR: Missing link #10. -->
+<!-- ERROR: Missing link #11. -->
+<!-- ERROR: Mismatched brackets. -->
+<column name="notes_fi">Tämä loppuliite korostaa, että substantiivi, johon se on liitetty lauseen aiheena. katso {-bogh:v}).
+
+Jos objektin substantiivi on merkitty {-'e':n:suff,nolink}: llä, se voi tulla ennen verbiä edeltäviä adverbeja.
+
+Jos haluat käyttää {-'e':n:suff,nolink}-nimisarjaa (eli substantiiveja, jotka on liitetty {je:conj}-, {joq:conj}- tai {ghap:conj}-sarjoihin), se on liitettävä kuhunkin substantiiviin erikseen. "olemaan" -rakenteen aihe koostuu useista asioista.
+
+Morskanin murteessa (katso [1]1) tätä päätettä ei käytetä merkitsemään kohdetta "olla" -rakenteissa. Jos loppuliitettä käytetään tällaisessa lauseessa, se palvelee tavanomaista korostustoimintoa.[5]
+
+Älä sekoita tätä pääteosaa pronominiin {'e':n:pro}.[2][3][4]{mo'rISqa':n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The example from {TKD:src} contains an error: the {jI-:sen:nolink} prefix was omitted by mistake.[1]
 
 In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
@@ -1130,6 +1270,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">noun type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1137,6 +1278,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.3.5:src}, [2] {TKD 6.3:src}, [3] {TKDA 6.7:src}, [4] {HQ 4.2, p.5-6, Jun. 1995:src}, [5] {KGT p.23:src}, [6] {SkyBox cards:src}, [7] {paq'batlh p.102-103:src}</column>
     </table>
     <table name="mem">
@@ -1150,6 +1292,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">сам себя (глагол тип 1)</column>
       <column name="definition_zh_HK">自己（第一類動詞後綴）</column>
       <column name="definition_pt">si mesmo (verbal tipo 1)</column>
+<column name="definition_fi">itse (verbi tyyppi 1) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1160,6 +1303,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Когда этот суффикс используется, префикс глагола должен указывать «нет объекта». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">使用此後綴時，動詞前綴必須指示“無對象”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando esse sufixo é usado, o prefixo do verbo deve indicar "nenhum objeto". [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">"Ego".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1169,6 +1313,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 1, I-me, you-you, he-him, she-her, it-it, we-us, they-them</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1176,6 +1321,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.1:src}</column>
     </table>
     <table name="mem">
@@ -1189,6 +1335,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">один другого, друг друга (глагол тип 1)</column>
       <column name="definition_zh_HK">彼此（第一類動詞後綴）</column>
       <column name="definition_pt">um ao outro (verbal tipo 1)</column>
+<column name="definition_fi">toisiaan, toisiaan (verbi tyyppi 1) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1199,6 +1346,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс используется только во множественном числе. Когда этот суффикс используется, префикс глагола должен указывать «нет объекта». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴僅適用於多個主題。使用此後綴時，動詞前綴必須指示“無對象”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo é usado apenas com assuntos do plural. Quando esse sufixo é usado, o prefixo do verbo deve indicar "nenhum objeto". [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1208,6 +1356,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 1, we-us, you-you, they-them</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1215,6 +1364,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.1:src}</column>
     </table>
     <table name="mem">
@@ -1228,6 +1378,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">нужно (глагол тип 2)</column>
       <column name="definition_zh_HK">需要（第二類動詞後綴）</column>
       <column name="definition_pt">necessidade (verbal tipo 2)</column>
+<column name="definition_fi">need (verb type 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1238,6 +1389,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс указывает, что субъект должен выполнить действие. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴指示對象需要執行操作。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o sujeito precisa executar a ação. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että kohteen on tehtävä toimenpide. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1247,6 +1399,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1254,6 +1407,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.2:src}</column>
     </table>
     <table name="mem">
@@ -1267,6 +1421,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">добровольно готов (глагол тип 2)</column>
       <column name="definition_zh_HK">願意（第二類動詞後綴）</column>
       <column name="definition_pt">querendo (verbal tipo 2)</column>
+<column name="definition_fi">halukas (verbi tyyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1277,6 +1432,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс указывает, что субъект готов выполнить действие. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示對象願意執行該操作。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o sujeito está disposto a executar a ação. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että kohde on halukas suorittamaan toiminnon. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1286,6 +1442,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1293,6 +1450,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.2:src}</column>
     </table>
     <table name="mem">
@@ -1306,6 +1464,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">готов (для существ) (глагол тип 2)</column>
       <column name="definition_zh_HK">準備好（生物）（第二類動詞後綴）</column>
       <column name="definition_pt">pronto, preparado (referente aos seres) (verbal tipo 2)</column>
+<column name="definition_fi">valmis, valmistautunut (viittaa olentoihin) (verbi tyyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1316,6 +1475,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">動詞{ghuS:v:0}絕不帶有後綴{-rup:v:suff,nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Verbi {ghuS:v:0} ei koskaan ota loppuliitettä {-rup:v:suff,nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1325,6 +1485,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1332,6 +1493,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.2:src}</column>
     </table>
     <table name="mem">
@@ -1345,6 +1507,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">готов (для устройств) (глагол тип 2)</column>
       <column name="definition_zh_HK">準備好、設置好（設備）（第二類動詞後綴）</column>
       <column name="definition_pt">pronto, preparado (referindo a dispositivos) (verbal tipo 2)</column>
+<column name="definition_fi">valmis, asetettu (viitaten laitteisiin) (verbi tyyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1355,6 +1518,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1365,6 +1529,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1372,6 +1537,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.2:src}</column>
     </table>
     <table name="mem">
@@ -1385,6 +1551,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">бояться (глагол тип 2)</column>
       <column name="definition_zh_HK">害怕（第二類動詞後綴）</column>
       <column name="definition_pt">com medo (verbal tipo 2)</column>
+<column name="definition_fi">pelkää (verbi tyyppi 2) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1395,6 +1562,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Культурно запрещено использовать этот суффикс с темой от первого лица. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在文化上忌諱將後綴用於第一人稱主題。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É culturalmente tabu usar esse sufixo com um assunto em primeira pessoa. [AUTOTRANSLATED]</column>
+<column name="notes_fi">On kulttuurisesti tabu käyttää tätä päätettä ensimmäisen persoonan kanssa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The unstated exception to the rule is that it is not taboo if {-vIp:v:suff,nolink} is negated with {-be':v:suff}, as illustrated by the sentences on {TKD:src} p.49.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1404,6 +1572,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 2</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1411,6 +1580,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.2:src}</column>
     </table>
     <table name="mem">
@@ -1424,6 +1594,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">изменение в состоянии, изменение в направлении (глагол тип 3)</column>
       <column name="definition_zh_HK">改變狀態、改變方向（第三類動詞後綴）</column>
       <column name="definition_pt">mudança de estado, mudança de direção (verbal tipo 3)</column>
+<column name="definition_fi">tilanmuutos, suunnanmuutos (verbi tyyppi 3) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{choH:v}</column>
@@ -1434,6 +1605,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс указывает, что действие, описываемое глаголом, включает в себя изменение положения дел, которое существовало до того, как действие имело место. Английский перевод этого суффикса может быть "стать" или "начать". [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該後綴表明，動詞描述的動作涉及到事態發生變化，而事態發生在動作發生之前。此後綴的英文翻譯可能是“ become”或“ begin to”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que a ação descrita pelo verbo envolve uma mudança do estado de coisas como existia antes da ação ocorrer. A tradução para o inglês deste sufixo pode ser "tornar-se" ou "começar a". [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä jälkiliite osoittaa, että verbin kuvaamaan toimintaan liittyy muutos tilanteesta, joka oli olemassa ennen toiminnan tapahtumista. Tämän jälkiliitteen englanninkielinen käännös voi olla "tullut" tai "alkanut". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1443,6 +1615,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 3, become, begin to</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1450,6 +1623,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.3:src}</column>
     </table>
     <table name="mem">
@@ -1463,6 +1637,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">продолжать, возобновлять (глагол тип 3)</column>
       <column name="definition_zh_HK">恢復、重複、再做（第三類動詞後綴）</column>
       <column name="definition_pt">resumir, fazer novamente (verbal tipo 3)</column>
+<column name="definition_fi">jatka, tee uudelleen (verbi tyyppi 3) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1473,6 +1648,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс означает, что действие имело место, затем прекратилось, а затем началось снова. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示該操作已發生，然後停止，然後再次開始。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo implica que a ação estava ocorrendo, depois parou e começou novamente. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1482,6 +1658,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 3</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1489,6 +1666,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.3:src}</column>
     </table>
     <table name="mem">
@@ -1502,6 +1680,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">причинять, быть причиной (глагол тип 4)</column>
       <column name="definition_zh_HK">引起、導致（第四類動詞後綴）</column>
       <column name="definition_pt">causa (verbal tipo 4)</column>
+<column name="definition_fi">syy (verbi tyyppi 4) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1512,6 +1691,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Посмотрите {qawmoH:v} для примера того, как использовать это с глаголом, который берет объект. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關如何將其與帶有對象的動詞一起使用的示例，請參見{qawmoH:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Consulte {qawmoH:v} para obter um exemplo de como usar isso com um verbo que aceita um objeto. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Katso {qawmoH:v}-esimerkki siitä, miten tätä käytetään objektin ottavan verbin kanssa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1528,6 +1708,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 4</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1535,6 +1716,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.4:src}, [2] {SkyBox 20:src} (reprinted in {HQ 5.2, p.14, Jun. 1996:src}), [3] {paq'batlh p.179:src}</column>
     </table>
     <table name="mem">
@@ -1548,6 +1730,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">неопределенное дополнение (глагол тип 5)</column>
       <column name="definition_zh_HK">不定主語（第五類動詞後綴）</column>
       <column name="definition_pt">sujeito indefinido (verbal tipo 5)</column>
+<column name="definition_fi">määrittelemätön aihe (verbi tyyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tu'lu':v}, {vay':n}</column>
@@ -1558,6 +1741,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс указывает, что предмет неизвестен, неопределен или является общим. Он используется только с префиксами, которые обычно обозначают единичный объект от третьего лица ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} и {lu-:v}; а также {0:v:pref}). При использовании с этим суффиксом эти префиксы меняются по значению, поэтому вместо указания лица и номера субъекта вместо них указываются лицо и номер объекта. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示主題未知，不確定或一般。它僅與通常指示第三人稱單數對象的前綴一起使用（{vI-:v}，{Da-:v}，{wI-:v}，{bo-:v}和{lu-:v}；以及{0:v:pref}）。與該後綴一起使用時，這些前綴的含義發生了變化，因此，它們代替指示對象的人和編號，而不指示對象的人和編號。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o assunto é desconhecido, indefinido ou geral. É usado apenas com prefixos que normalmente indicam um objeto singular na terceira pessoa ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} e {lu-:v}; e também {0:v:pref}). Quando usados ​​com esse sufixo, esses prefixos mudam de significado para que, em vez de indicar a pessoa e o número do sujeito, indiquem a pessoa e o número do objeto. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että kohde on tuntematon, määrittelemätön tai yleinen. Sitä käytetään vain etuliitteiden kanssa, jotka normaalisti ilmaisevat kolmannen persoonan yksikön ({vI-:v}, {Da-:v}, {wI-:v}, {bo-:v} ja {lu-:v}; ja myös {0:v:pref}). Kun käytetään tämän jälkiliitteen kanssa, näiden etuliitteiden merkitys muuttuu siten, että sen sijaan, että ilmoitettaisiin kohteen henkilö ja numero, ne ilmoittavat sen sijaan kohteen henkilön ja numeron. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1568,6 +1752,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1575,6 +1760,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.5:src}</column>
     </table>
     <table name="mem">
@@ -1588,6 +1774,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">мочь, быть способным (глагол тип 5)</column>
       <column name="definition_zh_HK">可以、有能力、有本事（第五類動詞後綴）</column>
       <column name="definition_pt">capaz, poder (verbal tipo 5)</column>
+<column name="definition_fi">voi, pystyy (verbi tyyppi 5) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{laH:n}</column>
@@ -1598,6 +1785,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1607,6 +1795,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 5</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1614,6 +1803,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.5:src}</column>
     </table>
     <table name="mem">
@@ -1627,6 +1817,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">можно (глагол типа 5 - неграмотно) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一罐（動詞類型5-不合語法） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pode-se (verbal tipo 5 - não gramatical)</column>
+<column name="definition_fi">voi (verbi tyyppi 5 - kielioppi) [AUTOTRANSLATED]</column>
       <column name="synonyms">{-la':v}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1637,6 +1828,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">一些發言者使用此功能將{-lu':v}和{-laH:v}合併為一個後綴，以同時表達不確定的主題和能力。沒有人接受這種語法上的解釋，但它的不恰當之處在於它具有雄辯的影響力。除非人們對克林崗風格的細微差別感到非常滿意，否則應避免這樣做。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Jotkut puhujat käyttävät tätä yhdistämään {-lu':v} ja {-laH:v} yhdeksi loppuliitteeksi ilmaisemaan sekä määrittelemätön aihe että kyky samanaikaisesti. Kukaan ei hyväksy tätä rakennetta kieliopiksi, mutta sen epäasianmukaisuus antaa sille äänestysmahdollisuuden. Sitä tulisi välttää, ellei joku ole kovin tyytyväinen Klingon-tyylin vivahteisiin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1646,6 +1838,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1653,6 +1846,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {KGT p.181:src}</column>
     </table>
     <table name="mem">
@@ -1666,6 +1860,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">можно (глагол типа 5 - неграмотно) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一罐（動詞類型5-不合語法） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pode-se (verbal tipo 5 - não gramatical)</column>
+<column name="definition_fi">voi (verbi tyyppi 5 - kielioppi) [AUTOTRANSLATED]</column>
       <column name="synonyms">{-luH:v}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1676,6 +1871,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Некоторые ораторы используют это для объединения {-lu':v} и {-laH:v} в один суффикс, чтобы выразить одновременно неопределенный субъект и способность. Никто не принимает эту конструкцию как грамматическую, но ее неуместность - вот что дает ей красноречивое влияние. Этого следует избегать, если только вы не очень довольны нюансами стиля клингон. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">一些發言者使用此功能將{-lu':v}和{-laH:v}合併為一個後綴，以同時表達不確定的主題和能力。沒有人接受這種語法上的解釋，但它的不恰當之處在於它具有雄辯的影響力。除非人們對克林崗風格的細微差別感到非常滿意，否則應避免這樣做。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Alguns alto-falantes usam isso para combinar {-lu':v} e {-laH:v} em um sufixo, para expressar assunto e capacidade indefinidos simultaneamente. Ninguém aceita essa construção como gramatical, mas sua inadequação é o que lhe confere influência elocucionária. Deve ser evitado a menos que se sinta muito confortável com as nuances do estilo klingon. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Jotkut puhujat käyttävät tätä yhdistämään {-lu':v} ja {-laH:v} yhdeksi loppuliitteeksi ilmaisemaan sekä määrittelemätön aihe että kyky samanaikaisesti. Kukaan ei hyväksy tätä rakennetta kieliopiksi, mutta sen epäasianmukaisuus antaa sille äänestysmahdollisuuden. Sitä tulisi välttää, ellei joku ole kovin tyytyväinen Klingon-tyylin vivahteisiin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1685,6 +1881,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1692,6 +1889,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {KGT p.181:src}</column>
     </table>
     <table name="mem">
@@ -1705,6 +1903,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">идеально, совершенно (глагол тип 6)</column>
       <column name="definition_zh_HK">完美、無瑕（第六類動詞後綴）</column>
       <column name="definition_pt">claramente, perfeitamente (verbal tipo 6)</column>
+<column name="definition_fi">selvästi, täydellisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1717,6 +1916,11 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Kun sitä käytetään joidenkin taisteluverbien kanssa, tämä pääte tarkoittaa, että taistelut johtavat kuolemaan (katso {Suvchu':v}, {Hay'chu':v}).
+
+Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keihäs osuu kohteeseen.[2, p.49][2, p.64] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1728,6 +1932,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 6, completely, fully</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1735,6 +1940,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.6:src}, [2] {KGT:src}</column>
     </table>
     <table name="mem">
@@ -1748,6 +1954,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="definition_ru">определенно, без сомнений (глагол тип 6)</column>
       <column name="definition_zh_HK">當然、一定（第六類動詞後綴）</column>
       <column name="definition_pt">certamente, sem dúvida (verbal tipo 6)</column>
+<column name="definition_fi">varmasti, epäilemättä (verbi tyyppi 6) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1758,6 +1965,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1767,6 +1975,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 6</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1774,6 +1983,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.6:src}</column>
     </table>
     <table name="mem">
@@ -1787,6 +1997,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="definition_ru">очевидно (глагол тип 6)</column>
       <column name="definition_zh_HK">顯然（第六類動詞後綴）</column>
       <column name="definition_pt">obviamente (verbal tipo 6)</column>
+<column name="definition_fi">ilmeisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1797,6 +2008,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="notes_ru">Этот суффикс указывает, что говорящий считает, что утверждение очевидно для слушателя. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示講話者認為斷言對於聽眾是顯而易見的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o falante acha que a afirmação é óbvia para o ouvinte. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite kertoo puhujan mielestä väitteen olevan ilmeinen kuuntelijalle. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1806,6 +2018,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 6</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1813,6 +2026,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKDA 4.2.6:src}</column>
     </table>
     <table name="mem">
@@ -1826,6 +2040,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="definition_ru">по-видимому (глагол тип 6)</column>
       <column name="definition_zh_HK">似乎、貌似（第六類動詞後綴）</column>
       <column name="definition_pt">aparentemente (verbal tipo 6)</column>
+<column name="definition_fi">näennäisesti, ilmeisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1836,6 +2051,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="notes_ru">Этот суффикс выражает неопределенность со стороны говорящего. Это может быть переведено как «я думаю» или «я подозреваю». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示發言人的不確定性。它可能被翻譯為“我認為”或“我懷疑”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo expressa incerteza por parte do falante. Pode ser traduzido como "eu acho" ou "eu suspeito". [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1845,6 +2061,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 6, suspect, think</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1852,6 +2069,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.6:src}</column>
     </table>
     <table name="mem">
@@ -1865,6 +2083,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="definition_ru">законченность действия (глагол тип 7)</column>
       <column name="definition_zh_HK">完成（第七類動詞後綴）</column>
       <column name="definition_pt">perfeito (verbal tipo 7)</column>
+<column name="definition_fi">täydellinen (verbi tyyppi 7) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1875,6 +2094,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="notes_ru">Этот суффикс указывает, что действие завершено. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示操作已完成。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que uma ação foi concluída. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että toiminto on valmis. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1884,6 +2104,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 7</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1891,6 +2112,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.7:src}</column>
     </table>
     <table name="mem">
@@ -1904,6 +2126,7 @@ When used with {chuH:v:1}, it means the target is actually hit by the thrown spe
       <column name="definition_ru">выполнено, готово (глагол тип 7)</column>
       <column name="definition_zh_HK">故意完成（第7類動詞後綴）</column>
       <column name="definition_pt">concluído, feito (verbal tipo 7)</column>
+<column name="definition_fi">suoritettu, tehty (verbi tyyppi 7) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1916,6 +2139,9 @@ There is a special verbal construction, {rIntaH:v}, which denotes a similar mean
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että toiminto on saatu päätökseen ja että toiminta on tarkoituksella suoritettu.
+
+On olemassa erityinen sanallinen rakenne, {rIntaH:v}, joka merkitsee samanlaista merkitystä, mutta jolla on vielä lopullisen merkitys. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1925,6 +2151,7 @@ There is a special verbal construction, {rIntaH:v}, which denotes a similar mean
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 7</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1932,6 +2159,7 @@ There is a special verbal construction, {rIntaH:v}, which denotes a similar mean
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.7:src}</column>
     </table>
     <table name="mem">
@@ -1945,6 +2173,7 @@ There is a special verbal construction, {rIntaH:v}, which denotes a similar mean
       <column name="definition_ru">длительность действия (глагол тип 7)</column>
       <column name="definition_zh_HK">連續（第七類動詞後綴）</column>
       <column name="definition_pt">contínuo (verbal tipo 7)</column>
+<column name="definition_fi">jatkuva (verbi tyyppi 7) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vIS:v:suff}</column>
@@ -1957,6 +2186,9 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Tämä pääte osoittaa, että toiminto on käynnissä.
+
+Kun pronominia käytetään olemaan "olemaan" -rakenne jonkin sijainnin tunnistamiseksi, on yleisempää käyttää {-taH:v:nolink} puhuttaessa asioista, jotka ovat melko liikkuvia ja jättävät sen pois puhuessaan asioista, jotka ovat yleensä liikkumattomia tai harvoin liikkuvia, mutta tämä on vain taipumus eikä sääntö.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1968,6 +2200,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 7, always</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1975,6 +2208,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.7:src}, [2] {KGT p.25:src}, [3] {KLI mailing list 2020.02.11:src}</column>
     </table>
     <table name="mem">
@@ -1988,6 +2222,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="definition_ru">прогресс (глагол тип 7)</column>
       <column name="definition_zh_HK">進行（第七類動詞後綴）</column>
       <column name="definition_pt">progresso (verbal tipo 7)</column>
+<column name="definition_fi">edistyminen (verbi tyyppi 7) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1998,6 +2233,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="notes_ru">Этот суффикс указывает, что действие продолжается и идет к известной цели или точке остановки. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示該操作正在進行中，並且正在朝著已知目標或停止點前進。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que a ação está em andamento e está avançando em direção a um objetivo ou ponto de parada conhecido. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että toiminta on käynnissä ja etenee kohti tunnettua tavoitetta tai pysähdyskohtaa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2007,6 +2243,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 7</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2014,6 +2251,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.7:src}</column>
     </table>
     <table name="mem">
@@ -2027,6 +2265,7 @@ When using a pronoun as a "to be" construction to identify the location of somet
       <column name="definition_ru">выражение почтения (глагол тип 8)</column>
       <column name="definition_zh_HK">敬意（第八類動詞後綴）</column>
       <column name="definition_pt">honorífico (verbal tipo 8)</column>
+<column name="definition_fi">kunnianosoitus (verbi tyyppi 8) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yI':v}</column>
@@ -2039,6 +2278,11 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Klingonit käyttävät tätä päätettä harvoin. Se ilmaisee yleensä äärimmäistä kohteliaisuutta tai kunnioitusta, ja sitä käytetään vain ylivoimaisen puheenvuoroon.
+
+Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoittaakseen, että verbi viittaa itsemurhayritykseen. Esimerkiksi {HIvneS:v} tarkoittaa, että itsemurha on osa hyökkäyssuunnitelmaa, ja vastaavasti {HubneS:v} tarkoittaa, että itsemurha on osa puolustussuunnitelmaa.[1][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2049,6 +2293,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">honourific, verb type 8</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2056,6 +2301,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.8:src}, [2] {KGT p.49:src}</column>
     </table>
     <table name="mem">
@@ -2069,6 +2315,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">когда, как только (глагол тип 9)</column>
       <column name="definition_zh_HK">一經、就（第九類動詞後綴）</column>
       <column name="definition_pt">quando, assim que (verbal tipo 9)</column>
+<column name="definition_fi">milloin heti (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2079,6 +2326,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2088,6 +2336,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2095,6 +2344,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.2:src}</column>
     </table>
     <table name="mem">
@@ -2108,6 +2358,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">если (глагол тип 9)</column>
       <column name="definition_zh_HK">如果（第九類動詞後綴）</column>
       <column name="definition_pt">se (verbal tipo 9)</column>
+<column name="definition_fi">jos (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2118,6 +2369,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2127,6 +2379,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2134,6 +2387,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.2:src}</column>
     </table>
     <table name="mem">
@@ -2147,6 +2401,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">до, прежде (глагол тип 9)</column>
       <column name="definition_zh_HK">之前（第九類動詞後綴）</column>
       <column name="definition_pt">antes de (verbal tipo 9)</column>
+<column name="definition_fi">ennen (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2157,6 +2412,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2167,6 +2423,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2174,6 +2431,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.2:src}</column>
     </table>
     <table name="mem">
@@ -2187,6 +2445,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">пока, в то время как (глагол тип 9)</column>
       <column name="definition_zh_HK">當中（第九類動詞後綴）</column>
       <column name="definition_pt">enquanto (verbal tipo 9)</column>
+<column name="definition_fi">while (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2197,6 +2456,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru">Это всегда используется с суффиксом типа 7 {-taH:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">始終與類型7後綴{-taH:v}一起使用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é sempre usado com o sufixo tipo 7 {-taH:v}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tätä käytetään aina tyypin 7 loppuliitteen {-taH:v} kanssa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2206,6 +2466,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2213,6 +2474,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.2:src}</column>
     </table>
     <table name="mem">
@@ -2226,6 +2488,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">из-за, потому что, благодаря (глагол тип 9)</column>
       <column name="definition_zh_HK">因為（第九類動詞後綴）</column>
       <column name="definition_pt">devido a, por causa de (verbal tipo 9)</column>
+<column name="definition_fi">johtuu, johtuen (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2236,6 +2499,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru">Существует суффикс существительного {-mo':n} с тем же значением. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個名詞後綴{-mo':n}含義相同。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um sufixo substantivo {-mo':n} com o mesmo significado. [AUTOTRANSLATED]</column>
+<column name="notes_fi">On substantiiviliite {-mo':n}, jolla on sama merkitys. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2245,6 +2509,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2252,6 +2517,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKDA 4.2.9:src}</column>
     </table>
     <table name="mem">
@@ -2265,6 +2531,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">который (глагол тип 9)</column>
       <column name="definition_zh_HK">嘅（第九類動詞後綴）</column>
       <column name="definition_pt">o qual (verbal tipo 9)</column>
+<column name="definition_fi">mikä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2275,6 +2542,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2284,6 +2552,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2291,6 +2560,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.3:src}</column>
     </table>
     <table name="mem">
@@ -2304,6 +2574,7 @@ This suffix is also used with some verbs of fighting to indicate that the verb r
       <column name="definition_ru">для (глагол тип 9)</column>
       <column name="definition_zh_HK">為了（第九類動詞後綴）</column>
       <column name="definition_pt">para, com a finalidade de, a fim de (verbal tipo 9)</column>
+<column name="definition_fi">for, for the purpose of, in order to (verb type 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2316,6 +2587,10 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Tarkoituslauseke edeltää aina substantiivia tai verbiä, jonka tarkoitusta se kuvaa.[1]
+
+{HQ 7.3:src}-artikkelissa on artikkeli, jossa tarkastellaan {-meH:v:suff,nolink}-lauseita, jotka muuttavat substantiiveja.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2325,6 +2600,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2332,6 +2608,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9, 6.2.4:src}, [2] {HQ 7.3, p.6, Sept. 1998:src}</column>
     </table>
     <table name="mem">
@@ -2345,6 +2622,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="definition_ru">вопрос (глагол тип 9)</column>
       <column name="definition_zh_HK">疑問句（第九類動詞後綴）</column>
       <column name="definition_pt">interrogativo (verbal tipo 9)</column>
+<column name="definition_fi">kysävä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIja':excl}, {HISlaH:excl}, {ghobe':excl}</column>
@@ -2355,6 +2633,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2364,6 +2643,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2371,6 +2651,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.2.9:src}</column>
     </table>
     <table name="mem">
@@ -2384,6 +2665,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="definition_ru">да будет (глагол тип 9)</column>
       <column name="definition_zh_HK">願、祝（第九類動詞後綴）</column>
       <column name="definition_pt">que (desejo) (verbal tipo 9)</column>
+<column name="definition_fi">voi, anna (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jIn:v}</column>
@@ -2396,6 +2678,11 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Tämä pääte ilmaisee puhujan toiveen tai toiveen siitä, että jotain tapahtuu tulevaisuudessa.
+
+Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi paitsi {Sa'Qej Sep:n}- ja {noHva'Dut Sep:n}-murteissa.[1][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">When this suffix is used, there is allegedly never a Type 7 aspect suffix.[1] However, this "rule" is contradicted by canon, as can be seen from the examples.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2407,6 +2694,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2414,6 +2702,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKDA 4.2.9:src}, [2] {KGT p.25-26:src}</column>
     </table>
     <table name="mem">
@@ -2427,6 +2716,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="definition_ru">тот, кто делает /то, которое делает (глагол тип 9)</column>
       <column name="definition_zh_HK">者、器；做或是的人或事物（第九類動詞後綴）</column>
       <column name="definition_pt">quem faz, coisa que faz (verbal tipo 9)</column>
+<column name="definition_fi">joka tekee / on, asia joka tekee / on (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2437,6 +2727,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2446,6 +2737,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2453,6 +2745,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 3.2.2, 4.2.9:src}</column>
     </table>
     <table name="mem">
@@ -2466,6 +2759,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="definition_ru">существительное (глагол тип 9)</column>
       <column name="definition_zh_HK">名詞化器（第九類動詞後綴）</column>
       <column name="definition_pt">nominalizador (verbal tipo 9)</column>
+<column name="definition_fi">nimittäjä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2476,6 +2770,8 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_ru">Этот суффикс обычно не используется для глагола без другого суффикса или для глагола с префиксом. Когда он прикреплен к глаголу состояния, он дает значение, подобное «-ness», а на активном глаголе - что-то вроде «-tion».[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該後綴通常不用於沒有另一個後綴的動詞或帶前綴的動詞。當它附加到一個謂詞動詞上時，其含義為“ -ness”，而在一個主動動詞上則表示“ -tion”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo geralmente não é usado em um verbo sem outro sufixo ou em um com prefixo. Quando é anexado a um verbo estático, dá um significado como "-ness", enquanto em um verbo ativo significa algo como "-tion".[2] [AUTOTRANSLATED]</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tätä loppuliitettä ei yleensä käytetä verbissä, jossa ei ole toista loppuliitettä, tai yhdessä, jossa on etuliite. Kun se on liitetty staattiseen verbiin, se antaa merkityksen, kuten "-ness", kun taas aktiivisella verbillä se tarkoittaa jotain "-tion".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2490,6 +2786,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">nominaliser, verb type 9</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2497,6 +2794,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKDA 4.2.9:src}, [2] {HQ 3.3, p.10-13, Sept. 1994:src}</column>
     </table>
     <table name="mem">
@@ -2510,6 +2808,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="definition_ru">не (глагол тип R)</column>
       <column name="definition_zh_HK">不、沒（動詞流浪後綴）</column>
       <column name="definition_pt">não (verbal tipo R)</column>
+<column name="definition_fi">ei (verbityyppi R) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-Qo':v:suff}</column>
@@ -2520,6 +2819,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_ru">Это следует концепции, которая отрицает. Его нельзя использовать для формирования отрицательных императивов, то есть его нельзя использовать для обозначения «не» (для которого вместо этого используется {-Qo':v}) [1; 3]. Однако такая команда, как {HIleghbe'moH:sen:nolink}, возможна.[3] Этот суффикс можно применять к глаголам, используемым в качестве прилагательных.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這遵循其否定的概念。它不能用於形成否定命令，即不能用於表示“不要”（為此使用{-Qo':v}代替）[1; 3]。但是，可以使用諸如{HIleghbe'moH:sen:nolink}之類的命令。[3]該後綴可以應用於用作形容詞的動詞。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso segue o conceito que nega. Ele não pode ser usado para formar imperativos negativos, ou seja, não pode ser usado para significar "não" (para o qual, em vez disso, use {-Qo':v}) [1; 3]. No entanto, um comando como {HIleghbe'moH:sen:nolink} é possível.[3] Esse sufixo pode ser aplicado aos verbos usados ​​como adjetivos.[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tämä seuraa käsitystä, jonka se hylkää. Sitä ei voida käyttää muodostamaan negatiivisia vaatimuksia, toisin sanoen sitä ei voida käyttää merkitsemään "älä" (johon käytetään {-Qo':v} sen sijaan) [1; 3]. Komento, kuten {HIleghbe'moH:sen:nolink}, on kuitenkin mahdollista.[3] Tätä jälkiliitettä voidaan soveltaa verbeihin, joita käytetään adjektiivina.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2530,6 +2830,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">rover, verb type R</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2537,6 +2838,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.3:src}, [2] {PK:src}, [3] {qep'a' 24 (2017):src}</column>
     </table>
     <table name="mem">
@@ -2550,6 +2852,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="definition_ru">не буду! (глагол тип R)</column>
       <column name="definition_zh_HK">不要！、不會！（動詞流浪後綴）</column>
       <column name="definition_pt">não !, não vou! (verbal tipo R)</column>
+<column name="definition_fi">älä !, ei! (verbityyppi R) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-be':v:suff}, {Qo':excl}</column>
@@ -2560,6 +2863,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="notes_ru">Этот суффикс используется для обозначения отказа. Это также используется в императивах. Это всегда происходит последним, если за ним не следует суффикс типа 9. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴用於表示拒絕。它也用於命令中。它總是最後發生，除非後面跟著9型後綴。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo é usado para denotar recusa. Também é usado em imperativos. Sempre ocorre por último, a menos que seja seguido por um sufixo do tipo 9. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2569,6 +2873,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">rover, verb type R</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2576,6 +2881,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.3:src}</column>
     </table>
     <table name="mem">
@@ -2589,6 +2895,7 @@ This suffix is attached to the verb in toasts, which always comes last except in
       <column name="definition_ru">отменить, сделать неправильно (глагол тип R)</column>
       <column name="definition_zh_HK">撤消、做錯（動詞流浪後綴）</column>
       <column name="definition_pt">desfazer, fazer de forma incorreta (verbal type R)</column>
+<column name="definition_fi">kumoaa, tee väärin (verbityyppi R) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2601,6 +2908,7 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">While {-Ha':v:suff,nolink} can mean different things on different verbs, it appears to favour a fixed meaning for any particular verb, depending on whether the quality or action described by the verb has an opposite or a reversal. That meaning is determined by a greater degree of negativity than {-be':v:suff}. While this suffix is defined as "undo, do wrongly", most instances of this suffix actually denote an opposite rather than an undoing or an erroneous action. See {KLI mailing list 2019.03.22:src} for an analysis.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2611,6 +2919,7 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">rover, verb type R</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2618,6 +2927,7 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.3:src}, [2] {HQ 4.4, p.11:src}, [3] {qep'a' 19 (2012):src} ({KLI mailing list 2012.08.30:src}), [4] {KGT:src}</column>
     </table>
     <table name="mem">
@@ -2631,6 +2941,7 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="definition_ru">очень (глагол тип R)</column>
       <column name="definition_zh_HK">強調（動詞流浪後綴）</column>
       <column name="definition_pt">enfático (verbal tipo R)</column>
+<column name="definition_fi">korostuva (verbityyppi R) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2643,6 +2954,9 @@ It can follow verbs used adjectivally, in which case it means "very".</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
+<column name="notes_fi">Tämä pääte korostaa mitä tahansa välittömästi sitä edeltävää.
+
+Se voi seurata adjektiivisesti käytettyjä verbejä, jolloin se tarkoittaa "hyvin". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">According to {TKD 4.4:src}, when a verb is used adjectivally, it can have no suffix other than noun type 5 except for {-qu':v:suff}. However, this has been contradicted by subsequent canon, e.g., {SuvwI' quvHa':n:nolink} from {HQ 12.3:src}, {Duj ngaDHa':n} from {KGT:src}, and {wa'maH yIHmey lI'be':n:nolink} from {PK:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2652,6 +2966,7 @@ It can follow verbs used adjectivally, in which case it means "very".</column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
+<column name="examples_fi">TRANSLATE</column>
       <column name="search_tags">rover, verb type R</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2659,5 +2974,6 @@ It can follow verbs used adjectivally, in which case it means "very".</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
+<column name="search_tags_fi">TRANSLATE</column>
       <column name="source">[1] {TKD 4.3, 4.4:src}</column>
     </table>
