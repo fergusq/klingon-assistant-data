@@ -12323,7 +12323,7 @@ Isso não é usado para significar "executar por suspensão", que é {jIb:v}. [A
       <column name="definition_ru">дней назад</column>
       <column name="definition_zh_HK">（幾）日前</column>
       <column name="definition_pt">dias atrás</column>
-<column name="definition_fi">päivää sitten</column>
+<column name="definition_fi">... päivää sitten</column>
       <column name="synonyms"></column>
       <column name="antonyms">{leS:n}</column>
       <column name="see_also">{jaj:n}, {ret:n}</column>

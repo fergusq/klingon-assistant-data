@@ -3283,7 +3283,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_ru">Годы назад, лет назад</column>
       <column name="definition_zh_HK">（幾）年前</column>
       <column name="definition_pt">anos atrás</column>
-<column name="definition_fi">vuotta sitten</column>
+<column name="definition_fi">... vuotta sitten</column>
       <column name="synonyms"></column>
       <column name="antonyms">{nem:n}</column>
       <column name="see_also">{DIS:n:2}, {ret:n}, {ben:n:2}</column>
