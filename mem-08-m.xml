@@ -4984,7 +4984,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="definition_ru">совмещать, вставлять, сцеплять, чередовать, мешать с [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">匹配，適合，互鎖，交錯，網格 [AUTOTRANSLATED]</column>
       <column name="definition_pt">encaixar, intertravar com algo, combinar</column>
-<column name="definition_fi">täsmätä, käydä yksiin, sopia yhteen, punoutua yhteen, limittyä/lomittua jonkin kanssa</column>
+<column name="definition_fi">sopia johonkin, punoutua yhteen, limittyä/lomittua jonkin kanssa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nel:v}</column>
