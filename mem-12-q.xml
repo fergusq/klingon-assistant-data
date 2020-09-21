@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {q:sen:nolink}</column>
       <column name="definition_zh_HK">輔音{q:sen:nolink}</column>
       <column name="definition_pt">a consoante {q:sen:nolink}</column>
-<column name="definition_fi">konsonantti {q: sen: nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">konsonantti {q:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -52,7 +52,7 @@
       <column name="definition_ru">Я(действие)-тебе</column>
       <column name="definition_zh_HK">我：你</column>
       <column name="definition_pt">eu-você</column>
-<column name="definition_fi">Minä sinä [AUTOTRANSLATED]</column>
+<column name="definition_fi">minä-sinua</column>
       <column name="synonyms"></column>
       <column name="antonyms">{cho-:v:pref}</column>
       <column name="see_also">{pI-:v:pref}, {Sa-:v:pref}</column>
@@ -95,7 +95,7 @@
       <column name="definition_ru">быть плохим, быть некачественным, быть дурным, быть нехорошим, быть испорченным</column>
       <column name="definition_zh_HK">壞 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser mal, ser ruim</column>
-<column name="definition_fi">ole paha [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla paha, olla huono</column>
       <column name="synonyms"></column>
       <column name="antonyms">{QaQ:v}</column>
       <column name="see_also">{'argh:v}</column>
@@ -138,7 +138,7 @@
       <column name="definition_ru">Лицо</column>
       <column name="definition_zh_HK">面部</column>
       <column name="definition_pt">cara, rosto, face</column>
-<column name="definition_fi">kasvot [AUTOTRANSLATED]</column>
+<column name="definition_fi">kasvot</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rol:n}, {loch:n}, {mIn:n}, {ghIch:n}, {nuj:n}, {qogh:n:2,body}, {qevpob:n}, {woS:n}, {nach:n}, {'alnum:n}</column>
@@ -187,7 +187,7 @@
           <column name="definition_ru">Множество лиц</column>
           <column name="definition_zh_HK">很多面部</column>
           <column name="definition_pt">muitas faces</column>
-<column name="definition_fi">monet kasvot [AUTOTRANSLATED]</column>
+<column name="definition_fi">monet kasvot</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{ghom'a':n}, {cha' qabDu':n}, {Dojmey:n}</column>
@@ -230,7 +230,7 @@
           <column name="definition_ru">маскировать [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">面具 [AUTOTRANSLATED]</column>
           <column name="definition_pt">máscara</column>
-<column name="definition_fi">naamio [AUTOTRANSLATED]</column>
+<column name="definition_fi">naamio, maski</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -273,7 +273,7 @@
           <column name="definition_ru">Покажи мне свое лицо! [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">讓我看看你的臉！ [AUTOTRANSLATED]</column>
           <column name="definition_pt">Me mostre seu rosto!</column>
-<column name="definition_fi">Näytä minulle kasvosi! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Näytä kasvosi minulle!</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -316,7 +316,7 @@
           <column name="definition_ru">Я не прячу свое лицо. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">我不遮臉。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">Eu não escondo meu rosto.</column>
-<column name="definition_fi">I don't hide my face. [AUTOTRANSLATED]</column>
+<column name="definition_fi">En piilota kasvojani.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -359,7 +359,7 @@
       <column name="definition_ru">Здание, строение, структура, сооружение, конструкция</column>
       <column name="definition_zh_HK">房屋、樓</column>
       <column name="definition_pt">construção, estrutura</column>
-<column name="definition_fi">rakennus, rakenne [AUTOTRANSLATED]</column>
+<column name="definition_fi">rakennus, talo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HuDyar:n}, {chalqach:n}, {jem'IH:n}, {DuHmor:n}, {qappam:n}, {wonmugh:n}, {raywal:n}</column>
@@ -462,7 +462,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
           <column name="definition_ru">landmark (building) [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">地標（建築物）</column>
           <column name="definition_pt">ponto de referência (construção)</column>
-<column name="definition_fi">maamerkki (rakennus) [AUTOTRANSLATED]</column>
+<column name="definition_fi">maamerkki (rakennus)</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{Daq noy:n}</column>
@@ -505,7 +505,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">состязание, испытание чьих-то способностей, вызов(на поединок)</column>
       <column name="definition_zh_HK">挑戰、考驗一個人的能力 [AUTOTRANSLATED]</column>
       <column name="definition_pt">desafio, testar as habilidades de uma pessoa</column>
-<column name="definition_fi">haaste, kykyjen testi [AUTOTRANSLATED]</column>
+<column name="definition_fi">haaste, kilpa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ov:v}, {chov:v}, {qaD:v}</column>
@@ -548,7 +548,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">бросать вызов, оспаривать, противостоять, сопротивляться, оказывать сопротивление, противиться, быть против, стоять против, узреть, встретиться лицом к лицу</column>
       <column name="definition_zh_HK">挑戰、抵制、反對、面對、面對 [AUTOTRANSLATED]</column>
       <column name="definition_pt">desafiar, resistir, opor-se, confrontar, enfrentar</column>
-<column name="definition_fi">haastaa, vastustaa, vastustaa, kohdata, kohdata [AUTOTRANSLATED]</column>
+<column name="definition_fi">haastaa, uhmata, vastustaa, kohdata; haastaa (kilpailuun)?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tIch:v}, {'om:v}, {chov:v}, {qaD:n}</column>
@@ -591,7 +591,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">турнир</column>
       <column name="definition_zh_HK">比賽 [AUTOTRANSLATED]</column>
       <column name="definition_pt">torneio</column>
-<column name="definition_fi">turnaus [AUTOTRANSLATED]</column>
+<column name="definition_fi">turnaus, ottelu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -634,7 +634,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">площадка для состязаний</column>
       <column name="definition_zh_HK">挑戰地板 [AUTOTRANSLATED]</column>
       <column name="definition_pt">plataforma de desafio</column>
-<column name="definition_fi">haaste lattia [AUTOTRANSLATED]</column>
+<column name="definition_fi">haastelava?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -677,7 +677,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">прерывать, препятствовать</column>
       <column name="definition_zh_HK">打斷 [AUTOTRANSLATED]</column>
       <column name="definition_pt">interruptor</column>
-<column name="definition_fi">keskeyttää [AUTOTRANSLATED]</column>
+<column name="definition_fi">keskeyttää, häiritä?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Suj:v}</column>
@@ -720,7 +720,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">гортанная смычка</column>
       <column name="definition_zh_HK">聲門停止 [AUTOTRANSLATED]</column>
       <column name="definition_pt">parada glótica</column>
-<column name="definition_fi">glottal stop [AUTOTRANSLATED]</column>
+<column name="definition_fi">glottaaliklusiili, {':sen:nolink}-äänne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wab:n}</column>
@@ -763,7 +763,7 @@ Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</col
       <column name="definition_ru">змеевидный червь (еда)</column>
       <column name="definition_zh_HK">蛇蟲（作為食物） [AUTOTRANSLATED]</column>
       <column name="definition_pt">minhoca serpente (alimento)</column>
-<column name="definition_fi">serpent worm (as food) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruokalaji, käärmemato</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghargh:n}, {ghevI':n}, {'Iw puj:n}, {qagh tlhIq:n}, {raHta':n}, {ghIS:v}, {nogh:v}</column>
@@ -824,7 +824,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">делать что-либо контрпродуктивно</column>
       <column name="definition_zh_HK">做一些適得其反的事 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fazer algo contraproducente</column>
-<column name="definition_fi">tehdä jotain haitallista [AUTOTRANSLATED]</column>
+<column name="definition_fi">tehdä jotain haitallista</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -869,7 +869,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">Он не ест Гагх!</column>
       <column name="definition_zh_HK">他不吃飯！ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Ele não come gagh!</column>
-<column name="definition_fi">Hän ei syö gaghia! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Hän ei syö gaghia!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{cha'maH cha' joQDu':n}</column>
@@ -912,7 +912,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">тушеный кляп, кляп служил остатками [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">咳嗽、咳嗽作為剩菜 [AUTOTRANSLATED]</column>
       <column name="definition_pt">guisado de gagh, gagh servido como sobras</column>
-<column name="definition_fi">gagh stew, gagh served as leftovers [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruokalaji, gagh-muhennos, gaghin jämät</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -955,7 +955,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">соус для гагха</column>
       <column name="definition_zh_HK">醬汁為gagh [AUTOTRANSLATED]</column>
       <column name="definition_pt">molho para gagh</column>
-<column name="definition_fi">kastike gaghille [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kastike gaghille</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghevI':n}, {Se'tu':n}</column>
@@ -998,7 +998,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">Сэр</column>
       <column name="definition_zh_HK">長官、尊者</column>
       <column name="definition_pt">Senhor</column>
-<column name="definition_fi">arvon herra [AUTOTRANSLATED]</column>
+<column name="definition_fi">sir, herra</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{joH:n}</column>
@@ -1042,7 +1042,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">парить, витать, летать высоко, вспархивать</column>
       <column name="definition_zh_HK">翱翔 [AUTOTRANSLATED]</column>
       <column name="definition_pt">planar</column>
-<column name="definition_fi">liidellä [AUTOTRANSLATED]</column>
+<column name="definition_fi">liidellä, leijailla</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{puv:v}</column>
@@ -1085,7 +1085,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">смелость, смелость [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">勇氣、大膽</column>
       <column name="definition_pt">coragem, audácia</column>
-<column name="definition_fi">rohkeutta, rohkeutta [AUTOTRANSLATED]</column>
+<column name="definition_fi">(uhka)rohkeus, uskaliaisuus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{toDuj:n}, {vaHbo':n}, {Daqturaq:n}</column>
@@ -1129,7 +1129,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">быть продажным, быть коррумпированным, быть развращённым, быть нравственно испорченным</column>
       <column name="definition_zh_HK">腐敗 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser corrupto</column>
-<column name="definition_fi">olla korruptoitunut [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla turmeltunut, korruptoitunut</column>
       <column name="synonyms"></column>
       <column name="antonyms">{nIt:v}, {watlh:v}</column>
       <column name="see_also"></column>
@@ -1172,7 +1172,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">развращать, разлагать, искажать, подкупать</column>
       <column name="definition_zh_HK">腐敗 [AUTOTRANSLATED]</column>
       <column name="definition_pt">corromper</column>
-<column name="definition_fi">korruptoitunut [AUTOTRANSLATED]</column>
+<column name="definition_fi">turmella, korruptoida</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1215,7 +1215,7 @@ Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</c
       <column name="definition_ru">цвет (красочность) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">顏色（色彩） [AUTOTRANSLATED]</column>
       <column name="definition_pt">color (cheio de cor)</column>
-<column name="definition_fi">väri (värikkyys) [AUTOTRANSLATED]</column>
+<column name="definition_fi">väri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rItlh:n}, {nguv:v}</column>
@@ -1262,7 +1262,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">рама, каркас, опорная конструкция, каркас [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">框架、框架、支撐結構、骨架 [AUTOTRANSLATED]</column>
       <column name="definition_pt">quadro, estrutura, estrutura de suporte, esqueleto</column>
-<column name="definition_fi">runko, runko, tukirakenne, luuranko [AUTOTRANSLATED]</column>
+<column name="definition_fi">kehys, tukirakenne, tukiranka, luuranko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hom:n:1}, {pIp:n}, {lIvqa'nan:n}</column>
@@ -1305,7 +1305,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">стопа</column>
       <column name="definition_zh_HK">腳</column>
       <column name="definition_pt">pé</column>
-<column name="definition_fi">foot [AUTOTRANSLATED]</column>
+<column name="definition_fi">jalka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{gho':v}, {lem:n}, {waq:n}, {paSlogh:n}, {ghop:n}, {namwech:n}</column>
@@ -1348,7 +1348,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">велосипед</column>
       <column name="definition_zh_HK">單車</column>
       <column name="definition_pt">bicicleta</column>
-<column name="definition_fi">bicycle [AUTOTRANSLATED]</column>
+<column name="definition_fi">polkupyörä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wa' rutlh qam Do Duj:n}</column>
@@ -1391,7 +1391,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">заключенный</column>
       <column name="definition_zh_HK">犯人、囚犯</column>
       <column name="definition_pt">prisioneiro</column>
-<column name="definition_fi">vanki [AUTOTRANSLATED]</column>
+<column name="definition_fi">vanki</column>
       <column name="synonyms">{jav:n:3,slang}</column>
       <column name="antonyms"></column>
       <column name="see_also">{bIghHa':n}, {'avwI':n}</column>
@@ -1434,7 +1434,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">Кам-Чи</column>
       <column name="definition_zh_HK">QAM的慈 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Qam-Chee</column>
-<column name="definition_fi">Qam-Chee [AUTOTRANSLATED]</column>
+<column name="definition_fi">Qam-Chee</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qanra':n:name}</column>
@@ -1477,7 +1477,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">Камор</column>
       <column name="definition_zh_HK">Kahmor [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kahmor</column>
-<column name="definition_fi">Kahmor [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kahmor</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1520,7 +1520,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="definition_ru">быть старым (не молодым)</column>
       <column name="definition_zh_HK">老（不年輕）</column>
       <column name="definition_pt">ser velho (não jovem)</column>
-<column name="definition_fi">be old (not young) [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla vanha (ei nuori)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Qup:v}</column>
       <column name="see_also">{qup:n}, {ngo':v}, {tIQ:v}, {QI'tu':n}</column>
@@ -1578,7 +1578,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">используйте мизинец, мизинец [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">用小指、小指 [AUTOTRANSLATED]</column>
       <column name="definition_pt">usar o dedinho</column>
-<column name="definition_fi">käytä pinkieä, pikkusormea [AUTOTRANSLATED]</column>
+<column name="definition_fi">käyttää pikkusormea</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nItlh:n}</column>
@@ -1622,7 +1622,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
           <column name="definition_ru">Дураки умирают молодыми</column>
           <column name="definition_zh_HK">傻瓜未老就已經死了。</column>
           <column name="definition_pt">Os tolos morrem jovens.</column>
-<column name="definition_fi">Tyhmät kuolevat nuorina. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tyhmät kuolevat nuorina.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1665,7 +1665,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
           <column name="definition_ru">мизинец, мизинец [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">小指</column>
           <column name="definition_pt">mindinho, dedo mindinho</column>
-<column name="definition_fi">pinkie, pikkusormi [AUTOTRANSLATED]</column>
+<column name="definition_fi">pikkusormi</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{nItlh:n}</column>
@@ -1708,7 +1708,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Канджит</column>
       <column name="definition_zh_HK">Kanjit [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kanjit</column>
-<column name="definition_fi">Kanjit [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kanjit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1751,7 +1751,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Cancri [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">巨蟹座 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Cancri</column>
-<column name="definition_fi">Cancri [AUTOTRANSLATED]</column>
+<column name="definition_fi">Cancri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1794,7 +1794,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Cancri IV [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Cancri IV [AUTOTRANSLATED]</column>
       <column name="definition_pt">Cancri IV</column>
-<column name="definition_fi">Cancri IV [AUTOTRANSLATED]</column>
+<column name="definition_fi">Cancri IV</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qanQIy:n}</column>
@@ -1837,7 +1837,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Канрад. Птица известная своим пением</column>
       <column name="definition_zh_HK">以歌曲而聞名的鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">um pássaro conhecido por sua música</column>
-<column name="definition_fi">lintu, joka tunnetaan laulustaan [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs laulustaan tunnettu lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1880,7 +1880,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Канрах</column>
       <column name="definition_zh_HK">Kahnrah [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kahnrah</column>
-<column name="definition_fi">Kahnrah [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kahnrah</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1923,7 +1923,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">лить, подливать, переливать (из одной емкости в другую)</column>
       <column name="definition_zh_HK">斟、倒（於一個容器斟入另一個）</column>
       <column name="definition_pt">verter (de um recipiente para outro)</column>
-<column name="definition_fi">kaada (astiasta toiseen) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaataa (astiasta toiseen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lIch:v}, {Qoy':v}, {qang:v:2}</column>
@@ -1967,7 +1967,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">всегда согласен с, всегда сотрудничаю с [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">永遠同意、永遠配合 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sempre concordar com, sempre cooperar com</column>
-<column name="definition_fi">aina samaa mieltä, aina yhteistyössä [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla aina samaa mieltä, tehdä aina tai rutiininomaisesti yhteistyötä jonkun kanssa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qoch:v}, {jIj:v}, {yeq:v}, {-qang:v}, {qang:v:1}</column>
@@ -2011,7 +2011,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">убеждения, принципы, стандарты, этика, идеология [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">信仰、原則、標準、道德、意識形態 [AUTOTRANSLATED]</column>
       <column name="definition_pt">confiança, princípios, normas, ética, ideologia</column>
-<column name="definition_fi">uskomukset, periaatteet, standardit, etiikka, ideologia [AUTOTRANSLATED]</column>
+<column name="definition_fi">uskomukset, periaatteet, arvot, etiikka, ideologia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wontoy:n}</column>
@@ -2055,7 +2055,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">настаивать на чём-то</column>
       <column name="definition_zh_HK">咬定 [AUTOTRANSLATED]</column>
       <column name="definition_pt">insistir</column>
-<column name="definition_fi">vaatia [AUTOTRANSLATED]</column>
+<column name="definition_fi">vaatia itsepintaisesti jotain, vaatimalla vaatia, ehdottomasti haluta jotain</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{poQ:v}</column>
@@ -2104,7 +2104,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">фундамент (структура) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">基礎（結構） [AUTOTRANSLATED]</column>
       <column name="definition_pt">fundação (estrutura)</column>
-<column name="definition_fi">säätiö (rakenne) [AUTOTRANSLATED]</column>
+<column name="definition_fi">perustus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qach:n}, {Qutlh:v}</column>
@@ -2147,7 +2147,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть предпочтительным</column>
       <column name="definition_zh_HK">更好 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser preferível</column>
-<column name="definition_fi">olla parempi [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla parempi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{maS:v}</column>
@@ -2190,7 +2190,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть точным, быть метким, быть тщательным</column>
       <column name="definition_zh_HK">準確 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser exato</column>
-<column name="definition_fi">olla tarkka [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla tarkka, virheetön, paikkansapitävä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lugh:v}, {teH:v}</column>
@@ -2233,7 +2233,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Огонь торпедами по моей команде!</column>
       <column name="definition_zh_HK">按照我的命令射擊魚雷！</column>
       <column name="definition_pt">Dispare os torpedos ao meu comando!</column>
-<column name="definition_fi">Ammu torpedot käskylläni! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ammu torpedot käskystäni!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{cha yIghuS!:sen}</column>
@@ -2276,7 +2276,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Кардассия</column>
       <column name="definition_zh_HK">「卡達西」星</column>
       <column name="definition_pt">Cardassia</column>
-<column name="definition_fi">Cardassia [AUTOTRANSLATED]</column>
+<column name="definition_fi">Cardassia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qarDaSngan:n}</column>
@@ -2319,7 +2319,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Кардассианец</column>
       <column name="definition_zh_HK">「卡達西」人</column>
       <column name="definition_pt">Cardassiano (pessoa)</column>
-<column name="definition_fi">Cardassian (henkilö) [AUTOTRANSLATED]</column>
+<column name="definition_fi">cardassi, cardassialainen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qarDaS:n}</column>
@@ -2362,7 +2362,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Кардассианский союз</column>
       <column name="definition_zh_HK">卡達西聯盟 [AUTOTRANSLATED]</column>
       <column name="definition_pt">União Cardassiana</column>
-<column name="definition_fi">Cardassian Union [AUTOTRANSLATED]</column>
+<column name="definition_fi">Cardassian unioni</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2407,7 +2407,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">быть громоздким, толстым [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">笨重</column>
       <column name="definition_pt">ser volumoso, grosso</column>
-<column name="definition_fi">olla iso, paksu [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla kookas, paksu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2451,7 +2451,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">Карган [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Kargan [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kargan</column>
-<column name="definition_fi">Kargan [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kargan</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2494,7 +2494,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">трапеция [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">梯形 [AUTOTRANSLATED]</column>
       <column name="definition_pt">trapezoide</column>
-<column name="definition_fi">puolisuunnikkaan muotoinen [AUTOTRANSLATED]</column>
+<column name="definition_fi">puolisuunnikas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{loS reD mey':n}</column>
@@ -2539,7 +2539,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">птица способна имитировать речь [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">能夠模仿言語的鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">pássaro capaz de imitar a fala</column>
-<column name="definition_fi">lintu, joka pystyy jäljittelemään puhetta [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs lintu (joka kykenee matkimaan puhetta)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qaryoq'a':n}, {vIlInHoD:n}</column>
@@ -2582,7 +2582,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">птица, способная имитировать речь, больше чем {qaryoq:n} [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">能夠模仿語音的鳥、大於{qaryoq:n} [AUTOTRANSLATED]</column>
       <column name="definition_pt">pássaro capaz de imitar a fala, maior que um {qaryoq:n}</column>
-<column name="definition_fi">lintu, joka pystyy jäljittelemään puhetta, suurempi kuin {qaryoq: n} [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs lintu (joka kykenee jäljittelemään puhetta ja on isompi kuin {qaryoq:n})</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qaryoq:n}, {vIlInHoD:n}</column>
@@ -2625,7 +2625,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">происходить, случаться, иметь место, бывать</column>
       <column name="definition_zh_HK">發生</column>
       <column name="definition_pt">ocorrer, acontecer</column>
-<column name="definition_fi">tapahtua, tapahtua [AUTOTRANSLATED]</column>
+<column name="definition_fi">tapahtua</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2670,7 +2670,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Четыре тысячи глоток могут быть перерезаны однажды ночью, бегущим человеком</column>
       <column name="definition_zh_HK">一個跑步者可能會在一夜之間切開四千個喉嚨。</column>
       <column name="definition_pt">Quatro mil gargantas podem ser cortadas em uma noite por um homem correndo.</column>
-<column name="definition_fi">Juokseva mies voi leikata neljä tuhatta kurkkua yhdessä yössä. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Juokseva mies voi leikata neljä tuhatta kurkkua yhdessä yössä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2713,7 +2713,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Бесчестие отца бесчестит его сыновей и их сыновей в течении трёх поколений</column>
       <column name="definition_zh_HK">父親的羞辱使他的兒子和兒子們遭受了三代人的羞辱。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">A desonra do pai desonra seus filhos e os filhos deles por três gerações.</column>
-<column name="definition_fi">Isän häpeä häpäisee hänen poikansa ja heidän poikansa kolmen sukupolven ajan. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Isän häpeä häpäisee hänen poikansa ja heidän poikansa kolmen sukupolven ajan.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2756,7 +2756,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Я тебя беспокою?</column>
       <column name="definition_zh_HK">我打擾你嗎？</column>
       <column name="definition_pt">Estou incomodando você?</column>
-<column name="definition_fi">Am I disturbing you? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Häiritsenkö?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2799,7 +2799,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">обертывать, заворачивать, оборачивать, упаковывать, обрамлять</column>
       <column name="definition_zh_HK">包裹、包套</column>
       <column name="definition_pt">embrulho, invólucro</column>
-<column name="definition_fi">wrap, encase [AUTOTRANSLATED]</column>
+<column name="definition_fi">kääriä, kietoa, paketoida, koteloida</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2843,7 +2843,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Аккомпанимировать(петь) инструментальной музыке</column>
       <column name="definition_zh_HK">伴奏（唱歌）伴奏樂器 [AUTOTRANSLATED]</column>
       <column name="definition_pt">acompanhar (cantar) com música instrumental</column>
-<column name="definition_fi">seuraa (laulaa) instrumentaalimusiikilla [AUTOTRANSLATED]</column>
+<column name="definition_fi">säestää (laulua soittimilla)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2886,7 +2886,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Катра (вулканская душа)</column>
       <column name="definition_zh_HK">卡特拉（火神靈魂） [AUTOTRANSLATED]</column>
       <column name="definition_pt">katra (alma vulcano)</column>
-<column name="definition_fi">katra (vulkaaninen sielu) [AUTOTRANSLATED]</column>
+<column name="definition_fi">katra (vulkanuslaisten sielu)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qa':n}</column>
@@ -2929,7 +2929,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">умник, ботан</column>
       <column name="definition_zh_HK">書呆子 [AUTOTRANSLATED]</column>
       <column name="definition_pt">nerd</column>
-<column name="definition_fi">nörtti [AUTOTRANSLATED]</column>
+<column name="definition_fi">nörtti</column>
       <column name="synonyms">{venwI':n}</column>
       <column name="antonyms"></column>
       <column name="see_also">{ven:v}</column>
@@ -2975,7 +2975,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">Почему?</column>
       <column name="definition_zh_HK">為什麼？</column>
       <column name="definition_pt">por que?</column>
-<column name="definition_fi">miksi? [AUTOTRANSLATED]</column>
+<column name="definition_fi">miksi?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3018,7 +3018,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">водопровод, воздуховод [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">水管、風管 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tubulação de água, duto</column>
-<column name="definition_fi">vesiputki, kanava [AUTOTRANSLATED]</column>
+<column name="definition_fi">vesiputki tai -johto</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'och:n}, {ghImwI':n}</column>
@@ -3061,7 +3061,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="definition_ru">плата, гонорар, взнос, арендная плата</column>
       <column name="definition_zh_HK">租金、費用 [AUTOTRANSLATED]</column>
       <column name="definition_pt">aluguel, taxa</column>
-<column name="definition_fi">rent, fee [AUTOTRANSLATED]</column>
+<column name="definition_fi">vuokra, käyttömaksu, hinta, tulli?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIl:v}, {voHDajbo' qav'ap:n}, {ghogh'ot:n}</column>
@@ -3106,7 +3106,7 @@ No English definition has been given for this word. The meaning has been derived
       <column name="definition_ru">помнить, запоминать, вспоминать</column>
       <column name="definition_zh_HK">記得 [AUTOTRANSLATED]</column>
       <column name="definition_pt">relembrar</column>
-<column name="definition_fi">muistaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">muistaa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{lIj:v}, {qawHa':v}</column>
       <column name="see_also">{qaw:n}, {wov'on:n}, {ngonDer:n}</column>
@@ -3151,7 +3151,7 @@ No English definition has been given for this word. The meaning has been derived
       <column name="definition_ru">память (способность)</column>
       <column name="definition_zh_HK">記憶（能力） [AUTOTRANSLATED]</column>
       <column name="definition_pt">memória (habilidade)</column>
-<column name="definition_fi">muisti (kyky) [AUTOTRANSLATED]</column>
+<column name="definition_fi">muisti, muistamiskyky</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qaw:v}</column>
@@ -3198,7 +3198,7 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
           <column name="definition_ru">банки памяти, банки данных</column>
           <column name="definition_zh_HK">存儲庫、數據庫 [AUTOTRANSLATED]</column>
           <column name="definition_pt">bancos de memória, bancos de dados</column>
-<column name="definition_fi">muistipankit, tietopankit [AUTOTRANSLATED]</column>
+<column name="definition_fi">muistipankki, tietopankki</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{De':n}, {mem:n}, {wa'chaw:n}</column>
@@ -3241,7 +3241,7 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
           <column name="definition_ru">подзабывать,помнить некорректно</column>
           <column name="definition_zh_HK">misremember、記錯了 [AUTOTRANSLATED]</column>
           <column name="definition_pt">lembre-se mal, lembre-se incorretamente</column>
-<column name="definition_fi">muistaa väärin, muista väärin [AUTOTRANSLATED]</column>
+<column name="definition_fi">muistaa väärin</column>
           <column name="synonyms"></column>
           <column name="antonyms">{qaw:v}</column>
           <column name="see_also"></column>
@@ -3284,7 +3284,7 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
           <column name="definition_ru">Напоминать</column>
           <column name="definition_zh_HK">提醒 [AUTOTRANSLATED]</column>
           <column name="definition_pt">lembrar</column>
-<column name="definition_fi">muistuttaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">muistuttaa jostakin</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -3345,7 +3345,7 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
       <column name="definition_ru">опрокидывать, переворачивать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">翻倒，翻過來 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tombar, virar</column>
-<column name="definition_fi">kaada, käännä [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaatua kumoon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pum:v:2}</column>
@@ -3392,7 +3392,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
           <column name="definition_ru">опрокидываться, опрокидываться, опрокидываться [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">翻倒撞倒 [AUTOTRANSLATED]</column>
           <column name="definition_pt">tombar, derrubar</column>
-<column name="definition_fi">kaatua, kaataa, kaataa [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaataa kumoon</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -3435,7 +3435,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="definition_ru">Используйте средний палец</column>
       <column name="definition_zh_HK">使用第二個（中間）手指 [AUTOTRANSLATED]</column>
       <column name="definition_pt">usar o segundo dedo (do meio)</column>
-<column name="definition_fi">käytä toista (keskimmäistä) sormea [AUTOTRANSLATED]</column>
+<column name="definition_fi">käyttää keskisormea</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nItlh:n}</column>
@@ -3478,7 +3478,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
           <column name="definition_ru">средний палец, безымянный палец</column>
           <column name="definition_zh_HK">中指、第二根手指 [AUTOTRANSLATED]</column>
           <column name="definition_pt">dedo médio, segundo dedo</column>
-<column name="definition_fi">keskisormi, toinen sormi [AUTOTRANSLATED]</column>
+<column name="definition_fi">keskisormi</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{nItlh:n}</column>
@@ -3564,7 +3564,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="definition_ru">родитель (гендерно-нейтральный термин) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">父母（不分性別） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pai (termo neutro em termos de gênero)</column>
-<column name="definition_fi">vanhempi (sukupuolineutraali termi) [AUTOTRANSLATED]</column>
+<column name="definition_fi">(lapsen) vanhempi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SoS:n}, {vav:n}</column>
@@ -3607,7 +3607,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="definition_ru">быть трудностью, быть проблемой, быть надоедливым, быть докучающим</column>
       <column name="definition_zh_HK">是一個問題、麻煩 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser um problema, ser um incômodo</column>
-<column name="definition_fi">olla ongelma, olla hässäkkä [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla ongelma, olla hankaluus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3650,7 +3650,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="definition_ru">Нет проблем</column>
       <column name="definition_zh_HK">沒問題。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Sem problemas.</column>
-<column name="definition_fi">Ei ongelmaa. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ei ongelmaa.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3693,7 +3693,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="definition_ru">замещать, заменять</column>
       <column name="definition_zh_HK">更換 [AUTOTRANSLATED]</column>
       <column name="definition_pt">substituir, trocar</column>
-<column name="definition_fi">korvata [AUTOTRANSLATED]</column>
+<column name="definition_fi">korvata</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tam:v:2}, {mech:v}, {'e' qa':sen}</column>
@@ -3758,7 +3758,7 @@ Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretaç
       <column name="definition_ru">дух [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">精神 [AUTOTRANSLATED]</column>
       <column name="definition_pt">espírito</column>
-<column name="definition_fi">henki [AUTOTRANSLATED]</column>
+<column name="definition_fi">henki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nIyma':n}, {Qun:n}, {porgh:n}, {qatra':n}</column>
@@ -3803,7 +3803,7 @@ Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretaç
       <column name="definition_ru">Мы сражаемся, чтобы обогатить наш дух</column>
       <column name="definition_zh_HK">我們努力豐富精神。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Lutamos para enriquecer o espírito.</column>
-<column name="definition_fi">Taistelemme rikastuttaaksemme henkeä. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Taistelemme rikastuttaaksemme henkeä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3846,7 +3846,7 @@ Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretaç
       <column name="definition_ru">замена (постоянная)</column>
       <column name="definition_zh_HK">更換（永久） [AUTOTRANSLATED]</column>
       <column name="definition_pt">substituição (permanente)</column>
-<column name="definition_fi">korvaava (pysyvä) [AUTOTRANSLATED]</column>
+<column name="definition_fi">korvaaja (pysyvä, ei sijainen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qa':v}, {lIw:n}, {velqa':n}, {qa'meH vIttlhegh:n}</column>
@@ -3889,7 +3889,7 @@ Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretaç
           <column name="definition_ru">заменяющая пословица</column>
           <column name="definition_zh_HK">替代諺語</column>
           <column name="definition_pt">provérbio de substituição</column>
-<column name="definition_fi">korvaava sananlasku [AUTOTRANSLATED]</column>
+<column name="definition_fi">korvaussanonta</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -3945,7 +3945,7 @@ Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</c
           <column name="definition_ru">номер версии (младший) [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">版本號（次要） [AUTOTRANSLATED]</column>
           <column name="definition_pt">número da versão (menor)</column>
-<column name="definition_fi">versionumero (pieni) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sivuversionumero</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{nIqHom mI':n}</column>
@@ -3988,7 +3988,7 @@ Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</c
       <column name="definition_ru">Каминар [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">卡米納爾 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kaminar</column>
-<column name="definition_fi">Kaminar [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kaminar</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qelpIngan:n}</column>
@@ -4031,7 +4031,7 @@ Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</c
       <column name="definition_ru">обезьяноподобное существо [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">猴子般的生物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">criatura parecida com um macaco</column>
-<column name="definition_fi">apinan kaltainen olento [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs apinan kaltainen olento</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4074,7 +4074,7 @@ Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</c
       <column name="definition_ru">вид животного, ка'радж [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">動物類型、ka'raj [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de animal, ka'raj</column>
-<column name="definition_fi">eläintyyppi, ka'raj [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs eläin, ka'raj</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4133,7 +4133,7 @@ Não confunda isso com o {Qaj:n} de nome semelhante. [AUTOTRANSLATED]</column>
       <column name="definition_ru">конец (коридора, туннеля, водовода, трубы Джеффриса, канализации, дороги, моста, длинного поля и т. д.) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">結束（走廊，隧道，管道、杰弗里斯管、下水道、道路、橋樑、長場等） [AUTOTRANSLATED]</column>
       <column name="definition_pt">final (de corredor, túnel, conduto, tubo Jeffries, esgoto, estrada, ponte, campo longo, etc.)</column>
-<column name="definition_fi">pää (käytävän, tunnelin, putken, Jeffries-putken, viemärin, tien, sillan, pitkän kentän jne.) [AUTOTRANSLATED]</column>
+<column name="definition_fi">(käytävän, tunnelin, putken, tien, sillan tms.) pää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'och:n}, {QI:n}, {megh'an:n}, {'er'In:n}, {'ImSIng:n}</column>
@@ -4176,7 +4176,7 @@ Não confunda isso com o {Qaj:n} de nome semelhante. [AUTOTRANSLATED]</column>
       <column name="definition_ru">Очень большая птица</column>
       <column name="definition_zh_HK">一隻非常大的鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">um pássaro realmente grande</column>
-<column name="definition_fi">todella iso lintu [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs todella iso musta lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4232,7 +4232,7 @@ Não confunda isso com o {Qaj:n} de nome semelhante. [AUTOTRANSLATED]</column>
       <column name="definition_ru">Генезис, "Большой взрыв"</column>
       <column name="definition_zh_HK">創世、「大爆炸」</column>
       <column name="definition_pt">Gênesis, "Big Bang"</column>
-<column name="definition_fi">1. Mooseksen kirja, "Big Bang" [AUTOTRANSLATED]</column>
+<column name="definition_fi">maailman synty, alkuräjähdys</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bI'reS:n}</column>
@@ -4288,7 +4288,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">Ка'вак (традиционная игра) с обручем и палкой</column>
       <column name="definition_zh_HK">qa'vak（傳統遊戲）、玩箍和棍子的遊戲 [AUTOTRANSLATED]</column>
       <column name="definition_pt">qa'vak (jogo tradicional), jogo jogado com aro e bastão</column>
-<column name="definition_fi">qa'vak (perinteinen peli), peli, jota pelataan vanteella ja kepillä [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kepillä ja renkaalla pelattava perinteinen peli, qa'vak</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{gho:n}, {naQ:n:1}</column>
@@ -4331,7 +4331,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">кофе</column>
       <column name="definition_zh_HK">咖啡 [AUTOTRANSLATED]</column>
       <column name="definition_pt">café</column>
-<column name="definition_fi">kahvia [AUTOTRANSLATED]</column>
+<column name="definition_fi">kahvi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ra'taj:n}</column>
@@ -4374,7 +4374,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">сожмите [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">擠壓（風袋樂器） [AUTOTRANSLATED]</column>
       <column name="definition_pt">squeeze (instrumento de sopro)</column>
-<column name="definition_fi">purista (tuulilasin instrumentti) [AUTOTRANSLATED]</column>
+<column name="definition_fi">puristaa (säkkipilliä tms. soitinta)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chu':v:3}, {rey:v}, {ngaH:v}</column>
@@ -4418,7 +4418,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">идея</column>
       <column name="definition_zh_HK">理念 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ideia</column>
-<column name="definition_fi">idea [AUTOTRANSLATED]</column>
+<column name="definition_fi">idea</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nger:n}, {ngoD:n}, {vuD:n}</column>
@@ -4461,7 +4461,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">упразднять, освобождать(покидать ранее занимаемое место), оставлять</column>
       <column name="definition_zh_HK">空出 [AUTOTRANSLATED]</column>
       <column name="definition_pt">desocupar</column>
-<column name="definition_fi">vapautua [AUTOTRANSLATED]</column>
+<column name="definition_fi">tyhjentää, lähteä, evakuoida</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chIm:v}, {choS:v}</column>
@@ -4504,7 +4504,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">чан, бочка (для хранения ликёра)</column>
       <column name="definition_zh_HK">桶、桶（用於儲存酒） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tonel, barril (para armazenamento de bebidas alcoólicas)</column>
-<column name="definition_fi">tynnyri, tynnyri (viinin varastointiin) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sammio, tynnyri (viinin tms. varastointiin)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIq:n}, {pugh:n}, {HaySIn:n}</column>
@@ -4547,7 +4547,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">возмущаться, обижаться, негодовать</column>
       <column name="definition_zh_HK">憤恨 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ressentir</column>
-<column name="definition_fi">resent [AUTOTRANSLATED]</column>
+<column name="definition_fi">paheksua</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pay:v}, {qeHHa':v}</column>
@@ -4590,7 +4590,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">прощать</column>
       <column name="definition_zh_HK">原諒、不同意 [AUTOTRANSLATED]</column>
       <column name="definition_pt">perdoar, não ressentir</column>
-<column name="definition_fi">anteeksi, edustamaton [AUTOTRANSLATED]</column>
+<column name="definition_fi">antaa anteeksi, lopettaa paheksuminen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeH:v}</column>
@@ -4634,7 +4634,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">быть ворчливым, быть брюзгливым, быть недоброжелательным, быть дрянным, быть придирчивым</column>
       <column name="definition_zh_HK">不高興、意思是 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ranzinza, mau</column>
-<column name="definition_fi">röyhkeä, tarkoittaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla pahansisuinen, olla ilkeä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Doch:v}, {veqlargh:n}, {'I'SeghIm:n}</column>
@@ -4677,7 +4677,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">рассматривать, учитывать, считаться с чем-то, принимать во внимание</column>
       <column name="definition_zh_HK">考慮、考慮到 [AUTOTRANSLATED]</column>
       <column name="definition_pt">considerar, levar em consideração</column>
-<column name="definition_fi">harkita, ottaa huomioon [AUTOTRANSLATED]</column>
+<column name="definition_fi">ottaa huomioon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4720,7 +4720,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">кивать головой [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">點頭</column>
       <column name="definition_pt">aceno com a cabeça</column>
-<column name="definition_fi">nyökkäys [AUTOTRANSLATED]</column>
+<column name="definition_fi">nyökätä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4763,7 +4763,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">Kal'Hyah [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">卡爾海亞 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kal'Hyah</column>
-<column name="definition_fi">Kal'Hyah [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kal'Hyah, "klingonien polttarit"</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tawI'yan:n}, {lop:n}, {tlhogh:n}</column>
@@ -4806,7 +4806,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="definition_ru">келликам</column>
       <column name="definition_zh_HK">《kellicam》（太空公里）</column>
       <column name="definition_pt">kellicam</column>
-<column name="definition_fi">kellicam [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs pituuden yksikkö, kellikam (n. 2 kilometriä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chuq:n}, {loghqam:n}</column>
@@ -4851,7 +4851,7 @@ The information about the length comes from {The Star Trek Encyclopedia, 4th ed.
       <column name="definition_ru">Келпиен [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Kelpian [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kelpien</column>
-<column name="definition_fi">Kelpien [AUTOTRANSLATED]</column>
+<column name="definition_fi">kelpiläinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngan:n}</column>
@@ -4937,7 +4937,7 @@ The information about the length comes from {The Star Trek Encyclopedia, 4th ed.
       <column name="definition_ru">приносить, привозить, нести, занести</column>
       <column name="definition_zh_HK">帶來 [AUTOTRANSLATED]</column>
       <column name="definition_pt">trazer</column>
-<column name="definition_fi">tuoda [AUTOTRANSLATED]</column>
+<column name="definition_fi">tuoda</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4981,7 +4981,7 @@ The information about the length comes from {The Star Trek Encyclopedia, 4th ed.
       <column name="definition_ru">предок</column>
       <column name="definition_zh_HK">祖先</column>
       <column name="definition_pt">antepassado</column>
-<column name="definition_fi">esi-isä [AUTOTRANSLATED]</column>
+<column name="definition_fi">esivanhempi, esi-isä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ISyar:n}</column>
@@ -5040,7 +5040,7 @@ No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfure
       <column name="definition_ru">Недавно</column>
       <column name="definition_zh_HK">近來、不久前</column>
       <column name="definition_pt">recentemente, há pouco tempo</column>
-<column name="definition_fi">recently, a short time ago [AUTOTRANSLATED]</column>
+<column name="definition_fi">äskettäin, vähän aikaa sitten, jonkin aikaa sitten</column>
       <column name="synonyms"></column>
       <column name="antonyms">{qenHa':adv:hyp}</column>
       <column name="see_also">{tugh:adv}</column>
@@ -5083,7 +5083,7 @@ No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfure
       <column name="definition_ru">нести, содержать, везти, транспортировать, перевозить, переправлять</column>
       <column name="definition_zh_HK">攜帶、傳達 [AUTOTRANSLATED]</column>
       <column name="definition_pt">transportar, conduzir</column>
-<column name="definition_fi">kantaa, välittää [AUTOTRANSLATED]</column>
+<column name="definition_fi">kantaa, kuljettaa, välittää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIj:v}, {Qay:v}</column>
@@ -5130,7 +5130,7 @@ No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfure
       <column name="definition_ru">Канг</column>
       <column name="definition_zh_HK">炕 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kang</column>
-<column name="definition_fi">Kang [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kang</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mara:n:name}</column>
@@ -5173,7 +5173,7 @@ No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfure
       <column name="definition_ru">сокровище, добыча, трофеи, награбленное добро, грабеж, хищение, разграбление, добыча грабителя</column>
       <column name="definition_zh_HK">寶藏、戰利品、掠奪、贓物、戰利品 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tesouro, saque, pilhagem</column>
-<column name="definition_fi">aarre, saalis, ryöstö, ryöstö, ryöstö [AUTOTRANSLATED]</column>
+<column name="definition_fi">aarre, ryöstö- tai sotasaalis</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DerlIq:n}</column>
@@ -5232,7 +5232,7 @@ A semelhança com o "Capitão Kang" ({qeng HoD:n@@qeng:n, HoD:n}) é coincidênc
       <column name="definition_ru">встреча, собрание</column>
       <column name="definition_zh_HK">會議 [AUTOTRANSLATED]</column>
       <column name="definition_pt">reunião</column>
-<column name="definition_fi">meeting [AUTOTRANSLATED]</column>
+<column name="definition_fi">kokous, tapaaminen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rojmab qep:n}</column>
@@ -5278,7 +5278,7 @@ A semelhança com o "Capitão Kang" ({qeng HoD:n@@qeng:n, HoD:n}) é coincidênc
       <column name="definition_ru">ежегодная встреча спикеров клингонов в Германии [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">德國克林崗語者年會</column>
       <column name="definition_pt">reunião anual de oradores klingons na Alemanha</column>
-<column name="definition_fi">vuotuinen Klingonin puhujien kokous Saksassa [AUTOTRANSLATED]</column>
+<column name="definition_fi">vuotuinen klingonin puhujien kokoontuminen Saksassa Saarbrückenissä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Quvar:n:name}</column>
@@ -5327,7 +5327,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">Ежегодная конференция KLI [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">克林崗語言學院年會</column>
       <column name="definition_pt">Conferência anual KLI</column>
-<column name="definition_fi">KLI annual conference [AUTOTRANSLATED]</column>
+<column name="definition_fi">KLI:n vuotuinen konferenssi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qepHom'a':n}</column>
@@ -5370,7 +5370,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">военные учения, боевые тренировки</column>
       <column name="definition_zh_HK">演習（軍事） [AUTOTRANSLATED]</column>
       <column name="definition_pt">exercício militar, exercício</column>
-<column name="definition_fi">drill (military) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sulkeisharjoitus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeq:v}, {tuH:n}</column>
@@ -5413,7 +5413,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">практиковать, практиковаться, заниматься, тренироваться, тренировать, готовить (речь не о еде), подготавливать</column>
       <column name="definition_zh_HK">練習、訓練、準備 [AUTOTRANSLATED]</column>
       <column name="definition_pt">praticar, treinar, preparar</column>
-<column name="definition_fi">harjoitella, kouluttaa, valmistautua [AUTOTRANSLATED]</column>
+<column name="definition_fi">harjoitella, treenata, valmistautua</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeq:n}, {ghuH:v}, {ghuS:v:1}</column>
@@ -5456,7 +5456,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">фекалии</column>
       <column name="definition_zh_HK">屎、糞便</column>
       <column name="definition_pt">matéria fecal</column>
-<column name="definition_fi">ulosteet [AUTOTRANSLATED]</column>
+<column name="definition_fi">uloste</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{taQbang:n:2}, {ghIm:v}, {vuj:v}, {puch:n}</column>
@@ -5499,7 +5499,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">место для разжигания огня</column>
       <column name="definition_zh_HK">壁爐 [AUTOTRANSLATED]</column>
       <column name="definition_pt">lareira</column>
-<column name="definition_fi">takka [AUTOTRANSLATED]</column>
+<column name="definition_fi">tulisija, takka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qul:n}, {vut:v}</column>
@@ -5542,7 +5542,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">совет, консультация</column>
       <column name="definition_zh_HK">忠告 [AUTOTRANSLATED]</column>
       <column name="definition_pt">conselho, recomendação</column>
-<column name="definition_fi">advice [AUTOTRANSLATED]</column>
+<column name="definition_fi">neuvo, ohje</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeS:v}, {chup:v}</column>
@@ -5585,7 +5585,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">советовать, рекомендовать</column>
       <column name="definition_zh_HK">勸告 [AUTOTRANSLATED]</column>
       <column name="definition_pt">aconselhar</column>
-<column name="definition_fi">neuvoo [AUTOTRANSLATED]</column>
+<column name="definition_fi">neuvoa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chup:v}, {qeS:n}</column>
@@ -5628,7 +5628,7 @@ Klingonin kieli-instituutin virallinen vuosikonferenssi tunnetaan nimellä {qep'
       <column name="definition_ru">Клингонское искусство войны</column>
       <column name="definition_zh_HK">克林崗戰爭藝術 [AUTOTRANSLATED]</column>
       <column name="definition_pt">A Arte da Guerra Klingon</column>
-<column name="definition_fi">The Klingon Art of War [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kirja, Klingonien Sodankäynnin taito</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -5687,7 +5687,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">лис</column>
       <column name="definition_zh_HK">狐狸</column>
       <column name="definition_pt">Raposa</column>
-<column name="definition_fi">fox [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ketun kaltainen eläin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{targh:n}</column>
@@ -5730,7 +5730,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">бежать, бегать трусцой, бежать трусцой</column>
       <column name="definition_zh_HK">跑步</column>
       <column name="definition_pt">correr</column>
-<column name="definition_fi">juosta, lenkillä [AUTOTRANSLATED]</column>
+<column name="definition_fi">juosta, hölkätä, lenkkeillä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yIt:v}, {lID:v}</column>
@@ -5774,7 +5774,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">Тип соуса (кетчуп)</column>
       <column name="definition_zh_HK">茄汁</column>
       <column name="definition_pt">tipo de molho</column>
-<column name="definition_fi">kastikkeen tyyppi [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs sakeutetusta marinadista valmistettu kastike</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Se'tu':n}</column>
@@ -5817,7 +5817,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">быть унылым, быть неинтересным, быть вялым, быть безрадостным</column>
       <column name="definition_zh_HK">變得遲鈍、無趣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser chato, desinteressante</column>
-<column name="definition_fi">olla tylsää, mielenkiintoista [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla tylsä, mielenkiinnoton, ikävystyttävä</column>
       <column name="synonyms">{Dal:v}</column>
       <column name="antonyms">{Daj:v:1}</column>
       <column name="see_also"></column>
@@ -5860,7 +5860,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">толпиться, теснить, вытеcнять, напирать, собираться толпой</column>
       <column name="definition_zh_HK">人群 [AUTOTRANSLATED]</column>
       <column name="definition_pt">agrupar (multidão)</column>
-<column name="definition_fi">crowd [AUTOTRANSLATED]</column>
+<column name="definition_fi">tunkea, ahtaa ?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qev:n}, {ghom'a':n}, {boq:n:1}, {DIvI':n}, {tlhach:n}</column>
@@ -5903,7 +5903,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">толпа, людская масса, толкотня</column>
       <column name="definition_zh_HK">人群、大眾</column>
       <column name="definition_pt">multidão</column>
-<column name="definition_fi">crowd [AUTOTRANSLATED]</column>
+<column name="definition_fi">väkijoukko, väentungos</column>
       <column name="synonyms">{ghom'a':n}</column>
       <column name="antonyms"></column>
       <column name="see_also">{qev:v}, {boq:n:1}, {DIvI':n}, {tlhach:n}, {Dojmey:n}</column>
@@ -5946,7 +5946,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">Кевас (товар)</column>
       <column name="definition_zh_HK">kevas（交易商品） [AUTOTRANSLATED]</column>
       <column name="definition_pt">kevas (uma mercadoria comercializada)</column>
-<column name="definition_fi">kevas (vaihdettu hyödyke) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kauppatavara, kevas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naghboch:n}</column>
@@ -5989,7 +5989,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">щека</column>
       <column name="definition_zh_HK">臉頰</column>
       <column name="definition_pt">bochecha</column>
-<column name="definition_fi">jowl, poski [AUTOTRANSLATED]</column>
+<column name="definition_fi">poski</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qab:n}, {nuj:n}</column>
@@ -6032,7 +6032,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">используйте безымянный палец</column>
       <column name="definition_zh_HK">使用戒指（第三）手指 [AUTOTRANSLATED]</column>
       <column name="definition_pt">usar o anel (terceiro) dedo</column>
-<column name="definition_fi">käytä rengas (kolmas) sormi [AUTOTRANSLATED]</column>
+<column name="definition_fi">käyttää nimetöntä (sormea)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nItlh:n}</column>
@@ -6075,7 +6075,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">безымянный палец</column>
       <column name="definition_zh_HK">無名指、第三指 [AUTOTRANSLATED]</column>
       <column name="definition_pt">dedo anelar, terceiro dedo</column>
-<column name="definition_fi">rengassormi, kolmas sormi [AUTOTRANSLATED]</column>
+<column name="definition_fi">nimetön (sormi)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nItlh:n}</column>
@@ -6118,7 +6118,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">напрасно, бесполезно [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">徒勞無功 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser em vão, fútil</column>
-<column name="definition_fi">olla turha, turha [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla turha, hyödytön, tulokseton</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lo'laHbe':v}</column>
@@ -6162,7 +6162,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">влагалище [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">陰道 [AUTOTRANSLATED]</column>
       <column name="definition_pt">vagina</column>
-<column name="definition_fi">emätin [AUTOTRANSLATED]</column>
+<column name="definition_fi">emätin, vagina</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'InSep:n}, {chI'ID:n}, {ngagh:v}, {nga'chuq:v}</column>
@@ -6206,7 +6206,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">К'Элейр [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">凱利 [AUTOTRANSLATED]</column>
       <column name="definition_pt">K'Ehleyr</column>
-<column name="definition_fi">K'Ehleyr [AUTOTRANSLATED]</column>
+<column name="definition_fi">K'Ehleyr</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wo'rIv:n:name}</column>
@@ -6250,7 +6250,7 @@ O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRA
       <column name="definition_ru">Кейлесс Незабываемый</column>
       <column name="definition_zh_HK">令人難忘的「凱勒斯」</column>
       <column name="definition_pt">Kahless, o inesquecível</column>
-<column name="definition_fi">Kahless unohtumaton [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kahless Unohtumaton</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{luqara':n:name}, {moratlh:n:name}, {qanjIt:n:name}, {qeylIS bov:n}, {qeylIS bov nubwI':n}, {meQboghnom:n}, {bo'retlh:n}</column>
@@ -6361,7 +6361,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Меч Кейлеса</column>
       <column name="definition_zh_HK">「凱勒斯」的光榮聖劍</column>
       <column name="definition_pt">Espada de Kahless</column>
-<column name="definition_fi">Kahlessin miekka [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kahlessin miekka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{QIStaq:n}</column>
@@ -6404,7 +6404,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Эра Кейлеса</column>
       <column name="definition_zh_HK">「凱勒斯」時代</column>
       <column name="definition_pt">a era de Kahless</column>
-<column name="definition_fi">Kahlessin aikakausi [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kahlessin aikakausi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeylIS bov nubwI':n}</column>
@@ -6447,7 +6447,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">До эры Кейлеса</column>
       <column name="definition_zh_HK">「凱勒斯」時代前</column>
       <column name="definition_pt">antes da era de Kahless</column>
-<column name="definition_fi">ennen Kahlessin aikakautta [AUTOTRANSLATED]</column>
+<column name="definition_fi">ennen Kahlessin aikakautta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qeylIS bov:n}</column>
@@ -6490,7 +6490,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Глаза Кейлеса, игра в которую играют с помощью игральных костей</column>
       <column name="definition_zh_HK">「凱勒斯」的眼睛（色子遊戲）</column>
       <column name="definition_pt">Olhos de Kahless, um jogo jogado com dados</column>
-<column name="definition_fi">Eyes of Kahless, a game played with dice [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs noppapeli, Kahlessin silmät</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI' nagh:n}, {loy:v}, {qIp:v}</column>
@@ -6534,7 +6534,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Кайвак</column>
       <column name="definition_zh_HK">Kayvak [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kayvak</column>
-<column name="definition_fi">Kayvak [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kayvak</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6577,7 +6577,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Пища Кайвака</column>
       <column name="definition_zh_HK">Kayvak的食物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Comida de Kayvak</column>
-<column name="definition_fi">Kayvak's food [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kayvakin liha, hapan/käynyt liha?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{roghmoH:v}</column>
@@ -6620,7 +6620,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">морковь</column>
       <column name="definition_zh_HK">胡蘿蔔 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cenoura</column>
-<column name="definition_fi">porkkana [AUTOTRANSLATED]</column>
+<column name="definition_fi">porkkana</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oQqar:n}</column>
@@ -6663,7 +6663,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Галактика</column>
       <column name="definition_zh_HK">星系 [AUTOTRANSLATED]</column>
       <column name="definition_pt">galáxia</column>
-<column name="definition_fi">galaxy [AUTOTRANSLATED]</column>
+<column name="definition_fi">galaksi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{logh:n}, {jogh:n}</column>
@@ -6706,7 +6706,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">Галактический рубеж</column>
       <column name="definition_zh_HK">銀河邊緣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">borda galáctica</column>
-<column name="definition_fi">galaktinen reunus [AUTOTRANSLATED]</column>
+<column name="definition_fi">galaksin reuna</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6749,7 +6749,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">осуждать, приговорить, обречь, выносить приговор</column>
       <column name="definition_zh_HK">譴責 [AUTOTRANSLATED]</column>
       <column name="definition_pt">condenar</column>
-<column name="definition_fi">condemn [AUTOTRANSLATED]</column>
+<column name="definition_fi">tuomita</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naDHa':v}, {mIl:v}</column>
@@ -6792,7 +6792,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">шутка</column>
       <column name="definition_zh_HK">玩笑、笑話</column>
       <column name="definition_pt">piada</column>
-<column name="definition_fi">joke [AUTOTRANSLATED]</column>
+<column name="definition_fi">vitsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qID:v}, {tlhaQ:v}</column>
@@ -6835,7 +6835,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">шутить, пошутить, рассказать шутку, подшучивать, балагурить</column>
       <column name="definition_zh_HK">講笑、開玩笑</column>
       <column name="definition_pt">fazer uma piada, contar uma piada</column>
-<column name="definition_fi">vitsi, tee vitsi, kerro vitsi [AUTOTRANSLATED]</column>
+<column name="definition_fi">vitsailla, kertoa vitsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sagh:v}, {tlhaQ:v}, {chem:v}, {qID:n}</column>
@@ -6880,7 +6880,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">кратчайший путь, кратчайшее расстояние</column>
       <column name="definition_zh_HK">捷徑 [AUTOTRANSLATED]</column>
       <column name="definition_pt">atalho</column>
-<column name="definition_fi">shortcut [AUTOTRANSLATED]</column>
+<column name="definition_fi">oikotie, oikopolku</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6923,7 +6923,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">встретиться впервые</column>
       <column name="definition_zh_HK">見面（第一次） [AUTOTRANSLATED]</column>
       <column name="definition_pt">encontra (pela primeira vez)</column>
-<column name="definition_fi">tavata (ensimmäistä kertaa) [AUTOTRANSLATED]</column>
+<column name="definition_fi">tavata joku (ensimmäistä kertaa)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lIH:v:1}, {ghom:v}, {pIH:v:1}</column>
@@ -6966,7 +6966,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">быть чёрным</column>
       <column name="definition_zh_HK">黑色</column>
       <column name="definition_pt">ser preto</column>
-<column name="definition_fi">be black [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla musta</column>
       <column name="synonyms"></column>
       <column name="antonyms">{chIS:v}</column>
       <column name="see_also">{Hurgh:v}</column>
@@ -7009,7 +7009,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
           <column name="definition_ru">серый [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">灰色 [AUTOTRANSLATED]</column>
           <column name="definition_pt">cinza (cor)</column>
-<column name="definition_fi">gray [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla harmaa</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -7095,7 +7095,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
       <column name="definition_ru">отменять, прерывать (компьютерную программу)</column>
       <column name="definition_zh_HK">取消;中止（計算機程序） [AUTOTRANSLATED]</column>
       <column name="definition_pt">cancelar; abortar (um programa de computador)</column>
-<column name="definition_fi">cancel; abort (a computer program) [AUTOTRANSLATED]</column>
+<column name="definition_fi">peruuttaa; keskeyttää (tietokoneohjelma)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bup:v}</column>
@@ -7140,7 +7140,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">уделять внимание, концентрироваться, сосредотачиваться</column>
       <column name="definition_zh_HK">注意、集中註意力 [AUTOTRANSLATED]</column>
       <column name="definition_pt">prestar atenção, concentre-se</column>
-<column name="definition_fi">pay attention, concentrate [AUTOTRANSLATED]</column>
+<column name="definition_fi">kiinnittää huomiota johonkin, keskittyä johonkin</column>
       <column name="synonyms"></column>
       <column name="antonyms">{qImHa':v}</column>
       <column name="see_also">{buS:v}, {paQ:v}</column>
@@ -7183,7 +7183,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
           <column name="definition_ru">игнорировать, пренебрегать, не уважать</column>
           <column name="definition_zh_HK">漠視 [AUTOTRANSLATED]</column>
           <column name="definition_pt">desprezar</column>
-<column name="definition_fi">jättää huomiotta [AUTOTRANSLATED]</column>
+<column name="definition_fi">jättää huomiotta</column>
           <column name="synonyms"></column>
           <column name="antonyms">{qIm:v}</column>
           <column name="see_also"></column>
@@ -7226,7 +7226,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">Ким'лак</column>
       <column name="definition_zh_HK">K'mlak [AUTOTRANSLATED]</column>
       <column name="definition_pt">K'mlak</column>
-<column name="definition_fi">K'mlak [AUTOTRANSLATED]</column>
+<column name="definition_fi">K'mlak</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7269,7 +7269,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">Сезон</column>
       <column name="definition_zh_HK">季節 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estação (temporada)</column>
-<column name="definition_fi">kausi [AUTOTRANSLATED]</column>
+<column name="definition_fi">vuodenaika</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{poH:n}</column>
@@ -7312,7 +7312,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">Кин'лат</column>
       <column name="definition_zh_HK">Quin'lat [AUTOTRANSLATED]</column>
       <column name="definition_pt">Quin'lat</column>
-<column name="definition_fi">Quin'lat [AUTOTRANSLATED]</column>
+<column name="definition_fi">Quin'lat</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qoH vuvbe' SuS.:sen}</column>
@@ -7355,7 +7355,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">коса, серп, фалькс [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鐮刀，鐮刀，鐮刀 [AUTOTRANSLATED]</column>
       <column name="definition_pt">foice, falx</column>
-<column name="definition_fi">scythe, sickle, falx [AUTOTRANSLATED]</column>
+<column name="definition_fi">viikate, sirppi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Satlh:n}, {Du':n}, {wIj:v}. {yob:v}</column>
@@ -7398,7 +7398,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">наносить удар (с помощью руки, кулака, орудия)</column>
       <column name="definition_zh_HK">打（用手、拳頭、工具） [AUTOTRANSLATED]</column>
       <column name="definition_pt">golpe (com mão, punho, implemento)</column>
-<column name="definition_fi">hit (with hand, fist, implement) [AUTOTRANSLATED]</column>
+<column name="definition_fi">lyödä (kädellä tai esineellä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{moq:v}, {tlhaw':v}, {weq:v}</column>
@@ -7442,7 +7442,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">бунтовать, поднимать мятеж, поднимать восстание</column>
       <column name="definition_zh_HK">兵變 [AUTOTRANSLATED]</column>
       <column name="definition_pt">motim</column>
-<column name="definition_fi">kapina [AUTOTRANSLATED]</column>
+<column name="definition_fi">kapinoida (aluksella)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Daw':v}</column>
@@ -7528,7 +7528,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">континуум [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">連續體 [AUTOTRANSLATED]</column>
       <column name="definition_pt">continuum</column>
-<column name="definition_fi">continuum [AUTOTRANSLATED]</column>
+<column name="definition_fi">jatkumo, kontinuumi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhey'at:n}, {roDSer:n}, {yutlhegh:n}</column>
@@ -7572,7 +7572,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="definition_ru">Раптор (класс судна)</column>
       <column name="definition_zh_HK">猛禽（船隻） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Raptor (nave)</column>
-<column name="definition_fi">Raptor (alus) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs alustyyppi, petolintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Duj:n:1}, {toQDuj:n}</column>
@@ -7617,7 +7617,7 @@ In the {Haynes BoP Manual:src}, this ship class is referred to as {raptor:n:noli
       <column name="definition_ru">быть возможным, быть вероятным</column>
       <column name="definition_zh_HK">有可能</column>
       <column name="definition_pt">ser possível</column>
-<column name="definition_fi">olla mahdollista [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla mahdollinen</column>
       <column name="synonyms">{DuH:v}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7661,7 +7661,7 @@ In the {Haynes BoP Manual:src}, this ship class is referred to as {raptor:n:noli
       <column name="definition_ru">Вид птицы</column>
       <column name="definition_zh_HK">一種鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">uma espécie de pássaro</column>
-<column name="definition_fi">a kind of bird [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7707,7 +7707,7 @@ Note that {qItbe'@@qIt:v, -be':v} means "impossible".</column>
       <column name="definition_ru">К'Тинга (класс судна)</column>
       <column name="definition_zh_HK">K'Tinga類（船） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Classe K'Tinga (embarcação)</column>
-<column name="definition_fi">K'Tinga class (vessel) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs alustyyppi, K'Tinga-luokka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Duj:n:1}</column>
@@ -7758,7 +7758,7 @@ Note that {qItbe'@@qIt:v, -be':v} means "impossible".</column>
       <column name="definition_ru">девушка легкого поведения [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">妓女 [AUTOTRANSLATED]</column>
       <column name="definition_pt">prostituta</column>
-<column name="definition_fi">prostitute [AUTOTRANSLATED]</column>
+<column name="definition_fi">prostituoitu</column>
       <column name="synonyms">{'opuHwI':n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7801,7 +7801,7 @@ Note that {qItbe'@@qIt:v, -be':v} means "impossible".</column>
       <column name="definition_ru">Колено</column>
       <column name="definition_zh_HK">膝頭蓋</column>
       <column name="definition_pt">joelho</column>
-<column name="definition_fi">knee [AUTOTRANSLATED]</column>
+<column name="definition_fi">polvi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tor:v:1}, {'eD:v:1}, {'uS:n}, {DeSqIv:n}, {wIlle':n}, {cha'neH:n}, {nev'ob:n}, {reStav:n}</column>
@@ -7844,7 +7844,7 @@ Note that {qItbe'@@qIt:v, -be':v} means "impossible".</column>
       <column name="definition_ru">Часть тела (не идентифицирована)</column>
       <column name="definition_zh_HK">身體部位（未進一步確定） [AUTOTRANSLATED]</column>
       <column name="definition_pt">parte do corpo (não mais identificada)</column>
-<column name="definition_fi">body part (not further identified) [AUTOTRANSLATED]</column>
+<column name="definition_fi">ruumiinosa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -7895,7 +7895,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">пойти в ванную [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">去洗手間 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ir ao banheiro</column>
-<column name="definition_fi">to go to the bathroom [AUTOTRANSLATED]</column>
+<column name="definition_fi">käydä vessassa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{puch:n}</column>
@@ -7940,7 +7940,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">К'Ворт (класс судна)</column>
       <column name="definition_zh_HK">K'Vort類（船） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Classe K'Vort (navio)</column>
-<column name="definition_fi">K'Vort class (vessel) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs alustyyppi, K'Vort-luokka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{toQDuj:n}</column>
@@ -7991,7 +7991,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">подписывать договор, ставить подпись под договором</column>
       <column name="definition_zh_HK">簽署（條約） [AUTOTRANSLATED]</column>
       <column name="definition_pt">assinar (um tratado)</column>
-<column name="definition_fi">sign (a treaty) [AUTOTRANSLATED]</column>
+<column name="definition_fi">allekirjoittaa (sopimus)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mab:n:1}, {rom:n}, {Sutlh:v}</column>
@@ -8034,7 +8034,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">зарегистрироваться, зарегистрироваться (аккаунт) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">註冊，註冊（帳戶） [AUTOTRANSLATED]</column>
       <column name="definition_pt">registrar-se, inscrever-se em (uma conta)</column>
-<column name="definition_fi">register for, sign up for (an account) [AUTOTRANSLATED]</column>
+<column name="definition_fi">rekisteröityä, luoda tunnus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngaQHa'moH:v:1}</column>
@@ -8079,7 +8079,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">Кимпек</column>
       <column name="definition_zh_HK">K'mpec [AUTOTRANSLATED]</column>
       <column name="definition_pt">K'mpec</column>
-<column name="definition_fi">K'mpec [AUTOTRANSLATED]</column>
+<column name="definition_fi">K'mpec</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8123,7 +8123,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">партнёр, напарник, компаньон, соучастник</column>
       <column name="definition_zh_HK">夥伴 [AUTOTRANSLATED]</column>
       <column name="definition_pt">parceiro</column>
-<column name="definition_fi">partner [AUTOTRANSLATED]</column>
+<column name="definition_fi">kumppani</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8166,7 +8166,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">выжимать, впихивать, втискивать, вдавливать (в пространство)</column>
       <column name="definition_zh_HK">擠壓（進入一個空間） [AUTOTRANSLATED]</column>
       <column name="definition_pt">espremer (em um espaço)</column>
-<column name="definition_fi">purista (tilaan) [AUTOTRANSLATED]</column>
+<column name="definition_fi">puristaa (tilaan)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngaH:v}, {'olQan:n}</column>
@@ -8209,7 +8209,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">резинка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">橡膠 [AUTOTRANSLATED]</column>
       <column name="definition_pt">borracha</column>
-<column name="definition_fi">rubber [AUTOTRANSLATED]</column>
+<column name="definition_fi">kumi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8252,7 +8252,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">внутри, интерьер [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">裡面、入便</column>
       <column name="definition_pt">interior, parte de dentro</column>
-<column name="definition_fi">inside, interior [AUTOTRANSLATED]</column>
+<column name="definition_fi">sisällä, sisäpuoli</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Hur:n}</column>
       <column name="see_also">{ngaS:v}, {joj:n}, {botlh:n:1}</column>
@@ -8295,7 +8295,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">стабилизатор внутренней опоры [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">內支撐穩定劑 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estabilizador de suporte interno</column>
-<column name="definition_fi">inner support stabilizer [AUTOTRANSLATED]</column>
+<column name="definition_fi">sisäinen tukivakain?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8338,7 +8338,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">пояс, ремень, портупея</column>
       <column name="definition_zh_HK">腰帶</column>
       <column name="definition_pt">cinto</column>
-<column name="definition_fi">vyö [AUTOTRANSLATED]</column>
+<column name="definition_fi">vyö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'alnIl:n}</column>
@@ -8391,7 +8391,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">Ухо</column>
       <column name="definition_zh_HK">耳朵（外部、軟骨皮瓣） [AUTOTRANSLATED]</column>
       <column name="definition_pt">orelha (retalho externo cartilaginoso)</column>
-<column name="definition_fi">ear (external, cartilaginous flap) [AUTOTRANSLATED]</column>
+<column name="definition_fi">korvalehti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{teS:n}, {Serrum:n}</column>
@@ -8448,7 +8448,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="definition_ru">не слышать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">聽不到 [AUTOTRANSLATED]</column>
       <column name="definition_pt">não ouvir</column>
-<column name="definition_fi">ei kuulla [AUTOTRANSLATED]</column>
+<column name="definition_fi">ei kuulla</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tuQmoH:v}, {Qoy:v}, {peghmey vIttlhegh:n}</column>
@@ -8508,7 +8508,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">дурак, глупец</column>
       <column name="definition_zh_HK">傻瓜</column>
       <column name="definition_pt">idiota</column>
-<column name="definition_fi">fool [AUTOTRANSLATED]</column>
+<column name="definition_fi">tyhmä, typerys, hölmö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dogh:v}, {chul:v}</column>
@@ -8551,7 +8551,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">Ветер не уважает глупца</column>
       <column name="definition_zh_HK">風不尊重傻瓜。</column>
       <column name="definition_pt">O vento não respeita um tolo.</column>
-<column name="definition_fi">The wind does not respect a fool. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tuuli ei kunnioita typeryksiä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghaH vuv SuS neH:sen}, {qInlat:n}</column>
@@ -8594,7 +8594,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">утёс, крутой обрыв</column>
       <column name="definition_zh_HK">懸崖、山崖</column>
       <column name="definition_pt">penhasco</column>
-<column name="definition_fi">cliff [AUTOTRANSLATED]</column>
+<column name="definition_fi">kallio, kallionjyrkänne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HuD:n:1}</column>
@@ -8637,7 +8637,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">или, и/или (объединяет предложения)</column>
       <column name="definition_zh_HK">或者、和/或（加入句子） [AUTOTRANSLATED]</column>
       <column name="definition_pt">ou, e / ou (juntando frases)</column>
-<column name="definition_fi">or, and/or (joining sentences) [AUTOTRANSLATED]</column>
+<column name="definition_fi">tai, ja/tai (inklusiivinen tai) (yhdistää lauseita, verbejä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ej:conj}, {pagh:conj}, {joq:conj}</column>
@@ -8681,7 +8681,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">произносят [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">發音</column>
       <column name="definition_pt">pronunciar</column>
-<column name="definition_fi">pronounce [AUTOTRANSLATED]</column>
+<column name="definition_fi">ääntää, lausua</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{QIch wab Ho'DoS:n}</column>
@@ -8725,7 +8725,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">Кол</column>
       <column name="definition_zh_HK">科爾 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kol</column>
-<column name="definition_fi">Kol [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kol</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8811,7 +8811,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">Колот</column>
       <column name="definition_zh_HK">Koloth [AUTOTRANSLATED]</column>
       <column name="definition_pt">Koloth</column>
-<column name="definition_fi">Koloth [AUTOTRANSLATED]</column>
+<column name="definition_fi">Koloth</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -8854,7 +8854,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">ядро, сердечник, сердцевина, сущность, эссенция</column>
       <column name="definition_zh_HK">核心、本質 [AUTOTRANSLATED]</column>
       <column name="definition_pt">núcleo, essência</column>
-<column name="definition_fi">core, essence [AUTOTRANSLATED]</column>
+<column name="definition_fi">perusolemus, ydin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SuqSIv:n}, {ghanroq:n}</column>
@@ -8897,7 +8897,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">золото</column>
       <column name="definition_zh_HK">金</column>
       <column name="definition_pt">ouro</column>
-<column name="definition_fi">gold [AUTOTRANSLATED]</column>
+<column name="definition_fi">kulta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tamler:n}, {baS:n}</column>
@@ -8941,7 +8941,7 @@ Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH
       <column name="definition_ru">Котар</column>
       <column name="definition_zh_HK">塔爾 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kotar</column>
-<column name="definition_fi">Kotar [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kotar</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9000,7 +9000,7 @@ Esse nome às vezes é escrito como Kortar ({qortar:n:name,nolink}). [AUTOTRANSL
       <column name="definition_ru">тип еды [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">食物種類 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de comida</column>
-<column name="definition_fi">type of food [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruokalaji</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9043,7 +9043,7 @@ Esse nome às vezes é escrito como Kortar ({qortar:n:name,nolink}). [AUTOTRANSL
       <column name="definition_ru">записывать, сочинять, составлять</column>
       <column name="definition_zh_HK">記錄、撰寫 [AUTOTRANSLATED]</column>
       <column name="definition_pt">gravar, compor</column>
-<column name="definition_fi">record, compose [AUTOTRANSLATED]</column>
+<column name="definition_fi">kirjoittaa ylös, tallentaa, säveltää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghItlh:v}, {laD:v}</column>
@@ -9103,7 +9103,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">Композитор</column>
       <column name="definition_zh_HK">作曲家</column>
       <column name="definition_pt">compositor de música</column>
-<column name="definition_fi">songwriter [AUTOTRANSLATED]</column>
+<column name="definition_fi">lauluntekijä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9146,7 +9146,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">Арестовывать, прозводить арест</column>
       <column name="definition_zh_HK">逮捕 [AUTOTRANSLATED]</column>
       <column name="definition_pt">prender</column>
-<column name="definition_fi">arrest [AUTOTRANSLATED]</column>
+<column name="definition_fi">pidättää joku</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HeS:v}, {HeSwI':n}, {Hung:n}, {ghan'Iq:n}, {chut:n}</column>
@@ -9189,7 +9189,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">робот</column>
       <column name="definition_zh_HK">機械人</column>
       <column name="definition_pt">robô</column>
-<column name="definition_fi">robot [AUTOTRANSLATED]</column>
+<column name="definition_fi">robotti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9232,7 +9232,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">ботнет (компьютерный жаргон)</column>
       <column name="definition_zh_HK">殭屍網絡（計算機行話） [AUTOTRANSLATED]</column>
       <column name="definition_pt">botnet (jargão do computador)</column>
-<column name="definition_fi">botnet (computer jargon) [AUTOTRANSLATED]</column>
+<column name="definition_fi">bottiverkko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9275,7 +9275,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">убирать мусор, продувать, копаться в отбросах</column>
       <column name="definition_zh_HK">清除 [AUTOTRANSLATED]</column>
       <column name="definition_pt">limpar</column>
-<column name="definition_fi">scavenge [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaivella, tonkia, haalia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9318,7 +9318,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">Кор</column>
       <column name="definition_zh_HK">「寇爾」</column>
       <column name="definition_pt">Kor</column>
-<column name="definition_fi">Kor [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kor</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Da'ar:n}</column>
@@ -9361,7 +9361,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">Дом Кора</column>
       <column name="definition_zh_HK">Kor之家 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Casa de Kor</column>
-<column name="definition_fi">House of Kor [AUTOTRANSLATED]</column>
+<column name="definition_fi">Korin huone</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tuq:n}</column>
@@ -9404,7 +9404,7 @@ Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que
       <column name="definition_ru">семья</column>
       <column name="definition_zh_HK">家庭</column>
       <column name="definition_pt">família</column>
-<column name="definition_fi">family [AUTOTRANSLATED]</column>
+<column name="definition_fi">perhe</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tuq:n}, {tuqnIgh:n}</column>
@@ -9459,7 +9459,7 @@ This word refers to something which is not capable of language (even though its 
       <column name="definition_ru">Коракс</column>
       <column name="definition_zh_HK">Korax [AUTOTRANSLATED]</column>
       <column name="definition_pt">Korax</column>
-<column name="definition_fi">Korax [AUTOTRANSLATED]</column>
+<column name="definition_fi">Korax</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9502,7 +9502,7 @@ This word refers to something which is not capable of language (even though its 
       <column name="definition_ru">заткнись, заполните дыру [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">停下來、填一個洞 [AUTOTRANSLATED]</column>
       <column name="definition_pt">pare, encha um buraco</column>
-<column name="definition_fi">pysähdy, täytä reikä [AUTOTRANSLATED]</column>
+<column name="definition_fi">tukkia, täyttää (reikä tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghoD:v}, {teb:v}, {qung:n}</column>
@@ -9545,7 +9545,7 @@ This word refers to something which is not capable of language (even though its 
       <column name="definition_ru">пробка, соска [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">軟木塞、安撫奶嘴 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cortiça, chupeta</column>
-<column name="definition_fi">cork, pacifier [AUTOTRANSLATED]</column>
+<column name="definition_fi">korkki, tutti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yuvtlhe':n}, {bal:n}</column>
@@ -9598,7 +9598,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Корнелий</column>
       <column name="definition_zh_HK">科尼利厄斯 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Cornelius</column>
-<column name="definition_fi">Cornelius [AUTOTRANSLATED]</column>
+<column name="definition_fi">Cornelius</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hamlet:n:name}</column>
@@ -9641,7 +9641,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Корвак</column>
       <column name="definition_zh_HK">Qorvaqk [AUTOTRANSLATED]</column>
       <column name="definition_pt">Qorvaqk</column>
-<column name="definition_fi">Qorvaqk [AUTOTRANSLATED]</column>
+<column name="definition_fi">Qorvaqk</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nuch:n}</column>
@@ -9684,7 +9684,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Корвит (тип грызуна)</column>
       <column name="definition_zh_HK">korvit、囓齒動物的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">korvit, tipo de roedor</column>
-<column name="definition_fi">korvit, type of rodent [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs jyrsijän kaltainen eläin, korvit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chuSwI':n}</column>
@@ -9727,7 +9727,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">день рождения</column>
       <column name="definition_zh_HK">生日 [AUTOTRANSLATED]</column>
       <column name="definition_pt">aniversário</column>
-<column name="definition_fi">syntymäpäivä [AUTOTRANSLATED]</column>
+<column name="definition_fi">syntymäpäivä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'echletHom:n}, {bogh:v}, {DISjaj:n}</column>
@@ -9770,7 +9770,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Кос'Карий [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">科斯卡里 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kos'Karii</column>
-<column name="definition_fi">Kos'Karii [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs käärmeen kaltainen eläin, Kos'Karii</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -9814,7 +9814,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">лента, лента [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">絲帶、膠帶 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fita, banda</column>
-<column name="definition_fi">ribbon, tape [AUTOTRANSLATED]</column>
+<column name="definition_fi">nauha, suikale, kaistale</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIrgh:n}</column>
@@ -9859,7 +9859,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">щекотать, пощекотать, доставлять удовольствие</column>
       <column name="definition_zh_HK">擳（痕）</column>
       <column name="definition_pt">cócegas</column>
-<column name="definition_fi">tickle [AUTOTRANSLATED]</column>
+<column name="definition_fi">kutittaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hagh:v}</column>
@@ -9903,7 +9903,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">заслуживать, быть достойным, гарантировать, выступать гарантом, ручаться</column>
       <column name="definition_zh_HK">值得的、保證 [AUTOTRANSLATED]</column>
       <column name="definition_pt">merecer, garantir</column>
-<column name="definition_fi">deserve, warrant [AUTOTRANSLATED]</column>
+<column name="definition_fi">ansaita</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIb:n}</column>
@@ -9947,7 +9947,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">маленькое собачье существо [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">小犬似的生物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">pequena criatura canina</column>
-<column name="definition_fi">small canine-like creature [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs pieni koiran kaltainen eläin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{targh:n}, {ngavyaw':n}</column>
@@ -9990,7 +9990,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">умолять, просить, ходатайствовать, выпрашивать, упрашивать</column>
       <column name="definition_zh_HK">懇求、求求 [AUTOTRANSLATED]</column>
       <column name="definition_pt">suplicar, implorar</column>
-<column name="definition_fi">plead, beg [AUTOTRANSLATED]</column>
+<column name="definition_fi">anoa, kerjätä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhob:v}</column>
@@ -10033,7 +10033,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">мир, царство</column>
       <column name="definition_zh_HK">世界、境界</column>
       <column name="definition_pt">mundo, reino</column>
-<column name="definition_fi">world, realm [AUTOTRANSLATED]</column>
+<column name="definition_fi">maailma</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'umber:n}</column>
@@ -10079,7 +10079,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Кола (напиток)</column>
       <column name="definition_zh_HK">可樂（汽水）</column>
       <column name="definition_pt">Cola (de refrigerante)</column>
-<column name="definition_fi">cola (soft drink) [AUTOTRANSLATED]</column>
+<column name="definition_fi">cola (virvoitusjuoma)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'awje':n}</column>
@@ -10122,7 +10122,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Ко'лек</column>
       <column name="definition_zh_HK">Ko'lek [AUTOTRANSLATED]</column>
       <column name="definition_pt">Ko'lek</column>
-<column name="definition_fi">Ko'lek [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ko'lek</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10165,7 +10165,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">мокрота, слизь, флегма</column>
       <column name="definition_zh_HK">痰 [AUTOTRANSLATED]</column>
       <column name="definition_pt">catarro</column>
-<column name="definition_fi">phlegm [AUTOTRANSLATED]</column>
+<column name="definition_fi">lima</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hugh:n}, {ghup:v}, {tuy':v}, {'IqnaH:n}</column>
@@ -10208,7 +10208,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">Коридан</column>
       <column name="definition_zh_HK">Coridan [AUTOTRANSLATED]</column>
       <column name="definition_pt">Coridan</column>
-<column name="definition_fi">Coridan [AUTOTRANSLATED]</column>
+<column name="definition_fi">Coridan</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10251,7 +10251,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">соли хрома [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鉻鹽 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sais de cromo</column>
-<column name="definition_fi">chromium salts [AUTOTRANSLATED]</column>
+<column name="definition_fi">kromisuola</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qo'rIn DIr:n}</column>
@@ -10294,7 +10294,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="definition_ru">натуральная кожа [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">皮革 [AUTOTRANSLATED]</column>
       <column name="definition_pt">couro</column>
-<column name="definition_fi">leather [AUTOTRANSLATED]</column>
+<column name="definition_fi">nahka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIr:n}</column>
@@ -10341,7 +10341,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="definition_ru">политическая марионетка</column>
       <column name="definition_zh_HK">木偶（政治） [AUTOTRANSLATED]</column>
       <column name="definition_pt">fantoche (política)</column>
-<column name="definition_fi">puppet (politics) [AUTOTRANSLATED]</column>
+<column name="definition_fi">nukke (-hallitsija, -valtio tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{woQ:n}</column>
@@ -10386,7 +10386,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="definition_ru">Великое древо мира</column>
       <column name="definition_zh_HK">世界大樹</column>
       <column name="definition_pt">a grande árvore do mundo</column>
-<column name="definition_fi">the Great Tree of the World [AUTOTRANSLATED]</column>
+<column name="definition_fi">Suuri maailmanpuu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10430,7 +10430,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="definition_ru">быть редким</column>
       <column name="definition_zh_HK">很少見 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser raro</column>
-<column name="definition_fi">be rare [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla harvinainen</column>
       <column name="synonyms"></column>
       <column name="antonyms">{motlh:v}</column>
       <column name="see_also">{Soj qub:n}, {pIjHa':adv}</column>
@@ -10473,7 +10473,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="definition_ru">размах, бег, растяжение (между) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">跨度，奔跑，伸展 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estender-se, correr, esticar-se (entre)</column>
-<column name="definition_fi">span, run, stretch (between) [AUTOTRANSLATED]</column>
+<column name="definition_fi">väli (aikaväli, välimatka tms. väli kahden pisteen välillä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIch:v}, {joj:n}</column>
@@ -10535,7 +10535,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">похищать детей</column>
       <column name="definition_zh_HK">綁架 [AUTOTRANSLATED]</column>
       <column name="definition_pt">raptar</column>
-<column name="definition_fi">kidnap [AUTOTRANSLATED]</column>
+<column name="definition_fi">kidnapata, siepata</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{voHDajbo':n}, {vub:n}</column>
@@ -10578,7 +10578,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">Тип соуса</column>
       <column name="definition_zh_HK">《qud》（醬汁的類型）</column>
       <column name="definition_pt">tipo de molho</column>
-<column name="definition_fi">type of sauce [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kastike</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{burgh quD:n}, {'un quD:n}</column>
@@ -10621,7 +10621,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">совершать рейс</column>
       <column name="definition_zh_HK">巡航 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cruzeiro</column>
-<column name="definition_fi">cruise [AUTOTRANSLATED]</column>
+<column name="definition_fi">ajaa, matkata (tasaisella nopeudella, vakio- tai matkanopeudella)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{leng:v}, {ngIv:v}</column>
@@ -10664,7 +10664,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">крейсерская скорость</column>
       <column name="definition_zh_HK">巡航速度 [AUTOTRANSLATED]</column>
       <column name="definition_pt">velocidade de cruzeiro</column>
-<column name="definition_fi">cruising speed [AUTOTRANSLATED]</column>
+<column name="definition_fi">matkanopeus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10707,7 +10707,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">крейсер</column>
       <column name="definition_zh_HK">巡洋艦</column>
       <column name="definition_pt">cruzador</column>
-<column name="definition_fi">cruiser [AUTOTRANSLATED]</column>
+<column name="definition_fi">risteilijä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -10750,7 +10750,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">наследие [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">遺產 [AUTOTRANSLATED]</column>
       <column name="definition_pt">herança</column>
-<column name="definition_fi">heritage [AUTOTRANSLATED]</column>
+<column name="definition_fi">perintö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tIgh:n}, {lurDech:n}, {'ISyar:n}</column>
@@ -10794,7 +10794,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">нарезать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">切片、刻 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fatiar, esculpir</column>
-<column name="definition_fi">slice, carve [AUTOTRANSLATED]</column>
+<column name="definition_fi">viipaloida, suikaloida</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{baylaD:n}</column>
@@ -10837,7 +10837,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">перхоть</column>
       <column name="definition_zh_HK">頭皮 [AUTOTRANSLATED]</column>
       <column name="definition_pt">caspa (nos cabelos)</column>
-<column name="definition_fi">hilse [AUTOTRANSLATED]</column>
+<column name="definition_fi">hilse</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIr:n}, {nach:n}, {jIb:n}</column>
@@ -10880,7 +10880,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">огонь, пламя</column>
       <column name="definition_zh_HK">火</column>
       <column name="definition_pt">fogo</column>
-<column name="definition_fi">fire [AUTOTRANSLATED]</column>
+<column name="definition_fi">tuli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhIch:n}, {meQ:v}, {qerjIq:n}, {tIpqan:n}</column>
@@ -10923,7 +10923,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">искра</column>
           <column name="definition_zh_HK">火花 [AUTOTRANSLATED]</column>
           <column name="definition_pt">faísca</column>
-<column name="definition_fi">spark [AUTOTRANSLATED]</column>
+<column name="definition_fi">kipinä</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{pan:v:1}</column>
@@ -10968,7 +10968,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">вулкан</column>
           <column name="definition_zh_HK">火山</column>
           <column name="definition_pt">vulcão</column>
-<column name="definition_fi">volcano [AUTOTRANSLATED]</column>
+<column name="definition_fi">tulivuori</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qul ngeng:n}, {vaHbo':n}, {QIStaq:n}</column>
@@ -11011,7 +11011,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">огненная шкура (еда)</column>
           <column name="definition_zh_HK">火皮（食物）</column>
           <column name="definition_pt">pele de fogo (comida)</column>
-<column name="definition_fi">fire skin (food) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruokalaji, tuli-iho</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qul DIr yISop!:sen}</column>
@@ -11054,7 +11054,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">скорее!поторопись!</column>
           <column name="definition_zh_HK">趕快！動作快點！ [AUTOTRANSLATED]</column>
           <column name="definition_pt">Se apresse! Mova-se rapidamente!</column>
-<column name="definition_fi">Hurry up! Move quickly! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kiirehdi! Liiku nopeasti!</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{pav:v}, {nom:adv}
@@ -11099,7 +11099,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">танцор с огнём</column>
           <column name="definition_zh_HK">火舞者 [AUTOTRANSLATED]</column>
           <column name="definition_pt">dançarina de fogo</column>
-<column name="definition_fi">fire dancer [AUTOTRANSLATED]</column>
+<column name="definition_fi">tulitanssija</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -11142,7 +11142,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">Мечта огня!</column>
           <column name="definition_zh_HK">火之夢 [AUTOTRANSLATED]</column>
           <column name="definition_pt">O sonho do fogo</column>
-<column name="definition_fi">The Dream of the Fire [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs romaani, Tulen unelma</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -11185,7 +11185,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">матч, поединок</column>
           <column name="definition_zh_HK">比賽 [AUTOTRANSLATED]</column>
           <column name="definition_pt">partida</column>
-<column name="definition_fi">match [AUTOTRANSLATED]</column>
+<column name="definition_fi">tulitikku</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -11228,7 +11228,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">Территория, заполненная лавой, внутри вулкана</column>
           <column name="definition_zh_HK">火山內的火湖</column>
           <column name="definition_pt">área cheia de lava dentro de um vulcão</column>
-<column name="definition_fi">lava-filled area inside a volcano [AUTOTRANSLATED]</column>
+<column name="definition_fi">laavan täyttämä alue tulivuoren sisällä</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qulHuD:n}, {QIStaq:n}, {vaHbo':n}, {ngeng HeH:n}</column>
@@ -11271,7 +11271,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">Дом огня (название оперы)</column>
           <column name="definition_zh_HK">火之家、歌劇的名字 [AUTOTRANSLATED]</column>
           <column name="definition_pt">Casa do Fogo, nome de uma ópera</column>
-<column name="definition_fi">House of Fire, name of an opera [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ooppera, Tulen huone</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qul:n}, {tuq:n}</column>
@@ -11314,7 +11314,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">пломбир [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">奶油 [AUTOTRANSLATED]</column>
       <column name="definition_pt">creme</column>
-<column name="definition_fi">kerma [AUTOTRANSLATED]</column>
+<column name="definition_fi">kerma</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nIm:n}, {'Ir:v:2}</column>
@@ -11357,7 +11357,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">править, управлять </column>
       <column name="definition_zh_HK">治理 [AUTOTRANSLATED]</column>
       <column name="definition_pt">governar</column>
-<column name="definition_fi">govern [AUTOTRANSLATED]</column>
+<column name="definition_fi">hallita</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{loH:v}, {teblaw':n}, {qum:n}</column>
@@ -11400,7 +11400,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">правительство</column>
       <column name="definition_zh_HK">政府</column>
       <column name="definition_pt">governo</column>
-<column name="definition_fi">government [AUTOTRANSLATED]</column>
+<column name="definition_fi">hallitus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{loH:n}, {teblaw':n}, {qum:v}</column>
@@ -11443,7 +11443,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">правитель,губернатор</column>
       <column name="definition_zh_HK">州長 [AUTOTRANSLATED]</column>
       <column name="definition_pt">governador</column>
-<column name="definition_fi">governor [AUTOTRANSLATED]</column>
+<column name="definition_fi">kuvernööri, hallitsija</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11486,7 +11486,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">Средняя школа [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">公立學校</column>
       <column name="definition_pt">escola pública</column>
-<column name="definition_fi">julkinen koulu [AUTOTRANSLATED]</column>
+<column name="definition_fi">julkinen koulu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11530,7 +11530,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">история</column>
       <column name="definition_zh_HK">歷史</column>
       <column name="definition_pt">história</column>
-<column name="definition_fi">historia [AUTOTRANSLATED]</column>
+<column name="definition_fi">historia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11574,7 +11574,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">ругать, бранить, распекать, выговаривать, брюжзать</column>
       <column name="definition_zh_HK">罵 [AUTOTRANSLATED]</column>
       <column name="definition_pt">repreender</column>
-<column name="definition_fi">torua [AUTOTRANSLATED]</column>
+<column name="definition_fi">torua, nuhdella</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11617,7 +11617,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">Историю пишут победители</column>
           <column name="definition_zh_HK">歷史是勝利者寫的。</column>
           <column name="definition_pt">A história é escrita pelos vencedores.</column>
-<column name="definition_fi">Voittajat kirjoittavat historian. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Voittajat kirjoittavat historian.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -11660,7 +11660,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">История (наука)</column>
           <column name="definition_zh_HK">歷史學</column>
           <column name="definition_pt">ciência da história</column>
-<column name="definition_fi">historian tiede [AUTOTRANSLATED]</column>
+<column name="definition_fi">historia (tiede)</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qun:n}, {QeD:n}, {quntej:n}</column>
@@ -11703,7 +11703,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
           <column name="definition_ru">историк</column>
           <column name="definition_zh_HK">歷史學家</column>
           <column name="definition_pt">historiador</column>
-<column name="definition_fi">historian [AUTOTRANSLATED]</column>
+<column name="definition_fi">historioitsija, historiantutkija</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qunQeD:n}, {tej:n}</column>
@@ -11746,7 +11746,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">Наречие (МВЛ) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">副詞、狀語</column>
       <column name="definition_pt">advérbio</column>
-<column name="definition_fi">adverbi (ial) [AUTOTRANSLATED]</column>
+<column name="definition_fi">adverbi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chuvmey:n}</column>
@@ -11789,7 +11789,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">Кунивас</column>
       <column name="definition_zh_HK">Kunivas [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kunivas</column>
-<column name="definition_fi">Kunivas [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kunivas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11832,7 +11832,7 @@ Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extrem
       <column name="definition_ru">дыра (как дыра в музыкальном инструменте) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">窿、孔</column>
       <column name="definition_pt">buraco (como um buraco em um instrumento musical)</column>
-<column name="definition_fi">hole (like a hole in a musical instrument) [AUTOTRANSLATED]</column>
+<column name="definition_fi">reikä (puhallinsoittimessa tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Heng:v}, {QemjIq:n}, {'och:n}, {qorgh:v}</column>
@@ -11887,7 +11887,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">старший, старец</column>
       <column name="definition_zh_HK">長老</column>
       <column name="definition_pt">ancião</column>
-<column name="definition_fi">elder [AUTOTRANSLATED]</column>
+<column name="definition_fi">vanhin, vanhus, vanhempi ihminen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qan:v:1}</column>
@@ -11938,7 +11938,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">патриарх, матриарх</column>
       <column name="definition_zh_HK">族長、女家長 [AUTOTRANSLATED]</column>
       <column name="definition_pt">patriarca, matriarca</column>
-<column name="definition_fi">patriarch, matriarch [AUTOTRANSLATED]</column>
+<column name="definition_fi">patriarkka, matriarkka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -11981,7 +11981,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">Совет старейшин</column>
       <column name="definition_zh_HK">長老會</column>
       <column name="definition_pt">Conselho dos Anciãos</column>
-<column name="definition_fi">Vanhinten neuvosto [AUTOTRANSLATED]</column>
+<column name="definition_fi">Vanhinten neuvosto</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -12024,7 +12024,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">случилось одновременно</column>
       <column name="definition_zh_HK">同時發生</column>
       <column name="definition_pt">acontecer simultaneamente</column>
-<column name="definition_fi">happen simultaneously [AUTOTRANSLATED]</column>
+<column name="definition_fi">tapahtua samanaikaisesti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIbI':adv}, {ngugh:adv}, {wanI':n}, {nItebHa':adv}</column>
@@ -12092,7 +12092,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">быть жадным, быть алчным</column>
       <column name="definition_zh_HK">貪得無厭 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser ganancioso</column>
-<column name="definition_fi">ole ahne [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla ahne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mut:v}, {var:v}, {verengan:n}</column>
@@ -12135,7 +12135,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">архитектор (Моршканский диалект)</column>
       <column name="definition_zh_HK">建築師（Morskan） [AUTOTRANSLATED]</column>
       <column name="definition_pt">arquiteto (Morskan)</column>
-<column name="definition_fi">architect (Morskan) [AUTOTRANSLATED]</column>
+<column name="definition_fi">arkkitehti (Morskan murteessa)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mo'rISqa':n}</column>
@@ -12178,7 +12178,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">фасоль, бобы [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">豆</column>
       <column name="definition_pt">feijão</column>
-<column name="definition_fi">papu, pavut [AUTOTRANSLATED]</column>
+<column name="definition_fi">papu, pavut</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vIno'va' qurgh:n}, {naH:n}, {'oQqar:n}</column>
@@ -12221,7 +12221,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">ингредиент [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">成分 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ingrediente</column>
-<column name="definition_fi">ainesosa [AUTOTRANSLATED]</column>
+<column name="definition_fi">ainesosa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mIw:n}, {HIl'aD:n}</column>
@@ -12264,7 +12264,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">парик [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">假髮</column>
       <column name="definition_pt">peruca</column>
-<column name="definition_fi">peruukki [AUTOTRANSLATED]</column>
+<column name="definition_fi">peruukki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jIb:n}, {jech:n}</column>
@@ -12307,7 +12307,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">стул, кресло</column>
       <column name="definition_zh_HK">櫈</column>
       <column name="definition_pt">cadeira</column>
-<column name="definition_fi">chair [AUTOTRANSLATED]</column>
+<column name="definition_fi">tuoli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ba':v}, {raS:n}, {quSlab:n}</column>
@@ -12350,7 +12350,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">это же очевидно!</column>
       <column name="definition_zh_HK">這很明顯 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Isso é óbvio</column>
-<column name="definition_fi">that's obvious [AUTOTRANSLATED]</column>
+<column name="definition_fi">se on ilmeistä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -12395,7 +12395,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">Это место занято?</column>
       <column name="definition_zh_HK">這個座位有人嗎？</column>
       <column name="definition_pt">Este assento está ocupado?</column>
-<column name="definition_fi">Is this seat taken? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Onko tämä paikka varattu?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -12438,7 +12438,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">диван, скамейка, кресло для нескольких человек [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">沙發、長凳、多位的椅子</column>
       <column name="definition_pt">sofá, banco, cadeira para várias pessoas</column>
-<column name="definition_fi">sohva, penkki, tuoli useille ihmisille [AUTOTRANSLATED]</column>
+<column name="definition_fi">sohva, penkki, usean ihmisen tuoli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{quS:n}</column>
@@ -12481,7 +12481,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">кристалл (геологическое формирование)</column>
       <column name="definition_zh_HK">水晶</column>
       <column name="definition_pt">cristal (formação geológica)</column>
-<column name="definition_fi">kide (geologinen muodostus) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kide (geologinen muodostelma)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naghboch:n}</column>
@@ -12524,7 +12524,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">соль (кулинарная, галит) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鹽（煮食，鹽石） [AUTOTRANSLATED]</column>
       <column name="definition_pt">sal (culinária, halita)</column>
-<column name="definition_fi">salt (culinary, halite) [AUTOTRANSLATED]</column>
+<column name="definition_fi">suola (ruoanlaitossa, vuorisuola)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -12567,7 +12567,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">предсказывать, прогнозировать</column>
       <column name="definition_zh_HK">預卜</column>
       <column name="definition_pt">prever</column>
-<column name="definition_fi">predict [AUTOTRANSLATED]</column>
+<column name="definition_fi">ennustaa (viihteellisesti, taikauskoisesti)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'aq:v}, {ghut:v}</column>
@@ -12610,7 +12610,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">Катлютч (тип оружия)</column>
       <column name="definition_zh_HK">kut'luch、手持武器的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">kut'luch, tipo de arma de mão</column>
-<column name="definition_fi">kut'luch, type of hand weapon [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs teräase, kut'luch</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -12653,7 +12653,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">иерархическая структура</column>
       <column name="definition_zh_HK">層次結構 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estrutura hierárquica</column>
-<column name="definition_fi">hierarkinen rakenne [AUTOTRANSLATED]</column>
+<column name="definition_fi">hierarkinen rakenne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlham:n:2,slang}, {nugh:n}</column>
@@ -12696,7 +12696,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">Церемония катлютч</column>
       <column name="definition_zh_HK">Kut'luch儀式 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Cerimônia de Kut'luch</column>
-<column name="definition_fi">Kut'luch Ceremony [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kut'luch-seremonia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qutluch:n}, {tay:n:2}</column>
@@ -12739,7 +12739,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">быть дешевым, быть недорогим</column>
       <column name="definition_zh_HK">便宜 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser barato</column>
-<column name="definition_fi">be cheap [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla halpa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wagh:v}</column>
       <column name="see_also"></column>
@@ -12782,7 +12782,7 @@ Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {
       <column name="definition_ru">честь</column>
       <column name="definition_zh_HK">榮譽</column>
       <column name="definition_pt">honra</column>
-<column name="definition_fi">honor [AUTOTRANSLATED]</column>
+<column name="definition_fi">(henkilökohtainen) kunnia</column>
       <column name="synonyms"></column>
       <column name="antonyms">{DavHam:n}, {chIvo':n}</column>
       <column name="see_also">{quv:v}</column>
@@ -12843,7 +12843,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">быть почтенным, быть почитаемым</column>
       <column name="definition_zh_HK">榮幸、可敬</column>
       <column name="definition_pt">ser honrado, ser honrável</column>
-<column name="definition_fi">ole kunnia, ole kunnia [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla kunnioitettu, kunnioitettava, kunniallinen</column>
       <column name="synonyms"></column>
       <column name="antonyms">{quvHa':v}</column>
       <column name="see_also">{batlh:adv}, {mIl:v}, {HoQ:v}, {Qaq:v}, {quv:n}</column>
@@ -12887,7 +12887,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">быть обесчещенным</column>
           <column name="definition_zh_HK">丟面子、被羞辱</column>
           <column name="definition_pt">ser desonrado</column>
-<column name="definition_fi">olla häpeällistä [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla häpäisty, häpeällinen, kunniaton</column>
           <column name="synonyms"></column>
           <column name="antonyms">{quv:v}</column>
           <column name="see_also">{ghe'tor:n}, {HoQ:v}, {mIl:v}, {Qaq:v}</column>
@@ -12930,7 +12930,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">бесчестие</column>
           <column name="definition_zh_HK">羞辱 [AUTOTRANSLATED]</column>
           <column name="definition_pt">desonra</column>
-<column name="definition_fi">häpeä [AUTOTRANSLATED]</column>
+<column name="definition_fi">häpeä</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -12973,7 +12973,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">полоса неудач</column>
           <column name="definition_zh_HK">接二連三地失敗 [AUTOTRANSLATED]</column>
           <column name="definition_pt">série de derrotas</column>
-<column name="definition_fi">tappioputki [AUTOTRANSLATED]</column>
+<column name="definition_fi">tappioputki</column>
           <column name="synonyms">{lujwI' mIr:n}</column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -13016,7 +13016,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">чтить, почитать</column>
           <column name="definition_zh_HK">榮譽 [AUTOTRANSLATED]</column>
           <column name="definition_pt">honrar</column>
-<column name="definition_fi">honor [AUTOTRANSLATED]</column>
+<column name="definition_fi">kunnioittaa</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{vuv:v}</column>
@@ -13060,7 +13060,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">показ чести [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">榮譽展示 [AUTOTRANSLATED]</column>
           <column name="definition_pt">exibição de honra</column>
-<column name="definition_fi">kunniaesitys [AUTOTRANSLATED]</column>
+<column name="definition_fi">kunnianäyttely?</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{betleH bey':n}, {nuH bey':n}</column>
@@ -13103,7 +13103,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
           <column name="definition_ru">Клингон, убивающий не открывая своего лица, не имеет чести</column>
           <column name="definition_zh_HK">沒有露臉的克林崗人沒有榮譽。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">O klingon que mata sem mostrar o rosto não tem honra.</column>
-<column name="definition_fi">The Klingon who kills without showing his face has no honor. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Klingonilla, joka tappaa näyttämättä kasvojaan, ei ole kunniaa.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -13146,7 +13146,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">Кувамаг [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">庫瓦瑪格 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kuvah'magh</column>
-<column name="definition_fi">Kuvah'magh [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kuvah'magh</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -13189,7 +13189,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">привычка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">習慣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">hábito</column>
-<column name="definition_fi">tapa [AUTOTRANSLATED]</column>
+<column name="definition_fi">tapa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{roD:adv}</column>
@@ -13232,7 +13232,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">Кварк</column>
       <column name="definition_zh_HK">夸克 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Quark</column>
-<column name="definition_fi">Kvarkki [AUTOTRANSLATED]</column>
+<column name="definition_fi">Quark</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{verengan:n}, {chom:n}, {logh Hop Hut tengchaH:n}</column>
@@ -13277,7 +13277,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">рвотное [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">嘔吐 [AUTOTRANSLATED]</column>
       <column name="definition_pt">vômito</column>
-<column name="definition_fi">vomit [AUTOTRANSLATED]</column>
+<column name="definition_fi">oksentaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'em:v}, {HuH:n}</column>
@@ -13320,7 +13320,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">быть свирепым, быть лютым, быть неистовым</column>
       <column name="definition_zh_HK">很兇 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser feroz</column>
-<column name="definition_fi">ole kovaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla raivokas, hurja, raju, kiihkeä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -13364,7 +13364,7 @@ Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo par
       <column name="definition_ru">будь великим, будь прекрасным, будь отличным, будь великолепным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">勁、精彩、屈機</column>
       <column name="definition_pt">ser ótimo, ser maravilhoso, ser excelente, ser esplêndido</column>
-<column name="definition_fi">ole hieno, ole ihana, ole erinomainen, ole upea [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla hieno, olla ihana, olla erinomainen, olla upea</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dun:v}, {pov:v}, {chong:v:2}, {vIl:v:2}</column>
@@ -13413,7 +13413,7 @@ Två moderna slangord med samma betydelse är {Huv:v:2,slang} och {nong:v:2,slan
       <column name="definition_ru">Курилл прайм</column>
       <column name="definition_zh_HK">Kurill Prime [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kurill Prime</column>
-<column name="definition_fi">Kurill Prime [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kurill I</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -13456,7 +13456,7 @@ Två moderna slangord med samma betydelse är {Huv:v:2,slang} och {nong:v:2,slan
       <column name="definition_ru">тетраэдр</column>
       <column name="definition_zh_HK">四面體 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tetraedro</column>
-<column name="definition_fi">tetraedri [AUTOTRANSLATED]</column>
+<column name="definition_fi">tetraedri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
