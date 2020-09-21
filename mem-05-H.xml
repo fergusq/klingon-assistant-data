@@ -676,7 +676,7 @@ The request was for a musteloid (otter-like or wolverine-like animal).</column>
       <column name="definition_ru">быть высоким (в поле) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">高（球場） [AUTOTRANSLATED]</column>
       <column name="definition_pt">estar alto (em tom)</column>
-<column name="definition_fi">olla korkea (äänenkorkeudessa)</column>
+<column name="definition_fi">olla korkea (äänenkorkeudeltaan)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pun:v}</column>
       <column name="see_also">{wab:n}, {ghogh:n}, {QoQ:n}, {HaS:v}</column>
