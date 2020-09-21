@@ -140,7 +140,7 @@
       <column name="definition_ru">чтобы обслуживать</column>
       <column name="definition_zh_HK">為了服務 [AUTOTRANSLATED]</column>
       <column name="definition_pt">para servir</column>
-<column name="definition_fi">Tarjoilemiseksi</column>
+<column name="definition_fi">eräs kirja, Tarjoilemiseksi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6478,7 +6478,7 @@ Para expressar o desejo de que algo aconteça, consulte {-jaj:v}. [AUTOTRANSLATE
       <column name="definition_ru">Леди, Лорд (титул для главы дома)</column>
       <column name="definition_zh_HK">女士、主（房子頭銜） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Senhora, Senhor (título do chefe da casa)</column>
-<column name="definition_fi">lady, lordi (suvun johtajan titteli)</column>
+<column name="definition_fi">lady, lordi (huoneen/suvun johtajan titteli)</column>
       <column name="synonyms">{jaw:n}</column>
       <column name="antonyms"></column>
       <column name="see_also">{qaH:n}, {tuq:n}, {chuQun:n}</column>

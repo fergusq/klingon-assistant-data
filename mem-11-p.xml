@@ -1116,7 +1116,7 @@ Ao conectar várias frases, apenas a conjunção final é necessária. Veja o ex
       <column name="definition_ru">Книга чести</column>
       <column name="definition_zh_HK">榮譽經</column>
       <column name="definition_pt">Livro de Honra</column>
-<column name="definition_fi">Kunnian kirja</column>
+<column name="definition_fi">eräs kirja, Kunnian kirja, paq'batlh</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlha'veq:n:name}</column>
