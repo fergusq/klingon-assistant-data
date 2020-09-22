@@ -2596,12 +2596,12 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
 
 {mIvwa'mey:n@@mIvwa':n, -mey:n}是“得分，統計”意義上的“結果”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">As palavras na definição em inglês podem ser interpretadas como singular ou plural, dependendo do contexto. Se for importante indicar pluralidade no Klingon, adicione {-mey:n:suff}. Se for importante indicar a singularidade, use {wa':n:num} com {neH:adv} (ou algo parecido) .[2]
+
+"Resultados" no sentido de "pontuação, contagem" é {mIvwa'mey:n@@mIvwa':n, -mey:n}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Sanat englanninkielisessä määritelmässä voidaan tulkita yksikkö- tai monikkomuodoksi kontekstista riippuen. Jos on tärkeää ilmoittaa moninaisuus Klingonissa, lisää {-mey:n:suff}. Jos on tärkeää ilmoittaa singulariteetti, käytä {wa':n:num} {neH:adv}: n kanssa (tai jotain näiden linjojen kanssa).
 
 "Tulokset" tarkoittaa "pisteet, yhteen" on {mIvwa'mey:n@@mIvwa':n, -mey:n}.[2] [AUTOTRANSLATED]</column>
-
-"Resultados" no sentido de "pontuação, contagem" é {mIvwa'mey:n@@mIvwa':n, -mey:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3448,11 +3448,11 @@ Det finns också ett regionalt ord {ley':n} som betyder "näsa". [AUTOTRANSLATED
 
 還有一個區域性單詞{ley':n}，意思是“鼻子”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {boch; ghIch rur@@boch:v, ghIch:n, rur:v}.[2, p.133]
+
+Também existe uma palavra regional {ley':n} que significa "nariz". [AUTOTRANSLATED]</column>
 <column name="notes_fi">On idioomi {boch; ghIch rur@@boch:v, ghIch:n, rur:v}.[2, p.133]
 
 On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</column>
-
-Também existe uma palavra regional {ley':n} que significa "nariz". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5168,9 +5168,9 @@ I {TNK:src} används {ghItlhwI':n:nolink} för "penna" och {ghojmeH ghItlhwI':n:
 
 在{TNK:src}中，{ghItlhwI':n:nolink}用於“筆”，而{ghojmeH ghItlhwI':n:nolink}用於“鉛筆”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada para qualquer instrumento de escrita, bem como para qualquer pessoa que escreve.[1]
-<column name="notes_fi">TRANSLATE</column>
 
 Em {TNK:src}, {ghItlhwI':n:nolink} é usado para "caneta" e {ghojmeH ghItlhwI':n:nolink} é usado para "lápis" .[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">The instrument/agent confusion is similar to that for the English word "printer", which can refer either to a device or to a person. This word takes the suffix {-mey:n:suff} when it refers to a device and {-pu':n:suff} when it refers to a person.</column>
       <column name="components">{ghItlh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -5357,9 +5357,9 @@ Det finns 243 {lawmey:n:nolink} i en {gho:n:nolink} eller 360 {lawrI'mey:n:nolin
 
 {gho:n:nolink}或360 {lawrI'mey:n:nolink}中有243 {lawmey:n:nolink}。 （請參閱{law:n}和{lawrI':n}。） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {vIHtaH gho:sen}.
-<column name="notes_fi">TRANSLATE</column>
 
 Existem 243 {lawmey:n:nolink} em um {gho:n:nolink} ou 360 {lawrI'mey:n:nolink}. (Consulte {law:n} e {lawrI':n}.) [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5689,11 +5689,11 @@ I stigande graden av våldsamhet är de verb som används för att beskriva mili
 
 按照兇猛的升序，用於描述軍事對抗的動詞是：{Qor:v}，{tlhaS:v}，{vay:v}，{lul:v}，{Hargh:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo se refere a uma luta concreta. Para o conceito de fazer guerra, consulte {Qoj:v}.
-<column name="notes_fi">TRANSLATE</column>
 
 É provavelmente significativo que esta palavra seja homófona com a palavra para ética ou virtude ({ghob:n}) .[2]
 
 Em ordem crescente de ferocidade, os verbos usados ​​para descrever confrontos militares são: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5835,11 +5835,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a resposta negativa a uma pergunta sim / não (consulte {-'a':v}). Ao contrário da palavra "não" em inglês, não é usada como uma exclamação autônoma indicando recusa, descrença e assim por diante (para ver os quais consulte {Qo':excl}).
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on kielteinen vastaus kyllä ​​/ ei-kysymykseen (katso {-'a':v}). Toisin kuin englanninkielinen sana "ei", sitä ei käytetä itsenäisenä huutomerkkinä, joka osoittaa kieltäytymistä, epäuskoa ja niin edelleen (katso {Qo':excl}).
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/7_rXiSTQmAE} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7757,11 +7757,11 @@ En av hans legendariska föregångare kallades också "Gorkon", men namnet uttal
 
 他的傳奇前輩之一也被稱為“ Gorkon”，但在此期間，這個名字被發音為{ghorqon:n:name}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O chanceler Gorkon ({ghorqan Qang:n:nolink}) tentou fazer as pazes com a Federação na época de Kirk. Ele foi traído pelo General Chang (ver {cheng:n:name}).
+
+Um de seus lendários antepassados ​​também foi chamado de "Gorkon", mas o nome foi pronunciado {ghorqon:n:name} durante sua época.[1] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kansleri Gorkon ({ghorqan Qang:n:nolink}) yritti tehdä rauhan federaation kanssa Kirkin aikaan. Kenraali Chang petti hänet (katso {cheng:n:name}).
 
 Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta nimi lausuttiin hänen aikanaan {ghorqon:n:name}.[1] [AUTOTRANSLATED]</column>
-
-Um de seus lendários antepassados ​​também foi chamado de "Gorkon", mas o nome foi pronunciado {ghorqon:n:name} durante sua época.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">He appeared in {Star Trek VI:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8268,9 +8268,9 @@ Detta ord är främmande ursprung. Anledningen till att Klingons använder ett f
 
 這個詞的起源是外星人。克林崗人之所以使用外來詞，是為了在自己和被認為令人尷尬的事物之間保持一定距離。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um tipo de mancha ou inflamação da pele que afeta os Klingons no início da puberdade.[1; 2]
-<column name="notes_fi">TRANSLATE</column>
 
 Esta palavra tem origem estranha. A razão pela qual os Klingons usam uma palavra estranha para isso é para colocar alguma distância entre eles e algo considerado embaraçoso.[3] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9023,11 +9023,11 @@ It was clarified during the Q &amp; A session at {qep'a' 27 (2020):src} that the
 
 {ghungHa':v@@ghung:v, -Ha':v}就像“不再餓了”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma {ghung; qagh rur@@ghung:v, qagh:n, rur:v}.
+
+{ghungHa':v@@ghung:v, -Ha':v} seria algo como "não tenho mais fome" .[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">On idioomi {ghung; qagh rur@@ghung:v, qagh:n, rur:v}.
 
 {ghungHa':v@@ghung:v, -Ha':v} olisi jotain "ei enää nälkäistä" .[2] [AUTOTRANSLATED]</column>
-
-{ghungHa':v@@ghung:v, -Ha':v} seria algo como "não tenho mais fome" .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9216,11 +9216,11 @@ Se även suffikterna {-rup:v} och {-beH:v} för indikering av förberedelse elle
 
 另請參見後綴{-rup:v}和{-beH:v}以指示準備情況或準備情況。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto desse verbo é a coisa a ser lançada, geralmente torpedos. Se o objeto não for especificado explicitamente ou pelo contexto, presume-se que sejam torpedos. Além de torpedos, esse verbo pode ser usado para foguetes, mísseis, feixes de energia ou qualquer outra coisa que vá de um ponto a outro. Também é usado para descrever a ação de puxar para trás a faixa elástica de um estilingue, ou o abaixamento de uma lança em uma posição horizontal para atacar (ver {ghuS:v:2}). Este verbo nunca leva o sufixo {-rup:v}. ({TKD 4.2.2:src})
+
+Consulte também os sufixos {-rup:v} e {-beH:v} para indicar a preparação ou prontidão. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämän verbin tarkoitus on käynnistettävä asia, yleensä torpedot. Jos kohdetta ei ole määritelty nimenomaisesti tai kontekstin mukaan, sen oletetaan olevan torpedot. Torpedojen lisäksi tätä verbiä voidaan käyttää raketteihin, ohjuksiin, energiapalkkeihin tai mihin tahansa muuhun pisteestä toiseen. Sitä käytetään myös kuvaamaan toimintoa, jolla vedetään ritsa-joustavan nauhan taakse, tai keihään laskemista vaakasuoraan asentoon hyökätä varten (katso {ghuS:v:2}). Tämä verbi ei koskaan ota loppuliitettä {-rup:v}. ({TKD 4.2.2:src})
 
 Katso myös loppuliitteet {-rup:v} ja {-beH:v} valmistelun tai valmiuden osoittamiseksi. [AUTOTRANSLATED]</column>
-
-Consulte também os sufixos {-rup:v} e {-beH:v} para indicar a preparação ou prontidão. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Even though the definition starts with "be", this is not a stative verb. The subject is a person getting ready to use a device to launch something, not the device itself.</column>
       <column name="components"></column>
       <column name="examples">

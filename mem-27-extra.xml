@@ -2569,9 +2569,9 @@ Undertexten var "Vad gör hon?" men en mer bokstavlig översättning är "Varfö
 
 副標題是“她在做什麼？”但更直譯的意思是“她為什麼要去那兒？” [AUTOTRANSLATED]</column>
       <column name="notes_pt">Aqui, "ela" se refere à Empresa ({'entepray':n:name}). Chang ({cheng:n:name}) estava expressando perplexidade sobre o movimento da Enterprise.
-<column name="notes_fi">TRANSLATE</column>
 
 O subtítulo era "O que ela está fazendo?" mas uma tradução mais literal é "Por que ela está indo lá?" [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components">{qatlh:ques}, {pa':n:2}, {ghoS:v:1}</column>
       <column name="examples"></column>

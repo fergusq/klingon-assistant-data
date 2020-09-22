@@ -762,11 +762,11 @@ Ett verb som vanligen används med {'olQan:n:nolink} är {'uch:v:1}. [AUTOTRANSL
 
 {'olQan:n:nolink}通常使用的動詞是{'uch:v:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode se referir ao espaço entre os dentes ou a área entre as fileiras de assentos em um teatro, mas (e {'olQanmey:n@@'olQan:n, -mey:n}) pode ser usado para o espaço em uma sala, em uma mesa, etc.
+
+Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä voi viitata hampaiden väliseen tilaan tai teatterin istuinrivien väliseen alueeseen, mutta sitä (ja {'olQanmey:n@@'olQan:n, -mey:n}) voidaan käyttää huoneen, pöydän jne. Tilaan.
 
 {'olQan:n:nolink}: n kanssa yleisesti käytetty verbi on {'uch:v:1}. [AUTOTRANSLATED]</column>
-
-Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1653,9 +1653,9 @@ Detta ord är också skrivet {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column
 
 這個詞也被寫成{'orghenya'ngan:n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que este é {'orghengan:n:nolink} e não {'orghenngan:n:nolink} (o {n:sen:nolink} no final de {'orghen:n:nolink} é descartado).
-<column name="notes_fi">TRANSLATE</column>
 
 Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components">{'orghen:n}, {ngan:n}</column>
       <column name="examples"></column>
@@ -3183,11 +3183,11 @@ Alla Klingon-låtar har {'o'meghmey:n:nolink}. Om en låt bleknar i stället fö
 
 所有的Klingon歌曲都有{'o'meghmey:n:nolink}。如果某首歌曲逐漸消失而不是像某些聯合會歌曲那樣正確結束，則這種歌曲的結尾可能稱為{'o'meghqoq:n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada apenas para canções. A frase ou porção final em outros tipos de apresentações é referida usando {bertlham:n}.
+
+Todas as canções Klingon têm {'o'meghmey:n:nolink}. Se uma música desaparecer ao invés de terminar apropriadamente, como algumas músicas da Federação fazem, o final de tal música pode ser chamado de {'o'meghqoq:n:nolink}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään vain kappaleisiin. Viimeiseen lauseeseen tai osaan muun tyyppisissä esityksissä viitataan käyttämällä {bertlham:n}.
 
 Kaikilla Klingonin kappaleilla on {'o'meghmey:n:nolink}. Jos kappale haihtuu kunnollisen päättymisen sijasta, kuten jotkut federaation kappaleet tekevät, tällaisen kappaleen loppua voidaan kutsua nimellä {'o'meghqoq:n:nolink}. [AUTOTRANSLATED]</column>
-
-Todas as canções Klingon têm {'o'meghmey:n:nolink}. Se uma música desaparecer ao invés de terminar apropriadamente, como algumas músicas da Federação fazem, o final de tal música pode ser chamado de {'o'meghqoq:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Omega, obviously.</column>
       <column name="components"></column>
       <column name="examples"></column>

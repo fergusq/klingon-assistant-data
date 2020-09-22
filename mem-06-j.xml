@@ -381,11 +381,11 @@ Att jonglera, det vill säga att kasta föremål i luften och fånga dem i ett r
 
 進行雜耍即將物體扔到空中並以有節奏的方式捕捉它們，是{jaDchu':v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa atirar ou arremessar algo como um projétil.[1, p.91]
+
+Fazer malabarismos, isto é, jogar objetos no ar e pegá-los em um padrão rítmico, é {jaDchu':v}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä tarkoittaa heittää tai heittää jotain ammuksen kaltaista.[1, p.91]
 
 Jongleeraaminen eli esineiden heittäminen ilmaan ja kiinniottaminen rytmikkäässä muodossa on {jaDchu':v}.[2] [AUTOTRANSLATED]</column>
-
-Fazer malabarismos, isto é, jogar objetos no ar e pegá-los em um padrão rítmico, é {jaDchu':v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1245,11 +1245,11 @@ I Klingon går titlar i allmänhet efter namnet, så "Captain Jean-Luc Picard" s
 
 在克林崗（Klingon），頭銜通常取於名字之後，因此“ Jean-Luc Picard上尉”將是{janluq pIqarD HoD:n@@janluq pIqarD:n, HoD:n}。請注意，{pIqarD:n:nolink}沒有遵循正確的克林崗語音系，因為它是一個外來名稱。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome do {HoD:n} do {'entepray':n:name} durante o tempo de {puq poH veb:n}.
+
+Em Klingon, os títulos geralmente vêm após o nome, então "Capitão Jean-Luc Picard" seria {janluq pIqarD HoD:n@@janluq pIqarD:n, HoD:n}. Observe que {pIqarD:n:nolink} não segue a fonologia Klingon adequada, pois é um nome estranho. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on {'entepray':n:name}: n {HoD:n}-nimi {puq poH veb:n}-aikaan.
 
 Klingonissa otsikot ovat yleensä nimen perässä, joten "kapteeni Jean-Luc Picard" olisi {janluq pIqarD HoD:n@@janluq pIqarD:n, HoD:n}. Huomaa, että {pIqarD:n:nolink} ei noudata oikeaa Klingon-fonologiaa, koska se on ulkomaalainen nimi. [AUTOTRANSLATED]</column>
-
-Em Klingon, os títulos geralmente vêm após o nome, então "Capitão Jean-Luc Picard" seria {janluq pIqarD HoD:n@@janluq pIqarD:n, HoD:n}. Observe que {pIqarD:n:nolink} não segue a fonologia Klingon adequada, pois é um nome estranho. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1554,11 +1554,11 @@ Observera att i Klingon kallas "deep space" {logh Hop:n}, bokstavligen, "far spa
 
 請注意，在克林崗語中，“深空”稱為{logh Hop:n}，字面意思是“遠空”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra significa "profundo" no sentido físico.
+
+Observe que em Klingon, "espaço profundo" é chamado de {logh Hop:n}, literalmente, "espaço distante". [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana tarkoittaa "syvää" fyysisessä mielessä.
 
 Huomaa, että Klingonissa "syvää avaruutta" kutsutaan {logh Hop:n}, kirjaimellisesti "kaukana avaruutena". [AUTOTRANSLATED]</column>
-
-Observe que em Klingon, "espaço profundo" é chamado de {logh Hop:n}, literalmente, "espaço distante". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Jacques Cousteau was a renowned deep-sea diver.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2773,11 +2773,11 @@ Förutom substantiv kan {je:sen:nolink} också följa ett verb. Se {je:adv}. [AU
 
 除名詞外，{je:sen:nolink}也可以跟在動詞後面。參見{je:adv}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto segue o substantivo final.
+
+Além de substantivos, {je:sen:nolink} também pode seguir um verbo. Consulte {je:adv}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä seuraa lopullista substantiivia.
 
 Substantiivien lisäksi {je:sen:nolink} voi seurata myös verbiä. Katso {je:adv}. [AUTOTRANSLATED]</column>
-
-Além de substantivos, {je:sen:nolink} também pode seguir um verbo. Consulte {je:adv}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3199,11 +3199,11 @@ Det finns också ett formspråk, {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}. [A
 
 還有一個習慣用法，{jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A expressão idiomática {jej pach@@jej:v, pach:n} "a garra é afiada" significa "a comida é picante (ou seja, boa)".
+
+Também existe um idioma, {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Idiomaattinen ilmaus {jej pach@@jej:v, pach:n} "kynsi on terävä" tarkoittaa "ruoka on pistävä (eli hyvä)".
 
 Siellä on myös idioomi {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}. [AUTOTRANSLATED]</column>
-
-Também existe um idioma, {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3430,11 +3430,11 @@ Observera att {jemS:n:nolink} och {qIrq:n:nolink} inte följer korrekt Klingon-f
 
 請注意，{jemS:n:nolink}和{qIrq:n:nolink}不遵循正確的克林崗語音系，因為它們是外來名稱的一部分。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome do {HoD:n} do {'entepray':n:name}. Seu primeiro oficial é {SIpoq:n:name}.
+
+Observe que {jemS:n:nolink} e {qIrq:n:nolink} não seguem a fonologia Klingon adequada, pois são parte de um nome estranho. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on {'entepray':n:name}: n {HoD:n}-nimi. Hänen ensimmäinen upseeri on {SIpoq:n:name}.
 
 Huomaa, että {jemS:n:nolink} ja {qIrq:n:nolink} eivät noudata oikeaa klingonifonologiaa, koska ne ovat osa ulkomaalaisten nimeä. [AUTOTRANSLATED]</column>
-
-Observe que {jemS:n:nolink} e {qIrq:n:nolink} não seguem a fonologia Klingon adequada, pois são parte de um nome estranho. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3979,11 +3979,11 @@ Detta verb används i Sonnet 116, där dess uttryckliga ämne är {muD:n:nolink}
 
 此動詞在十四行詩中使用，其顯式主語為{muD:n:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma palavra meteorológica, em vez de militar. Isso é esclarecido pelo {jev:v:2} homófono. (Para o significado militar de "tempestade", considere {yov:v}.)
+
+Este verbo é usado no Soneto 116, onde seu sujeito explícito é {muD:n:nolink}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on sääsana, ei sotilaallinen sana. Tämän tekee selväksi homofoninen {jev:v:2}. (Tarkastellaan "myrskyn" sotilaallista merkitystä {yov:v}.)
 
 Tätä verbiä käytetään sonetissa 116, jossa sen nimenomainen aihe on {muD:n:nolink}.[2] [AUTOTRANSLATED]</column>
-
-Este verbo é usado no Soneto 116, onde seu sujeito explícito é {muD:n:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5128,11 +5128,11 @@ Detta verb kan också tillämpas på flygplan, för vilka se {jIm:v:2}. [AUTOTRA
 
 此動詞也可以應用於飛機，請參見{jIm:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo se refere a um movimento dos ombros.
+
+Este verbo também pode ser aplicado a aeronaves, para as quais consulte {jIm:v:2}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä verbi viittaa hartioiden liikkumiseen.
 
 Tätä verbiä voidaan soveltaa myös lentokoneisiin, joista ks. {jIm:v:2}. [AUTOTRANSLATED]</column>
-
-Este verbo também pode ser aplicado a aeronaves, para as quais consulte {jIm:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5233,11 +5233,11 @@ För att uttrycka en önskan om att något ska hända, se {-jaj:v}. [AUTOTRANSLA
 
 要表達某種希望發生的事情，請參閱{-jaj:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto deste verbo é geralmente uma frase e não pode ser uma coisa.[1]
+
+Para expressar o desejo de que algo aconteça, consulte {-jaj:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämän verbin kohde on yleensä lause, eikä se voi olla juttu.[1]
 
 Jos haluat ilmaista toiveesi tapahtumisesta, katso {-jaj:v}. [AUTOTRANSLATED]</column>
-
-Para expressar o desejo de que algo aconteça, consulte {-jaj:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A reference to the genie (or jinn) of Arabian mythology.</column>
       <column name="components"></column>
       <column name="examples">
@@ -8500,11 +8500,11 @@ Om {-Daq:n} används, innebär det en miss: luft blåstes mot föremålet, men f
 
 如果使用{-Daq:n}，則表示未命中：空氣吹向對象，但繞過了它。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "inflar, encher com ar, explodir". Isso é usado para estourar um balão, um saco de papel, uma bolha e assim por diante. Ao contrário do {SuS:v}, o ar fica preso na coisa que é soprada e não pode sair até que seja liberada (ou a coisa quebre).
+
+Se {-Daq:n} for usado, isso implica um erro: o ar foi soprado em direção ao objeto, mas o contornou. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä tarkoittaa "täytä, täytä ilmalla, räjäytä". Tätä käytetään ilmapallon, paperipussin, kuplan ja niin edelleen puhaltamiseen. Toisin kuin {SuS:v}, ilma jää loukkuun esineeseen, johon on puhallettu, eikä se voi tulla ulos, ennen kuin se päästetään ulos (tai asia rikkoutuu).
 
 Jos käytetään {-Daq:n}, se tarkoittaa epäonnistumista: ilmaa puhallettiin kohti kohdetta, mutta ohitettiin se. [AUTOTRANSLATED]</column>
-
-Se {-Daq:n} for usado, isso implica um erro: o ar foi soprado em direção ao objeto, mas o contornou. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Bazooka Joe" is the mascot of the Bazooka brand of bubble gum. {ba'Suq'a' jo':sen@@ba'Suq:n, -'a':n, jo':v} means "he blows a great bubble".</column>
       <column name="components"></column>
       <column name="examples"></column>

@@ -1006,13 +1006,13 @@ De flesta lexikografer från Klingon betraktar detta och {'an:v:2} som två homo
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode ser usado para quando alguém sacrifica forças por um determinado objetivo ou apenas desperdiça seus recursos.[1]
+
+A maioria dos lexicógrafos Klingon considera isso e {'an:v:2} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä voidaan käyttää, kun joku uhraa voimia tiettyyn tavoitteeseen tai vain tuhlaa resurssejaan.
 
 Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:2}: ta kahtena homofonisena sanana, mutta historiallisesti "olla tuhla" -merkitys syntynyt "olla kivettynyt" -merkinnästä, ehkä siksi, että jokin menettää alkuperäisen käyttötarkoituksensa, joka sillä voi olla, jos se muuttuu kiveksi .DONOTTRANSLATE 3[1][2] [AUTOTRANSLATED]</column>
-
-A maioria dos lexicógrafos Klingon considera isso e {'an:v:2} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1110,11 +1110,11 @@ När den tillämpas på människor kan det bara betyda bokstavlig vändning till
 
 當應用於人時，它只能意味著從字面上變成石頭。 （這並不像英語中的“石化”那樣表示“真的害怕”。） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para falar sobre fósseis. A maioria dos lexicógrafos Klingon considera isso e {'an:v:1} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .
+
+Quando aplicado a pessoas, só pode significar literalmente virar pedra. (Não significa "realmente assustado" como "petrificado" em inglês.) [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään puhumaan fossiileista. Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:1}-sanaa kahtena homofonisena sanana, mutta historiallisesti "olla tuhla" -merkitys, joka on kehittynyt "olla kivettynyt" -merkinnästä, ehkä siksi, että jokin menettää alkuperäisen käyttötarkoituksensa, joka sillä voi olla, jos se muutetaan kiveksi .
 
 Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuutosta. (Se ei tarkoita "todella peloissaan", kuten "kivettynyt" englanniksi.) [AUTOTRANSLATED]</column>
-
-Quando aplicado a pessoas, só pode significar literalmente virar pedra. (Não significa "realmente assustado" como "petrificado" em inglês.) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2219,9 +2219,9 @@ Detta ord kan användas för att hänvisa till ett tak, men termerna {pa' beb:n}
 
 儘管術語{pa' beb:n}和{rav'eq:n}（取決於上面是否有地板）更為常見，但該詞可用於表示天花板。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A outra face do {'aqroS:n:1,nolink} de um objeto é seu {yor:n}.[1]
-<column name="notes_fi">TRANSLATE</column>
 
 Esta palavra pode ser usada para se referir a um teto, embora os termos {pa' beb:n} e {rav'eq:n} (que dependem da existência de andares acima) sejam mais comuns.[1] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">"Across".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2277,11 +2277,11 @@ In anderen Kontexten sollten Sie das Verbsuffix {-qu':v} verwenden. Zum Beispiel
 
 在其他情況下，請考慮使用動詞後綴{-qu':v}。例如：{nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada para especificar um limite ou restrição.
+
+Em outros contextos, considere usar o sufixo verbal {-qu':v}. Por exemplo: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään määrittämään raja tai rajoitus.
 
 Harkitse muissa yhteyksissä verbiliitteen {-qu':v} käyttöä. Esimerkiksi: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-
-Em outros contextos, considere usar o sufixo verbal {-qu':v}. Por exemplo: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Across".</column>
       <column name="components"></column>
       <column name="examples">
@@ -2594,9 +2594,9 @@ Grammatiskt används ett flertalsprefix om det ifrågasatta substantivet kan var
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra interrogativa segue o substantivo ao qual se refere, que nunca tem um sufixo de plural.[1]
-<column name="notes_fi">TRANSLATE</column>
 
 Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder ser singular ou plural e a tradução for "quantos?" Um prefixo singular é usado se o substantivo questionado for algo que não pode ser contado e a tradução for "quanto?" [2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3175,12 +3175,12 @@ Detta ord hänvisar inte till en specifik drink, utan till en smal klass relater
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este é um tipo de bebida feita a partir (entre outras coisas) da {melchoQ:n} de uma {teghbat:n}. Tem uma semelhança superficial com a cerveja de raiz terráquea.[1, p.95]
+
+Esta palavra não se refere a uma bebida específica, mas a uma classe restrita de bebidas relacionadas.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä on eräänlainen juoma, joka on valmistettu (muun muassa) {teghbat:n}: n {melchoQ:n}: stä. Sillä on pinnallinen samankaltaisuus Terran-juuren oluen kanssa.[1, p.95]
 
 Tämä sana ei tarkoita tiettyä juomaa, vaan suppeaa sukulaisjuomaryhmää[2] [AUTOTRANSLATED]</column>
-
-Esta palavra não se refere a uma bebida específica, mas a uma classe restrita de bebidas relacionadas.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"A&amp;W" is a brand of root beer.</column>
       <column name="components"></column>
       <column name="examples"></column>

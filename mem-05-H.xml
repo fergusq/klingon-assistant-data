@@ -379,12 +379,12 @@
 
 {HaH'egh:v@@HaH:v:1, -'egh:v}用於表示大量飲酒或洗澡。[1, p.91] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é a coisa que está sendo encharcada ou encharcada.
+
+{HaH'egh:v@@HaH:v:1, -'egh:v} é usado para se referir a beber muito ou tomar banho.[1, p.91] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kohde on liotettu tai kasteltu asia.
 
 {HaH'egh:v@@HaH:v:1, -'egh:v}: llä tarkoitetaan paljon juomista tai uimista.[1, p.91] [AUTOTRANSLATED]</column>
-
-{HaH'egh:v@@HaH:v:1, -'egh:v} é usado para se referir a beber muito ou tomar banho.[1, p.91] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2245,13 +2245,13 @@ För att gå med på duellen, säg {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Jag d
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para desafiar alguém para um duelo, diga {qablIj HI'ang!:sen} (geralmente abreviado para {HI'ang!:sen:nolink}). Diz-se que a parte que lança o desafio {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "mostra sua cara". O ato de lançar o desafio é {poQ:v}, que é a abreviação de {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Ele exige ver um rosto". Bater no adversário com as costas da mão ({chap:n}) ao lançar o desafio é exigir um duelo até a morte ({Hay'chu':v}) .[2]
+
+Para concordar com o duelo, diga {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Eu não escondo" (ou o mais longo {qabwIj vISo'be':sen} "Eu não escondo meu rosto"). A parte desafiada é então chamada de {'angchu':sen@@'ang:v, -chu':v} (abreviação de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Aceita-se um desafio ({qab 'ang:sen@@qab:n, 'ang:v}) para provar sua honra ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #8. -->
 <!-- ERROR: Missing link #15. -->
 <column name="notes_fi">Haasta joku kaksintaisteluun sano {qablIj HI'ang!:sen} (tämä lyhennetään usein sanaan {HI'ang!:sen:nolink}) Haasteen antaneesta osapuolesta sanotaan, että {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "hän näyttää kasvonsa". Haasteen antaminen on {poQ:v}, joka on lyhenne sanoista {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Hän vaatii kasvojen näkymistä". Vastustajan lyöminen kädellä ({chap:n}) haasteen antamisen yhteydessä on vaatia kaksintaistelua kuolemaan ({Hay'chu':v}).
 
 Hyväksy kaksintaistelu sanomalla {vISo'be':sen@@vI-:v, So':v:1, -be':v} "En piilota sitä" (tai pidempi {qabwIj vISo'be':sen} "En piilota kasvoni"). Haasteteltava osapuoli sanotaan sitten {'angchu':sen@@'ang:v, -chu':v} (lyhenne sanoista {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Yksi hyväksyy haasteen ({qab 'ang:sen@@qab:n, 'ang:v}) osoittaakseen kunniansa ({quv tob:sen@@quv:n, tob:v}).[2][2] [AUTOTRANSLATED]</column>
-
-Para concordar com o duelo, diga {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Eu não escondo" (ou o mais longo {qabwIj vISo'be':sen} "Eu não escondo meu rosto"). A parte desafiada é então chamada de {'angchu':sen@@'ang:v, -chu':v} (abreviação de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Aceita-se um desafio ({qab 'ang:sen@@qab:n, 'ang:v}) para provar sua honra ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2608,12 +2608,12 @@ För att använda en sådan enhet kan man {qIp:v}, {'uy:v} eller {ngaH:v} den, b
 
 要使用這樣的設備，取決於特定設備，可以是{qIp:v}，{'uy:v}或{ngaH:v}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto de {vev:v} é {Ha'on:n}. Os papéis grampeados são o objeto de {rar:v}.[1]
+
+Para usar tal dispositivo, pode-se {qIp:v}, {'uy:v} ou {ngaH:v}, dependendo do dispositivo específico.[1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #8. -->
 <column name="notes_fi">{vev:v}: n kohde on {Ha'on:n}. Yhdistetyt paperit ovat {rar:v}.[1]-objektin kohteita
 
 Tällaisen laitteen käyttämiseksi voi {qIp:v}, {'uy:v} tai {ngaH:v} sen tietystä laitteesta riippuen.[1] [AUTOTRANSLATED]</column>
-
-Para usar tal dispositivo, pode-se {qIp:v}, {'uy:v} ou {ngaH:v}, dependendo do dispositivo específico.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Ha'on:n}, {vev:v}, {-wI':n}</column>
       <column name="examples"></column>
@@ -2756,9 +2756,9 @@ En fysisk väg (som man kan se och gå) på skulle vara en {taw:n}.[2] [AUTOTRAN
 
 一條物理路徑（可以看到並行走）將是{taw:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra só pode se referir a uma rota física, e não a uma rota espiritual ou metafórica. "O Caminho Klingon", por exemplo, é {tlhIngan tIgh:n:nolink}.
-<column name="notes_fi">TRANSLATE</column>
 
 Um caminho físico (que se pode ver e andar) seria um {taw:n}.[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3849,11 +3849,11 @@ Se under {nItlh:n} för de verb som är förknippade med var och en av fingrarna
 
 請參閱{nItlh:n}下與每個手指相關的動詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é aplicada a {SuSDeq:n} e {HurDagh:n}.[1]
+
+Veja em {nItlh:n} para os verbos associados a cada um dos dedos. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään malleihin {SuSDeq:n} ja {HurDagh:n}.[1]
 
 Katso sormiin liittyvät verbit kohdasta {nItlh:n}. [AUTOTRANSLATED]</column>
-
-Veja em {nItlh:n} para os verbos associados a cada um dos dedos. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5050,9 +5050,9 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/KArQlviVXMk} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/KArQlviVXMk} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a resposta positiva a uma pergunta sim / não (consulte {-'a':v}). Ao contrário da palavra em inglês "sim", ela não é usada como uma exclamação autônoma indicando percepção, alegria e assim por diante (para ver {toH:excl} e {Qapla'!:sen}). Para uma exclamação indicando conformidade, como em resposta a um comando, consulte {lu':excl}.
-<column name="notes_fi">TRANSLATE</column>
 
 Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/KArQlviVXMk} [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">Looks like a combination of the Japanese and German affirmative answers ("hai" and "ja").</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6194,14 +6194,14 @@ Om {Hoch:n:nolink} följer ett substantiv betyder det "hela X" .[3; 4] Observera
 
 如果{Hoch:n:nolink}跟隨名詞，則表示“所有X”。[3; 4]請注意，這不同於{naQ:v}跟隨名詞的含義，即“完整X”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se {Hoch:n:nolink} for seguido por um substantivo que é explicitamente plural, significa "todos os X", considerados coletivamente. Se o substantivo a seguir não estiver explicitamente no plural, significa "cada X", considerado individualmente.[2]
+
+Se {Hoch:n:nolink} segue um substantivo, significa "todos de X" .[3; 4] Observe que isso é diferente de {naQ:v} após um substantivo, que significa "um X completo". [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #4. -->
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Jos {Hoch:n:nolink}: n jälkeen on substantiivi, joka on nimenomaisesti monikko, se tarkoittaa "kaikkia X: itä" yhdessä otettuna. Jos seuraava substantiivi ei ole nimenomaisesti monikko, se tarkoittaa "kukin X" erikseen tarkasteltuna.
 
 Jos {Hoch:n:nolink} seuraa substantiivia, se tarkoittaa "kaikki X: tä".[2][3; 4]{naQ:v} [AUTOTRANSLATED]</column>
-
-Se {Hoch:n:nolink} segue um substantivo, significa "todos de X" .[3; 4] Observe que isso é diferente de {naQ:v} após um substantivo, que significa "um X completo". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6646,11 +6646,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/9CTfqKn383I} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/9CTfqKn383I} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o 5º lugar do {yaS:n}.
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/9CTfqKn383I} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on {yaS:n}: n 5. sijoitus.
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/9CTfqKn383I} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/9CTfqKn383I} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Head of Department".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7075,12 +7075,12 @@ Identifieraren är vanligtvis ett land, region eller politisk enhet av något sl
 
 標識符通常是一個國家，地區或某種政治單位。例如，聯盟標準（即“英語”）為{DIvI' Hol:n}。 {tlhIngan Hol:n:nolink}實際上是{tlhIngan wo' Hol:n:nolink}的縮寫形式。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em Klingon, os nomes das línguas são formados anexando {Hol:n:nolink} a um identificador para a língua. Por exemplo, "Klingon" (o idioma) é {tlhIngan Hol:n}, e {tlhIngan:n} por si só não se refere ao idioma, mas a uma pessoa ou pessoas.
+
+O identificador é geralmente um país, região ou unidade política de algum tipo. Por exemplo, o Federation Standard (ou seja, "Inglês") é {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} é na verdade uma forma abreviada de {tlhIngan wo' Hol:n:nolink}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Klingonissa kielten nimet muodostetaan liittämällä {Hol:n:nolink} kielen tunnisteeseen. Esimerkiksi "Klingon" (kieli) on {tlhIngan Hol:n}, ja {tlhIngan:n} ei itsessään viittaa kieleen, vaan henkilöön tai ihmisiin.
 
 Tunniste on yleensä maa, alue tai jonkinlainen poliittinen yksikkö. Esimerkiksi Federation Standard (eli "englanti") on {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} on oikeastaan ​​lyhennetty {tlhIngan wo' Hol:n:nolink}-muoto.[2] [AUTOTRANSLATED]</column>
-
-O identificador é geralmente um país, região ou unidade política de algum tipo. Por exemplo, o Federation Standard (ou seja, "Inglês") é {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} é na verdade uma forma abreviada de {tlhIngan wo' Hol:n:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7742,9 +7742,9 @@ I Klingon kallas "deep space" {logh Hop:n}, bokstavligen, "far space" .[3] [AUTO
 
 在克林崗語中，“深空”稱為{logh Hop:n}，字面意思是“遠空”。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é usado da mesma forma que {Sum:v} (envolve o conceito de dêixis) .[2]
-<column name="notes_fi">TRANSLATE</column>
 
 Em Klingon, "espaço profundo" é denominado {logh Hop:n}, literalmente, "espaço distante" .[3] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">It's just a "hop" away.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7903,6 +7903,12 @@ Använd inte detta ord lätt eftersom det har mycket dåliga konnotationer i Kli
 
 不要輕率地使用該詞，因為它在克林崗社會中具有非常糟糕的含義。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A decepção está implícita no uso deste verbo.
+
+Essa palavra é usada em lugares onde {quv:v} pode ser usado, mas quando a honra foi descoberta como ilegítima. Por exemplo, um {Duy quv:n:nolink} que acaba por ser um espião seria chamado de {Duy HoQ:n:nolink}.
+
+É diferente de {quvHa':v} porque indica que alguém exigiu respeito imerecido ou imerecido. Um guerreiro que mostra covardia na batalha é um {SuvwI' quvHa':n:nolink}. Aquele que esconde sua covardia, é premiado por sua bravura (ou seja, torna-se conhecido como {SuvwI' quv:n:nolink}) e, posteriormente, é descoberto que é uma fraude, é um {SuvwI' HoQ:n:nolink}.
+
+Não use essa palavra levianamente, pois ela tem conotações muito ruins na sociedade Klingon. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämän verbin käyttö merkitsee petosta.
 
 Tätä sanaa käytetään paikoissa, joissa saatetaan käyttää {quv:v}-sanaa, mutta kun kunnia havaittiin olevan laiton. Esimerkiksi {Duy quv:n:nolink}, joka osoittautuu vakoojaksi, kutsutaan {Duy HoQ:n:nolink}: ksi.
@@ -7910,12 +7916,6 @@ Tätä sanaa käytetään paikoissa, joissa saatetaan käyttää {quv:v}-sanaa, 
 Se eroaa {quvHa':v}: stä siinä, että se osoittaa, että on vaadittu kunnioitusta, joka on ansaitsematon tai ansaitsematon. Taistelussa pelkuruutta osoittava soturi on {SuvwI' quvHa':n:nolink}. {SuvwI' HoQ:n:nolink} on se, joka kätkee pelkuruutensa, palkitaan rohkeudesta (eli tunnetaan nimellä {SuvwI' quv:n:nolink}) ja jonka myöhemmin havaitaan olevan petos.
 
 Älä käytä tätä sanaa kevyesti, koska sillä on erittäin huono merkitys Klingonin yhteiskunnassa. [AUTOTRANSLATED]</column>
-
-Essa palavra é usada em lugares onde {quv:v} pode ser usado, mas quando a honra foi descoberta como ilegítima. Por exemplo, um {Duy quv:n:nolink} que acaba por ser um espião seria chamado de {Duy HoQ:n:nolink}.
-
-É diferente de {quvHa':v} porque indica que alguém exigiu respeito imerecido ou imerecido. Um guerreiro que mostra covardia na batalha é um {SuvwI' quvHa':n:nolink}. Aquele que esconde sua covardia, é premiado por sua bravura (ou seja, torna-se conhecido como {SuvwI' quv:n:nolink}) e, posteriormente, é descoberto que é uma fraude, é um {SuvwI' HoQ:n:nolink}.
-
-Não use essa palavra levianamente, pois ela tem conotações muito ruins na sociedade Klingon. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Hoax".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8013,9 +8013,9 @@ Detta verb används också för vanliga polygoner och polyeder. [2] [AUTOTRANSLA
 
 此動詞也用於規則多邊形和多面體。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {HoS; 'Iw rur:sen@@HoS:v, 'Iw:n, rur:v}.
-<column name="notes_fi">TRANSLATE</column>
 
 Este verbo também é usado para polígonos regulares e poliedros.[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -10728,11 +10728,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/tAK-hgXMH-M} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/tAK-hgXMH-M} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Dependendo do contexto, essa palavra também pode ser listada como "bile" ou "fel".
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/tAK-hgXMH-M} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Asiayhteydestä riippuen tämä sana voidaan myös kiiltää "sappena" tai "sappena".
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/tAK-hgXMH-M} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/tAK-hgXMH-M} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11232,16 +11232,16 @@ En {HurDagh:n:nolink} spelas vanligtvis inte med en båge, men en {ngItHel:n} ka
 {HurDagh:n:nolink} обычно не играет с луком, но {ngItHel:n} можно ощипать, сыграть или поклониться. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este é o termo geral para um instrumento musical com cordas ({SIrgh:n}), que pode ser dedilhada ({pang:v}) ou dedilhada ({yach:v:2}). Para variar o som, um "dedo" ({Heng:v}) as cordas (tocá-las em pontos diferentes enquanto dedilha ou dedilha) .[1]
+
+Os tipos de {HurDagh:n:nolink} incluem o {Supghew:n} (pequeno), o {leSpal:n} (médio) e o {tIngDagh:n} (grande).
+
+Um {HurDagh:n:nolink} geralmente não é tocado com um arco, mas um {ngItHel:n} pode ser puxado, dedilhado ou curvado. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä on yleinen termi jousille tarkoitetulle soittimelle ({SIrgh:n}), jonka voi joko repiä ({pang:v}) tai lyödä ({yach:v:2}). Äänen vaihtelemiseksi yhdellä "sormella" ({Heng:v}) merkkijonoja (kosketa niitä eri kohdissa, kun kynsitään tai lyötään).
 
 {HurDagh:n:nolink}-tyypit sisältävät {Supghew:n} (pieni), {leSpal:n} (keskikoko) ja {tIngDagh:n} (suuri).
 
 {HurDagh:n:nolink}: tä ei yleensä pelata jousella, mutta {ngItHel:n}: tä voidaan kynsiä, lyödä tai kumartaa.[1] [AUTOTRANSLATED]</column>
-
-Os tipos de {HurDagh:n:nolink} incluem o {Supghew:n} (pequeno), o {leSpal:n} (médio) e o {tIngDagh:n} (grande).
-
-Um {HurDagh:n:nolink} geralmente não é tocado com um arco, mas um {ngItHel:n} pode ser puxado, dedilhado ou curvado. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11512,11 +11512,11 @@ Detta används inte för att "exekvera genom att hänga", vilket är {jIb:v}. [A
 
 這不是用來表示“通過掛起執行”，即{jIb:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado, por exemplo, para pendurar um casaco em um cabide ou roupas em um varal. Mas não é usado para uma aranha pendurada em um fio de seda ou um par de sapatos pendurado por seus cadarços em uma linha de alta tensão, que é {tlhep:v}.
+
+Isso não é usado para significar "executar por suspensão", que é {jIb:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään esimerkiksi takin ripustamiseen koukkuun tai vaatteiden pyykkinarulle. Mutta sitä ei käytetä hämähäkkiin, joka roikkuu silkkilangasta, tai kenkäpariin, joka roikkuu nauhojensa avulla sähköverkosta, joka on {tlhep:v}.
 
 Tätä ei käytetä tarkoittamaan "suorita ripustamalla", mikä on {jIb:v}. [AUTOTRANSLATED]</column>
-
-Isso não é usado para significar "executar por suspensão", que é {jIb:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's confirmed this takes an object.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>

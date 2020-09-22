@@ -222,15 +222,15 @@ Man använder troligen {tachmoH:v@@tach:v, -moH:v} än {yoymoH:v:nolink} när ma
 
 當將某人從俯臥位移動到仰臥位時，使用{tachmoH:v@@tach:v, -moH:v}的可能性要比{yoymoH:v:nolink}高（反之亦然）。翻轉漢堡包或煎餅時，比{tachmoH:v:nolink}更可能使用{yoymoH:v:nolink}。翻轉卡片都不錯，而{yoymoH:v:nolink}則意味著動作更快或更清晰。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso seria usado se algo capotou totalmente por conta própria ou aparentemente por conta própria (mesmo se houver uma causa conhecida). Se foi invertido por outra coisa, consulte {yoymoH:v}. Se ele foi inclinado, mas não completamente invertido, consulte {qaw':v}.
+
+Se alguém tombasse na cama, normalmente diria {jItach:sen@@jI-:v, tach:v}. Pode-se dizer {jItach'eghmoH:sen@@jI-:v, tach:v, -'egh:v, -moH:v} se houver uma luta ou esforço específico envolvido.
+
+É mais provável que alguém use {tachmoH:v@@tach:v, -moH:v} do que {yoymoH:v:nolink} ao mover alguém da posição deitada para a posição supina (ou vice-versa). É mais provável que alguém use {yoymoH:v:nolink} do que {tachmoH:v:nolink} ao virar hambúrgueres ou panquecas. Qualquer um seria bom para virar as cartas, com {yoymoH:v:nolink} implicando uma ação mais rápida ou mais nítida. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytettäisiin, jos jokin kääntyisi kokonaan läpi omasta aloitteestaan ​​tai näennäisesti omasta aloitteestaan ​​(vaikka syy olisi tiedossa). Jos jokin muu käänsi sen, katso {yoymoH:v}. Jos se kaatui, mutta ei käännetty kokonaan, katso {qaw':v}.
 
 Jos joku käännetään sängyssä, sanotaan tavallisesti {jItach:sen@@jI-:v, tach:v}. Voisi sanoa {jItach'eghmoH:sen@@jI-:v, tach:v, -'egh:v, -moH:v}, jos siihen liittyy erityistä taistelua tai vaivaa.
 
 On todennäköisempää käyttää {tachmoH:v@@tach:v, -moH:v} kuin {yoymoH:v:nolink} siirrettäessä joku alttiista selkänojaan (tai päinvastoin). Yksi käyttää todennäköisemmin {yoymoH:v:nolink}: tä kuin {tachmoH:v:nolink}, kun käännät hampurilaisia ​​tai pannukakkuja. Kumpikin olisi hieno korttien kääntämisestä, kun {yoymoH:v:nolink} tarkoittaa nopeampaa tai terävämpää toimintaa. [AUTOTRANSLATED]</column>
-
-Se alguém tombasse na cama, normalmente diria {jItach:sen@@jI-:v, tach:v}. Pode-se dizer {jItach'eghmoH:sen@@jI-:v, tach:v, -'egh:v, -moH:v} se houver uma luta ou esforço específico envolvido.
-
-É mais provável que alguém use {tachmoH:v@@tach:v, -moH:v} do que {yoymoH:v:nolink} ao mover alguém da posição deitada para a posição supina (ou vice-versa). É mais provável que alguém use {yoymoH:v:nolink} do que {tachmoH:v:nolink} ao virar hambúrgueres ou panquecas. Qualquer um seria bom para virar as cartas, com {yoymoH:v:nolink} implicando uma ação mais rápida ou mais nítida. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -474,11 +474,11 @@ Istället för att använda verbet {tagh:v:nolink}, överväga att använda verb
 
 不要使用動詞後綴{-choH:v:suff}，而不要使用動詞{tagh:v:nolink}。例如，一個初學者的學生可能被描述為{ghojchoHwI'}（開始學習）或被稱為{ghojchoH}（開始學習）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O sujeito deste verbo é a pessoa ou coisa que inicia o processo, e o objeto é o processo. Por exemplo: {Qu' DataghDI' 'aqtu' mellota' je tIqaw.:sen} "Quando você começa uma missão, lembre-se de Aktuh e Melota." [2]
-<column name="notes_fi">TRANSLATE</column>
 
 Se o iniciador do processo for desconhecido, obscuro ou indefinido, o processo se torna o sujeito do verbo (nesse caso, não leva objeto): {taghbej mu'qaD veS:sen:nolink} "A guerra de maldições começou definitivamente." [3]
 
 Em vez de usar o verbo {tagh:v:nolink}, considere usar o sufixo verbal {-choH:v:suff}. Por exemplo, um aluno que é iniciante pode ser descrito como {ghojchoHwI'} (aquele que está começando a aprender) ou como {ghojchoH} (começando a aprender). [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1533,13 +1533,13 @@ Ett svagt ljus skulle vara {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (medan {
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para "luz" no sentido de "brilho", por exemplo, os olhos de alguém sendo "sensíveis à luz", considere {wovtaHghach:n@@wov:v, -taH:v, -ghach:v} em vez disso.[1]
+
+Uma luz fraca seria {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (enquanto {tamghay Hurgh:n@@tamghay:n, Hurgh:v} soa estranho) .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Jos esimerkiksi "valo" tarkoittaa "kirkkautta", esimerkiksi jos jonkun silmät ovat "herkkiä valolle", harkitse sen sijaan {wovtaHghach:n@@wov:v, -taH:v, -ghach:v}.
 
 Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tamghay Hurgh:n@@tamghay:n, Hurgh:v} kuulostaa oudolta).[1][2] [AUTOTRANSLATED]</column>
-
-Uma luz fraca seria {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (enquanto {tamghay Hurgh:n@@tamghay:n, Hurgh:v} soa estranho) .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to Tom G. Smith of Industrial Light &amp; Magic, who oversaw visual effects production for {Star Trek II:src} and {Star Trek III:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2083,12 +2083,12 @@ Denna dialekt är typ halvvägs mellan standarddialekten och {Qotmagh Sep:n}-dia
 
 該方言介於標準方言和{Qotmagh Sep:n}方言之間。揚聲器將{b:sen:nolink}替換為{mb:sen:nolink}，將{D:sen:nolink}替換為{ND:sen:nolink}.[1, p.22] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os residentes desta região superam em muito os residentes de {Qotmagh Sep:n}.
+
+Este dialeto é uma espécie de meio caminho entre o dialeto padrão e o dialeto {Qotmagh Sep:n}. Os alto-falantes substituem {b:sen:nolink} por {mb:sen:nolink} e {D:sen:nolink} por {ND:sen:nolink}.[1, p.22] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämän alueen asukkaat ovat huomattavasti enemmän kuin {Qotmagh Sep:n}-asukkaat.
 
 Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-murteen välillä. Kaiuttimet korvaavat {b:sen:nolink}: lla {mb:sen:nolink}: n ja {D:sen:nolink}: lla {ND:sen:nolink}: lla.[1, p.22] [AUTOTRANSLATED]</column>
-
-Este dialeto é uma espécie de meio caminho entre o dialeto padrão e o dialeto {Qotmagh Sep:n}. Os alto-falantes substituem {b:sen:nolink} por {mb:sen:nolink} e {D:sen:nolink} por {ND:sen:nolink}.[1, p.22] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word appears only in the body of {KGT:src} on p.22 and not in the glossary. It appears as {taq'ev:n:nolink} and not as {taq'ev Sep:n:nolink}, but it is implied that this is the name of a region (see {Sep:n}).</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4862,9 +4862,9 @@ Observera att en människa ({Human:n}) är medlem av de viktigaste inhemska spr�
 
 請注意，人類（{Human:n}）是地球上具有主要土著語言能力的物種（{tera':n:place}）的成員，而人族（{tera'ngan:n:nolink}）則是指該星球上的任何居民。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {Hoj; tera'ngan rur@@Hoj:v, tera'ngan:n, rur:v}.
-<column name="notes_fi">TRANSLATE</column>
 
 Observe que um humano ({Human:n}) é um membro das principais espécies da Terra com capacidade de linguagem indígena ({tera':n:place}), enquanto o Terran ({tera'ngan:n:nolink}) se refere a qualquer habitante do planeta. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components">{tera':n}, {ngan:n}</column>
       <column name="examples"></column>
@@ -7309,11 +7309,11 @@ Hans anhängare inkluderar {lIr'el:n:name} och {voq:n:name}. Hans flaggskepp är
 
 他的支持者包括{lIr'el:n:name}和{voq:n:name}。他的旗艦是一具棺材覆蓋的石棺船（見{nebeylI':n}，{nev'aQ:n}，{pel'aQ:n:2}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">T'Kuvma foi proclamado "T'Kuvma, o Inesquecível" ({tIquvma lIjlaHbe'bogh vay':sen:nolink}) por seus seguidores, em uma alusão a Kahless, o Inesquecível (ver {qeylIS'e' lIjlaHbe'bogh vay':n:name}).
+
+Seus apoiadores incluem {lIr'el:n:name} e {voq:n:name}. Seu carro-chefe é um navio sarcófago coberto de caixões (ver {nebeylI':n}, {nev'aQ:n}, {pel'aQ:n:2}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Hänen seuraajansa julistivat T'Kuvman olevan "T'Kuvma unohtumaton" ({tIquvma lIjlaHbe'bogh vay':sen:nolink}) viittaamalla unohtumattomaan Kahlessiin (katso {qeylIS'e' lIjlaHbe'bogh vay':n:name}).
 
 Hänen kannattajansa ovat {lIr'el:n:name} ja {voq:n:name}. Hänen lippulaivansa on arkkuissa peitetty sarkofagialus (ks.{nebeylI':n}, {nev'aQ:n}, {pel'aQ:n:2}). [AUTOTRANSLATED]</column>
-
-Seus apoiadores incluem {lIr'el:n:name} e {voq:n:name}. Seu carro-chefe é um navio sarcófago coberto de caixões (ver {nebeylI':n}, {nev'aQ:n}, {pel'aQ:n:2}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7675,6 +7675,10 @@ Detta verb kan användas reflexivt för att betyda "njuta av dig själv", "ha de
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para verbos usados ​​para expressar o prazer da comida ou música entre os Klingons, consulte {DuQ:v:2} e {'ey:v}.[2]
+
+Os klingons normalmente não falam sobre música em termos de diversão, mas sim em termos do que ela faz ao ouvinte. Por exemplo, a música pode ser dita {jaqmoH:v}, {SeymoH:v}, {tungHa':v} ou {pIlmoH:v}.[2]
+
+Este verbo pode ser usado reflexivamente para significar "divirta-se", "divirta-se" .[3; 4] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #8. -->
 <!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Katso verbit, joita käytetään ruoan tai musiikin nauttimisen ilmaisemiseen klingonilaisten keskuudessa, ks.{DuQ:v:2} ja {'ey:v}.[2]
@@ -7682,10 +7686,6 @@ Detta verb kan användas reflexivt för att betyda "njuta av dig själv", "ha de
 Klingonit eivät yleensä puhu musiikista nautinnon kannalta, vaan pikemminkin sen suhteen, mitä se tekee kuuntelijalle. Esimerkiksi musiikista voidaan sanoa {jaqmoH:v}, {SeymoH:v}, {tungHa':v} tai {pIlmoH:v}.
 
 Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä hauskaa".[2][3; 4] [AUTOTRANSLATED]</column>
-
-Os klingons normalmente não falam sobre música em termos de diversão, mas sim em termos do que ela faz ao ouvinte. Por exemplo, a música pode ser dita {jaqmoH:v}, {SeymoH:v}, {tungHa':v} ou {pIlmoH:v}.[2]
-
-Este verbo pode ser usado reflexivamente para significar "divirta-se", "divirta-se" .[3; 4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The {msn:src} example had a typo: {ghoHtah:sen:nolink} instead of {ghoHtaH:sen:nolink}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -8779,9 +8779,9 @@ Det används också för att namnge kampsportställningar. För att beordra någ
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Refere-se a uma única técnica executada em uma luta ou, por extensão, a uma única manobra jogada em um jogo.[3]
-<column name="notes_fi">TRANSLATE</column>
 
 Também é usado para nomear posturas de artes marciais. Para comandar alguém a assumir uma postura ou pose, o verbo {much:v:3} é usado. A palavra {tonSaw':n:nolink} pode ser deixada de fora do nome se o contexto for claro.[4] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">To translate "The Final Reflection", where "reflection" is a maneuver in a game (see {tlhInja:n}), Maltz suggested {tonSaw' Qav:n:nolink} or {neSlo' tonSaw' Qav:n:nolink}.[3]</column>
       <column name="components"></column>
       <column name="examples">
@@ -9109,11 +9109,11 @@ För att använda en sådan stämpel måste man först trycka upp den ({laS:v}) 
 
 要使用這種印章，必須先用印泥（{rItlh 'echlet:n}）對其進行上墨（{laS:v}），然後將其下壓（{Dut:v:1}）。生成的圖像稱為{yang:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma ferramenta ou dispositivo, e não a um selo postal (para o qual consulte {HIjmeH chaw':n}).
+
+Para usar tal carimbo, deve-se primeiro cobri-lo ({laS:v}) com uma almofada de tinta ({rItlh 'echlet:n}) e, em seguida, fechá-lo ({Dut:v:1}). A imagem resultante é chamada de {yang:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä viittaa työkaluun tai laitteeseen eikä postimerkkiin (katso {HIjmeH chaw':n}).
 
 Tällaisen leiman käyttäminen on ensin mustettava se ylös ({laS:v}) mustetyynyllä ({rItlh 'echlet:n}) ja sitten lyödä se alas ({Dut:v:1}). Tuloksena olevaa kuvaa kutsutaan {yang:n}. [AUTOTRANSLATED]</column>
-
-Para usar tal carimbo, deve-se primeiro cobri-lo ({laS:v}) com uma almofada de tinta ({rItlh 'echlet:n}) e, em seguida, fechá-lo ({Dut:v:1}). A imagem resultante é chamada de {yang:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -9298,11 +9298,11 @@ Höjning nedåt indikeras med en negativ vinkel (se {taH:v:2}). [AUTOTRANSLATED]
 
 向下傾斜表示為負角度（請參見{taH:v:2}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é apenas o verbo {tor:v:1} aplicado a aeronaves.
+
+A inclinação para baixo é indicada por um ângulo negativo (consulte {taH:v:2}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on vain verbi {tor:v:1}, jota sovelletaan lentokoneisiin.
 
 Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUTOTRANSLATED]</column>
-
-A inclinação para baixo é indicada por um ângulo negativo (consulte {taH:v:2}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The eleva"tor"s control the pitch on an airplane.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11561,12 +11561,12 @@ Slanguttrycket {qogh tuQmoHHa':sen}, bokstavligen "att ta av sig bältet", betyd
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Veja {qawmoH:v} para um exemplo de como usar um verbo como este.
+
+A expressão de gíria {qogh tuQmoHHa':sen}, literalmente "tirar o cinto", significa "não ouvir" .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Katso {qawmoH:v} esimerkki siitä, miten tämän kaltaista verbiä käytetään.
 
 Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tarkoittaa "ei kuulla".[2] [AUTOTRANSLATED]</column>
-
-A expressão de gíria {qogh tuQmoHHa':sen}, literalmente "tirar o cinto", significa "não ouvir" .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tuQ:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -11887,11 +11887,11 @@ Ett prisma med en tre-sidig bas är en {ra'Duch tut:n@@ra'Duch:n, tut:n:2}, och 
 
 具有三邊底的棱鏡是{ra'Duch tut:n@@ra'Duch:n, tut:n:2}，依此類推。圓柱是{gho tut:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que isso se refere à figura geométrica, e não a um objeto de vidro usado para refratar a luz.
+
+Um prisma com base de três lados é um {ra'Duch tut:n@@ra'Duch:n, tut:n:2} e assim por diante. Um cilindro é um {gho tut:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Huomaa, että tämä viittaa geometriseen kuvioon eikä lasiesineeseen, jota käytetään valon taittamiseen.
 
 Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja niin edelleen. Sylinteri on {gho tut:n}. [AUTOTRANSLATED]</column>
-
-Um prisma com base de três lados é um {ra'Duch tut:n@@ra'Duch:n, tut:n:2} e assim por diante. Um cilindro é um {gho tut:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

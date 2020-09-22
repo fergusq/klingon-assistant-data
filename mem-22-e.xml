@@ -75,12 +75,12 @@ I en Klingon-bar ropar bartendern ({chom:n}) {'eb Qav:n} för "senaste samtal" .
 
 在克林崗酒吧，酒保（{chom:n}）喊{'eb Qav:n}表示“最後通話”。[4] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Diz-se que uma oportunidade foi capturada ({jon:v}), e se alguém perder uma oportunidade, diz-se que escapou ({nargh:v:2}) .[3] "matar o tempo" é {'ebmey jonHa':sen}.[5]
+
+Em um bar Klingon, o barman ({chom:n}) grita {'eb Qav:n} para "última chamada" .[4] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Mahdollisuuden sanotaan olevan kiinni ({jon:v}), ja jos joku menettää mahdollisuuden, sen sanotaan paenneen ({nargh:v:2}) .[3] "Aikaa tappaa" tarkoittaa {'ebmey jonHa':sen}.[5]
 
 Baarimikko ({chom:n}) huutaa Klingon-baarissa {'eb Qav:n} "viimeisestä puhelusta".[4] [AUTOTRANSLATED]</column>
-
-Em um bar Klingon, o barman ({chom:n}) grita {'eb Qav:n} para "última chamada" .[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -354,11 +354,11 @@ Kostymerna i ett kortlek med kort kallas {Degh:n:1}. [AUTOTRANSLATED]</column>
 
 一副撲克牌中的套裝稱為{Degh:n:1}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Em {Klingon Monopoly:src}, {'echletHom:n:nolink} é usado para os vários tipos de cartas de jogo. Em {TNK:src}, {QIn 'echletHom:n} é usado para significar "cartão postal".
+
+Os naipes em um baralho de cartas são chamados de {Degh:n:1}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">{Klingon Monopoly:src}: ssä {'echletHom:n:nolink}: ta käytetään erilaisiin pelikortteihin. Kohdassa {TNK:src} {QIn 'echletHom:n} tarkoittaa "postikortti".
 
 Pelikorttipakan pukuja kutsutaan nimellä {Degh:n:1}. [AUTOTRANSLATED]</column>
-
-Os naipes em um baralho de cartas são chamados de {Degh:n:1}. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'echlet:n}, {-Hom:n}</column>
           <column name="examples">
@@ -674,14 +674,14 @@ Vid anslutning av flera meningar behövs endast den slutliga konjunktionen. Se e
 
 連接多個句子時，僅需要最後一個連詞。請參閱{qoj:conj}下的示例。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A conjunção {'ej:conj} não tem quaisquer implicações temporais ou sequenciais.[2] Para expressar esses significados, use {ghIq:adv} ou {ngugh:adv}.
+
+Ao conectar várias frases, apenas a conjunção final é necessária. Veja o exemplo em {qoj:conj}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #3. -->
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Yhdistelmällä {'ej:conj} ei ole ajallisia tai peräkkäisiä vaikutuksia.
 
 Kun yhdistetään useita lauseita, tarvitaan vain viimeinen yhdistelmä. Katso esimerkki kohdasta {qoj:conj}.[2]{ghIq:adv}{ngugh:adv} [AUTOTRANSLATED]</column>
-
-Ao conectar várias frases, apenas a conjunção final é necessária. Veja o exemplo em {qoj:conj}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1564,12 +1564,12 @@ Det tar suffixet {-Du':n} även om det används metaforiskt. [2] [AUTOTRANSLATED
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso se refere à anatomia, mas pode ser usado metaforicamente em outros contextos.
+
+Leva o sufixo {-Du':n} mesmo quando usado metaforicamente.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä viittaa anatomiaan, mutta sitä voidaan käyttää metaforisesti muissa yhteyksissä.
 
 Se vaatii loppuliitteen {-Du':n}, vaikka sitä käytettäisiin metaforisesti.[2] [AUTOTRANSLATED]</column>
-
-Leva o sufixo {-Du':n} mesmo quando usado metaforicamente.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1977,11 +1977,11 @@ Detta ord bör inte förväxlas med {'eQway:n}. [AUTOTRANSLATED]</column>
 
 此詞不應與{'eQway:n}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um dispositivo de entrada do computador. Normalmente tem dois botões (chamados {leQ:n}): um {poS leQ:n@@poS:n, leQ:n} e um {nIH leQ:n@@nIH:n, leQ:n}.
+
+Esta palavra não deve ser confundida com {'eQway:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä viittaa tietokoneen syöttölaitteeseen. Siinä on tyypillisesti kaksi painiketta (kutsutaan {leQ:n}): {poS leQ:n@@poS:n, leQ:n} ja {nIH leQ:n@@nIH:n, leQ:n}.
 
 Tätä sanaa ei pidä sekoittaa {'eQway:n}-sanaan. [AUTOTRANSLATED]</column>
-
-Esta palavra não deve ser confundida com {'eQway:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A computer mouse is used to choose the (X,Y) coordinate on a computer screen.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2999,11 +2999,11 @@ Förväxla inte detta pronomen med suffixet {-'e':n:suff}. [AUTOTRANSLATED]</col
 
 不要將此後綴與後綴{-'e':n:suff}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este pronome é usado como o objeto da segunda frase em uma construção frase-como-objeto. Refere-se à frase anterior como um todo. Em tal construção, a segunda frase nunca assume um sufixo de aspecto.
-<column name="notes_fi">TRANSLATE</column>
 
 Normalmente, {net:n:pro} é usado quando o sujeito do verbo é indefinido (ou seja, {X net Y:sen:nolink} é usado em vez de {X 'e' Y-lu':sen:nolink}). No entanto, nem sempre é esse o caso. Veja {net:n:pro} para exemplos.
 
 Não confunda este pronome com o sufixo {-'e':n:suff}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">The rule that the second sentence never takes an aspect suffix was due to the backfitting of {qama'pu' jonta' neH.:sen} This rule is violated by the text on {SkyBox 25:src} and {SkyBox 26:src}.</column>
       <column name="components"></column>
       <column name="examples">

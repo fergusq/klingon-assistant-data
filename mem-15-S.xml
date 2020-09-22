@@ -302,16 +302,16 @@ Medan {SaD law':n:nolink} är ett grammatiskt uttryck, är {SaDmey:n:nolink} int
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Outra variante dessa palavra que é usada com frequência aproximadamente igual é {SanID:n:num,nolink}.
+
+Observe que o klingon tem palavras para "dez mil" ({netlh:n:num}) e "cem mil" ({bIp:n:num}) que são independentes da palavra para "mil".
+
+Enquanto {SaD law':n:nolink} é uma expressão gramatical, {SaDmey:n:nolink} não é.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Toinen variantti sanasta, jota käytetään suunnilleen yhtä usein, on {SanID:n:num,nolink}.
 
 Huomaa, että Klingonilla on sanoja "kymmenentuhatta" ({netlh:n:num}) ja "sata tuhatta" ({bIp:n:num}), jotka ovat riippumattomia sanasta "tuhat".
 
 Vaikka {SaD law':n:nolink} on kieliopillinen lauseke, {SaDmey:n:nolink} ei ole.[3] [AUTOTRANSLATED]</column>
-
-Observe que o klingon tem palavras para "dez mil" ({netlh:n:num}) e "cem mil" ({bIp:n:num}) que são independentes da palavra para "mil".
-
-Enquanto {SaD law':n:nolink} é uma expressão gramatical, {SaDmey:n:nolink} não é.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -715,11 +715,11 @@ Detta ord används inte för sorteringsordning.[3] [AUTOTRANSLATED]</column>
 
 此詞不用於排序。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Com base em seu uso no {paq'batlh:src}, o que está sendo ascendido é o objeto, e o destino é marcado com {-Daq:n}.[2]
+
+Esta palavra não é usada para ordem de classificação.[3] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Perustuen sen käyttöön {paq'batlh:src}: ssä, nouseva asia on objekti, ja kohde on merkitty {-Daq:n}.[2]
 
 Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
-
-Esta palavra não é usada para ordem de classificação.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2002,12 +2002,12 @@ Maltz visste inte ett generiskt verb för detta.[1] [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Usar um gesto é {Sawlay lo':sen@@Sawlay:n, lo':v} ou então um verbo de gesto específico (como {SIq:v}, {qay:v}, etc.).
+
+Maltz não conhecia um verbo genérico para isso.[1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Eleen käyttö on {Sawlay lo':sen@@Sawlay:n, lo':v} tai muuten tietty verbi (kuten {SIq:v}, {qay:v} jne.).
 
 Maltz ei tiennyt yleistä verbiä tälle[1] [AUTOTRANSLATED]</column>
-
-Maltz não conhecia um verbo genérico para isso.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In Chinese, "伴手禮" means souvenir (a gift given when traveling). In particular, "手" means "hand".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2450,11 +2450,11 @@ Denna region innehåller {HuD beQ yoS:n}. [AUTOTRANSLATED]</column>
 
 該區域包含{HuD beQ yoS:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma grande região vários milhares de quilômetros a leste da Primeira Cidade ({veng wa'DIch:n}). No dialeto desta região, os preposicionais tomam sufixos (veja em {lurgh:n} para uma explicação). Além disso, os brindes seguem a ordem normal das palavras, com o sujeito seguindo o verbo (ver {-jaj:v}).
+
+Esta região contém {HuD beQ yoS:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on suuri alue useita tuhansia kilometrejä Ensimmäisestä kaupungista itään ({veng wa'DIch:n}). Tämän alueen murteessa prepositioilla on jälkiliitteitä (katso selitys kohdasta {lurgh:n}). Lisäksi paahtoleivät seuraavat normaalia sanajärjestystä, ja aihe seuraa verbiä (katso {-jaj:v}).
 
 Tämä alue sisältää {HuD beQ yoS:n}. [AUTOTRANSLATED]</column>
-
-Esta região contém {HuD beQ yoS:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is basically "jackass" spelled backwards.
 
 This word appears only in the body of {KGT:src} and not in the glossary.</column>
@@ -3078,11 +3078,11 @@ Eftersom detta är ett icke-Klingon-namn, finns det någon variation i hur Kling
 
 由於這不是Klingon的名稱，因此Klingons的發音方式有所不同。有些人更像{Senjaw:n:name,nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome de uma nave estelar da Federação (神舟 em chinês).
+
+Como este é um nome não Klingon, há algumas variações em como os Klingons o pronunciam. Alguns pronunciam-se mais como {Senjaw:n:name,nolink}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on federaation tähtialuksen nimi (kiinaksi 神舟).
 
 Koska tämä on muu kuin klingonilainen nimi, siinä on jonkin verran vaihtelua siinä, miten klingonit lausuvat sen. Jotkut lausuvat sen enemmän kuin {Senjaw:n:name,nolink}. [AUTOTRANSLATED]</column>
-
-Como este é um nome não Klingon, há algumas variações em como os Klingons o pronunciam. Alguns pronunciam-se mais como {Senjaw:n:name,nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5255,15 +5255,15 @@ Om ett redskap används för en aktivitet som vanligtvis utförs av ett finger, 
 
 如果將工具用於通常由手指執行的活動，則可以使用手指動詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando usados ​​com substantivos marcados com {-Daq:n}, os verbos de dedo significam "apontar (com aquele dedo) para ou em direção a" o objeto indicado por aquele substantivo.
+
+Existem alguns casos especiais de formas reflexivas (com {-'egh:v}) dos verbos de dedo. Veja o exemplo abaixo e também em {rIl:v:1}.
+
+Se um implemento for usado para uma atividade normalmente executada por um dedo, um verbo de dedo pode ser usado. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kun sitä käytetään substantiivien kanssa, jotka on merkitty {-Daq:n}: llä, sormiverbit tarkoittavat "osoittavat (tällä sormella) kyseisen substantiivin osoittamaan kohteeseen tai kohti".
 
 On joitain erityistapauksia sormiverbien refleksiivisissä ({-'egh:v}) muodoissa. Katso alla oleva esimerkki ja myös kohdassa {rIl:v:1}.
 
 Jos työvälinettä käytetään tyypillisesti sormen suorittamaan toimintaan, voidaan käyttää sormiverbiä. [AUTOTRANSLATED]</column>
-
-Existem alguns casos especiais de formas reflexivas (com {-'egh:v}) dos verbos de dedo. Veja o exemplo abaixo e também em {rIl:v:1}.
-
-Se um implemento for usado para uma atividade normalmente executada por um dedo, um verbo de dedo pode ser usado. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Skaneateles Lake.</column>
       <column name="components"></column>
       <column name="examples">
@@ -7610,12 +7610,12 @@ Detta ord kan också hänvisa till "club" -dräkten i ett spellekskort (se {Degh
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Existe um idioma, {lugh; Sor rur@@lugh:v, Sor:n, rur:v}, que está conectado ao verbo {Sor:v}.
+
+Esta palavra também pode se referir ao naipe de "clube" em um baralho de cartas (ver {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Versioon {Sor:v} liittyy idioomi {lugh; Sor rur@@lugh:v, Sor:n, rur:v}.
 
 Tämä sana voi viitata myös "klubipukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
-
-Esta palavra também pode se referir ao naipe de "clube" em um baralho de cartas (ver {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9420,11 +9420,11 @@ Denna utrop utesluter att talaren håller på att ge ett kommando eller är redo
 
 此感嘆號表示講話者將要發出命令，或準備執行某項操作，或者已安排發生某事。 （{TKD 5.5:src}） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também é escrito como {Su':excl:nolink}. Alguns falantes do klingon pronunciam essa palavra como se fosse {SSS:excl:nolink}.
+
+Esta exclamação indica que o falante está prestes a dar um comando, ou está pronto para fazer algo ou que foram feitos preparativos para que algo aconteça. ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä kirjoitetaan myös nimellä {Su':excl:nolink}. Jotkut klingonilaiset puhuvat tämän sanan ikään kuin se olisi {SSS:excl:nolink}.
 
 Tämä huutomerkki osoittaa, että puhuja on antamassa komentoa, tai on valmis tekemään jotain tai että jotain on tapahtunut. ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
-
-Esta exclamação indica que o falante está prestes a dar um comando, ou está pronto para fazer algo ou que foram feitos preparativos para que algo aconteça. ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9519,12 +9519,12 @@ Uttrycket {jISum:sen:nolink} har en idiomatisk filosofisk betydelse, "Jag är i 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O uso desta palavra envolve o conceito de dêixis. Geralmente indica que o sujeito está perto do locutor, a menos que o contexto seja configurado para indicar que a ação está ocorrendo em outro lugar (por exemplo, usando {-Daq:n}). O sufixo {-chuq:v} não é usado com este verbo.[2]
+
+A expressão {jISum:sen:nolink} tem um significado filosófico idiomático, "Estou em contato com meu eu interior" (à maneira Klingon) .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämän sanan käyttöön liittyy deixiksen käsite. Yleensä se tarkoittaa, että kohde on puhujan lähellä, ellei kontekstia ole asetettu osoittamaan, että toiminta tapahtuu muualla (esimerkiksi käyttämällä {-Daq:n}-toimintoa). Laajennusta {-chuq:v} ei käytetä tässä verbissä.[2]
 
 Ilmaisulla {jISum:sen:nolink} on idiomaattinen filosofinen merkitys: "Olen yhteydessä sisäiseen minääni" (klingonin tapaan).[2] [AUTOTRANSLATED]</column>
-
-A expressão {jISum:sen:nolink} tem um significado filosófico idiomático, "Estou em contato com meu eu interior" (à maneira Klingon) .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">When you "zoom in" on something, it looks much closer.</column>
       <column name="components"></column>
       <column name="examples">
@@ -11298,6 +11298,12 @@ I följande exempel kan det specifika finger- eller tånamnet användas iställe
 
 在以下示例中，可以使用特定的手指或腳趾名稱代替{nItlh:n}和{yaD:n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um termo geral para qualquer tipo de relevo ou relevo, como as saliências nas pontas dos dedos, os padrões de um pneu de carro ou o perfil de um sapato. No entanto, não pode ser usado para as rugas da testa.
+
+Esta palavra é contrastada com {vem:n}, que é o traço deixado para trás quando alguém toca em algo. Por exemplo, compare {nItlh Su'nIm:n} "impressão digital" (saliências na ponta do dedo) com {nItlh Su'nIm vem:n} "impressão digital" (marca deixada para trás após o toque).
+
+Quando usada para se referir à impressão digital, etc., como uma parte do corpo, essa palavra assume o sufixo plural {-Du':n}. (Caso contrário, leva o sufixo {-mey:n}.)
+
+Nos exemplos a seguir, o nome específico do dedo ou dedo do pé pode ser usado em vez de {nItlh:n} e {yaD:n:1}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on yleinen termi kaikenlaiselle korotetulle profiilille tai helpotukselle, kuten sormenpäiden harjanteet, auton renkaan kuviot tai kengän profiili. Sitä ei kuitenkaan voida käyttää otsaan oleviin harjanteisiin.
 
 Tätä sanaa verrataan sanaan {vem:n}, joka on jäljessä oleva jälki, kun joku koskettaa jotain. Vertaa esimerkiksi {nItlh Su'nIm:n}: n "sormenjälkeä" (sormenpäässä olevat harjanteet) {nItlh Su'nIm vem:n}: n "sormenjälkeen" (merkki, joka on jätetty taakse kosketuksen jälkeen).
@@ -11305,12 +11311,6 @@ Tätä sanaa verrataan sanaan {vem:n}, joka on jäljessä oleva jälki, kun joku
 Kun sitä käytetään viittaamaan sormenjälkiin jne., Runko-osaksi, tämä sana vie monikon {-Du':n}. (Muuten se tarvitsee loppuliitteen {-mey:n}.)
 
 Seuraavissa esimerkeissä voidaan käyttää tiettyä sormen tai varpaan nimeä {nItlh:n} ja {yaD:n:1}: n sijaan. [AUTOTRANSLATED]</column>
-
-Esta palavra é contrastada com {vem:n}, que é o traço deixado para trás quando alguém toca em algo. Por exemplo, compare {nItlh Su'nIm:n} "impressão digital" (saliências na ponta do dedo) com {nItlh Su'nIm vem:n} "impressão digital" (marca deixada para trás após o toque).
-
-Quando usada para se referir à impressão digital, etc., como uma parte do corpo, essa palavra assume o sufixo plural {-Du':n}. (Caso contrário, leva o sufixo {-mey:n}.)
-
-Nos exemplos a seguir, o nome específico do dedo ou dedo do pé pode ser usado em vez de {nItlh:n} e {yaD:n:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

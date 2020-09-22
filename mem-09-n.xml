@@ -1027,9 +1027,9 @@ Förväxla inte detta ord med {naQjej:n}. [AUTOTRANSLATED]</column>
 
 請勿將此詞與{naQjej:n}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra também é escrita {neHjej:n:nolink}.
-<column name="notes_fi">TRANSLATE</column>
 
 Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">In the body text of {KGT:src}, this word is spelled {naHjej:n:nolink}, with a note that it literally means "sharp fruit".[1, p.88] However, it is spelled {neHjej:n:nolink} in both the E-K and K-E word lists.</column>
       <column name="components">{naH:n}, {jej:v}</column>
       <column name="examples"></column>
@@ -1773,9 +1773,9 @@ Observera att när {naQ:v:nolink} används adjektivt betyder det "ett komplett X
 
 注意，當{naQ:v:nolink}用作形容詞時，表示“完整的X”。將此與名詞後面的{Hoch:n}進行比較，該名詞表示“所有X”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo {naQmoH:v@@naQ:v, -moH:v} é usado para preencher formulários (ver {yu'muD:n}).
-<column name="notes_fi">TRANSLATE</column>
 
 Observe que quando {naQ:v:nolink} é usado adjetivamente, significa "um X completo". Compare isso com {Hoch:n} após um substantivo, que significa "todos de X". [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1961,11 +1961,11 @@ Förväxla inte detta ord med {naHjej:n}. [AUTOTRANSLATED]</column>
 
 不要將此詞與{naHjej:n}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Partes de uma lança são seu eixo {tIH:n:2} e sua ponta de lança {QIn:n:2}. Os tipos de lanças incluem {ghIntaq:n:1} e {chonnaQ:n}.
+
+Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Keihään osat ovat sen akseli {tIH:n:2} ja sen keihäänpää {QIn:n:2}. Keihään tyyppejä ovat {ghIntaq:n:1} ja {chonnaQ:n}.
 
 Älä sekoita tätä sanaa {naHjej:n}-sanaan. [AUTOTRANSLATED]</column>
-
-Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{naQ:n:1}, {jej:v}</column>
       <column name="examples"></column>
@@ -3319,11 +3319,11 @@ Detta adverbial kan också följa ett substantiv, i vilket fall det betyder "bar
 
 該副詞也可以跟隨名詞，在這種情況下，它的意思是“僅”或“單獨”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso segue o verbo que modifica e tem o efeito de banalizar a ação.
+
+Este adverbial também pode seguir um substantivo, caso em que significa "apenas" ou "sozinho". [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä seuraa verbiä, jota se muuttaa, ja sillä on vaikutuksen trivialisointi.
 
 Tämä adverbi voi myös seurata substantiivia, jolloin se tarkoittaa "vain" tai "yksin". [AUTOTRANSLATED]</column>
-
-Este adverbial também pode seguir um substantivo, caso em que significa "apenas" ou "sozinho". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3674,6 +3674,10 @@ När det används för objekt som kommer i par, som strumpor och handskar, är m
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode ser usado se as impressões digitais corresponderem (consulte {nItlh Su'nIm:n} e {nItlh Su'nIm vem:n}) .[1]
+
+Gramaticamente, esse verbo funciona como {rur:v}. Pode-se dizer {A nel B:sen:nolink} "B corresponde a A" ou {nelchuq A B je:sen:nolink} "A e B correspondem um ao outro" .[2]
+
+Quando usado para objetos que vêm em pares, como meias e luvas, o sujeito é um item do par, e o objeto é o outro.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <!-- ERROR: Missing link #7. -->
 <!-- ERROR: Missing link #8. -->
@@ -3682,10 +3686,6 @@ När det används för objekt som kommer i par, som strumpor och handskar, är m
 Kieliopillisesti tämä verbi toimii kuten {rur:v}. Voidaan sanoa, että {A nel B:sen:nolink} "B vastaa A" tai {nelchuq A B je:sen:nolink} "A ja B vastaavat toisiaan".
 
 Kun sitä käytetään esineisiin, jotka tulevat pareittain, kuten sukat ja käsineet, kohde on parin yksi esine ja esine on toinen.[1][2][3] [AUTOTRANSLATED]</column>
-
-Gramaticamente, esse verbo funciona como {rur:v}. Pode-se dizer {A nel B:sen:nolink} "B corresponde a A" ou {nelchuq A B je:sen:nolink} "A e B correspondem um ao outro" .[2]
-
-Quando usado para objetos que vêm em pares, como meias e luvas, o sujeito é um item do par, e o objeto é o outro.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Nell Carter was a regular panelist on the TV show "Match Game".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4347,9 +4347,9 @@ Ibland används {'e':n:pro} med {-lu':v} istället för {net:n:pro,nolink}. Det 
 
 有時，使用帶有{-lu':v}的{'e':n:pro}代替{net:n:pro,nolink}。目前尚不清楚為什麼。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este pronome é usado em uma construção de frase como objeto quando a segunda frase tem um sujeito de terceira pessoa indefinido (ou seja, "um" ou "alguém").
-<column name="notes_fi">TRANSLATE</column>
 
 Às vezes, {'e':n:pro} com {-lu':v} é usado em vez de {net:n:pro,nolink}. Não está claro por que no momento. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4781,16 +4781,16 @@ Detta verb används för att uttrycka begreppet att två saker har samma mängd 
 Этот глагол использован, чтобы выразить идею, что две вещи имеют одинаковое качество, аналогично {rap:v}, но с указанием точности. Если качество является измеримым, точность состоит в том что две вещи одинакового качества. Смотрите примеры ниже.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O assunto de {nIb:v:nolink} são as coisas que são idênticas.[2]
+
+O uso deste verbo não sugere de que maneira as coisas são idênticas, exceto quando é usado na seguinte construção.
+
+Este verbo é usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade, de maneira semelhante a {rap:v}, mas com a conotação de precisão. Se a qualidade for mensurável, a conotação é que as duas coisas têm exatamente a mesma quantidade dessa qualidade. Veja o exemplo abaixo.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{nIb:v:nolink}-aihe on identtinen
 
 Tämän verbin käyttö ei osoita, miten asiat ovat identtiset, paitsi jos sitä käytetään seuraavassa rakennelmassa.
 
 Tätä verbiä käytetään ilmaisemaan käsite, että kahdella asialla on sama määrä jonkin verran laatua, samalla tavalla kuin {rap:v}, mutta tarkkuudella. Jos laatu on mitattavissa oleva, merkitys on, että kahdella asialla on täsmälleen sama määrä tätä laatua. Katso alla oleva esimerkki.[3][2] [AUTOTRANSLATED]</column>
-
-O uso deste verbo não sugere de que maneira as coisas são idênticas, exceto quando é usado na seguinte construção.
-
-Este verbo é usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade, de maneira semelhante a {rap:v}, mas com a conotação de precisão. Se a qualidade for mensurável, a conotação é que as duas coisas têm exatamente a mesma quantidade dessa qualidade. Veja o exemplo abaixo.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5805,11 +5805,11 @@ Se Gowron säga {nISwI'mey:n@@nISwI':n, -mey:n}: {YouTube video:url:http://youtu
 
 觀看Gowron說{nISwI'mey:n@@nISwI':n, -mey:n}：{YouTube video:url:http://youtu.be/Aadh3qMs7Go} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada apenas para a arma Klingon. O termo mais geral para uma arma deste tipo é {pu':n:1}.[1, p.56]
+
+Veja Gowron dizer {nISwI'mey:n@@nISwI':n, -mey:n}: {YouTube video:url:http://youtu.be/Aadh3qMs7Go} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään vain Klingon-aseeseen. Tämäntyyppisen aseen yleisempi termi on {pu':n:1}.[1, p.56]
 
 Katso Gowronin sanovan {nISwI'mey:n@@nISwI':n, -mey:n}: {YouTube video:url:http://youtu.be/Aadh3qMs7Go} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer {nISwI'mey:n@@nISwI':n, -mey:n}: {YouTube video:url:http://youtu.be/Aadh3qMs7Go} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6322,13 +6322,13 @@ Se {SIq:v} för en förklaring av användningen av dessa finger verb. [AUTOTRANS
 
 有關這些手指動詞用法的說明，請參見{SIq:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra se refere a qualquer dígito da mão, incluindo o polegar.
-<column name="notes_fi">TRANSLATE</column>
 
 O klingon tem cinco verbos correspondentes a cada um dos {nItlh:n:nolink}: {Sen:v:1}, {SIq:v}, {qay:v}, {qew:v} e {qan:v:2}. Além disso, quando se refere ao polegar de uma criança, {rIl:v:1} é usado em vez de {Sen:v:1,nolink}.
 
 Correspondentemente, os dedos são denominados {SenwI':n} ({rIlwI':n} se pertencer a uma criança), {SIqwI':n}, {qaywI':n}, {qewwI':n} e {qanwI':n}.
 
 Consulte {SIq:v} para obter uma explicação sobre o uso desses verbos de dedo. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">The verbs for the fingers come from names of the Finger Lakes in New York State.</column>
       <column name="components"></column>
       <column name="examples"></column>

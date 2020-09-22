@@ -1410,12 +1410,12 @@ Se {rav:n:1} för ett formspråk relaterat till sorg. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso não é exatamente o mesmo que {QuchHa':v}, pois o último implica uma mudança de ser feliz para não ser feliz.[2]
+
+Veja {rav:n:1} para um idioma relacionado à tristeza. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä ei ole täsmälleen sama kuin {QuchHa':v}, koska jälkimmäinen tarkoittaa muutosta onnellisuudesta ei-onnelliseksi.
 
 Katso {rav:n:1} surullisuuteen liittyvästä idiomasta.[2] [AUTOTRANSLATED]</column>
-
-Veja {rav:n:1} para um idioma relacionado à tristeza. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

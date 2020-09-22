@@ -504,12 +504,12 @@ Förväxla inte detta med liknande namn {qa'raj:n}. [AUTOTRANSLATED]</column>
 Не путать это с похожим словом {qa'raj:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Um kradge tem lábios castanhos. A expressão {Doq 'ej Qaj wuS rur:sen} é usada para descrever um objeto que é um tom particular de marrom (ver {Doq 'ej wovbe':sen}) .[2]
+
+Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kradge on ruskeat huulet. Ilmaisua {Doq 'ej Qaj wuS rur:sen} käytetään kuvaamaan kohdetta, joka on tietty ruskea sävy (katso {Doq 'ej wovbe':sen}).
 
 Älä sekoita tätä vastaavasti nimettyyn {qa'raj:n}: ään.[2] [AUTOTRANSLATED]</column>
-
-Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1142,11 +1142,11 @@ Se en lektion om detta ord: {YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUT
 
 觀看有關此詞的課程：{YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma das exclamações mais comumente usadas em Klingon, que é reconhecida até mesmo por muitos não falantes. Seja cuidadoso com a grafia, já que geralmente é distorcida por não-Klingons.
-<column name="notes_fi">TRANSLATE</column>
 
 Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/ZdNqwDxEyiU}
 
 Assista a uma lição sobre esta palavra: {YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">The Klingon version of this sentence has no exclamation mark as printed on {TKD p.171:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1299,15 +1299,15 @@ För beskrivning av trevlig mat eller musik, se {'ey:v} och {DuQ:v:2}. [AUTOTRAN
 
 有關描述美食或音樂的信息，請參閱{'ey:v}和{DuQ:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o verbo (ou adjetivo) que significa "ser bom". Com base nos exemplos, é no sentido de possuir uma qualidade desejável, e não no sentido de não ser mau (ver {mIgh:v}).
+
+Para "bom" como uma exclamação que expressa satisfação, consulte {maj:excl}.
+
+Para descrever comida ou música agradável, consulte {'ey:v} e {DuQ:v:2}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on verbi (tai adjektiivi), joka tarkoittaa "olla hyvä". Esimerkkien perusteella se on mieluummin toivottavan laadun kuin siinä mielessä, ettei ole paha (ks.{mIgh:v}).
 
 Katso "hyvä" tyydytystä osoittavana huutomerkkinä artikkelista {maj:excl}.
 
 Jos haluat kuvailla nautittavaa ruokaa tai musiikkia, katso {'ey:v} ja {DuQ:v:2}. [AUTOTRANSLATED]</column>
-
-Para "bom" como uma exclamação que expressa satisfação, consulte {maj:excl}.
-
-Para descrever comida ou música agradável, consulte {'ey:v} e {DuQ:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1427,6 +1427,12 @@ I {Klingon Monopoly:src} är {tlhIngan QaS:n:nolink} den valutaenhet som använd
 В {Klingon Monopoly:src}, {tlhIngan QaS:n:nolink} является единицей валюты, используемой в игре. Из этой игры есть примеры {"Вперед!!!!" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink} и {wa'vatlh QaS yItlhap:sen:nolink}. Заметьте, что префикс {yI-:v} используется хотя {QaS:n:1h,nolink} в сущности является существительным во множественном числе, чьи члены являются исчислимыми.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O significado desta palavra é como {negh:n}, mas exclui oficiais ({yaS:n}). As classificações mais altas de {QaS:n:1h,nolink} são:
+▶ {bu':n} "sargento"
+▶ {Da':n} "corporal"
+
+É possível que esta palavra possa ser usada para se referir a um único membro da tropa.[2, p.51]
+
+Em {Klingon Monopoly:src}, {tlhIngan QaS:n:nolink} é a unidade monetária usada no jogo. Deste jogo, temos os exemplos {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink} e {wa'vatlh QaS yItlhap:sen:nolink}. Observe que o prefixo singular {yI-:v} é usado mesmo que {QaS:n:1h,nolink} seja um substantivo inerentemente plural cujos membros estão sendo contados.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #13. -->
 <column name="notes_fi">Tämän sanan merkitys on kuin {negh:n}, mutta se sulkee pois upseerit ({yaS:n}). {QaS:n:1h,nolink}: n korkeimmat rivit ovat:
 ▶ {bu':n} "kersantti"
@@ -1435,12 +1441,6 @@ I {Klingon Monopoly:src} är {tlhIngan QaS:n:nolink} den valutaenhet som använd
 On mahdollista, että tätä sanaa voidaan käyttää viittaamaan yhteen joukkojen jäseneen.[2, p.51]
 
 Kohdassa {Klingon Monopoly:src} {tlhIngan QaS:n:nolink} on pelissä käytetty rahayksikkö. Tästä pelistä meillä on esimerkkejä {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink} ja {wa'vatlh QaS yItlhap:sen:nolink}. Huomaa, että yksikön etuliitettä {yI-:v} käytetään, vaikka {QaS:n:1h,nolink} on luonnostaan ​​monikko-substantiivi, jonka jäseniä lasketaan.[3] [AUTOTRANSLATED]</column>
-▶ {bu':n} "sargento"
-▶ {Da':n} "corporal"
-
-É possível que esta palavra possa ser usada para se referir a um único membro da tropa.[2, p.51]
-
-Em {Klingon Monopoly:src}, {tlhIngan QaS:n:nolink} é a unidade monetária usada no jogo. Deste jogo, temos os exemplos {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink} e {wa'vatlh QaS yItlhap:sen:nolink}. Observe que o prefixo singular {yI-:v} é usado mesmo que {QaS:n:1h,nolink} seja um substantivo inerentemente plural cujos membros estão sendo contados.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mang:n}</column>
       <column name="examples"></column>
@@ -2066,11 +2066,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/SIpF7Zak6CY} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/SIpF7Zak6CY} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso não faz barulho ao amanhecer, ao contrário do {jajlo' Qa':n}. É confundido com um pássaro por algum.[2]
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/SIpF7Zak6CY} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Toisin kuin {jajlo' Qa':n}, tämä ei tee aamunkoittoa aamunkoitteessa. Jotkut erehtävät sitä lintuna.[2]
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/SIpF7Zak6CY} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/SIpF7Zak6CY} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word appears in the "Curses" section of the {KCD:src} Language Lab. In the introduction to the holodeck part of the game, it is used in a derogatory manner to describe someone who is weak and scares easily.[3]</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3088,11 +3088,11 @@ Detta verb används också för att uttrycka idén om "ansikte" (orientera mot) 
 
 此動詞還用於表達“面部”（面向）的概念（請參閱{Qeq:v:2}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é o projétil ou arma e o alvo é marcado com {-Daq:n:suff} (consulte {bach:v} para obter detalhes).
+
+Este verbo também é usado para expressar a idéia de "face" (orientar para) (consulte {Qeq:v:2}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde on ammus tai ase, ja kohde on merkitty merkillä {-Daq:n:suff} (katso lisätietoja kohdasta {bach:v}).
 
 Tätä verbiä käytetään myös ilmaisemaan ajatusta "kasvot" (suunta kohti) (katso {Qeq:v:2}). [AUTOTRANSLATED]</column>
-
-Este verbo também é usado para expressar a idéia de "face" (orientar para) (consulte {Qeq:v:2}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "aim" in {KGT:src} and clarified to "aim (at)" at {qep'a' 27 (2020):src}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -3537,11 +3537,11 @@ Ordet för ett fartygs kommandodäck (även kallad en "bridge" på engelska) är
 
 船舶指揮甲板（英語中也稱為“橋樑”）的名稱是{meH:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para dizer que uma ponte atravessa algo (um rio, um vale e assim por diante), use {vech:v}.
+
+A palavra para o convés de comando de um navio (também chamada de "ponte" em inglês) é {meH:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Käytä {vech:v} sanomaan, että silta ulottuu johonkin (joki, laakso ja niin edelleen).
 
 Aluksen komentokannen sana (jota kutsutaan myös englanniksi "sillaksi") on {meH:n}. [AUTOTRANSLATED]</column>
-
-A palavra para o convés de comando de um navio (também chamada de "ponte" em inglês) é {meH:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to the novel "The Bridge over the River Kwai" ("Le Pont de la Rivière Kwai") by Pierre Boulle.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4224,12 +4224,12 @@ Detta ord används inte för att betyda "ivrigt efter, längtan efter, i verklig
 Это слово не используется для обозначения «жаждущего, стремящегося, действительно нуждающегося, имеющего большое желание» и так далее. Чтобы выразить эти идеи, можно использовать {-nIS:v} с {-qu':v} или, возможно, {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">É usado quando não há saída ou não há nada a perder. Inclui ideias como "última vala, vida ou morte, sem esperança, condenada" .[1]
+
+Esta palavra não é usada para significar "ansioso por, ansiando por, com necessidade real de, tendo um grande desejo por", e assim por diante. Para expressar essas idéias, pode-se usar {-nIS:v} com {-qu':v}, ou talvez {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä käytetään, kun ei ole ulospääsyä tai jos ei ole mitään menetettävää. Se sisältää ideoita, kuten "viimeinen oja, tee tai kuole, toivoton, tuomittu" .[1]
 
 Tätä sanaa ei käytetä tarkoittavan "haluaa, kaipaa, kaipaa sitä, sitä todella tarvitsee, jolla on suuri halu" ja niin edelleen. Näiden ajatusten ilmaisemiseksi voidaan käyttää {-nIS:v} {-qu':v}: n kanssa tai ehkä {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
-
-Esta palavra não é usada para significar "ansioso por, ansiando por, com necessidade real de, tendo um grande desejo por", e assim por diante. Para expressar essas idéias, pode-se usar {-nIS:v} com {-qu':v}, ou talvez {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4409,12 +4409,12 @@ Den används för att hänvisa till punkten på en (geometrisk) stjärna ({Dujtl
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra também se refere à ponta afiada de um lápis. Provavelmente se refere à extremidade afiada de qualquer objeto parecido com um pedaço de pau.[2]
+
+É usado para se referir ao ponto em uma estrela (geométrica) ({DujtlhuQ:n}) .[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana viittaa myös lyijykynän teroitettuun päähän. Se viittaa todennäköisesti minkä tahansa tikkumaisen esineen terävään päähän.[2]
 
 Sitä käytetään viittaamaan (geometrisen) tähden pisteeseen ({DujtlhuQ:n}).[3] [AUTOTRANSLATED]</column>
-
-É usado para se referir ao ponto em uma estrela (geométrica) ({DujtlhuQ:n}) .[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4942,11 +4942,11 @@ Det finns inget traditionellt Klingon-sätt att säga något som "god jul". Ett 
 Не существует традиционного способ сказать что-то типа "Счастливого рождества". Выражение типа {wornagh yItlhutlh!} может быть наиболее соответствующим для этого.[1]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este é o nome de um feriado terráqueo.
+
+Não existe uma maneira tradicional Klingon de dizer algo como "Feliz Natal". Uma expressão como {wornagh yItlhutlh!} pode ser mais apropriada.[1] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on Terran-loman nimi.
 
 Ei ole perinteistä klingonilaista tapaa sanoa jotain "hyvää joulua". Lauseke, kuten {wornagh yItlhutlh!}, saattaa olla sopivampi.[1] [AUTOTRANSLATED]</column>
-
-Não existe uma maneira tradicional Klingon de dizer algo como "Feliz Natal". Uma expressão como {wornagh yItlhutlh!} pode ser mais apropriada.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Maltz thought "Merry Christmas" and "Happy New Year" were silly things to say.[1]</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5570,9 +5570,9 @@ Detta verb kan ta {'e':n:pro} som sitt objekt.[2] [AUTOTRANSLATED]</column>
 This verb can take {'e':n:pro} as its object.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">A discordância também é expressa pela expressão idiomática {cha' DoSmey DIqIp.:sen:idiom}
-<column name="notes_fi">TRANSLATE</column>
 
 Este verbo pode ter {'e':n:pro} como seu objeto.[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">At {Saarbrücken qepHom'a' 2011:src}, MO accepted {maQoch 'e' wIQochbe':sen:nolink} as a way of expressing "we agree to disagree" in Klingon, though he did not compose the sentence.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5635,16 +5635,16 @@ Avtal uttrycks också av det idiomatiska uttrycket {wa' DoS wIqIp.:sen:idiom} [A
 Согласие также находит выражение в идиоме {wa' DoS wIqIp.:sen:idiom}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">É simplesmente o verbo {Qoch:v} mais o sufixo {-be':v}.[2]
+
+{Qochbe':v:nolink} implica uma ausência de desacordo, enquanto {QochHa':v:nolink} implica que a discordância foi extraviada ou desfeita.[3]
+
+A concordância também é expressa pela expressão idiomática {wa' DoS wIqIp.:sen:idiom} [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä on yksinkertaisesti verbi {Qoch:v} plus pääte {-be':v}.[2]
 
 {Qochbe':v:nolink} tarkoittaa erimielisyyksien puuttumista, kun taas {QochHa':v:nolink} tarkoittaa, että erimielisyydet on väärin sijoitettu tai kumottu.
 
 Sopimus ilmaistaan ​​myös idiomaattisella ilmaisulla {wa' DoS wIqIp.:sen:idiom}[3] [AUTOTRANSLATED]</column>
-
-{Qochbe':v:nolink} implica uma ausência de desacordo, enquanto {QochHa':v:nolink} implica que a discordância foi extraviada ou desfeita.[3]
-
-A concordância também é expressa pela expressão idiomática {wa' DoS wIqIp.:sen:idiom} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Qoch:v}, {-be':v}</column>
       <column name="examples">
@@ -6635,12 +6635,12 @@ Typer av Klingon-musikinstrument inkluderar: slagverk ({'In:n}), vind (ingen tot
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode ser encurtado para apenas {jan:n:2} se o contexto for claramente musical, mas isso raramente é feito.[1]
+
+Os tipos de instrumentos musicais Klingon incluem: percussão ({'In:n}), vento (sem termo geral), windbag ou fole ({SuSDeq:n}) e cordas ({HurDagh:n} e {ngItHel:n}). Os instrumentos de sopro incluem o {Dov'agh:n}, o {gheb:n} e o {meSchuS:n}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä voidaan lyhentää vain {jan:n:2}-muotoon, jos asiayhteys on selvästi musikaali, mutta näin tehdään harvoin.
 
 Klingonin soittimien tyyppejä ovat: lyömäsoittimet ({'In:n}), tuuli (ei yleistä termiä), tuulipussi tai palkeet ({SuSDeq:n}) ja joustavat ({HurDagh:n} ja {ngItHel:n}). Puhallinsoittimiin kuuluvat {Dov'agh:n}, {gheb:n} ja {meSchuS:n}.[1] [AUTOTRANSLATED]</column>
-
-Os tipos de instrumentos musicais Klingon incluem: percussão ({'In:n}), vento (sem termo geral), windbag ou fole ({SuSDeq:n}) e cordas ({HurDagh:n} e {ngItHel:n}). Os instrumentos de sopro incluem o {Dov'agh:n}, o {gheb:n} e o {meSchuS:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{QoQ:n}, {jan:n:1}</column>
       <column name="examples"></column>
@@ -6995,12 +6995,12 @@ I Krotmag-regionen ersätter högtalarna {b:sen:nolink} med {m:sen:nolink} och {
 
 在Krotmag地區，揚聲器將{b:sen:nolink}替換為{m:sen:nolink}，將{D:sen:nolink}替換為{N:sen:nolink}.[1, p.21] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta região é nomeada após Krotmag ({Qotmagh:n:name}).
+
+Na região de Krotmag, os alto-falantes substituem {b:sen:nolink} por {m:sen:nolink} e {D:sen:nolink} por {N:sen:nolink}.[1, p.21] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä alue on nimetty Krotmagin ({Qotmagh:n:name}) mukaan.
 
 Krotmagin alueella kaiuttimet korvaavat {b:sen:nolink}: n {m:sen:nolink}: lla ja {D:sen:nolink}: n {N:sen:nolink}: lla.[1, p.21] [AUTOTRANSLATED]</column>
-
-Na região de Krotmag, os alto-falantes substituem {b:sen:nolink} por {m:sen:nolink} e {D:sen:nolink} por {N:sen:nolink}.[1, p.21] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word appears only in the body of {KGT:src} and not in the glossary.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7319,9 +7319,9 @@ Klingons anser titelakt ({yer ghajwI' chaw':n}) som en typ av {chaw':n:nolink}, 
 
 克林崗人認為產權契據（{yer ghajwI' chaw':n}）是{chaw':n:nolink}的一種，而不是{Qoyje':n:nolink}的一種，因為財產所有權是由政府或其他機構授予的，但這不是一項成就。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para um certificado ou diploma, mas não para uma licença ou permissão, que seria um {chaw':n}. A diferença é que um {Qoyje':n:nolink} é a prova ou verificação de algum tipo de conquista ou realização, mas não necessariamente permite que você faça nada como resultado disso.
-<column name="notes_fi">TRANSLATE</column>
 
 Os klingons consideram os títulos de propriedade ({yer ghajwI' chaw':n}) como um tipo de {chaw':n:nolink}, em vez de um tipo de {Qoyje':n:nolink}, já que a propriedade é concedida por um governo ou outra autoridade, mas não é uma realização. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">Pun: {Qoy:v} "hear" + {je':v:1} "buy" = "hereby". Many certificates begin with "I hereby certify that...".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7640,9 +7640,9 @@ Slangbetydelsen av {chong:v:2,slang}, när den appliceras på en person, motsvar
 Сленговое значение {chong:v:2,slang}, когда применяется к лицу, эквивалентно {Qubchu'} "Ясно мыслить".[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo pode ter {'e':n:pro} como seu objeto.[2]
-<column name="notes_fi">TRANSLATE</column>
 
 O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é equivalente a {Qubchu'} "pense claramente" .[3] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

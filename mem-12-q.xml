@@ -382,12 +382,12 @@ För {qoD:n} delar av en {qach:n}, se {pa':n:1}. [AUTOTRANSLATED]</column>
 
 有關{qach:n}的{qoD:n}部分的信息，請參閱{pa':n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O {yor:n} de um {qach:n} é o seu {beb:n}, e suas paredes voltadas para o {Hur:n} são chamadas de {reD:n:1}. O outro lado do {beb:n} (isto é, o {'aqroS:n:1} de um {qach:n}) é chamado de {pa' beb:n}; a face {qoD:n} de um {reD:n:1} é conhecida como {pa' reD:n}.
+
+Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #13. -->
 <column name="notes_fi">{qach:n}: n {yor:n} on sen {beb:n}, ja sen {Hur:n} -puoleisia seiniä kutsutaan {reD:n:1}: ksi. {beb:n}: n (toisin sanoen {qach:n}: n {'aqroS:n:1}) toista puolta kutsutaan {pa' beb:n}: ksi; {reD:n:1}-kasvoihin {qoD:n} viitataan nimellä {pa' reD:n}.
 
 Katso {qach:n}-osat DONOTTRANSLATE14-osasta kohdasta {pa':n:1}.{qoD:n} [AUTOTRANSLATED]</column>
-
-Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -786,11 +786,11 @@ Det finns ett formspråk, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSL
 
 有一個成語，{ghung; qagh rur@@ghung:v, qagh:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é frequentemente escrita em inglês como "gagh".
+
+Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana kirjoitetaan usein englanniksi nimellä "gagh".
 
 On idioomi {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</column>
-
-Existe um idioma, {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3307,11 +3307,11 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
 
     更一般地說，似乎在將{-moH:v}添加到帶賓語的動詞{X:sen:nolink}時，所得的二價動詞{XmoH:sen:nolink}帶有相同的賓語，而{X:sen:nolink}的原始主語成為{XmoH:sen:nolink}的受益者，並標有{-vaD:n}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Com base no exemplo, o sujeito faz a lembrança, o objeto é a coisa lembrada e a pessoa lembrada é marcada com {-vaD:n}.
+
+    Mais genericamente, parece que quando {-moH:v} é adicionado a um verbo {X:sen:nolink} que leva um objeto, o verbo bivalente resultante {XmoH:sen:nolink} leva o mesmo objeto, enquanto o sujeito original de {X:sen:nolink} torna-se o beneficiário de {XmoH:sen:nolink} e é marcado com {-vaD:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Esimerkin perusteella aihe tekee muistutuksen, esine on muistettava asia ja muistutettava henkilö merkitään tekstillä {-vaD:n}.
 
     Yleisemmin näyttää siltä, ​​että kun {-moH:v} lisätään objektin ottavaan verbiin {X:sen:nolink}, tuloksena oleva kaksiarvoinen verbi {XmoH:sen:nolink} vie saman objektin, kun taas {X:sen:nolink}: n alkuperäinen aihe tulee {XmoH:sen:nolink}: n edunsaajaksi ja on merkitty {-vaD:n}: llä. [AUTOTRANSLATED]</column>
-
-    Mais genericamente, parece que quando {-moH:v} é adicionado a um verbo {X:sen:nolink} que leva um objeto, o verbo bivalente resultante {XmoH:sen:nolink} leva o mesmo objeto, enquanto o sujeito original de {X:sen:nolink} torna-se o beneficiário de {XmoH:sen:nolink} e é marcado com {-vaD:n}. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{qaw:v}, {-moH:v}</column>
           <column name="examples">
@@ -3716,11 +3716,11 @@ Detta verb verkar ha härledts från {qa'meH:n}, eventuellt genom felaktig tolkn
 
 該動詞似乎是從{qa'meH:n}派生的，可能是由於對最初的後綴{-qa':v}的誤解。請謹慎使用此動詞，因為它可能不會被所有克林崗語使用者接受（請參閱{mu'mey ghoQ:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O sujeito faz a substituição e o objeto é substituído.
+
+Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretação do que era originalmente o sufixo {-qa':v}. Use este verbo com cautela, uma vez que pode não ser aceito por todos os falantes de Klingon (veja {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde korvaa ja kohde korvataan.
 
 Tämä verbi näyttää olevan johdettu {qa'meH:n}: stä, mahdollisesti tulkitsemalla väärin mitä alun perin loppuliite {-qa':v} oli. Käytä tätä verbiä varoen, koska kaikki klingonin kaiuttimet eivät välttämättä hyväksy sitä (katso {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
-
-Este verbo parece ter derivado de {qa'meH:n}, possivelmente por má interpretação do que era originalmente o sufixo {-qa':v}. Use este verbo com cautela, uma vez que pode não ser aceito por todos os falantes de Klingon (veja {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4097,11 +4097,11 @@ Förväxla inte detta med liknande namn {Qaj:n}. [AUTOTRANSLATED]</column>
 
 請勿將其與類似名稱的{Qaj:n}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Sua garra foi comida. Esta palavra também pode ser escrita {Qa'raj:n:nolink}.
+
+Não confunda isso com o {Qaj:n} de nome semelhante. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Sen kynsi on syönyt. Tämä sana voidaan myös kirjoittaa {Qa'raj:n:nolink}.
 
 Älä sekoita tätä vastaavasti nimettyyn {Qaj:n}: een. [AUTOTRANSLATED]</column>
-
-Não confunda isso com o {Qaj:n} de nome semelhante. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">On {KGT p.94:src}, this word is spelled {qa'raj:n:nolink}. However, it is spelled {Qa'raj:n:nolink} in both the E-K and K-E word lists.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5004,11 +5004,11 @@ I {paq'batlh:src} är {qempa'QeH:n:nolink} de förargade spritarna (se {QeH:v}) 
 
 在{paq'batlh:src}中，{qempa'QeH:n:nolink}是充滿生氣的祖傳精神（請參閱{QeH:v}），它們遍布{ghe'tor:n}。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um ancestral ou antepassado cultural ou social (que não está necessariamente relacionado ao sangue). Para um ancestral direto, consulte {'emrIgh:n}.
+
+No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfurecidos (consulte {QeH:v}) que povoam {ghe'tor:n}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä viittaa kulttuuriseen tai yhteiskunnalliseen esi-isään tai esivanhempaan (joka ei välttämättä ole verisukulainen). Katso suoraa esi-isää kohdasta {'emrIgh:n}.
 
 {paq'batlh:src}-ohjelmassa {qempa'QeH:n:nolink} ovat raivostuneita (katso {QeH:v}) esi-isiä, jotka asuttavat {ghe'tor:n}.[2] [AUTOTRANSLATED]</column>
-
-No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfurecidos (consulte {QeH:v}) que povoam {ghe'tor:n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{no':n:inhpl}</column>
       <column name="examples"></column>
@@ -5196,11 +5196,11 @@ Likheten med "Captain Kang" ({qeng HoD:n@@qeng:n, HoD:n}) är sammanfallande, me
 
 與“ Kang船長”（{qeng HoD:n@@qeng:n, HoD:n}）的相似之處是偶然的，但即使如此，Kang的船員還是小心翼翼，從不在時就不要說{qengHoDmey:n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A melhor tradução é determinada pelo contexto. Se houver muitas coisas, a forma plural {qengHoDmey:n@@qengHoD:n, -mey:n} é freqüentemente (mas não necessariamente) usada.
+
+A semelhança com o "Capitão Kang" ({qeng HoD:n@@qeng:n, HoD:n}) é coincidência, mas mesmo assim, a tripulação de Kang teve o cuidado de nunca dizer {qengHoDmey:n:nolink} quando ele estava por perto. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Paras käännös määräytyy kontekstin mukaan. Jos tavaraa on paljon, käytetään usein (mutta ei välttämättä) monikkomuotoa {qengHoDmey:n@@qengHoD:n, -mey:n}.
 
 Samankaltaisuus "Kapteeni Kangin" ({qeng HoD:n@@qeng:n, HoD:n}) kanssa on sattumaa, mutta silti Kangin miehistö oli varovainen, ettei koskaan sanonut {qengHoDmey:n:nolink} ollessaan lähellä. [AUTOTRANSLATED]</column>
-
-A semelhança com o "Capitão Kang" ({qeng HoD:n@@qeng:n, HoD:n}) é coincidência, mas mesmo assim, a tripulação de Kang teve o cuidado de nunca dizer {qengHoDmey:n:nolink} quando ele estava por perto. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Captain Kangaroo" was a children's TV series based around life in the "Treasure House".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5651,11 +5651,11 @@ Den berömda författaren {Qa'taq:n:name} skrev en kommentar till detta arbete. 
 
 著名作家{Qa'taq:n:name}對此作品發表了評論。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome de um livro.
+
+O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on kirjan nimi.
 
 Kuuluisa kirjailija {Qa'taq:n:name} kirjoitti kommentin tähän teokseen. [AUTOTRANSLATED]</column>
-
-O famoso autor {Qa'taq:n:name} escreveu um comentário sobre esta obra. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qeS:n}, {-'a':n}</column>
       <column name="examples"></column>
@@ -6279,14 +6279,14 @@ Hans återkomst profeteras i berättelsens berättelse, som säger att:
 他的回歸在《無盡的故事》中有預言，其中指出：
 ▶{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Kahless é o lendário primeiro imperador Klingon que uniu o povo Klingon.
+
+Seu retorno é profetizado na História da Promessa, que afirma que:
+▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Kahless on legendaarinen ensimmäinen Klingonin keisari, joka yhdisti klingonilaiset.
 
 Hänen paluunsa ennustetaan Lupauksen tarinassa, jossa todetaan seuraavaa:
 ▶ KÄÄNTÄMINEN 1{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
-
-Seu retorno é profetizado na História da Promessa, que afirma que:
-▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This has also been translated as {qeylIS lIjlaHbogh pagh:sen:nolink} in the {paq'batlh:src}.</column>
       <column name="components">{qeylIS:n:name}, {-'e':n}, {lIj:v}, {-laH:v}, {-be':v}, {-bogh:v}, {vay':n}</column>
       <column name="examples"></column>
@@ -8414,9 +8414,9 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
 
 {qoghDu':n:nolink}只能表示“耳朵”，而{qoghmey:n:nolink}通常是{qogh:n:1}的複數形式，表示“皮帶”。這兩個詞之間的諧音是a語表達{qogh tuQmoHHa':sen}.[2]的基礎 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere ao retalho externo de pele, cartilagem ou qualquer outra coisa. O órgão interno da audição é denominado {teS:n}.
-<column name="notes_fi">TRANSLATE</column>
 
 {qoghDu':n:nolink} só pode significar "orelhas", enquanto {qoghmey:n:nolink} é geralmente o plural de {qogh:n:1} e significa "cintos". A homofonia entre essas duas palavras é a base de uma expressão de gíria, {qogh tuQmoHHa':sen}.[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">This is a reference to the painter Vincent van Gogh, who cut off his ear.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8471,11 +8471,11 @@ Det är oklart varför uttrycket använder {tuQmoHHa':v:nolink} och inte {tuQHa'
 
 目前尚不清楚為什麼該表達式使用{tuQmoHHa':v:nolink}而不使用{tuQHa'moH:v}。一種可能是{tuQmoH:v}非常普遍，以至於某些克林崗人將其視為一個動詞，而不是動詞{tuQ:v}加上後綴{-moH:v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta expressão significa literalmente "tirar o cinto". Seu significado de gíria deriva da homofonia entre {qogh:n:1} e {qogh:n:2}.
+
+Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH:v}. Uma possibilidade é que {tuQmoH:v} seja tão comum que alguns Klingons o tratam como um verbo por si só, em vez do verbo {tuQ:v} mais o sufixo {-moH:v}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä ilmaisu tarkoittaa kirjaimellisesti "riisua vyö". Se saa slangin merkityksensä {qogh:n:1}: n ja {qogh:n:2}: n välisestä homofoniasta.
 
 On epäselvää, miksi lauseke käyttää {tuQmoHHa':v:nolink} eikä {tuQHa'moH:v}. Yksi mahdollisuus on, että {tuQmoH:v} on niin yleinen, että jotkut klingonit käsittelevät sitä omana verbinä eikä verbinä {tuQ:v} plus pääte {-moH:v}.[2] [AUTOTRANSLATED]</column>
-
-Não está claro por que a expressão usa {tuQmoHHa':v:nolink} e não {tuQHa'moH:v}. Uma possibilidade é que {tuQmoH:v} seja tão comum que alguns Klingons o tratam como um verbo por si só, em vez do verbo {tuQ:v} mais o sufixo {-moH:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The {msn:src} source does not explicitly discuss {tuQmoHHa':v:nolink}. The example given is {quvmoH'egh:sen@@quvmoH:v, -'egh:v}, where the suffixes are switched for rhetorical effect.</column>
       <column name="components"></column>
       <column name="examples">
@@ -8964,11 +8964,11 @@ Detta namn skrivs ibland som Kortar ({qortar:n:name,nolink}). [AUTOTRANSLATED]</
 
 該名稱有時被稱為Kortar（{qortar:n:name,nolink}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">De acordo com a lenda Klingon, Kotar foi o primeiro Klingon. Ele e sua companheira mataram os deuses, e agora ele transporta as almas dos desonrados para Gre'thor ({ghe'tor:n}) na Barcaça dos Mortos ({Hegh Duj:n}).
+
+Esse nome às vezes é escrito como Kortar ({qortar:n:name,nolink}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Klingonin legendan mukaan Kotar oli ensimmäinen Klingon. Hän ja hänen puolisonsa tappoivat jumalat, ja nyt hän kuljettaa häpeällisten sielut Gre'thorille ({ghe'tor:n}) kuolleiden proomulla ({Hegh Duj:n}).
 
 Tämä nimi kirjoitetaan joskus nimellä Kortar ({qortar:n:name,nolink}). [AUTOTRANSLATED]</column>
-
-Esse nome às vezes é escrito como Kortar ({qortar:n:name,nolink}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9064,14 +9064,14 @@ Det finns ett annat verb, {gher:v}, som används för att sammanställa listor o
 Есть другой глагол, {gher:v}, который используется для составления списков и тому подобных вещей, и который в противовес глаголу {qon:v:nolink}, предполагает, что информация просто просочилась.[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra é usada para o ato de compor canções, histórias, etc.[2, p.71] Os klingons consideram as canções como coisas que simplesmente existem, e o ato de composição é visto como caçá-las, capturá-las e registrá-las.[3]
+
+Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que, ao contrário de {qon:v:nolink}, sugere que a informação é meramente repassada.[4] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä sanaa käytetään kappaleiden, tarinoiden yms. Säveltämiseen.
 
 On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoamiseen, ja joka toisin kuin {qon:v:nolink} viittaa siihen, että tietoa pelkästään välitetään.[2, p.71][3][4] [AUTOTRANSLATED]</column>
-
-Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que, ao contrário de {qon:v:nolink}, sugere que a informação é meramente repassada.[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined as "record" in {TKD:src}, and as "compose" in {KGT:src}.[1; 2]</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10496,11 +10496,11 @@ Använd {rav ... 'aqroS ...:sen} för att uttrycka idén om någon punkt (kanske
 
 要表達範圍兩端之間某個點（也許是未知的）的想法，請使用{rav ... 'aqroS ...:sen}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere ao período total de tempo ou distância ou o que quer que seja entre as duas extremidades de um intervalo.
+
+Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extremidades de um intervalo, use {rav ... 'aqroS ...:sen}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä tarkoittaa koko ajanjaksoa tai etäisyyttä tai mitä tahansa alueen kahden pään välillä.
 
 Voit ilmaista ajatuksen jostakin alueen pään välisestä pisteestä (ehkä tuntemattomasta) käyttämällä {rav ... 'aqroS ...:sen}. [AUTOTRANSLATED]</column>
-
-Para expressar a ideia de algum ponto (talvez desconhecido) entre as duas extremidades de um intervalo, use {rav ... 'aqroS ...:sen}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -11851,11 +11851,11 @@ Detta ord kan inte användas för ett hål i marken (för vilket se {QemjIq:n}),
 
 此詞不能用於在地面上打洞（請參見{QemjIq:n}），但可以用於子彈孔，襯衫上的孔（包括鈕扣孔，飛蛾孔，意外裂口等），或屋頂上的一個洞。 {QemjIq:n}和{qung:n:nolink}之間的區別在於前者可以被填充（{teb:v}）.[2]（換句話說，{qung:n:nolink}是穿孔或穿孔，而{QemjIq:n:nolink}是空腔或凹陷）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Com base na explicação em {HQ 10.2:src}, isso parece se referir a um buraco usado para alterar a afinação em um instrumento de sopro e, aparentemente, não a uma boca de som para um instrumento de cordas. No entanto, isso não é declarado explicitamente.[1]
+
+Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {QemjIq:n}), mas pode ser usada para um buraco de bala, um buraco em uma camisa (incluindo casas de botão, buracos de traça, rasgos acidentais, etc.), ou um buraco no telhado. A diferença entre um {QemjIq:n} e um {qung:n:nolink} é que o primeiro pode ser preenchido ({teb:v}) .[2] (em outras palavras, um {qung:n:nolink} é uma punção ou perfuração, enquanto um {QemjIq:n:nolink} é uma cavidade ou depressão.) [AUTOTRANSLATED]</column>
 <column name="notes_fi">{HQ 10.2:src}: n selityksen perusteella tämä näyttää viittaavan reikään, jota käytetään puhallinsoittimen sävelkorkeuden muuttamiseen, eikä ilmeisesti kielisoittimen kielekkeeseen. Tätä ei kuitenkaan nimenomaisesti mainita.[1]
 
 Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n}), mutta sitä voidaan käyttää luodinreikään, aukkoon paidassa (mukaan lukien napinlävet, koireikät, vahingossa repeytymät jne.) Tai reikä katossa. Ero {QemjIq:n}: n ja {qung:n:nolink}: n välillä on, että edellinen voidaan täyttää ({teb:v}) .[2] (Toisin sanoen {qung:n:nolink} on puhkaisu tai perforaatio, kun taas {QemjIq:n:nolink} on ontelo tai syvennys.) [AUTOTRANSLATED]</column>
-
-Esta palavra não pode ser usada para um buraco no chão (para o qual consulte {QemjIq:n}), mas pode ser usada para um buraco de bala, um buraco em uma camisa (incluindo casas de botão, buracos de traça, rasgos acidentais, etc.), ou um buraco no telhado. A diferença entre um {QemjIq:n} e um {qung:n:nolink} é que o primeiro pode ser preenchido ({teb:v}) .[2] (em outras palavras, um {qung:n:nolink} é uma punção ou perfuração, enquanto um {QemjIq:n:nolink} é uma cavidade ou depressão.) [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Possibly based on the Chinese "kǒng" (孔), also meaning hole.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12805,11 +12805,11 @@ Observera att {ghaj:v} och {Hutlh:v} kan användas med detta substantiv för att
 
 請注意，{ghaj:v}和{Hutlh:v}可以與此名詞一起使用，以表示某人擁有或缺乏榮譽。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra se refere à honra pessoal, que é conquistada pelo comportamento de alguém e pode ser concedida, em contraste com {batlh:n}.[2]
+
+Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo para indicar que alguém possui ou não honra, respectivamente. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana viittaa henkilökohtaiseen kunniaan, joka ansaitaan käyttäytymisellä ja joka voidaan antaa, toisin kuin {batlh:n}.[2]
 
 Huomaa, että {ghaj:v}: ta ja {Hutlh:v}: ää voidaan käyttää tämän substantiivin kanssa osoittamaan, että jollakin on kunnia tai häneltä puuttuu kunnia. [AUTOTRANSLATED]</column>
-
-Observe que {ghaj:v} e {Hutlh:v} podem ser usados ​​com este substantivo para indicar que alguém possui ou não honra, respectivamente. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

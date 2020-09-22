@@ -507,12 +507,12 @@ Förväxla inte detta med {mum:v}, vilket betyder "smak" i den meningen att man 
 
 不要將此與{mum:v}混淆，DONOTTRANSLATE3在感知味道的意義上意為“味道”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um significado especializado de {waH:v:1}. Significa experimentar a comida para ver se ela foi preparada corretamente ou para determinar se alguém gosta dela.[2]
+
+Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sabores. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on {waH:v:1}: n erityinen merkitys. Se tarkoittaa kokeilla ruokaa nähdäksesi, onko se valmistettu oikein, tai selvittää, pidetäänkö siitä.
 
 Älä sekoita tätä {mum:v}: een, joka tarkoittaa "makua" makujen havaitsemisessa.[2] [AUTOTRANSLATED]</column>
-
-Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sabores. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3691,11 +3691,11 @@ Ordet {mIr:n:1} kan användas som slangtermer för detta, om saker är tydliga. 
 
 如果情況清楚，可以將{mIr:n:1}用作word語。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Além de ser usado para uma linha em uma grade (como em uma planilha ou outra representação gráfica), isso também pode ser usado para coisas físicas se a configuração geral for (ou puder ser) semelhante a uma grade e houver (ou possa haver) outros linhas, não apenas uma. Por exemplo, isso seria usado para fileiras de milho ou fileiras de árvores crescendo em um campo em uma fazenda. Ele ainda pode ser usado se houver apenas uma linha em uma situação em que normalmente há mais (ou não seria surpreendente se houvesse mais). Se não estiver claro em uma situação se mais de uma linha é esperada ou típica, {wIyqap:n:nolink} é provavelmente a escolha certa.
+
+A palavra {mIr:n:1} pode ser usada como uma gíria para isso, se as coisas estiverem claras. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Sen lisäksi, että sitä käytetään ruudukon rivillä (kuten laskentataulukossa tai muussa graafisessa esityksessä), sitä voidaan käyttää myös fyysisiin asioihin, jos kokonaiskonfiguraatio on (tai saattaa olla) ruudukkomainen ja jos on (tai saattaa olla) muita rivit, ei vain yksi. Tätä käytetään esimerkiksi maatilan pellolla kasvavilla maissi- tai puuriveillä. Sitä voidaan silti käyttää, jos tilanteessa on vain yksi rivi, jossa tyypillisesti on enemmän (tai ei olisi yllättävää, jos niitä olisi enemmän). Jos tilanteessa on epäselvää, onko odotettavissa useampi kuin yksi rivi vai tyypillinen, {wIyqap:n:nolink} on todennäköisesti oikea valinta.
 
 Sanaa {mIr:n:1} voidaan käyttää slangiterminä tähän, jos asiat ovat selvät. [AUTOTRANSLATED]</column>
-
-A palavra {mIr:n:1} pode ser usada como uma gíria para isso, se as coisas estiverem claras. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">From the term "warp and weft" in weaving. See also {war:n}.
 
 This was originally defined as "row (in a table or spreadsheet)" at {Saarbrücken qepHom'a' 2015:src} but was expanded to include physical things later.[2]</column>
@@ -3776,6 +3776,12 @@ Om resultatet av klottningen inte är lätt att identifiera eller namnge, kan "b
 
 儘管所使用的實現可能是任何東西，但在{rItlh naQ:n}上使用此動詞並不常見。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é a imagem desenhada. A ideia é que é um desenho rápido, não cuidadoso.
+
+Esta palavra não tem a conotação da palavra inglesa "doodle" de que a pessoa que faz o rabisco não está prestando atenção ao que está sendo desenhado ou esboçado.
+
+Se o resultado do rabisco não for facilmente identificável ou nominável, a "imagem" pode ser chamada de {yay:n:3}.
+
+Embora o implementado usado possa ser qualquer coisa, não é comum usar esse verbo com um {rItlh naQ:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde on piirretty kuva. Käsitys on, että se on nopea, ei varovainen.
 
 Tällä sanalla ei ole merkitystä englanninkieliselle sanalle "doodle", jonka mukaan doodlingin tekijä ei kiinnitä huomiota piirustettavaan tai piirrettävään.
@@ -3783,12 +3789,6 @@ Tällä sanalla ei ole merkitystä englanninkieliselle sanalle "doodle", jonka m
 Jos doodlingin tulos ei ole helposti tunnistettavissa tai nimettävissä, "kuvaa" voidaan kutsua {yay:n:3}.
 
 Vaikka käytetty toteutus voi olla mitä tahansa, ei ole yleistä käyttää tätä verbiä {rItlh naQ:n}: n kanssa. [AUTOTRANSLATED]</column>
-
-Esta palavra não tem a conotação da palavra inglesa "doodle" de que a pessoa que faz o rabisco não está prestando atenção ao que está sendo desenhado ou esboçado.
-
-Se o resultado do rabisco não for facilmente identificável ou nominável, a "imagem" pode ser chamada de {yay:n:3}.
-
-Embora o implementado usado possa ser qualquer coisa, não é comum usar esse verbo com um {rItlh naQ:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4811,11 +4811,11 @@ Den klippta Klingon-formen för detta kommando skulle vara {wIy cha'!:sen@@wIy:n
 
 該命令的裁剪的Klingon形式為{wIy cha'!:sen@@wIy:n, cha':v} [AUTOTRANSLATED]</column>
           <column name="notes_pt">Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/ooFuTPjRtEM}
+
+A forma Klingon recortada deste comando seria {wIy cha'!:sen@@wIy:n, cha':v} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/ooFuTPjRtEM}
 
 Tämän komennon leikattu klingonimuoto olisi {wIy cha'!:sen@@wIy:n, cha':v} [AUTOTRANSLATED]</column>
-
-A forma Klingon recortada deste comando seria {wIy cha'!:sen@@wIy:n, cha':v} [AUTOTRANSLATED]</column>
           <column name="hidden_notes">The first ever line of Klingon spoken on-screen was {wIy cha':sen:nolink}, in {Star Trek I:src}.</column>
           <column name="components">{wIy:n}, {yI-:v}, {cha':v}</column>
           <column name="examples"></column>
@@ -5928,16 +5928,16 @@ Om ens ögon är "känsliga för ljus" kan de vara känsliga för {wovtaHghach:n
 
 如果眼睛“對光敏感”，則可能對{wovtaHghach:n@@wov:v, -taH:v, -ghach:v}敏感.[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {wov; ghI'boj Sech rur}.
+
+Este verbo também é usado para descrever um dia ensolarado.[2]
+
+Se os olhos são "sensíveis à luz", eles podem ser sensíveis a {wovtaHghach:n@@wov:v, -taH:v, -ghach:v}.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">On idioomi {wov; ghI'boj Sech rur}.
 
 Tätä verbiä käytetään kuvaamaan myös aurinkoista päivää
 
 Jos ihmisen silmät ovat "herkkiä valolle", ne voivat olla herkkiä {wovtaHghach:n@@wov:v, -taH:v, -ghach:v} -[3]-tiedostolle.[2] [AUTOTRANSLATED]</column>
-
-Este verbo também é usado para descrever um dia ensolarado.[2]
-
-Se os olhos são "sensíveis à luz", eles podem ser sensíveis a {wovtaHghach:n@@wov:v, -taH:v, -ghach:v}.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The {wovtaHghach:n:nolink} construction was used by Okrand to explain how to describe Mirror Lorca's condition in {Star Trek Discovery:src}.</column>
       <column name="components"></column>
       <column name="examples">

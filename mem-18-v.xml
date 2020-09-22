@@ -2033,9 +2033,9 @@ Till skillnad från {pIl:v} avser detta självmotivering. [AUTOTRANSLATED]</colu
 
 與{pIl:v}相反，這是指自我激勵。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que isso pode se referir a uma pessoa ambiciosa, mas não a uma tarefa ambiciosa.
-<column name="notes_fi">TRANSLATE</column>
 
 Em contraste com {pIl:v}, isso se refere à automotivação. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">A determined person is one who "vow"s to do something.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2755,11 +2755,11 @@ Detta verb används för att beskriva läggningen av en matta. Den som lägger e
 
 該動詞用於描述地毯的鋪設。鋪地毯的人稱為{velwI':n:nolink}（儘管語法表明{velwI':n:nolink}會引用地毯本身）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O sujeito faz a cobertura, enquanto o objeto é coberto.
+
+Este verbo é usado para descrever a colocação de um tapete. A pessoa que coloca um tapete é chamada de {velwI':n:nolink} (apesar do fato de que a gramática sugere que {velwI':n:nolink} se refere ao próprio tapete). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde tekee peitteen, kun esine on peitetty.
 
 Tätä verbiä käytetään kuvaamaan maton asettamista. Henkilöä, joka asettaa maton, kutsutaan {velwI':n:nolink}: ksi (huolimatta siitä, että kielioppi viittaa siihen, että {velwI':n:nolink} viittaa itse mattoon). [AUTOTRANSLATED]</column>
-
-Este verbo é usado para descrever a colocação de um tapete. A pessoa que coloca um tapete é chamada de {velwI':n:nolink} (apesar do fato de que a gramática sugere que {velwI':n:nolink} se refere ao próprio tapete). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Veil".</column>
       <column name="components"></column>
       <column name="examples">
@@ -3055,6 +3055,12 @@ I följande exempel kan det specifika finger- eller tånamnet användas iställe
 
 在以下示例中，可以使用特定的手指或腳趾名稱代替{nItlh:n}（或{yaD:n:1}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se ao traço ou marcas deixadas pelo toque, como (a imagem de) uma impressão digital, marcas de pneus ou o padrão na sujeira que resulta de pisar nele.
+
+Esta palavra é contrastada com {Su'nIm:n}, que se refere ao padrão que faz o {vem:n:nolink}. Mas {Su'nIm:n:nolink} é usado apenas quando é algo muito detalhado que sai do {vem:n:nolink}. Por exemplo, compare {nItlh Su'nIm:n} "impressão digital" (saliências na ponta do dedo) com {nItlh Su'nIm vem:n} "impressão digital" (marca deixada para trás após o toque).
+
+Observe que uma imagem produzida intencionalmente, semelhante a um selo, é uma {yang:n}.
+
+Nos exemplos a seguir, o nome específico do dedo ou dedo do pé pode ser usado em vez de {nItlh:n} (ou {yaD:n:1}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä viittaa kosketuksesta jäljelle jääneeseen jälkeeseen tai merkkeihin, kuten sormenjäljen (renkaan kuvan), renkaan jälkiin tai kuvaan likaantumisesta, joka syntyy sen päälle astumisesta.
 
 Tätä sanaa verrataan {Su'nIm:n}: een, joka viittaa kuvioon, joka tekee {vem:n:nolink}: n. Mutta {Su'nIm:n:nolink}: ta käytetään vain, kun se on jotain hyvin yksityiskohtaista, mikä jättää {vem:n:nolink}: n. Vertaa esimerkiksi {nItlh Su'nIm:n}: n "sormenjälkeä" (harjanteet sormenpäässä) {nItlh Su'nIm vem:n}: n "sormenjälkeen" (merkki, joka on jätetty taakse koskettamisen jälkeen).
@@ -3062,12 +3068,6 @@ Tätä sanaa verrataan {Su'nIm:n}: een, joka viittaa kuvioon, joka tekee {vem:n:
 Huomaa, että tarkoituksella tuotettu leimamainen kuva on {yang:n}.
 
 Seuraavissa esimerkeissä voidaan käyttää tiettyä sormen tai varpaan nimeä {nItlh:n}: n (tai {yaD:n:1}) sijaan. [AUTOTRANSLATED]</column>
-
-Esta palavra é contrastada com {Su'nIm:n}, que se refere ao padrão que faz o {vem:n:nolink}. Mas {Su'nIm:n:nolink} é usado apenas quando é algo muito detalhado que sai do {vem:n:nolink}. Por exemplo, compare {nItlh Su'nIm:n} "impressão digital" (saliências na ponta do dedo) com {nItlh Su'nIm vem:n} "impressão digital" (marca deixada para trás após o toque).
-
-Observe que uma imagem produzida intencionalmente, semelhante a um selo, é uma {yang:n}.
-
-Nos exemplos a seguir, o nome específico do dedo ou dedo do pé pode ser usado em vez de {nItlh:n} (ou {yaD:n:1}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3212,9 +3212,9 @@ En vanligare term för detta är {qatru':n:nolink}. [AUTOTRANSLATED]</column>
 
 更為常見的術語是{qatru':n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra descreve alguém que realmente gosta de alguma coisa (ou de várias coisas), que participa de atividades associadas a isso e o faz muito a sério.
-<column name="notes_fi">TRANSLATE</column>
 
 Um termo mais comum para isso é {qatru':n:nolink}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components">{ven:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -4053,11 +4053,11 @@ I {Klingon Monopoly:src} översätts "Free Parking" till {vergh 'ach DIlnISbe':s
 
 在{Klingon Monopoly:src}中，“免費停車”被翻譯為{vergh 'ach DIlnISbe':sen:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é o veículo que está ancorado.[3]
+
+Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'ach DIlnISbe':sen:nolink}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde on telakoitu ajoneuvo.[3]
 
 {Klingon Monopoly:src}-ohjelmassa "ilmainen pysäköinti" käännetään nimellä {vergh 'ach DIlnISbe':sen:nolink}. [AUTOTRANSLATED]</column>
-
-Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'ach DIlnISbe':sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4815,11 +4815,11 @@ För {taD:v} för ett idiomatiskt uttryck som används för att säga någon att
 
 有關用來告訴某人不要移動的慣用語，請參閱{taD:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é intransitivo. Para dizer que alguém ou algo move alguém ou alguma outra coisa, use {vIHmoH:v:nolink}.[2]
+
+Para obter uma expressão idiomática usada para dizer a alguém para não se mover, consulte {taD:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä verbi on intransitiivinen. Käytä {vIHmoH:v:nolink}.[2] sanomaan, että joku tai joku liikuttaa ketään tai jotain muuta.
 
 Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan, katso {taD:v}. [AUTOTRANSLATED]</column>
-
-Para obter uma expressão idiomática usada para dizer a alguém para não se mover, consulte {taD:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6436,11 +6436,11 @@ En stor spindel på jorden skulle vara en {tera' voDchuch:n@@tera':n, voDchuch:n
 
 地球上的大蜘蛛將是{tera' voDchuch:n@@tera':n, voDchuch:n}，但小蜘蛛將不會是{voDchuch:n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma criatura parecida com uma aranha com nove pernas, mas às vezes sete ou oito (e não menos que sete, a menos que esteja ferida).
+
+Uma grande aranha na Terra seria um {tera' voDchuch:n@@tera':n, voDchuch:n}, mas uma pequena aranha não seria um {voDchuch:n:nolink}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on hämähäkkimäinen olento, jolla on yhdeksän jalkaa, mutta joskus seitsemän tai kahdeksan (ja vähintään seitsemän, ellei se ole loukkaantunut).
 
 Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n}, mutta pieni hämähäkki ei olisi {voDchuch:n:nolink}. [AUTOTRANSLATED]</column>
-
-Uma grande aranha na Terra seria um {tera' voDchuch:n@@tera':n, voDchuch:n}, mas uma pequena aranha não seria um {voDchuch:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">{voD:v} "bore" + {chuch:n} "ice" = Boris. "Boris the Spider" is a song by The Who.</column>
       <column name="components"></column>
       <column name="examples"></column>

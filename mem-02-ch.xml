@@ -1699,17 +1699,17 @@ Om talaren hänvisar till något som har hänt, vilket är en dum sak som har h�
 ▶{vogh tIghla' tu'lu':sen:nolink}“某處有t'gla”
 ▶{HIv tIghla'!:sen:nolink}“ a / t'gla襲擊” [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma exclamação feita em resposta a uma declaração que o locutor considera tola ou estúpida. (A exclamação {Dap!:sen:nolink} usando a palavra não-gíria {Dap:n} também é possível, embora menos provável.)
+
+Se o falante estiver se referindo a algo que aconteceu que é uma coisa estúpida de ter acontecido (mas realmente aconteceu, de modo que não é uma afirmação sem sentido), {chatlh:sen:nolink} ou {Dap:sen:nolink} não seriam usados. Em vez disso, uma versão das expressões idiomáticas {ghaH vuv SuS neH:sen} ou {Dogh; tIghla' rur:sen@@Dogh:v, tIghla':n, rur:v} pode ser ouvida:
+▶ {vuvpu' SuS neH vay'!:sen:nolink} "Isso é estúpido!", "Alguém queria que o vento o respeitasse"
+▶ {vogh tIghla' tu'lu':sen:nolink} "há um t'gla em algum lugar"
+▶ {HIv tIghla'!:sen:nolink} "a / os ataques t'gla" [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on huutomerkki, joka on annettu vastauksena lausuntoon, jonka puhuja pitää tyhmänä tai tyhmänä. (Huutomerkki {Dap!:sen:nolink}, jossa käytetään ei-slangia sanaa {Dap:n}, on myös mahdollista, vaikkakin vähemmän todennäköistä.)
 
 Jos puhuja viittaa johonkin tapahtuneeseen, mikä on typerys, mitä on tapahtunut (mutta todella tapahtui, niin että se ei ole järjetön lausunto), {chatlh:sen:nolink}- tai {Dap:sen:nolink}-tiedostoja ei käytetä. Sen sijaan saatetaan kuulla versio idiomaattisista lausekkeista {ghaH vuv SuS neH:sen} tai {Dogh; tIghla' rur:sen@@Dogh:v, tIghla':n, rur:v}:
 ▶ {vuvpu' SuS neH vay'!:sen:nolink} "Se on tyhmää!", "Joku halusi tuulen kunnioittavan häntä"
 ▶ {vogh tIghla' tu'lu':sen:nolink} "jossain on t'gla"
 ▶ {HIv tIghla'!:sen:nolink} "a / t'gla hyökkää" [AUTOTRANSLATED]</column>
-
-Se o falante estiver se referindo a algo que aconteceu que é uma coisa estúpida de ter acontecido (mas realmente aconteceu, de modo que não é uma afirmação sem sentido), {chatlh:sen:nolink} ou {Dap:sen:nolink} não seriam usados. Em vez disso, uma versão das expressões idiomáticas {ghaH vuv SuS neH:sen} ou {Dogh; tIghla' rur:sen@@Dogh:v, tIghla':n, rur:v} pode ser ouvida:
-▶ {vuvpu' SuS neH vay'!:sen:nolink} "Isso é estúpido!", "Alguém queria que o vento o respeitasse"
-▶ {vogh tIghla' tu'lu':sen:nolink} "há um t'gla em algum lugar"
-▶ {HIv tIghla'!:sen:nolink} "a / os ataques t'gla" [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1907,12 +1907,12 @@ En {chaw':n:nolink} visar att du officiellt eller lagligt har rätt att göra el
 
 {chaw':n:nolink}表示您被正式或法律允許做某事或獲得或擁有某物，而{Qoyje':n}則作為對某種成就或成就的證明或驗證。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada para uma gama mais ampla de objetos do que a tradução "permitir" sugere. Os tipos de {chaw':n:nolink} incluem {HIjmeH chaw':n}, {Huch chaw':n}, {leng chaw':n}, {lojmIt chaw':n:nolink}, {yer ghajwI' chaw':n} e {'elmeH chaw':n}. Assim, {chaw':n:nolink} também pode significar "passagem", "aprovação" ou "licença".
+
+UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado a fazer, obter ou possuir algo, enquanto um {Qoyje':n} serve como prova ou verificação de algum tipo de realização ou realização.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Tätä sanaa käytetään laajemmalle objektijoukolle kuin käännös "lupa" ehdottaa. {chaw':n:nolink}-tyypit sisältävät {HIjmeH chaw':n}, {Huch chaw':n}, {leng chaw':n}, {lojmIt chaw':n:nolink}, {yer ghajwI' chaw':n} ja {'elmeH chaw':n}. Täten {chaw':n:nolink} voi tarkoittaa myös "lippua", "passia" tai "lisenssiä".
 
 {chaw':n:nolink} osoittaa, että sinulla on virallisesti tai laillisesti oikeus tehdä, hankkia tai omistaa jotain, kun taas {Qoyje':n} toimii todisteena tai todisteeksi jonkinlaisesta saavutuksesta tai suorituksesta.[3] [AUTOTRANSLATED]</column>
-
-UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado a fazer, obter ou possuir algo, enquanto um {Qoyje':n} serve como prova ou verificação de algum tipo de realização ou realização.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is missing from the K-E side of {TKD:src}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -4195,11 +4195,11 @@ Verbetet {ver:v:1} kan också användas för att prata om tornado och virvelvind
 
 動詞{ver:v:1}也可以用來談論龍捲風和旋風。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que este é um verbo em Klingon. Em Klingon, diz-se "it tornadoes", semelhante a como se diz "it rains" em inglês.
+
+O verbo {ver:v:1} também pode ser usado para falar sobre tornados e redemoinhos. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Huomaa, että tämä on verbi klingonissa. Klingonissa sanotaan "se tornadot", samalla tavalla kuin sanotaan "sataa" englanniksi.
 
 Verbillä {ver:v:1} voidaan myös puhua tornadoista ja pyörremyrskyistä. [AUTOTRANSLATED]</column>
-
-O verbo {ver:v:1} também pode ser usado para falar sobre tornados e redemoinhos. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4574,14 +4574,14 @@ Skillnaden mellan en {chetvI':n:nolink} och en {DuS:n} har att göra med hur pro
 
 {chetvI':n:nolink}和{DuS:n}之間的區別與彈丸的加載方式有關。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {lo'laHbe'; chetvI' chIm rur@@lo'laHbe':v, chetvI':n:1, chIm:v, rur:v}.
+
+
+A distinção entre um {chetvI':n:nolink} e um {DuS:n} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">On idioomi {lo'laHbe'; chetvI' chIm rur@@lo'laHbe':v, chetvI':n:1, chIm:v, rur:v}.
 
 
 {chetvI':n:nolink}: n ja {DuS:n}: n välinen ero liittyy ammuksen lataamiseen.[2] [AUTOTRANSLATED]</column>
-
-
-A distinção entre um {chetvI':n:nolink} e um {DuS:n} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6262,11 +6262,11 @@ Se en föreställning av {HIchop!:sen:lyr} av Jen Usellis: {YouTube video:url:ht
 
 觀看Jen Usellis演唱的{HIchop!:sen:lyr}：{YouTube video:url:http://youtu.be/v2bjc6U0tjI} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra também pode denotar um beijo no estilo klingon.[4]
+
+Assista a uma performance de {HIchop!:sen:lyr} de Jen Usellis: {YouTube video:url:http://youtu.be/v2bjc6U0tjI} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana voi merkitä myös klingonityylistä suudelmaa.[4]
 
 Katso Jen Usellisin {HIchop!:sen:lyr}-esitys: {YouTube video:url:http://youtu.be/v2bjc6U0tjI} [AUTOTRANSLATED]</column>
-
-Assista a uma performance de {HIchop!:sen:lyr} de Jen Usellis: {YouTube video:url:http://youtu.be/v2bjc6U0tjI} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is almost a "chomp".
 
 In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expression "Give us a kiss, love." was translated as {HIchop, bang.:sen:nolink}[3]</column>

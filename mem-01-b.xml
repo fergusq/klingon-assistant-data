@@ -75,12 +75,12 @@ Suffixet {-Daq:n} markerar målet. [AUTOTRANSLATED]</column>
 
 後綴{-Daq:n}標記目標。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra é usada quando se refere a disruptores ({nISwI':n}) e é distinta de {baH:v}. O objeto desse verbo é o "raio de energia" {tIH:n:1} que é acionado, por exemplo, {nISwI' tIH bach:sen@@nISwI':n, tIH:n:1, bach:v}. Na prática, a palavra {tIH:n:1,nolink} geralmente é descartada, e simplesmente se diz {nISwI 'bach:sen@@nISwI':n, bach:v}.[2]
+
+O sufixo {-Daq:n} marca o destino.</column>
 <!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tätä sanaa käytetään viitattaessa häiriötekijöihin ({nISwI':n}), ja se eroaa {baH:v}-sanasta. Tämän verbin kohde on {tIH:n:1} "energiasäde", joka laukaistaan, esimerkiksi {nISwI' tIH bach:sen@@nISwI':n, tIH:n:1, bach:v}. Käytännössä sana {tIH:n:1,nolink} pudotetaan yleisesti, ja sanotaan yksinkertaisesti {nISwI' bach:sen@@nISwI':n, bach:v} sen sijaan.
 
 Pääte {-Daq:n} merkitsee kohteen.[2] [AUTOTRANSLATED]</column>
-
-O sufixo {-Daq:n} marca o destino.</column>
       <column name="hidden_notes">{baH:v:nolink} is pronounced like the name of the Terran composer "Bach" by speakers of American English.
 
 That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and a deleted line from {Star Trek V:src} (see under {vaj toDuj Daj ngeHbej DI vI'.:sen}).</column>
@@ -415,15 +415,15 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada para se referir a torpedos e é diferente de {bach:v}.
+
+O sufixo {-Daq:n} marca o destino.
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään torpedoihin viitattaessa, ja se eroaa sanasta {bach:v}.
 
 Pääte {-Daq:n} merkitsee kohteen.
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUTOTRANSLATED]</column>
-
-O sufixo {-Daq:n} marca o destino.
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/kWP0lgIYMBA} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3887,15 +3887,15 @@ I Klingon-legenden smiddes det ursprungliga Sword of Honor av {qeylIS'e' lIjlaHb
 
 {betleH:n:nolink}也稱為{betleH quv:n:nolink}，以區別於聽起來類似的{meqleH:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os elementos do nome desta arma são arcaicos, mas significa "espada de honra". No Klingon moderno, é claro, "espada da honra" seria {batlh 'etlh:n:nolink}. Consulte {paq'batlh:n}.
+
+Na lenda Klingon, a Espada de Honra original foi forjada por {qeylIS'e' lIjlaHbe'bogh vay':n:name} a partir de uma mecha de seu cabelo mergulhada na {qul ngeng:n} do vulcão {QIStaq:n}. A arma tem o formato de uma {maS'e' loQ So'be'bogh QIb:n}.[5]
+
+O {betleH:n:nolink} também é chamado de {betleH quv:n:nolink}, para diferenciá-lo do {meqleH:n} de som semelhante. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämän aseen nimen osat ovat arkaaisia, mutta se tarkoittaa "kunniamiekkaa". Nykyaikaisessa Klingonissa tietysti "kunniamiekka" olisi {batlh 'etlh:n:nolink}. Katso {paq'batlh:n}.
 
 Klingonin legendassa {qeylIS'e' lIjlaHbe'bogh vay':n:name} vääristi alkuperäisen kunniamiekan hiussaarnasta, joka oli kastettu {QIStaq:n}-tulivuoren {qul ngeng:n}-tulppaan. Ase on muotoiltu {maS'e' loQ So'be'bogh QIb:n}.[5]-muotoon
 
 {betleH:n:nolink}: ta kutsutaan myös {betleH quv:n:nolink}: ksi, jotta se erotettaisiin vastaavasta kuulostavasta {meqleH:n}: stä. [AUTOTRANSLATED]</column>
-
-Na lenda Klingon, a Espada de Honra original foi forjada por {qeylIS'e' lIjlaHbe'bogh vay':n:name} a partir de uma mecha de seu cabelo mergulhada na {qul ngeng:n} do vulcão {QIStaq:n}. A arma tem o formato de uma {maS'e' loQ So'be'bogh QIb:n}.[5]
-
-O {betleH:n:nolink} também é chamado de {betleH quv:n:nolink}, para diferenciá-lo do {meqleH:n} de som semelhante. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word is misspelled {batleH:n:hyp,nolink} on {SkyBox 8:src}.[3] A message on the {s.k:src} newsgroup gives a bit of history behind the various spellings used in English for this word.[4]</column>
       <column name="components">{batlh:n}, {'etlh:n}</column>
       <column name="examples">
@@ -5109,11 +5109,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta frase significa literalmente: "Se você não se render, você morrerá". Observe que, embora a tradução em inglês contenha "ou", a conjunção {pagh:conj} não é usada na frase Klingon. Em geral, frases em inglês da forma "X ou Y!" (exigindo que o ouvinte escolha uma das duas opções) deve ser reformulado como {bI-X-be'chugh vaj bI-Y:sen:nolink} "Se você não fizer X, você fará Y" em Klingon.
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä lause tarkoittaa kirjaimellisesti: "Jos et anna periksi, kuolet". Huomaa, että vaikka englanninkielisessä käännöksessä on "tai", yhdistettä {pagh:conj} ei käytetä Klingon-lauseessa. Yleensä englanninkieliset lauseet muodossa "X or Y!" (vaaditaan, että kuuntelija valitsee yhden kahdesta vaihtoehdosta) on muotoiltava uudelleen nimellä {bI-X-be'chugh vaj bI-Y:sen:nolink} "Jos et ole X, tulet Y" Klingonissa.
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/NpFDKTzINH8} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{bI-:v}, {jegh:v}, {-be':v}, {-chugh:v}, {vaj:adv}, {bI-:v}, {Hegh:v}</column>
       <column name="examples"></column>
@@ -5640,12 +5640,12 @@ För tiotals miljoner kunde man kombinera {maH:n:2,num} med {'uy':n:num,nolink} 
 
 數千萬美元可以將{maH:n:2,num}與{'uy':n:num,nolink}或{vatlh:n:num}與{bIp:n:num}組合在一起。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que a palavra klingon para "cem mil" é independente das palavras para "cem" ({vatlh:n:num}) e "mil" ({SaD:n:num}). O Klingon {bIp:n:num,nolink} é equivalente ao "lakh" usado nos sistemas de numeração do sul da Ásia na Terra.
+
+Para dezenas de milhões, pode-se combinar {maH:n:2,num} com {'uy':n:num,nolink} ou {vatlh:n:num} com {bIp:n:num}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Huomaa, että klingonilainen sana "sata tuhatta" on riippumaton sanoista "sata" ({vatlh:n:num}) ja "tuhat" ({SaD:n:num}). Klingon {bIp:n:num,nolink} on sama kuin "lakh", jota käytetään maan Aasian Aasian numerointijärjestelmissä.
 
 Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolink}: een tai {vatlh:n:num} {bIp:n:num}: n kanssa.[2] [AUTOTRANSLATED]</column>
-
-Para dezenas de milhões, pode-se combinar {maH:n:2,num} com {'uy':n:num,nolink} ou {vatlh:n:num} com {bIp:n:num}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9501,11 +9501,11 @@ Det finns också ett relaterat formspråk {bIr; bortaS rur@@bIr:v, bortaS:n, rur
 
 還有一個相關的成語{bIr; bortaS rur@@bIr:v, bortaS:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um provérbio Klingon muito famoso.
+
+Há também um idioma relacionado {bIr; bortaS rur@@bIr:v, bortaS:n, rur:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on hyvin kuuluisa Klingonin sananlasku.
 
 On myös siihen liittyvä idioomi {bIr; bortaS rur@@bIr:v, bortaS:n, rur:v}. [AUTOTRANSLATED]</column>
-
-Há também um idioma relacionado {bIr; bortaS rur@@bIr:v, bortaS:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{bortaS:n}, {bIr:v}, {jab:v}, {-lu':v}, {-DI':v}, {reH:adv}, {QaQ:v}, {-qu':v}, {nay':n}</column>
       <column name="examples"></column>
@@ -9819,11 +9819,11 @@ Detta ord används också i matematik (se {botlh:n:2}). [AUTOTRANSLATED]</column
 
 這個詞也用於數學中（請參閱{botlh:n:2}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para a área entre dois (ou mais) objetos, consulte {joj:n}. Para o interior de um objeto em geral, consulte {qoD:n}.
+
+Essa palavra também é usada em matemática (consulte {botlh:n:2}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Katso kahden (tai useamman) objektin välinen alue kohdasta {joj:n}. Kohteen sisustus yleensä, katso {qoD:n}.
 
 Tätä sanaa käytetään myös matematiikassa (katso {botlh:n:2}). [AUTOTRANSLATED]</column>
-
-Essa palavra também é usada em matemática (consulte {botlh:n:2}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10007,11 +10007,11 @@ Detta ord används i idiomen {bo'Dagh'a' lo':sen} och {bo'DaghHom lo':sen}. [AUT
 
 這個詞在{bo'Dagh'a' lo':sen}和{bo'DaghHom lo':sen}的成語中使用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para remover alimentos do {'un:n}.
+
+Esta palavra é usada nos idiomas {bo'Dagh'a' lo':sen} e {bo'DaghHom lo':sen}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään ruoan poistamiseen {'un:n}: stä.
 
 Tätä sanaa käytetään sanastoissa {bo'Dagh'a' lo':sen} ja {bo'DaghHom lo':sen}. [AUTOTRANSLATED]</column>
-
-Esta palavra é usada nos idiomas {bo'Dagh'a' lo':sen} e {bo'DaghHom lo':sen}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10459,14 +10459,14 @@ Story of the Promise säger att:
 無極的故事說：
 ▶{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um planeta do Império Klingon. De acordo com a mitologia Klingon, é aqui que {qeylIS'e' lIjlaHbe'bogh vay':n:name} retornará.
+
+A história da promessa afirma que:
+▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Planeetta Klingonin imperiumissa. Klingonin mytologian mukaan {qeylIS'e' lIjlaHbe'bogh vay':n:name} palaa tänne.
 
 Lupauksen tarinassa todetaan, että:
 ▶ KÄÄNNÖT2{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
-
-A história da promessa afirma que:
-▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11438,12 +11438,12 @@ Detta kan hänvisa till en "kategori" (dvs en relaterad grupp) av {DuH:n} i en {
 
 這可以指{SeHlaw:n}.[2]中{DuH:n}的“類別”（即相關組）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Consulte {Hung buv rav:n} para obter um exemplo de como falar sobre informações classificadas.
+
+Isso pode se referir a uma "categoria" (ou seja, um grupo relacionado) de {DuH:n} em uma {SeHlaw:n}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Katso {Hung buv rav:n}-esimerkki siitä, miten puhutaan turvaluokitellusta tiedosta.
 
 Tämä voi viitata {DuH:n}: n "luokkaan" (eli siihen liittyvään ryhmään) {SeHlaw:n}: ssa.[2] [AUTOTRANSLATED]</column>
-
-Isso pode se referir a uma "categoria" (ou seja, um grupo relacionado) de {DuH:n} em uma {SeHlaw:n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

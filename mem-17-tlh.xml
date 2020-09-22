@@ -2703,15 +2703,15 @@ Slutligen kan {tlhIm:n:nolink} också användas för en filt, även om Klingons 
 
 最後，{tlhIm:n:nolink}也可以用於毛毯，儘管克林崗人通常不使用毛毯。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo para colocar um tapete é {vel:v}. O verbo {mutlh:v}, quando aplicado a um tapete, significa montá-lo.
+
+A palavra {tlhIm:n:nolink} também é usada para decoração de parede em tecido. Um {tlhIm:n:nolink} tem que abranger alguma coisa. Um tecido exibido na extremidade de um poste seria um {joqwI':n}.
+
+Finalmente, {tlhIm:n:nolink} também pode ser usado como cobertor, embora os Klingons geralmente não usem cobertores. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Verbi maton asettamisesta on {vel:v}. Verbi {mutlh:v}, kun sitä levitetään matolle, tarkoittaa sen kokoamista.
 
 Sanaa {tlhIm:n:nolink} käytetään myös kankaan seinään ripustamiseen. {tlhIm:n:nolink}: n on peitettävä jotain. Sauvan päässä näkyvä kangas olisi {joqwI':n}.
 
 Lopuksi, {tlhIm:n:nolink}: ta voidaan käyttää myös huopana, vaikka klingonit eivät yleensä käytä huopia. [AUTOTRANSLATED]</column>
-
-A palavra {tlhIm:n:nolink} também é usada para decoração de parede em tecido. Um {tlhIm:n:nolink} tem que abranger alguma coisa. Um tecido exibido na extremidade de um poste seria um {joqwI':n}.
-
-Finalmente, {tlhIm:n:nolink} também pode ser usado como cobertor, embora os Klingons geralmente não usem cobertores. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A "gelim" is a type of Persian carpet.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2943,11 +2943,11 @@ Det finns ett formspråk, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTR
 
 有一個成語，{Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que isso se refere a uma pessoa Klingon ou ao povo Klingon, mas não à língua Klingon (para a qual veja {tlhIngan Hol:n}). Em Klingon, ao contrário do Padrão da Federação, o nome de um idioma não é simplesmente o nome das pessoas que o falam, mas deve ser um identificador seguido pela palavra {Hol:n}.
+
+Existe um idioma, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Huomaa, että tämä viittaa klingonilaiseen henkilöön tai klingonilaisiin, mutta ei klingonikieleen (josta ks. {tlhIngan Hol:n}). Klingonissa, toisin kuin Federation Standardissa, kielen nimi ei ole vain sitä puhuvien ihmisten nimi, vaan sen on oltava tunniste, jota seuraa sana {Hol:n}.
 
 On idioomi, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</column>
-
-Existe um idioma, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The TKD entry says only "Klingon". The "(person)" annotation has been added to distinguish this entry from "Klingon (language)", and to make it consistent with the entry for "Vulcan (person)", etc.</column>
       <column name="components"></column>
       <column name="examples">
@@ -3734,9 +3734,9 @@ Syftet med detta verb är personen som begäran görs eller {'e':n:pro} med hän
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo é usado para fazer uma solicitação, enquanto {ghel:v} é usado para fazer uma pergunta.[3]
-<column name="notes_fi">TRANSLATE</column>
 
 O objeto deste verbo é a pessoa de quem a solicitação é feita, ou {'e':n:pro} referindo-se à ação solicitada. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3930,11 +3930,11 @@ Man kan säga antingen {B tlhogh A:sen:nolink} för "{A:sen:nolink} gifter sig m
 
 可以說“ {A:sen:nolink}嫁給{B:sen:nolink}”的{B tlhogh A:sen:nolink}或“ {A:sen:nolink}和{B:sen:nolink}嫁給”的{tlhoghchuq A B je:sen:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Por muito tempo, essa palavra foi considerada estranha ou arcaica, mas é ouvida com frequência cada vez maior. Ao contrário de {Saw:v} e {nay:v}, pode ser usado por qualquer um dos parceiros, independentemente do sexo ou gênero.
+
+Pode-se dizer {B tlhogh A:sen:nolink} para "{A:sen:nolink} casa com {B:sen:nolink}" ou {tlhoghchuq A B je:sen:nolink} "{A:sen:nolink} e {B:sen:nolink} casam-se". [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa pidettiin pitkään viehättävänä tai arkaaisena, mutta sitä kuulla yhä useammin. Toisin kuin {Saw:v} ja {nay:v}, kumpikin kumppani voi käyttää sitä sukupuolesta tai sukupuolesta riippumatta.
 
 Voidaan sanoa joko {B tlhogh A:sen:nolink} "{A:sen:nolink} naimisiin {B:sen:nolink}" tai {tlhoghchuq A B je:sen:nolink} "{A:sen:nolink} ja {B:sen:nolink} naimisiin toistensa kanssa". [AUTOTRANSLATED]</column>
-
-Pode-se dizer {B tlhogh A:sen:nolink} para "{A:sen:nolink} casa com {B:sen:nolink}" ou {tlhoghchuq A B je:sen:nolink} "{A:sen:nolink} e {B:sen:nolink} casam-se". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

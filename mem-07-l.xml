@@ -641,11 +641,11 @@ Ordet {mIr:n:1} kan användas som slangbegrepp för detta, om saker är tydliga.
 
 如果情況清楚的話，{mIr:n:1}可以用作a語。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso seria usado para uma fila, ou seja, uma fila de pessoas esperando para entrar no filme. Espera-se que a fila ou fila de pessoas ou coisas esteja (ou esteja ou possa estar) em movimento, de modo que eventualmente diminua até que desapareça (em contraste com um {wIyqap:n} que é estacionário). Esta palavra é usada mesmo se as pessoas ou coisas estiverem agrupadas. Se houver duas filas de pessoas esperando para entrar em duas entradas lado a lado, {lanSoy:n:nolink} ainda será usado para cada uma delas (e não {wev:n}).
+
+A palavra {mIr:n:1} pode ser usada como uma gíria para isso, se as coisas estiverem claras. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytettäisiin jonoon, ts. Jonoon ihmisiin, jotka odottavat pääsyä elokuvaan. On odotettavissa, että ihmisten tai asioiden rivi tai rivi on (tai tulee tai saattaa olla) liikkeessä, joten lopulta se pienenee, kunnes se on kadonnut (toisin kuin {wIyqap:n}, joka on paikallaan). Tätä sanaa käytetään, vaikka ihmiset tai asiat olisivatkin joukossa. Jos on kaksi riviä ihmisiä, jotka odottavat pääsyä kahteen vierekkäiseen sisäänkäyntiin, {lanSoy:n:nolink}: ta käytettäisiin edelleen kullekin niistä (eikä {wev:n}).
 
 Sanaa {mIr:n:1} voidaan käyttää slangiterminä tähän, jos asiat ovat selvät. [AUTOTRANSLATED]</column>
-
-A palavra {mIr:n:1} pode ser usada como uma gíria para isso, se as coisas estiverem claras. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1050,11 +1050,11 @@ En slangterm för denna åtgärd är {pID:v:2}. [AUTOTRANSLATED]</column>
 
 這個動作的語是{pID:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado tanto para o ato de transferir tinta de um {rItlh 'echlet:n} para um {toqwIn:n}, quanto para o ato de colocar tinta em um {rItlh naQ:n}.
+
+Uma gíria para essa ação é {pID:v:2}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään sekä musteen siirtämiseen {rItlh 'echlet:n}: stä {toqwIn:n}: een että maalin asettamiseen {rItlh naQ:n}: een.
 
 Slangitermi tälle toiminnolle on {pID:v:2}. [AUTOTRANSLATED]</column>
-
-Uma gíria para essa ação é {pID:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1347,15 +1347,15 @@ Om svängningen är kontinuerligt fram och tillbaka, använd {ler:v} istället. 
 
 如果搖擺不停地來回擺動，請改用{ler:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa mover para uma posição inclinada ou em ângulo. A posição inicial é frequentemente, mas não precisa ser, vertical ou perpendicular. Se aplicado a uma pessoa, significa que os pés da pessoa permanecem imóveis. O pivô pode estar na parte superior, inferior ou em outro lugar.
+
+Retornar à posição vertical (ou anterior) é {lavHa':v@@lav:v, -Ha':v}.
+
+Se o balanço for continuamente para frente e para trás, use {ler:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä tarkoittaa siirtymistä vinoon tai kulmaan. Lähtöasento on usein, mutta ei tarvitse olla, pystyssä tai kohtisuorassa. Jos sitä käytetään henkilöön, se tarkoittaa, että henkilön jalat pysyvät paikallaan. Kääntö voi olla ylä-, ala- tai muualla.
 
 Paluu pystyasentoon (tai aikaisempaan) on {lavHa':v@@lav:v, -Ha':v}.
 
 Jos heiluu jatkuvasti edestakaisin, käytä sen sijaan {ler:v}. [AUTOTRANSLATED]</column>
-
-Retornar à posição vertical (ou anterior) é {lavHa':v@@lav:v, -Ha':v}.
-
-Se o balanço for continuamente para frente e para trás, use {ler:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1497,11 +1497,11 @@ För saker som är mätbara eller kvantifierbara, men inte nödvändigtvis räkn
 
 對於可測量或可量化但不一定可計數的事物，請使用{vItlh:v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra {law':v:nolink} é usada em construções comparativas. Consulte {... X law' ... X puS:sen}.
+
+Para coisas que são mensuráveis ​​ou quantificáveis, mas não necessariamente contáveis, use {vItlh:v}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Sanaa {law':v:nolink} käytetään vertailurakenteissa. Katso {... X law' ... X puS:sen}.
 
 Käytä asioita, jotka ovat mitattavissa tai mitattavissa, mutta eivät välttämättä laskettavissa, käytä {vItlh:v}.[2] [AUTOTRANSLATED]</column>
-
-Para coisas que são mensuráveis ​​ou quantificáveis, mas não necessariamente contáveis, use {vItlh:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1627,6 +1627,14 @@ Ovanstående konstruktioner används vanligtvis bara för att jämföra liknande
 Конструкции сверху обычно используются, чтобы сравнивать похожие вещи. Чтобы сформировать сравнения для непохожих вещей, используйте {rur:v}. Когда конструкции сверху использованы для сравнения непохожих вещей, они в общем и целом относятся к хорошо известным сравнениям.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Essa construção é usada para formar comparativos e superlativos. As duas coisas comparadas vão para os dois slots. Para formar o superlativo, {Hoch:n} é usado no segundo slot.[1]
+
+Outros pares de antônimos podem ser substituídos no lugar de {law':v} e {puS:v:1} como uma forma de jogo de palavras.[2]
+
+Para dizer que algo não é mais {X:sen:nolink} do que outra coisa, {law'be':v:nolink} e {puSbe':v:nolink} são usados ​​em vez de {law':v:nolink} e {puS:v:nolink}. Para dizer que algo é tão {X:sen:nolink} quanto outra coisa, {law':v:nolink} é usado com {law':v:nolink} (se a qualidade ou sua posse for considerada positiva), ou {puS:v:nolink} é usado com {puS:v:nolink} (se a qualidade ou sua posse for considerada negativa) ou {law':v:nolink} é usado com {rap:v} ou {nIb:v} (o último dos quais implica que as duas coisas sendo comparadas são exatamente as mesmas de alguma forma). Também é possível usar {puS:v:nolink} com {rap:v} ou {nIb:v}, mas isso carrega uma conotação de depreciação. Para dizer que algo não é tão {X:sen:nolink} como outra coisa, {pIm:v} é usado no lugar do segundo verbo no par.[3]
+
+Para dizer que duas coisas têm a mesma quantidade de alguma qualidade, também é possível usar {rap:v} ou {nIb:v} sem uma construção {law':v:nolink} / {puS:v:nolink}. (Veja esses verbos para obter detalhes.)
+
+As construções acima são normalmente usadas apenas para comparar coisas semelhantes. Para formar símiles, que comparam coisas que são diferentes, use {rur:v} em vez disso. Quando as construções acima são usadas para comparar coisas diferentes, geralmente fazem referência a símiles bem conhecidos. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <!-- ERROR: Missing link #16. -->
 <!-- ERROR: Missing link #20. -->
@@ -1640,14 +1648,6 @@ Jos haluat sanoa, että jokin ei ole enemmän {X:sen:nolink} kuin jokin muu, kä
 Voit sanoa, että kahdella asialla on sama määrä laatua, on myös mahdollista käyttää {rap:v} tai {nIb:v} ilman {law':v:nolink} / {puS:v:nolink} -rakennetta. (Katso lisätietoja näistä verbeistä.)
 
 Edellä mainittuja rakenteita käytetään tyypillisesti vain vertaamaan samanlaisia ​​asioita. Muodosta vertailuja, jotka vertaavat toisiaan poikkeavia asioita, käyttämällä sen sijaan {rur:v}. Kun yllä olevia rakenteita verrataan toisiinsa, ne viittaavat yleensä hyvin tunnettuihin vertailuihin.[2]{law':v:nolink}{rap:v}[3] [AUTOTRANSLATED]</column>
-
-Outros pares de antônimos podem ser substituídos no lugar de {law':v} e {puS:v:1} como uma forma de jogo de palavras.[2]
-
-Para dizer que algo não é mais {X:sen:nolink} do que outra coisa, {law'be':v:nolink} e {puSbe':v:nolink} são usados ​​em vez de {law':v:nolink} e {puS:v:nolink}. Para dizer que algo é tão {X:sen:nolink} quanto outra coisa, {law':v:nolink} é usado com {law':v:nolink} (se a qualidade ou sua posse for considerada positiva), ou {puS:v:nolink} é usado com {puS:v:nolink} (se a qualidade ou sua posse for considerada negativa) ou {law':v:nolink} é usado com {rap:v} ou {nIb:v} (o último dos quais implica que as duas coisas sendo comparadas são exatamente as mesmas de alguma forma). Também é possível usar {puS:v:nolink} com {rap:v} ou {nIb:v}, mas isso carrega uma conotação de depreciação. Para dizer que algo não é tão {X:sen:nolink} como outra coisa, {pIm:v} é usado no lugar do segundo verbo no par.[3]
-
-Para dizer que duas coisas têm a mesma quantidade de alguma qualidade, também é possível usar {rap:v} ou {nIb:v} sem uma construção {law':v:nolink} / {puS:v:nolink}. (Veja esses verbos para obter detalhes.)
-
-As construções acima são normalmente usadas apenas para comparar coisas semelhantes. Para formar símiles, que comparam coisas que são diferentes, use {rur:v} em vez disso. Quando as construções acima são usadas para comparar coisas diferentes, geralmente fazem referência a símiles bem conhecidos. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{law':v}, {puS:v:1}</column>
       <column name="examples">
@@ -2656,12 +2656,12 @@ Detta ord kan användas för att hänvisa till resor med eller utan ett särskil
 
 這個詞可以用來指代有或沒有特殊目的的旅行。如果希望指示執行任務，請改用{ve':v}。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">{leng:v:nolink} funciona como {jaH:v}.[2]
+
+Essa palavra pode ser usada para se referir a viagens com ou sem um propósito especial. Se desejar indicar uma viagem em missão, use {ve':v} em vez disso.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">{leng:v:nolink} toimii kuten {jaH:v}.[2]
 
 Tätä sanaa voidaan käyttää viittaamaan matkustamiseen erityistarkoituksessa tai ilman sitä. Jos haluat ilmoittaa matkalla matkalla, käytä sen sijaan {ve':v}.[3] [AUTOTRANSLATED]</column>
-
-Essa palavra pode ser usada para se referir a viagens com ou sem um propósito especial. Se desejar indicar uma viagem em missão, use {ve':v} em vez disso.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3066,16 +3066,16 @@ Informationen zur seitlichen Bewegung ohne Drehung oder Fixierung an einem Punkt
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso descreve o movimento para frente e para trás de algo fixado em uma extremidade a um pivô. Quando aplicado a uma pessoa, significa que os pés permanecem no chão enquanto o corpo se inclina para a esquerda e para a direita.[1] O pivô pode estar na parte superior, inferior ou em outro lugar. Uma oscilação rítmica como a de um pêndulo seria {lerchu':v}.[2]
+
+Para movimento em torno de um pivô em apenas uma direção, que para, consulte {lav:v}.[2]
+
+Para movimento para o lado sem rotação ou sendo fixado em um ponto, consulte {Dav:v:1}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä kuvaa edestakaisen liikkeen, joka on kiinnitetty toiseen päähän kääntöön. Kun sitä käytetään henkilöön, se tarkoittaa, että jalat pysyvät maassa, kun taas keho nojaa vasemmalle ja oikealle. Heilurin kaltainen rytminen värähtely olisi {lerchu':v}.[2]
 
 Katso liike kääntymän ympäri vain yhteen suuntaan, joka pysähtyy, katso {lav:v}.[2]
 
 Katso sivulta {Dav:v:1} liikkuminen sivulle pyörimättä tai kiinnittämättä pisteeseen.[1] [AUTOTRANSLATED]</column>
-
-Para movimento em torno de um pivô em apenas uma direção, que para, consulte {lav:v}.[2]
-
-Para movimento para o lado sem rotação ou sendo fixado em um ponto, consulte {Dav:v:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3473,11 +3473,11 @@ Detta ord kan användas bildligt. Det finns ett formspråk, {let mInDu'Daj; Sepa
 
 這個詞可以比喻地使用。有一個成語，{let mInDu'Daj; Separmey rur@@let:v, mIn:n, -Du':n, -Daj:n, Separ:n, -mey:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para "ser difícil (ser difícil)", consulte {Qatlh:v}.
+
+Esta palavra pode ser usada figurativamente. Existe um idioma, {let mInDu'Daj; Separmey rur@@let:v, mIn:n, -Du':n, -Daj:n, Separ:n, -mey:n, rur:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Katso "Ole kova (ole vaikeaa)", katso {Qatlh:v}.
 
 Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Separmey rur@@let:v, mIn:n, -Du':n, -Daj:n, Separ:n, -mey:n, rur:v}. [AUTOTRANSLATED]</column>
-
-Esta palavra pode ser usada figurativamente. Existe um idioma, {let mInDu'Daj; Separmey rur@@let:v, mIn:n, -Du':n, -Daj:n, Separ:n, -mey:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4645,12 +4645,12 @@ När en dator (eller datorsystem) är online sägs det vara "delning". Se {lIn:v
 
 當一台計算機（或計算機系統）在線時，它被稱為“共享”。參見{lIn:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando {A:sen:nolink} e {B:sen:nolink} compartilham {C:sen:nolink} um com o outro, a construção é {C lulIn A B je:sen:nolink} (ou {C lIn A B je:sen:nolink} se {C:sen:nolink} for plural). Neste caso, o falante não se compromete sobre se {A:sen:nolink} ou {B:sen:nolink} é quem decidiu compartilhar com o outro.[1]
+
+Quando um computador (ou sistema de computador) está online, ele está "compartilhando". Consulte {lIn:v:2}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Kun {A:sen:nolink} ja {B:sen:nolink} jakavat {C:sen:nolink} keskenään, rakenne on {C lulIn A B je:sen:nolink} (tai {C lIn A B je:sen:nolink}, jos {C:sen:nolink} on monikko). Tässä tapauksessa puhuja ei ole sitoutunut siihen, onko {A:sen:nolink} vai {B:sen:nolink} se, joka päätti jakaa jakamisen toisen kanssa.
 
 Kun tietokone (tai tietokonejärjestelmä) on verkossa, sen sanotaan olevan "jakamista". Katso {lIn:v:2}.[1] [AUTOTRANSLATED]</column>
-
-Quando um computador (ou sistema de computador) está online, ele está "compartilhando". Consulte {lIn:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5486,11 +5486,11 @@ Endast gifta personer kunde ha en partner som kan betraktas som {lIwnal:n:nolink
 
 只有已婚人士才能擁有可以被視為{lIwnal:n:nolink}的伴侶。 {lIwnal:n:nolink}可以是男性或女性，因此，如果需要區分，請使用{loD lIwnal:n@@loD:n, lIwnal:n}或{be' lIwnal:n@@be':n, lIwnal:n}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">As conotações culturais são um pouco diferentes da palavra inglesa "concubine". Na cultura klingon, tudo o que está associado a um {lIwnal:n:nolink} carece de honra, o que não é necessariamente o caso das concubinas ou cortesãs de um rei (terráqueo).
+
+Somente pessoas casadas podem ter um parceiro que possa ser considerado um {lIwnal:n:nolink}. Um {lIwnal:n:nolink} pode ser masculino ou feminino, então se for necessário distinguir, use {loD lIwnal:n@@loD:n, lIwnal:n} ou {be' lIwnal:n@@be':n, lIwnal:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kulttuurinen merkitys on hieman erilainen kuin englanninkielinen sana "sivuvaimo". Klingonin kulttuurissa kaikesta, mikä liittyy {lIwnal:n:nolink}: een, puuttuu kunnia, mikä ei välttämättä päde (Terran) kuninkaan sivuvaimoihin tai kurtisaaneihin.
 
 Ainoastaan ​​naimisissa olevilla ihmisillä voisi olla kumppani, jota voidaan pitää {lIwnal:n:nolink}: na. {lIwnal:n:nolink} voi olla mies tai nainen, joten jos se on tarpeen erottaa, käytä {loD lIwnal:n@@loD:n, lIwnal:n} tai {be' lIwnal:n@@be':n, lIwnal:n}. [AUTOTRANSLATED]</column>
-
-Somente pessoas casadas podem ter um parceiro que possa ser considerado um {lIwnal:n:nolink}. Um {lIwnal:n:nolink} pode ser masculino ou feminino, então se for necessário distinguir, use {loD lIwnal:n@@loD:n, lIwnal:n} ou {be' lIwnal:n@@be':n, lIwnal:n}. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{lIw:n}, {nal:n:hyp}</column>
           <column name="examples"></column>
@@ -5847,11 +5847,11 @@ Om det är lämpligt i en matematisk diskussion används inget prefix även om n
 
 如果在數學討論中適當，即使分母在語法上有些許異常，即使分母為1，也不會使用前綴。 （不會說{wa' luloch wej:sen@@wa':n:num, lu-:v, loch:v, wej:n:num}。）[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para expressar frações em matemática.
+
+Se apropriado em uma discussão matemática, nenhum prefixo é usado, mesmo que o denominador seja um, mesmo que seja um pouco aberrante gramaticalmente. (Não se diria {wa' luloch wej:sen@@wa':n:num, lu-:v, loch:v, wej:n:num}.) [1] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään murtolukujen ilmaisemiseen matematiikassa.
 
 Tarvittaessa matemaattisessa keskustelussa etuliitettä ei käytetä, vaikka nimittäjä on yksi, vaikka tämä onkin kieliopillisesti hieman poikkeava. (Ei voida sanoa {wa' luloch wej:sen@@wa':n:num, lu-:v, loch:v, wej:n:num}.) [1] [AUTOTRANSLATED]</column>
-
-Se apropriado em uma discussão matemática, nenhum prefixo é usado, mesmo que o denominador seja um, mesmo que seja um pouco aberrante gramaticalmente. (Não se diria {wa' luloch wej:sen@@wa':n:num, lu-:v, loch:v, wej:n:num}.) [1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6391,14 +6391,14 @@ Texten till {SkyBox 99:src} lyder:
 {SkyBox 99:src}的文本為：
 ▶{loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome de uma estação espacial da Federação.
+
+O texto de {SkyBox 99:src} diz:
+▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on federaation avaruusaseman nimi.
 
 {SkyBox 99:src}: n teksti kuuluu:
 ▶ KÄÄNNÖT2{loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
-
-O texto de {SkyBox 99:src} diz:
-▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{logh Hop:n}, {Hut:n:num}, {tengchaH:n}</column>
       <column name="examples"></column>
@@ -8843,11 +8843,11 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
 
 {lu qeng:n:name,nolink}“康的倒塌”是G'trok著名的詩歌。[1, p.107] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja {pum:v:2} para uma queda literal.
+
+{lu qeng:n:name,nolink} "The Fall of Kang" é um famoso poema de G'trok.[1, p.107] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Katso kirjaimellinen pudotus kohdasta {pum:v:2}.
 
 {lu qeng:n:name,nolink} "Kangin putoaminen" on G'trokin kuuluisa runo.[1, p.107] [AUTOTRANSLATED]</column>
-
-{lu qeng:n:name,nolink} "The Fall of Kang" é um famoso poema de G'trok.[1, p.107] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10064,13 +10064,13 @@ När man hänvisar till ens vänstra och högra sida används besittande suffix.
 Точки между тремя основными направлениями {tIng chan:n:nolink}, {'ev chan:n:nolink}, и {tIng 'ev:n:nolink} или {'ev tIng:n:nolink}. {chan:n:nolink} всегда идут вторыми в таком соединении.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">A bússola de Klingon tem três pontos, em vez de quatro: {chan:n} (leste), {'ev:n} (noroeste) e {tIng:n} (sudoeste).
-<column name="notes_fi">TRANSLATE</column>
 
 As áreas ao redor de um objeto são {Dung:n} (área acima), {bIng:n} (área abaixo), {retlh:n} (área ao lado), {tlhop:n:1} (frente) e {'em:n} (atrás). Algo no {retlh:n:nolink} de um objeto pode estar no {poS:n} (à esquerda) ou no {nIH:n} (à direita). A área entre dois objetos é seu {joj:n} (área entre). A área além de um objeto é seu {Hay:n:2h}.
 
 No Klingon padrão, os substantivos locativos seguem pronomes, por exemplo, {jIH tlhop:n:nolink} "na minha frente". Porém, no dialeto da região de Sakrej ({Sa'Qej Sep:n}), os substantivos locativos recebem sufixos possessivos pronominais, por exemplo, {tlhopwIj:n:nolink} "minha área na frente" .[2] No entanto, os substantivos direcionais são uma exceção a essa regra e usam sufixos possessivos em todos os dialetos conhecidos , por exemplo, {chanwIj:n:nolink} "leste de mim, para o leste". Se o pronome completo for usado com um substantivo direcional, o pronome será enfatizado, por exemplo, {jIH chan:n:nolink} "leste de ME, para MEU leste" .[4]
 
 Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos. Por exemplo, pode-se dizer que {nIHwIj ghop:n@@nIH:n, -wIj:n, ghop:n} se refere à mão direita.[5] Os pontos entre as três direções cardeais são {tIng chan:n:nolink}, {'ev chan:n:nolink} e {tIng 'ev:n:nolink} ou {'ev tIng:n:nolink}. O {chan:n:nolink} sempre fica em segundo lugar nesse tipo de composto.[3] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

@@ -775,11 +775,11 @@ För "låsning" på ett mål, se {'uch:v:2}, och överväg också {buS:v}. [AUTO
 
 有關“鎖定”到目標的信息，請參閱{'uch:v:2}，並考慮{buS:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe uma expressão idiomática, {ngaQ lojmIt:sen}, que significa que um resultado é inevitável ou um curso de ação irrevogável.
+
+Para "travar" em um destino, consulte {'uch:v:2} e também considere {buS:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">On olemassa idiomaattinen ilmaisu {ngaQ lojmIt:sen}, mikä tarkoittaa, että tulos on väistämätön tai toimintatapa peruuttamaton.
 
 Katso kohdasta "lukitseminen" kohteeseen {'uch:v:2} ja ota huomioon myös {buS:v}. [AUTOTRANSLATED]</column>
-
-Para "travar" em um destino, consulte {'uch:v:2} e também considere {buS:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -879,11 +879,11 @@ Man kan säga {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} och så vidare, men detta 
 
 可以說{mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2}等等，但這是一種特殊的Argot或凍結形式。它可能已從早期短語（例如{mab Hung lojmIt ngaQmoH:sen@@mab:n:2, Hung:n, lojmIt:n, ngaQmoH:v:2}）縮短了。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma extensão do significado de {ngaQmoH:v:1} aplicado a contas ({mab:n:2}).
+
+Pode-se dizer {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} e assim por diante, mas este é um jargão especial ou forma congelada. Pode ter sido reduzido de uma frase anterior, como {mab Hung lojmIt ngaQmoH:sen@@mab:n:2, Hung:n, lojmIt:n, ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on laajennus {ngaQmoH:v:1}-merkitykseen, jota sovelletaan tileihin ({mab:n:2}).
 
 Voidaan sanoa {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} ja niin edelleen, mutta tämä on erityinen argot tai jäädytetty muoto. Se on saatettu lyhentää aikaisemmasta lauseesta, kuten {mab Hung lojmIt ngaQmoH:sen@@mab:n:2, Hung:n, lojmIt:n, ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
-
-Pode-se dizer {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} e assim por diante, mas este é um jargão especial ou forma congelada. Pode ter sido reduzido de uma frase anterior, como {mab Hung lojmIt ngaQmoH:sen@@mab:n:2, Hung:n, lojmIt:n, ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ngaQ:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -2188,12 +2188,12 @@ Det lavafylta området i en vulkan ({qulHuD:n}) kallas dess {qul ngeng:n}.[2] [A
 
 火山熔岩充滿的區域（{qulHuD:n}）稱為{qul ngeng:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A margem de um lago é seu {ngeng HeH:n}.
+
+A área cheia de lava de um vulcão ({qulHuD:n}) é chamada de {qul ngeng:n}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Järven ranta on sen {ngeng HeH:n}.
 
 Tulivuoren laavalla täytettyä aluetta ({qulHuD:n}) kutsutaan sen {qul ngeng:n}: ksi.[2] [AUTOTRANSLATED]</column>
-
-A área cheia de lava de um vulcão ({qulHuD:n}) é chamada de {qul ngeng:n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2248,11 +2248,11 @@ I {paq'batlh:src} används uttrycket {qul ngeng HeH:n:nolink} för att hänvisa 
 
 在{paq'batlh:src}中，表達式{qul ngeng HeH:n:nolink}用於表示{QIStaq:n}內部的{qul ngeng:n}的岸邊，那裡的環境對生活如此不利，以至於{tlheng'IQ:n}都不會生長。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere especificamente à margem de um lago. A costa de um oceano seria chamada de {bIQ'a' HeH:n} e assim por diante.
+
+No {paq'batlh:src}, a expressão {qul ngeng HeH:n:nolink} é usada para se referir à costa do {qul ngeng:n} dentro do {QIStaq:n}, onde o ambiente é tão hostil à vida que nem mesmo o {tlheng'IQ:n} cresceria. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä viittaa nimenomaan järven rannalle. Valtameren rantaa kutsutaan nimellä {bIQ'a' HeH:n} ja niin edelleen.
 
 {paq'batlh:src}: ssa ilmaisua {qul ngeng HeH:n:nolink} käytetään viittaamaan {qul ngeng:n}: n rantaan {QIStaq:n}: n sisällä, jossa ympäristö on niin vihamielinen elämälle, ettei edes {tlheng'IQ:n} kasvaisi. [AUTOTRANSLATED]</column>
-
-No {paq'batlh:src}, a expressão {qul ngeng HeH:n:nolink} é usada para se referir à costa do {qul ngeng:n} dentro do {QIStaq:n}, onde o ambiente é tão hostil à vida que nem mesmo o {tlheng'IQ:n} cresceria. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ngeng:n}, {HeH:n}</column>
       <column name="examples"></column>
@@ -4602,11 +4602,11 @@ Detta ord används på objekt eller idéer. [2] [AUTOTRANSLATED]</column>
 
 這個詞適用於對像或觀念。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que em Klingon, há uma palavra diferente para "ser velho (não novo)" ({ngo':v:nolink}) e para "ser velho (não jovem)" ({qan:v:1}).
+
+Esta palavra é aplicada a objetos ou idéias.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Huomaa, että Klingonissa on erilainen sana "olla vanha (ei uusi)" ({ngo':v:nolink}) kuin "olla vanha (ei nuori)" ({qan:v:1}).
 
 Tätä sanaa käytetään esineisiin tai ideoihin.[2] [AUTOTRANSLATED]</column>
-
-Esta palavra é aplicada a objetos ou idéias.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4759,16 +4759,16 @@ Observera att "då" i betydelsen "därefter" är {ghIq:adv}.[1] [AUTOTRANSLATED]
 
 請注意，“隨後”意義上的“然後”是{ghIq:adv}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este adverbial é usado principalmente para enfatizar que um evento ocorreu ao mesmo tempo que outro. Não significa "em algum momento (vago) no passado" ou "em algum momento (desconhecido) no futuro" .[1]
+
+Para ver um verbo com significado semelhante, consulte {quq:v}. Para um idioma que significa "naquela época", consulte {pumDI':sen}.
+
+Observe que "então" no sentido de "subsequentemente" é {ghIq:adv}.[1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä adverbiaalia käytetään pääasiassa korostamaan, että yksi tapahtuma tapahtui samanaikaisesti toisen kanssa. Se ei tarkoita "joskus (epämääräistä) aikaa menneisyydessä" tai "joskus (tuntematonta) aikaa tulevaisuudessa".
 
 Katso verbillä, jolla on samanlainen merkitys, {quq:v}. Katso "siihen aikaan" tarkoitetun sanaston kohdasta {pumDI':sen}.
 
 Huomaa, että "silloin" tarkoittaa "myöhemmin" on {ghIq:adv}.[1][1] [AUTOTRANSLATED]</column>
-
-Para ver um verbo com significado semelhante, consulte {quq:v}. Para um idioma que significa "naquela época", consulte {pumDI':sen}.
-
-Observe que "então" no sentido de "subsequentemente" é {ghIq:adv}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

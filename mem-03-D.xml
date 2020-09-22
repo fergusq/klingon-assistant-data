@@ -696,6 +696,16 @@ Som ett tidselement föregår {DaHjaj:n} alla adverbials.[1, sec. 6.7] [AUTOTRAN
 Как элемент времени, {DaHjaj:n} предшествует любым прилагательным.[1, секция. 6.7]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Embora {DaHjaj:n:nolink} e {jajvam:n} signifiquem "hoje", eles não são totalmente intercambiáveis. {DaHjaj:n:nolink} (mas não {jajvam:n:nolink}) é usado como o elemento de tempo em uma frase: {DaHjaj romuluSngan vIHoHpu':sen:nolink} "hoje matei um romulano" .[2]
+
+Como sujeito de uma frase, {jajvam:n:nolink} é mais comumente encontrado, embora {DaHjaj:n:nolink} não seja impossível. Comparar:
+▶ {nI' jajvam:sen:nolink} "este dia é longo"
+▶ {nI' DaHjaj:sen:nolink} "hoje é longo" [2]
+
+{DaHjaj:n:nolink} também se comporta como um substantivo em construções substantivo-substantivo como {DaHjaj gheD:n} "presa de hoje", um termo frequentemente ouvido em restaurantes Klingon com um significado comparável a "captura do dia" .[2]
+
+{DaHjaj:n:nolink} também é usado com palavras que indicam uma hora do dia para se referir a essa parte do dia atual. Por exemplo, {DaHjaj ram:n}, literalmente "noite de hoje", significa "hoje à noite" .[2]
+
+Como um elemento de tempo, {DaHjaj:n} precede qualquer adverbial. [1, sec. 6.7] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #6. -->
 <!-- ERROR: Missing link #14. -->
 <!-- ERROR: Missing link #17. -->
@@ -711,16 +721,6 @@ Lauseen aiheena {jajvam:n:nolink} löytyy tyypillisemmin, vaikka {DaHjaj:n:nolin
 {DaHjaj:n:nolink}-sanaa käytetään myös sanoilla, jotka osoittavat kellonajan viittaamaan kuluvan päivän kyseiseen osaan. Esimerkiksi {DaHjaj ram:n}, kirjaimellisesti "tämän päivän yö", tarkoittaa "tänä iltana".
 
 Aikaelementtinä {DaHjaj:n} edeltää kaikkia adverbaaleja.[2][2][2][1, sec. 6.7] [AUTOTRANSLATED]</column>
-
-Como sujeito de uma frase, {jajvam:n:nolink} é mais comumente encontrado, embora {DaHjaj:n:nolink} não seja impossível. Comparar:
-▶ {nI' jajvam:sen:nolink} "este dia é longo"
-▶ {nI' DaHjaj:sen:nolink} "hoje é longo" [2]
-
-{DaHjaj:n:nolink} também se comporta como um substantivo em construções substantivo-substantivo como {DaHjaj gheD:n} "presa de hoje", um termo frequentemente ouvido em restaurantes Klingon com um significado comparável a "captura do dia" .[2]
-
-{DaHjaj:n:nolink} também é usado com palavras que indicam uma hora do dia para se referir a essa parte do dia atual. Por exemplo, {DaHjaj ram:n}, literalmente "noite de hoje", significa "hoje à noite" .[2]
-
-Como um elemento de tempo, {DaHjaj:n} precede qualquer adverbial. [1, sec. 6.7] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{DaH:adv}, {jaj:n}</column>
       <column name="examples"></column>
@@ -1602,12 +1602,12 @@ Ett godtagbart sätt att uttrycka denna efterfrågan som en fråga är {nuq DaDa
 
 將這種需求表達為問題的可接受方法是{nuq DaDab?:sen:nolink} [1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em Klingon, isso é mais uma ordem do que uma pergunta. Literalmente significa: "Identifique o lugar onde você mora!"[1]
+
+Uma maneira aceitável de expressar essa demanda como uma pergunta é {nuq DaDab?:sen:nolink} [1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Klingonissa tämä on pikemminkin komento kuin kysymys. Se tarkoittaa kirjaimellisesti: "Tunnista asuinpaikkasi!" [1]
 
 Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?: Sen: nolink} [1]{nuq DaDab?:sen:nolink} [AUTOTRANSLATED]</column>
-
-Uma maneira aceitável de expressar essa demanda como uma pergunta é {nuq DaDab?:sen:nolink} [1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2281,15 +2281,15 @@ Detta verb kan tillämpas på flygplan, för vilka se {Dav:v:2}. [1] [AUTOTRANSL
 
 此動詞可用於飛機，請參見{Dav:v:2}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se aplica ao movimento de todo o corpo ou coisa para a esquerda ou direita.
+
+Não é usado se os pés de uma pessoa ficarem parados, mas o corpo se inclinar para a esquerda ou para a direita, para ver {ler:v}.
+
+Este verbo pode ser aplicado a aeronaves, para as quais consulte {Dav:v:2}. [1] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä koskee koko kehon tai asian liikkumista vasemmalle tai oikealle.
 
 Sitä ei käytetä, jos henkilön jalat pysyvät paikallaan, mutta keho nojaa vasemmalle tai oikealle, katso {ler:v}.
 
 Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Dav:v:2}.[1] [AUTOTRANSLATED]</column>
-
-Não é usado se os pés de uma pessoa ficarem parados, mas o corpo se inclinar para a esquerda ou para a direita, para ver {ler:v}.
-
-Este verbo pode ser aplicado a aeronaves, para as quais consulte {Dav:v:2}. [1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3436,11 +3436,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/7qXuTn9HpP4} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/7qXuTn9HpP4} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta criatura também é chamada de {DenIbya' Qatlh:n:nolink}.
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/7qXuTn9HpP4} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä olentoa kutsutaan myös nimellä {DenIbya' Qatlh:n:nolink}.
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7qXuTn9HpP4} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/7qXuTn9HpP4} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3798,11 +3798,11 @@ Detta verb kan tillämpas på flygplan, för vilka se {Der:v:2}.[1] [AUTOTRANSLA
 
 此動詞可用於飛機，請參見{Der:v:2}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa mudar de direção para a esquerda ou direita enquanto viaja ou se move.
+
+Este verbo pode ser aplicado a aeronaves, para as quais consulte {Der:v:2}. [1] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä tarkoittaa suunnan vaihtamista vasemmalle tai oikealle ajon tai liikkumisen aikana.
 
 Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Der:v:2}.[1] [AUTOTRANSLATED]</column>
-
-Este verbo pode ser aplicado a aeronaves, para as quais consulte {Der:v:2}. [1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6623,15 +6623,15 @@ Både kardinalnummer ({DISjaj wa':n@@DISjaj:n, wa':n:num}) och ordinalnummer ({D
 
 基數（{DISjaj wa':n@@DISjaj:n, wa':n:num}）和序數（{DISjaj wa'DIch:n@@DISjaj:n, wa'DIch:n}）都可以用來紀念週年。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um dia em que se reconhece ou se lembra de um evento ocorrido há vários anos. Outras unidades de tempo são possíveis, como {jarjaj:n} e {Hoghjaj:n}.
+
+Também é possível usar outras unidades de tempo, como {tupjaj:n@@tup:n, jaj:n}, como uma forma de jogo de palavras.
+
+Ambos os números cardinais ({DISjaj wa':n@@DISjaj:n, wa':n:num}) e números ordinais ({DISjaj wa'DIch:n@@DISjaj:n, wa'DIch:n}) são aceitáveis ​​para se referir a aniversários. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on päivä, jolloin tunnistetaan tai muistetaan tapahtuma, joka tapahtui useita vuosia sitten. Muut aikayksiköt ovat mahdollisia, kuten {jarjaj:n} ja {Hoghjaj:n}.
 
 On myös mahdollista käyttää muita aikayksikköjä, kuten {tupjaj:n@@tup:n, jaj:n} sanamuotona.
 
 Sekä kardinaalinumerot ({DISjaj wa':n@@DISjaj:n, wa':n:num}) että järjestysnumerot ({DISjaj wa'DIch:n@@DISjaj:n, wa'DIch:n}) ovat hyväksyttäviä viitattaessa vuosipäiviin. [AUTOTRANSLATED]</column>
-
-Também é possível usar outras unidades de tempo, como {tupjaj:n@@tup:n, jaj:n}, como uma forma de jogo de palavras.
-
-Ambos os números cardinais ({DISjaj wa':n@@DISjaj:n, wa':n:num}) e números ordinais ({DISjaj wa'DIch:n@@DISjaj:n, wa'DIch:n}) são aceitáveis ​​para se referir a aniversários. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{DIS:n:2}, {jaj:n}</column>
       <column name="examples"></column>
@@ -6815,11 +6815,11 @@ Sammanfattningsvis eller inte låter detta ord liknar {DI vI':n:nolink} "det ack
 
 碰巧與否，這句話聽起來與{DI vI':n:nolink}“會堆積碎屑”相似。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada para se referir a "Federação", uma forma abreviada de "Federação Unida dos Planetas" ({yuQjIjDIvI':n}).
+
+Coincidentemente ou não, esta palavra soa semelhante a {DI vI':n:nolink} "ele acumula detritos". [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käytetään viittaamaan "liittoon", lyhennettyyn muotoon "Yhdistyneiden planeettojen federaatio" ({yuQjIjDIvI':n}).
 
 Sattumalta tai ei, nämä sanat kuulostavat samanlaisilta kuin {DI vI':n:nolink} "se kerää roskia". [AUTOTRANSLATED]</column>
-
-Coincidentemente ou não, esta palavra soa semelhante a {DI vI':n:nolink} "ele acumula detritos". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The real reason {DIvI':n:nolink} and {DI vI':n:nolink} sound alike is because of the backfitting of {vaj toDuj Daj ngeHbej DI vI'.:sen}</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9814,11 +9814,11 @@ Detta verb används för att förbättra mer abstrakt karaktär, till exempel i 
 
 此動詞用於改善狀態，技能，理解等更抽象的性質。有關更具體含義的改進，請參閱{rach:v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é aquilo que é melhorado.
+
+Este verbo é usado para melhoria de natureza mais abstrata, como em status, habilidade, compreensão, etc. Para melhoria em um sentido mais concreto, consulte {rach:v}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohde on asia, jota parannetaan.
 
 Tätä verbiä käytetään parantamaan abstraktimpaa luonnetta, kuten tila, taito, ymmärrys jne. Parannusta konkreettisemmassa mielessä, katso {rach:v}.[2] [AUTOTRANSLATED]</column>
-
-Este verbo é usado para melhoria de natureza mais abstrata, como em status, habilidade, compreensão, etc. Para melhoria em um sentido mais concreto, consulte {rach:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10240,6 +10240,12 @@ Kända klasser av Klingon-fartyg inkluderar {neghvar:n}, {vorcha':n}, {qItI'nga'
 
 克林崗船的已知類別包括{neghvar:n}，{vorcha':n}，{qItI'nga':n}，{qISa'ruj:n}和{toQDuj:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra pode se referir a qualquer veículo, não apenas espaçonaves, especificando o ambiente em que o veículo viaja. Consulte {puH Duj:n}, {muD Duj:n}, {bIQ Duj:n}.
+
+Alguma terminologia especial é usada para as partes de um {Duj:n:1h,nolink}. A seção em direção a sua {tlhop:n:1h} é chamada de {'et:n:2h}, enquanto a seção em direção a sua {'em:n} é chamada de {'o':n}. Para se referir às áreas dorsal, ventral, de bombordo e estibordo de um navio, consulte {Dung:n}, {bIng:n}, {poS:n} e {nIH:n}, respectivamente.
+
+Para verbos relacionados ao movimento do navio, consulte {'or:v}.
+
+As classes conhecidas de navios Klingon incluem {neghvar:n}, {vorcha':n}, {qItI'nga':n}, {qISa'ruj:n} e {toQDuj:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana voi viitata mihin tahansa ajoneuvoon, ei vain avaruusaluksiin, määrittelemällä ympäristön, jossa ajoneuvo kulkee. Katso {puH Duj:n}, {muD Duj:n}, {bIQ Duj:n}.
 
 Joitakin erityisiä termejä käytetään {Duj:n:1h,nolink}: n osiin. Kohtaa {tlhop:n:1h} kohti kutsutaan {'et:n:2h}: ksi, kun taas osaa {'em:n} kohti kutsutaan {'o':n}: ksi. Jos haluat viitata aluksen selkä-, vatsa-, satama- ja oikeanpuoleiseen alueeseen, katso {Dung:n}, {bIng:n}, {poS:n} ja {nIH:n}.
@@ -10247,12 +10253,6 @@ Joitakin erityisiä termejä käytetään {Duj:n:1h,nolink}: n osiin. Kohtaa {tl
 Katso aluksen liikkumiseen liittyvät verbit kohdasta {'or:v}.
 
 Klingonin alusten tunnettuja luokkia ovat {neghvar:n}, {vorcha':n}, {qItI'nga':n}, {qISa'ruj:n} ja {toQDuj:n}. [AUTOTRANSLATED]</column>
-
-Alguma terminologia especial é usada para as partes de um {Duj:n:1h,nolink}. A seção em direção a sua {tlhop:n:1h} é chamada de {'et:n:2h}, enquanto a seção em direção a sua {'em:n} é chamada de {'o':n}. Para se referir às áreas dorsal, ventral, de bombordo e estibordo de um navio, consulte {Dung:n}, {bIng:n}, {poS:n} e {nIH:n}, respectivamente.
-
-Para verbos relacionados ao movimento do navio, consulte {'or:v}.
-
-As classes conhecidas de navios Klingon incluem {neghvar:n}, {vorcha':n}, {qItI'nga':n}, {qISa'ruj:n} e {toQDuj:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11049,11 +11049,11 @@ För en fristående topp som t.ex. en insats, se {wIl:n}. [AUTOTRANSLATED]</colu
 
 有關股權的獨立峰值，請參閱{wIl:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para se referir aos picos anexados a {pogh:n}, {ghanjaq:n}, {'alngegh:n} e assim por diante.
+
+Para um pico independente, como uma estaca, consulte {wIl:n}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään viittaamaan piikkeihin, jotka on liitetty {pogh:n}-, {ghanjaq:n}-, {'alngegh:n}- ja niin edelleen.
 
 Katso erillinen piikki, kuten panos, kohdasta {wIl:n}. [AUTOTRANSLATED]</column>
-
-Para um pico independente, como uma estaca, consulte {wIl:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{DuQ:v:1}, {-wI':v}</column>
       <column name="examples"></column>
@@ -11325,12 +11325,12 @@ Skillnaden mellan en {DuS:n:nolink} och en {chetvI':n:1} har att göra med hur p
 
 {DuS:n:nolink}和{chetvI':n:1}之間的區別與彈丸的加載方式有關。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para iniciar um {peng:n}.
+
+A distinção entre um {DuS:n:nolink} e um {chetvI':n:1} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tätä käytetään {peng:n}: n käynnistämiseen.
 
 {DuS:n:nolink}: n ja {chetvI':n:1}: n välinen ero liittyy ammuksen lataamiseen.[2] [AUTOTRANSLATED]</column>
-
-A distinção entre um {DuS:n:nolink} e um {chetvI':n:1} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

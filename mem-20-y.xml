@@ -389,15 +389,15 @@ Tån verb används på samma sätt som finger verb, men de hörs inte ofta utanf
 
 腳趾動詞的用法與手指動詞的用法相同，但在有關武術動作或舞蹈的討論之外通常不會聽到它們，並且通常被認為是過時的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O klingon tem cinco verbos correspondentes a cada um dos {yaD:n:1,nolink}: {mar:v}, {Hom:v}, {roS:v:2}, {nan:v:2} e {Qay':v:2}.
+
+Correspondentemente, os cinco dedos são {marwI':n}, {HomwI':n}, {roSwI':n}, {nanwI':n:2} e {Qay'wI':n}.
+
+Os verbos do dedo do pé são usados ​​da mesma forma que os dos dedos, mas não são ouvidos com frequência fora das discussões sobre movimentos ou dança das artes marciais e são normalmente considerados arcaicos. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Klingonilla on viisi verbiä, jotka vastaavat kutakin {yaD:n:1,nolink}: {mar:v}, {Hom:v}, {roS:v:2}, {nan:v:2} ja {Qay':v:2}.
 
 Vastaavasti viisi varpaata ovat {marwI':n}, {HomwI':n}, {roSwI':n}, {nanwI':n:2} ja {Qay'wI':n}.
 
 Varpaiden verbejä käytetään samalla tavalla kuin sormen verbejä, mutta niitä ei kuule usein taistelulajien liikkeistä tai tanssista käytävien keskustelujen ulkopuolella, ja niitä pidetään yleensä arkaaisina. [AUTOTRANSLATED]</column>
-
-Correspondentemente, os cinco dedos são {marwI':n}, {HomwI':n}, {roSwI':n}, {nanwI':n:2} e {Qay'wI':n}.
-
-Os verbos do dedo do pé são usados ​​da mesma forma que os dos dedos, mas não são ouvidos com frequência fora das discussões sobre movimentos ou dança das artes marciais e são normalmente considerados arcaicos. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The verbs for the toes come from the nursery rhyme "This Little Piggy".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -624,13 +624,13 @@ Varje plats som specifikt är avsedd för utförande av en specifik uppgift elle
 
 專門為執行一項或多項特定任務而指定的任何場所都是{yaH:n:nolink}。例如，舞台是表演戲劇或音樂的{yaH:n:nolink}，足球場是足球比賽的{yaH:n:nolink}，實驗室（{Qulpa':n}）是科學家的{yaH:n:nolink}。如果上下文不足以澄清一個人所指的{yaH:n:nolink}，則可以說諸如{much yaH:n}，{QoQ yaH:n@@QoQ:n, yaH:n}，{tamlerQeD yaH:n@@tamlerQeD:n, yaH:n}之類的東西。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a qualquer lugar onde se trabalha, e não se limita ao uso militar.[2]
+
+Qualquer local designado especificamente para o desempenho de uma tarefa ou tarefas específicas é um {yaH:n:nolink}. Por exemplo, um palco é o {yaH:n:nolink} para a execução de peças ou música, um campo de futebol é o {yaH:n:nolink} para um jogo de futebol, um laboratório ({Qulpa':n}) é o {yaH:n:nolink} de um cientista. Se o contexto não for suficiente para esclarecer a que tipo de {yaH:n:nolink} alguém está se referindo, pode-se dizer coisas como {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, {tamlerQeD yaH:n@@tamlerQeD:n, yaH:n} e assim por diante.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #10. -->
 <!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Tämä viittaa mihin tahansa paikkaan, jossa joku työskentelee, eikä rajoitu vain sotilaalliseen käyttöön
 
 Mikä tahansa paikka, joka on nimenomaisesti tarkoitettu tietyn tehtävän tai tehtävien suorittamiseen, on {yaH:n:nolink}. Esimerkiksi vaihe on {yaH:n:nolink} näytelmien tai musiikin esittämiselle, jalkapallokenttä on {yaH:n:nolink} jalkapallopelille, laboratorio ({Qulpa':n}) on tutkijan {yaH:n:nolink}. Jos asiayhteys ei riitä sen selvittämiseen, mihin {yaH:n:nolink}: ään viitataan, voidaan sanoa esimerkiksi {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, [2]0 ja niin edelleen.{tamlerQeD yaH:n@@tamlerQeD:n, yaH:n}[3] [AUTOTRANSLATED]</column>
-
-Qualquer local designado especificamente para o desempenho de uma tarefa ou tarefas específicas é um {yaH:n:nolink}. Por exemplo, um palco é o {yaH:n:nolink} para a execução de peças ou música, um campo de futebol é o {yaH:n:nolink} para um jogo de futebol, um laboratório ({Qulpa':n}) é o {yaH:n:nolink} de um cientista. Se o contexto não for suficiente para esclarecer a que tipo de {yaH:n:nolink} alguém está se referindo, pode-se dizer coisas como {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, {tamlerQeD yaH:n@@tamlerQeD:n, yaH:n} e assim por diante.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -991,11 +991,11 @@ Detta ord används också som slang för en "båge" som används för att spela 
 
 此單詞也用作“弓”的語，用於播放{ngItHel:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma arma com lâminas longas.
+
+Esta palavra também é usada como gíria para um "arco", que é usado para tocar o {ngItHel:n}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on ase, jolla on pitkät terät.
 
 Tätä sanaa käytetään myös slangina "jouselle", jota käytetään pelaamaan {ngItHel:n}.[2] [AUTOTRANSLATED]</column>
-
-Esta palavra também é usada como gíria para um "arco", que é usado para tocar o {ngItHel:n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Cantonese Chinese for "blade" (刃).</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2244,12 +2244,12 @@ Förväxla inte detta med ett samhälle i kulturell mening, som se {nugh:n}.[1] 
 
 不要將此與文化意義上的社會混淆，有關這一點，請參閱{nugh:n}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma organização dedicada a atividades escolares ou pesquisas. A distinção entre {yej'an:n:nolink} e {yejHaD:n} não é clara, mas {yejHaD:n:nolink} é geralmente usado para organizações maiores. Não se sabe se a primeira sílaba é a palavra {yej:n}, mas pode haver alguma conexão histórica.[1]
+
+Não confunda isso com uma sociedade no sentido cultural, para a qual veja {nugh:n}.[1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä on organisaatio, joka on omistautunut skolastisiin harrastuksiin tai tutkimukseen. {yej'an:n:nolink}: n ja {yejHaD:n}: n välinen ero ei ole selvä, mutta {yejHaD:n:nolink}: ta käytetään yleensä suuremmissa organisaatioissa. Ei tiedetä, onko ensimmäinen tavu sana {yej:n}, mutta historiallinen yhteys saattaa olla olemassa.
 
 Älä sekoita tätä yhteiskuntaan kulttuurisessa mielessä, josta ks.{nugh:n}.[1][1] [AUTOTRANSLATED]</column>
-
-Não confunda isso com uma sociedade no sentido cultural, para a qual veja {nugh:n}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yej:n}?, {'an:v:0} or {'an:v:1} or {'an:n:hyp,nolink}</column>
       <column name="examples">
@@ -3257,15 +3257,15 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/YogSytvb8cc} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/YogSytvb8cc} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é direcionado a uma pessoa. Ao falar com várias pessoas, diga {peqIm!:sen:nolink}.
+
+Uma resposta apropriada para isso é {nuqneH:excl} "O que você quer?"
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/YogSytvb8cc} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on suunnattu yhdelle henkilölle. Kun puhut useille ihmisille, sano sen sijaan {peqIm!:sen:nolink}.
 
 Sopiva vastaus tähän on {nuqneH:excl} "Mitä haluat?"
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/YogSytvb8cc} [AUTOTRANSLATED]</column>
-
-Uma resposta apropriada para isso é {nuqneH:excl} "O que você quer?"
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/YogSytvb8cc} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4018,11 +4018,11 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUTOTRAN
 
 觀看Gowron這樣說：{YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado ao se dirigir a uma única pessoa. Para se dirigir a várias pessoas, diga {peratlh!:sen@@pe-:v, ratlh:v}
+
+Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä käytetään puhuttaessa yksittäiseen henkilöön. Jos haluat puhua useille ihmisille, sano {peratlh!:sen@@pe-:v, ratlh:v}
 
 Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUTOTRANSLATED]</column>
-
-Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yI-:v}, {ratlh:v}</column>
       <column name="examples"></column>
@@ -4468,9 +4468,9 @@ I {TNK:src} används detta ord för att översätta "skjorta", och {yIvbeH SeQHa
 
 在{TNK:src}中，此詞用於翻譯“ shirt”，而{yIvbeH SeQHa':n:nolink}用於“ T-shirt”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra originalmente se referia a uma vestimenta sem mangas (ver {yIvbeH:n:2}).
-<column name="notes_fi">TRANSLATE</column>
 
 Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:nolink} é usada para "T-shirt". [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7227,11 +7227,11 @@ Verbetet {naQmoH:v@@naQ:v, -moH:v} används för att fylla i formulär. [AUTOTRA
 
 動詞{naQmoH:v@@naQ:v, -moH:v}用於填寫表格。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Não há diferença entre um formulário em papel ou um formulário digital na tela do computador.
+
+O verbo {naQmoH:v@@naQ:v, -moH:v} é usado para preencher formulários. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Paperilomakkeen tai digitaalisen lomakkeen välillä ei ole eroa tietokoneen näytöllä.
 
 Verbiä {naQmoH:v@@naQ:v, -moH:v} käytetään lomakkeiden täyttämiseen. [AUTOTRANSLATED]</column>
-
-O verbo {naQmoH:v@@naQ:v, -moH:v} é usado para preencher formulários. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Questionnaire" (see {yu':v}, {muD:n:1}).</column>
       <column name="components"></column>
       <column name="examples"></column>

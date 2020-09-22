@@ -729,12 +729,12 @@ Detta ord har inte känslan av "god" som används i en hälsning, till exempel "
 Это слово не имеет смысл "добрый"(или "хороший") который используется в поздравлении или пожелании, такой как "доброе утро" или "доброй ночи". Есть идиоматическое выражение в Клингонском языке, {maj ram:sen:nolink}, которое используется на манер "доброй ночи". Дословно это значит что-то типа "Хорошо!!!Сейчас ночь".[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta é uma exclamação que expressa satisfação. Para ver o verbo (ou adjetivo) que significa "ser bom", consulte {QaQ:v}.
+
+Essa palavra não tem o sentido de "bom" quando usada em uma saudação, como "bom dia" ou "boa noite". Embora haja uma expressão idiomática em Klingon, {maj ram:sen:nolink}, que é usada de maneira semelhante a "boa noite", na verdade significa algo como "Bom, (é) noite" .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on huutomerkki, joka ilmaisee tyytyväisyyden. Katso verbi (tai adjektiivi), joka tarkoittaa "olla hyvä", katso {QaQ:v}.
 
 Tällä sanalla ei ole sanaa "hyvä", jota käytetään tervehdyksessä, kuten "hyvää huomenta" tai "hyvää yötä". Vaikka Klingonissa on idiomaattinen ilmaisu {maj ram:sen:nolink}, jota käytetään samalla tavalla kuin "hyvää yötä", se tarkoittaa itse asiassa jotain "hyvää, (se on) yötä".[2] [AUTOTRANSLATED]</column>
-
-Essa palavra não tem o sentido de "bom" quando usada em uma saudação, como "bom dia" ou "boa noite". Embora haja uma expressão idiomática em Klingon, {maj ram:sen:nolink}, que é usada de maneira semelhante a "boa noite", na verdade significa algo como "Bom, (é) noite" .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In {TNK:src}, "Good morning" is given as {maj po:excl:nolink}, "Good afternoon" as {maj pov:excl:nolink}, and "Good evening" as {maj choS:excl:nolink}. In {DS9 - The Sword of Kahless:src}, Jadzia Dax and Kor said {maj ram:excl:nolink} to each other as she headed for bed.
 
 The writers who came up with this apparently looked up words for "good" and "night" and strung them together without regard for grammar or meaning.</column>
@@ -3716,11 +3716,11 @@ It's unclear what sense of "fair" is meant by this word.</column>
 
 {meHghem:n:nolink}是一個更大，更全面的術語，涵蓋了“藝術”或“藝術”，而不是“科學”。它包括音樂，戲劇，舞蹈等，以及視覺藝術。從這個意義上說，它是“文化”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Não existe uma palavra única para "arte" ou "obra de arte", no sentido de peças individuais de arte visual (pintura, escultura, etc.).
+
+{meHghem:n:nolink} é um termo maior e mais abrangente que abrange "as artes" ou "arte" em oposição a "ciência". Inclui música, teatro, dança, etc., bem como artes visuais. É "cultura" nesse sentido. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Ei ole olemassa yhtä sanaa "taide" tai "taideteos" kuvataiteen yksittäisten kappaleiden (maalaus, veistos jne.) Merkityksessä.
 
 {meHghem:n:nolink} on isompi, kattavampi termi, joka kattaa "taiteen" tai "taiteen", toisin kuin "tiede". Se sisältää musiikkia, teatteria, tanssia jne. Sekä kuvataidetta. Se on "kulttuuri" tässä mielessä. [AUTOTRANSLATED]</column>
-
-{meHghem:n:nolink} é um termo maior e mais abrangente que abrange "as artes" ou "arte" em oposição a "ciência". Inclui música, teatro, dança, etc., bem como artes visuais. É "cultura" nesse sentido. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The fact that there is no single word for "art" or "artwork" is stated on {KGT p.79:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3831,15 +3831,15 @@ För att uttrycka att du lämnar en person eller ett objekt (snarare än en plat
 
 要表示要離開人或物體（而不是位置），請考慮{lon:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em {TNK:src}, {DaH jImej:sen:nolink} é usado para a expressão terráquea "adeus" .[2] Isso significa literalmente "Estou saindo agora". Um Klingon, é claro, acabaria de sair, sem sutilezas supérfluas, como declarar sua intenção de fazê-lo.
+
+Embora {mej:v:nolink} se refira simplesmente a deixar a localização atual, {tlheD:v} geralmente implica sair em uma jornada, com um objetivo ou destino em mente. Nos dois casos, o objeto é o local de onde você sai ou sai.[4]
+
+Para expressar a saída de uma pessoa ou objeto (em vez de um local), considere {lon:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Kohdassa {TNK:src} {DaH jImej:sen:nolink}-tekstiä käytetään Terran-ilmaisulle "hyvästi" .[2] Tämä tarkoittaa kirjaimellisesti "Lähden nyt". Klingon tietysti vain lähti, ilman tarpeettomia herkkuja, kuten ilmoittamalla aikomuksestaan ​​tehdä niin.
 
 Vaikka {mej:v:nolink} viittaa yksinkertaisesti nykyisen sijaintinsa jättämiseen, {tlheD:v} tarkoittaa yleensä matkalle lähtöä tavoitetta tai määränpäätä ajatellen. Molemmissa tapauksissa esine on paikka, josta poistut tai jolta poistut.[4]
 
 Harkitse {lon:v}, jos haluat ilmaista henkilön tai esineen (eikä sijainnin) jättämisen. [AUTOTRANSLATED]</column>
-
-Embora {mej:v:nolink} se refira simplesmente a deixar a localização atual, {tlheD:v} geralmente implica sair em uma jornada, com um objetivo ou destino em mente. Nos dois casos, o objeto é o local de onde você sai ou sai.[4]
-
-Para expressar a saída de uma pessoa ou objeto (em vez de um local), considere {lon:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5097,12 +5097,12 @@ Detta ord kan också hänvisa till "diamant" -dräkten i ett kortlek med spelkor
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este é tecnicamente um {letbaQ HoS:n@@letbaQ:n, HoS:v}.
+
+Esta palavra também pode se referir ao naipe de "diamante" em um baralho de cartas (consulte {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on teknisesti {letbaQ HoS:n@@letbaQ:n, HoS:v}.
 
 Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
-
-Esta palavra também pode se referir ao naipe de "diamante" em um baralho de cartas (consulte {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6761,11 +6761,11 @@ Se {mIvDaq pogh cha':sen} för ett formspråk som involverar {mIv:n:nolink}. [AU
 
 有關{mIv:n:nolink}的成語，請參見{mIvDaq pogh cha':sen}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em {TNK:src}, {mIv:n:1,nolink} é usado para "chapéu".
+
+Veja {mIvDaq pogh cha':sen} para um idioma envolvendo {mIv:n:nolink}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">{TNK:src}: ssä {mIv:n:1,nolink}: ta käytetään "hattuun".
 
 Katso kohdasta {mIvDaq pogh cha':sen} idioomi, johon liittyy {mIv:n:nolink}. [AUTOTRANSLATED]</column>
-
-Veja {mIvDaq pogh cha':sen} para um idioma envolvendo {mIv:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6863,11 +6863,11 @@ Detta formspråk har sitt ursprung i {HenrI' vagh:n:name}, ett spel av {wIlyam S
 
 這個成語起源於{wIlyam SeQpIr:n:name}的一部劇集《 {HenrI' vagh:n:name}》。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta expressão significa literalmente "exibir uma luva no capacete" e é usada para transmitir a ideia de que um assunto foi adiado ou remarcado. A frase assume várias formas, conforme apropriado para as partes no compromisso. Por exemplo, {mIvwIjDaq poghlIj vIcha':sen:nolink} "Eu exibo sua luva em meu capacete" implica que o assunto adiado é entre o falante e o destinatário.
+
+Este idioma tem sua origem em {HenrI' vagh:n:name}, uma peça de {wIlyam SeQpIr:n:name}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä ilmaisu tarkoittaa kirjaimellisesti "näyttää hansikas kypärässä", ja sitä käytetään ajatuksen antamiseen siitä, että asiaa on lykätty tai se on siirretty uudelleen. Lausekkeella on useita muotoja, kuten sitoumuksen osapuolet sopivat. Esimerkiksi {mIvwIjDaq poghlIj vIcha':sen:nolink} "Näytän hansikkaasi kypärässäni" tarkoittaa, että lykätty asia on puhujan ja vastaanottajan välillä.
 
 Tämän sanaston alkuperä on {HenrI' vagh:n:name}, {wIlyam SeQpIr:n:name}: n näytelmä. [AUTOTRANSLATED]</column>
-
-Este idioma tem sua origem em {HenrI' vagh:n:name}, uma peça de {wIlyam SeQpIr:n:name}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7367,9 +7367,9 @@ Verbetet {'al:v:2} används för slumpmässiga nummer ({mI' 'al:n}). [AUTOTRANSL
 
 動詞{'al:v:2}用於隨機數（{mI' 'al:n}）。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Em {Klingon Monopoly:src}, {mI' naghmey:n:nolink} se refere aos dados de jogo. O verbo {ronmoH:v@@ron:v:1, -moH:v} é usado para a ação de lançar ou rolar os dados.
-<column name="notes_fi">TRANSLATE</column>
 
 O verbo {'al:v:2} é usado para números aleatórios ({mI' 'al:n}). [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
           <column name="hidden_notes"></column>
           <column name="components">{mI':n}, {nagh:n}</column>
           <column name="examples">
@@ -8374,11 +8374,11 @@ Det finns fem typer av substantivsuffix och nio typer av verbsuffikser i Klingon
 
 在克林崗語中，名詞後綴有五種，動詞後綴有九種，分別參見{DIp:n}和{wot:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra também pode ser escrita {mojaQ:n:nolink}.
+
+Existem cinco tipos de sufixos nominais e nove tipos de sufixos verbais em Klingon, para os quais ver {DIp:n} e {wot:n}, respectivamente. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä sana voidaan myös kirjoittaa {mojaQ:n:nolink}.
 
 Klingonissa on viiden tyyppisiä substantiiviliitteitä ja yhdeksän tyyppisiä verbiliitteitä, joista ks. {DIp:n} ja {wot:n}. [AUTOTRANSLATED]</column>
-
-Existem cinco tipos de sufixos nominais e nove tipos de sufixos verbais em Klingon, para os quais ver {DIp:n} e {wot:n}, respectivamente. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8617,9 +8617,9 @@ Det finns ett formspråk, {mIgh; molor rur@@mIgh:v, molor:n, rur:v}. [AUTOTRANSL
 
 有一個成語，{mIgh; molor rur@@mIgh:v, molor:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o tirano maligno ({HI''a':n}) derrotado por {qeylIS'e' lIjlaHbe'bogh vay':n:name}, como recontado no {paq'batlh:n}.
-<column name="notes_fi">TRANSLATE</column>
 
 Existe um idioma, {mIgh; molor rur@@mIgh:v, molor:n, rur:v}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9024,11 +9024,11 @@ Observera att verbet som används för ett hjärtslag är {joq:v}. [AUTOTRANSLAT
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso é usado para sinalizar o início de um duelo.[1, p.68]
-<column name="notes_fi">TRANSLATE</column>
 
 Também é usado para bater {'In:n} (compare com {tlhaw':v} e {weq:v}) .[1, p.75]
 
 Observe que o verbo usado para uma pulsação é {joq:v}. [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10087,12 +10087,12 @@ Detta verb används också i musik ({much:v:2}) och kampsport ({much:v:3}). [AUT
 
 此動詞還用於音樂（{much:v:2}）和武術（{much:v:3}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em um contexto geral, esta palavra significa "apresentar", como em "apresentar um presente" a alguém.[2]
+
+Este verbo também é usado em música ({much:v:2}) e artes marciais ({much:v:3}). [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Yleisesti ottaen tämä sana tarkoittaa "esittämistä", kuten "lahjan esittäminen" jollekin.
 
 Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({much:v:3}).[2] [AUTOTRANSLATED]</column>
-
-Este verbo também é usado em música ({much:v:2}) e artes marciais ({much:v:3}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11776,15 +11776,15 @@ När den appliceras på {tlhIm:n}, betyder {mutlh:v:nolink} att montera mattan. 
 
 當應用於{tlhIm:n}時，{mutlh:v:nolink}意味著組裝地毯。鋪地毯的動詞是{vel:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">UM {mutlhwI':n:nolink} é uma pessoa que monta as coisas.
+
+Uma pessoa que conserta coisas é um {tI'wI':n}. A maioria dos {mutlhwI'pu':n:nolink} também são {tI'wI'pu':n:nolink}.
+
+Quando aplicado ao {tlhIm:n}, {mutlh:v:nolink} significa montar o carpete. O verbo para colocar um tapete é {vel:v}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">{mutlhwI':n:nolink} on henkilö, joka kokoaa asioita yhteen.
 
 Henkilö, joka korjaa asioita, on {tI'wI':n}. Useimmat {mutlhwI'pu':n:nolink} ovat myös {tI'wI'pu':n:nolink}.
 
 Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoamista. Verbi maton asettamisesta on {vel:v}. [AUTOTRANSLATED]</column>
-
-Uma pessoa que conserta coisas é um {tI'wI':n}. A maioria dos {mutlhwI'pu':n:nolink} também são {tI'wI'pu':n:nolink}.
-
-Quando aplicado ao {tlhIm:n}, {mutlh:v:nolink} significa montar o carpete. O verbo para colocar um tapete é {vel:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The original definition given on the {KLI mailing list:src} was "construct, assemble, put together". This word was also defined as "manufacture, construct, put together" in the {Saarbrücken qepHom'a' 2016:src} booklet.</column>
       <column name="components"></column>
       <column name="examples">

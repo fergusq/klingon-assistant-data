@@ -681,12 +681,12 @@ Detta verb kan också användas för att uttrycka begreppet att två saker har s
 Этот глагол также может использоваться, чтобы выразить идею, что две вещи находятся в одинаковом количестве или имеют одинаковое качество. Глагол {nIb:v} использован похожим образом, но обычно он используется в качестве измерения и имеет оттенок точности. Тем не менее, он не является неподходящим для использования {rap:v:nolink} в качестве измерения. Смотрите примеры ниже.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O assunto de {rap:v:nolink} são as coisas que são iguais.[2]
+
+Este verbo também pode ser usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade. O verbo {nIb:v} é usado de maneira semelhante, mas geralmente é usado com qualidades mensuráveis ​​e tem a conotação de precisão. No entanto, não é impróprio usar {rap:v:nolink} com uma qualidade mensurável. Veja os exemplos abaixo.[3] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{rap:v:nolink}-aihe on sama asia
 
 Tätä verbiä voidaan käyttää myös ilmaisemaan käsite, että kahdella asialla on sama määrä tiettyä laatua. Verbiä {nIb:v} käytetään samalla tavalla, mutta sitä käytetään yleensä mitattavissa olevilla ominaisuuksilla ja sillä on tarkkuus. Ei ole kuitenkaan väärin käyttää {rap:v:nolink} -laitetta mitattavalla laadulla. Katso alla olevat esimerkit.[3][2] [AUTOTRANSLATED]</column>
-
-Este verbo também pode ser usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade. O verbo {nIb:v} é usado de maneira semelhante, mas geralmente é usado com qualidades mensuráveis ​​e tem a conotação de precisão. No entanto, não é impróprio usar {rap:v:nolink} com uma qualidade mensurável. Veja os exemplos abaixo.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Compare with {jaS:adv}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -1306,11 +1306,11 @@ Det finns ett Klingon-formspråk, {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUT
 
 有一個克林崗語慣用語{'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que cada piso, ou nível, em uma embarcação é denominado {choQ:n} (convés).
+
+Existe um idioma Klingon, {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRANSLATED]</column>
 <column name="notes_fi">Huomaa, että aluksen jokaista kerrosta tai tasoa kutsutaan {choQ:n} (kanneksi).
 
 On olemassa klingonin idioomi {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRANSLATED]</column>
-
-Existe um idioma Klingon, {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1541,12 +1541,12 @@ Det första elementet i detta ord är {rav:n:1} "golv", men det andra elementet 
 Первый элемент этого слова - {rav:n:1} «этаж», но второй элемент не имеет отношения к {'eq:v} «быть раньше» .[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Refere-se ao teto ({'aqroS:n:1}) de uma sala que tem uma sala acima dela. O teto de uma sala que está no topo (ou apenas) da história de uma estrutura é chamado de {pa' beb:n}.[2]
+
+O primeiro elemento desta palavra é {rav:n:1} "chão", mas o segundo elemento não está relacionado com {'eq:v} "seja antecipado" .[1] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä viittaa huoneen kattoon ({'aqroS:n:1}), jonka yläpuolella on huone. Rakennuksen ylimmässä (tai ainoassa) tarinassa olevan huoneen kattoa kutsutaan sen {pa' beb:n}.[2]
 
 Tämän sanan ensimmäinen osa on {rav:n:1} "lattia", mutta toinen osa ei liity {'eq:v} "ole varhainen" -kohtaan.[1] [AUTOTRANSLATED]</column>
-
-O primeiro elemento desta palavra é {rav:n:1} "chão", mas o segundo elemento não está relacionado com {'eq:v} "seja antecipado" .[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2113,12 +2113,12 @@ För andra polygoner med lika sidor / vinklar används {HoS:v} istället för {t
 
 對於具有相同邊/角的其他多邊形，使用{HoS:v}代替{tIQ:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um triângulo onde cada ângulo interno é 40,5 {lawmey:n:nolink} ou 60 {lawrI'mey:n:nolink}. (Consulte {law:n} e {lawrI':n}.)
+
+Para outros polígonos com lados / ângulos iguais, {HoS:v} é usado em vez de {tIQ:v:nolink}.[2] [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämä on kolmio, jossa kukin sisäkulma on 40,5 {lawmey:n:nolink} tai 60 {lawrI'mey:n:nolink}. (Katso {law:n} ja {lawrI':n}.)
 
 Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käytetään {tIQ:v:nolink}: n sijaan.[2] [AUTOTRANSLATED]</column>
-
-Para outros polígonos com lados / ângulos iguais, {HoS:v} é usado em vez de {tIQ:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ra'Duch:n}, {tIQ:v}</column>
       <column name="examples"></column>
@@ -4178,15 +4178,15 @@ Det enda sättet Maltz var medveten om att hänvisa till benbenet är {reStav Ho
 
 Maltz唯一知道提到脛骨的方法是{reStav Hom:n@@reStav:n, Hom:n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se for necessário fazer uma distinção entre canela e antebraço, esta palavra pode ser precedida por {'uS:n} ou {DeS:n:1}.
+
+Refere-se à parte anterior da perna, enquanto toda a parte inferior da perna seria {'uS cha'neH:n@@'uS:n, cha'neH:n}.
+
+A única maneira que Maltz conhecia de se referir à tíbia é o {reStav Hom:n@@reStav:n, Hom:n:1}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Jos on tarpeen tehdä ero säären ja käsivarren välillä, tätä sanaa voi edeltää {'uS:n} tai {DeS:n:1}.
 
 Tämä viittaa säären etuosaan, kun taas koko jalan alaosa olisi {'uS cha'neH:n@@'uS:n, cha'neH:n}.
 
 Ainoa tapa, jolla Maltz tiesi viittaavan sääriluuhun, on {reStav Hom:n@@reStav:n, Hom:n:1}. [AUTOTRANSLATED]</column>
-
-Refere-se à parte anterior da perna, enquanto toda a parte inferior da perna seria {'uS cha'neH:n@@'uS:n, cha'neH:n}.
-
-A única maneira que Maltz conhecia de se referir à tíbia é o {reStav Hom:n@@reStav:n, Hom:n:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Hebrew letter "shin" comes between the letters "resh" and "tav".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5080,11 +5080,11 @@ Den reflexiva formen av detta verb har en speciell betydelse. Se exemplet nedan 
 
 該動詞的反身形式具有特殊含義。請參閱下面的示例，以及在{SIq:v}下的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada por crianças pequenas ou por adultos conversando com ou sobre crianças pequenas. Os adultos geralmente usam {Sen:v:1} em vez disso.
+
+A forma reflexiva deste verbo tem um significado especial. Veja o exemplo abaixo e em {SIq:v} para uma explicação. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tätä sanaa käyttävät pienet lapset tai aikuiset, jotka puhuvat pienille lapsille tai puhuvat niistä. Aikuiset käyttävät yleensä {Sen:v:1}: ää.
 
 Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys alla olevasta esimerkistä ja kohdasta {SIq:v}. [AUTOTRANSLATED]</column>
-
-A forma reflexiva deste verbo tem um significado especial. Veja o exemplo abaixo e em {SIq:v} para uma explicação. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to the nursery rhyme "Little Jack Horner" (see {rIl:v:2}).</column>
       <column name="components"></column>
       <column name="examples">
@@ -5271,11 +5271,11 @@ Detta verb används med suffixet {-taH:v} för att bilda {rIntaH:v}, en konstruk
 
 該動詞與後綴{-taH:v}一起使用以形成{rIntaH:v}，這是一種用於指示終結性的結構（請參見後綴{-ta':v}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Por si só, {rIn:v:nolink} é usado em transmissões de rádio para indicar o fim da transmissão, semelhante a "encerrado".
+
+Este verbo é usado com o sufixo {-taH:v} para formar {rIntaH:v}, uma construção usada para indicar finalidade (cf. o sufixo {-ta':v}). [AUTOTRANSLATED]</column>
 <column name="notes_fi">Itse asiassa {rIn:v:nolink}: tä käytetään radiolähetyksissä osoittamaan lähetyksen loppu, samanlainen kuin "yli".
 
 Tätä verbiä käytetään loppuliitteen {-taH:v} kanssa muodostaen {rIntaH:v}, rakenteen, jota käytetään osoittamaan lopullisuutta (vrt. Loppuliite {-ta':v}). [AUTOTRANSLATED]</column>
-
-Este verbo é usado com o sufixo {-taH:v} para formar {rIntaH:v}, uma construção usada para indicar finalidade (cf. o sufixo {-ta':v}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5632,9 +5632,9 @@ Detta avser även bläck, som för en gummistämpel ({toqwIn:n}) .[2] [AUTOTRANS
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Não há substantivo em Klingon que significa "cor" .[1, p.81]
-<column name="notes_fi">TRANSLATE</column>
 
 Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .[2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">"Ritz" is a brand of paint or dye.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7124,15 +7124,15 @@ Detta verb kan tillämpas på flygplan, för vilka se {ron:v:2}. [AUTOTRANSLATED
 
 此動詞可以應用於飛機，請參見{ron:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">No contexto de jogar dados, esta palavra se refere à ação dos dados enquanto eles estão rolando. (Para "lançar" ou "rolar" os dados seria {ronmoH:v:nolink}.) [1]
+
+Quando aplicado a uma pessoa, significa que a pessoa está rolando ao acaso. Dar uma cambalhota é {Hay:v} e rolar colina abaixo (como um tronco) é {tetlh:v}.[2]
+
+Este verbo pode ser aplicado a aeronaves, para as quais consulte {ron:v:2}. [AUTOTRANSLATED]</column>
 <column name="notes_fi">Noppien pelaamisen yhteydessä tämä sana viittaa noppien toimintaan heidän pyörittäessään. (Noppien "heittäminen" tai "heittäminen" olisi {ronmoH:v:nolink}.) [1]
 
 Kun sitä käytetään henkilöön, se tarkoittaa, että henkilö liikkuu sattumanvaraisesti. Kummersuolen suorittaminen on {Hay:v}, ja mäkeä alas vierittäminen (kuten loki) on {tetlh:v}.[2]
 
 Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANSLATED]</column>
-
-Quando aplicado a uma pessoa, significa que a pessoa está rolando ao acaso. Dar uma cambalhota é {Hay:v} e rolar colina abaixo (como um tronco) é {tetlh:v}.[2]
-
-Este verbo pode ser aplicado a aeronaves, para as quais consulte {ron:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -7620,9 +7620,9 @@ En "fet bok" skulle vara en {paq qargh:n@@paq:n:1, qargh:v}, såvida inte boken 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso implica volume devido à gordura corporal ou algo semelhante, enquanto {pI':v} não tem essa conotação. Ambos podem ser usados ​​para expressar "não magro", mas {ror:v:nolink} é mais apropriado para expressar "não magro". Quando este verbo é usado para descrever um objeto inanimado, geralmente ocorre um pouco de antropomorfização, comparando o objeto a uma pessoa ou a um animal.[2]
-<column name="notes_fi">TRANSLATE</column>
 
 Um "livro gordo" seria um {paq qargh:n@@paq:n:1, qargh:v}, a menos que o livro ganhe vida como um personagem de desenho animado ou algo parecido. (Nesse caso, o sufixo plural {-pu':n:suff} também pode ser esperado.) [2] [AUTOTRANSLATED]</column>
+<column name="notes_fi">TRANSLATE</column>
       <column name="hidden_notes">This was defined as just "be fat" in {TKD:src}. The clarification was added at {Saarbrücken qepHom'a' 2019:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
