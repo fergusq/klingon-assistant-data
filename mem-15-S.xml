@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {S:sen:nolink}</column>
       <column name="definition_zh_HK">輔音{S:sen:nolink}</column>
       <column name="definition_pt">a consoante {S:sen:nolink}</column>
-<column name="definition_fi">the consonant {S:sen:nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">konsonantti {S:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -52,7 +52,7 @@
       <column name="definition_ru">Я-ты (множественное число) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我：你們</column>
       <column name="definition_pt">Eu-vocês</column>
-<column name="definition_fi">Minä-sinä (monikko) [AUTOTRANSLATED]</column>
+<column name="definition_fi">minä-teitä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tu-:v:pref}</column>
       <column name="see_also">{re-:v:pref}, {qa-:v:pref}</column>
@@ -96,7 +96,7 @@
       <column name="definition_ru">рифмуется с [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">與韻 [AUTOTRANSLATED]</column>
       <column name="definition_pt">rimar com</column>
-<column name="definition_fi">rhyme with [AUTOTRANSLATED]</column>
+<column name="definition_fi">rimmata jonkin kanssa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pa'jaH:n}, {ghuQ:n}</column>
@@ -142,7 +142,7 @@
       <column name="definition_ru">снижаться, ухудшаться [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">衰退、惡化 [AUTOTRANSLATED]</column>
       <column name="definition_pt">declinar, deteriorar</column>
-<column name="definition_fi">lasku, heikkenee [AUTOTRANSLATED]</column>
+<column name="definition_fi">heikentyä, huonontua</column>
       <column name="synonyms">{'argh:v}</column>
       <column name="antonyms">{Dub:v}</column>
       <column name="see_also">{Qop:v:1}, {ragh:v}, {ngaw:v}</column>
@@ -185,7 +185,7 @@
       <column name="definition_ru">расширять [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">擴大、擴展</column>
       <column name="definition_pt">expandir</column>
-<column name="definition_fi">laajentaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">laajeta, levitä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Dej:v}</column>
       <column name="see_also">{Sach:v:2}, {Sev:v}, {ngaS:v}, {tInmoH:v}</column>
