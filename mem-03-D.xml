@@ -3834,7 +3834,7 @@ Este verbo pode ser aplicado a aeronaves, para as quais consulte {Der:v:2}. [1] 
       <column name="definition_ru">рыскание (нос самолета указывает влево или вправо) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">平擺</column>
       <column name="definition_pt">guinada (nariz da aeronave aponta para a esquerda ou direita)</column>
-<column name="definition_fi">kääntyä (aluksen nokka liikkuu vasemmalle tai oikealle)</column>
+<column name="definition_fi">kääntyä (lentokoneen kääntyminen pystyakselin suhteen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dav:v:2}, {jer:v}, {jIm:v:2}, {lol:v:2}, {ron:v:2}, {tor:v:2}, {'or:v}</column>

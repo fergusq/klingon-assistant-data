@@ -9275,7 +9275,7 @@ Para usar tal carimbo, deve-se primeiro cobri-lo ({laS:v}) com uma almofada de t
       <column name="definition_ru">pitch (aircraft tilts nose up or down) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">俯仰（飛機向上或向下傾斜） [AUTOTRANSLATED]</column>
       <column name="definition_pt">arremesso (a aeronave inclina o nariz para cima ou para baixo)</column>
-<column name="definition_fi">pitch (aircraft tilts nose up or down) [AUTOTRANSLATED]</column>
+<column name="definition_fi">nyökätä (lentokoneen kääntyminen poikkiakselin suhteen) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dav:v:2}, {Der:v:2}, {jer:v}, {jIm:v:2}, {lol:v:2}, {ron:v:2}, {'or:v}</column>
