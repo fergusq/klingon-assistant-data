@@ -2457,7 +2457,7 @@ Jokaiselle {QeD:n:nolink}: lle on vastaava {tej:n}.{HapQeD:n}{HolQeD:n}{HovQeD:n
       <column name="definition_ru">научная система [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">科學系統 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estação de ciências</column>
-<column name="definition_fi">tiedeasema (aluksella)</column>
+<column name="definition_fi">tiedejärjestelmä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{noch pat:n}</column>
