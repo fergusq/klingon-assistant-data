@@ -11251,7 +11251,7 @@ Tätä voidaan käyttää myös kynttilän puhaltamiseen ({weQ:n}). Toisin kuin 
       <column name="definition_ru">приподнятый профиль, гребни, рисунок, рельеф [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">凸起的輪廓、脊、圖案、浮雕 [AUTOTRANSLATED]</column>
       <column name="definition_pt">perfil elevado, cristas, padrão, relevo</column>
-<column name="definition_fi">kohokuvio, epätasaisuus, kaiverrus</column>
+<column name="definition_fi">kohokuvio, epätasaisuus, kaiverrus, harju</column>
       <column name="synonyms">{ghul:n}</column>
       <column name="antonyms">{retlaw:n}</column>
       <column name="see_also">{taw':v}</column>

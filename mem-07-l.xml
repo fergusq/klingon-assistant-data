@@ -7694,7 +7694,7 @@ Joillakin verbiliitteillä on tarkka merkitys käytettäessä tätä verbiä, ku
       <column name="definition_ru">племянник племянница [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">侄子侄女 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sobrinho, sobrinha</column>
-<column name="definition_fi">(miehen sisaren lapsi) sisarenpoika, sisarentytär; (naisen veljen lapsi) veljenpoika, veljentytär</column>
+<column name="definition_fi">sisarenpoika tai sisarentytär (miehen sisaren lapsi); veljenpoika tai veljentytär (naisen veljen lapsi)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lor:n:1}, {tey':n:2}</column>

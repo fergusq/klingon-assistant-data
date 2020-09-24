@@ -52,7 +52,7 @@
       <column name="definition_ru">укреплять, подбадривать, поддерживать, давать силы, строить укрепление, усиливать</column>
       <column name="definition_zh_HK">振奮、強化、加強 [AUTOTRANSLATED]</column>
       <column name="definition_pt">revigorar, fortificar, fortalecer</column>
-<column name="definition_fi">virkistää, vahvistaa, voimistaa, lujittaa</column>
+<column name="definition_fi">virkistää, voimistaa, vahvistaa, lujittaa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'argh:v}</column>
       <column name="see_also">{Qorgh:v}, {rachwI':n}, {HoSmoH:v}</column>
@@ -6830,7 +6830,7 @@ Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .
       <column name="definition_ru">соглашение, договоренность</column>
       <column name="definition_zh_HK">符合 [AUTOTRANSLATED]</column>
       <column name="definition_pt">concordância</column>
-<column name="definition_fi">sopu, yhteisymmärrys, sopimus</column>
+<column name="definition_fi">sopu, yhteisymmärrys, sopimus; kongruenssi (kielitiede)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qI':v:1}</column>
