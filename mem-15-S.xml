@@ -1632,7 +1632,7 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="definition_ru">разнообразие [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">品種 [AUTOTRANSLATED]</column>
       <column name="definition_pt">variedade</column>
-<column name="definition_fi">laji, tyyppi, lajike</column>
+<column name="definition_fi">muunnelma</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sar:v}, {Segh:n}, {tlhoQ:n}</column>
@@ -2660,7 +2660,7 @@ This word appears only in the body of {KGT:src} and not in the glossary.</column
       <column name="definition_ru">раса (тип, сортировка, класс) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">種族（類型、排序、類） [AUTOTRANSLATED]</column>
       <column name="definition_pt">raça (tipo, classificação, classe)</column>
-<column name="definition_fi">rotu, lajike, laji, tyyppi, luokka</column>
+<column name="definition_fi">laji, tyyppi, luokka, rotu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mut:n}, {buv:n}, {yagh:n}, {chovnatlh:n}, {Sar:n}</column>
