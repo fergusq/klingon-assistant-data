@@ -803,7 +803,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYM
       <column name="definition_ru">любовь, тот, кого любят</column>
       <column name="definition_zh_HK">情人</column>
       <column name="definition_pt">amado, amada, quem é amado</column>
-<column name="definition_fi">rakkaus, rakas</column>
+<column name="definition_fi">rakas</column>
       <column name="synonyms">{parmaqqay:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1407,35 +1407,21 @@ In Japanese, "baka" means "fool" or "idiot".</column>
 ▶ {'uSqan:n}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<column name="notes_fi">Metallien (ja metalliyhdisteiden) tunnettuja sanoja ovat:
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
-▶ KÄÄNTÄMINEN 9
-▶ KÄÄNNÖTTÖ10
-▶ KÄÄNTÄMINEN 11
-▶ KÄÄNTÄMINEN 12
-▶ KÄÄNTÄMINEN13
-▶ KÄÄNTÖ14{bettI':n}{ghav 'uSqan:n}{jey':n}{jey' Sorpuq:n}{letbIng:n}{ngIDvoS:n}{qol'om:n}{SIrlIy:n}{Sorpuq:n}{velSo':n}{velSo' 'uSqan:n}{yuHSIQ:n}{'apraQ:n}{'uSqan:n} [AUTOTRANSLATED]</column>
+<column name="notes_fi">Tunnettuja sanoja metalleille ovat:
+▶ {bettI':n}
+▶ {ghav 'uSqan:n}
+▶ {jey':n}
+▶ {jey' Sorpuq:n}
+▶ {letbIng:n}
+▶ {ngIDvoS:n}
+▶ {qol'om:n}
+▶ {SIrlIy:n}
+▶ {Sorpuq:n}
+▶ {velSo':n}
+▶ {velSo' 'uSqan:n}
+▶ {yuHSIQ:n}
+▶ {'apraQ:n}
+▶ {'uSqan:n}</column>
       <column name="hidden_notes">Something you "bash", or "base" metal. See {baS 'In:n}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2205,7 +2191,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_ru">Одиночка не достигнет чести, пока действует бесчестно.</column>
       <column name="definition_zh_HK">一個人在不光彩的行為中沒有獲得榮譽。</column>
       <column name="definition_pt">Não se conquista honra ao agir de forma desonrosa.</column>
-<column name="definition_fi">Kunniaa ei saada toimimalla epärehellisesti.</column>
+<column name="definition_fi">Kunniaa ei saa toimimalla epärehellisesti.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3152,7 +3138,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_ru">Сердить, быть неприятным, разочаровывать</column>
       <column name="definition_zh_HK">失望 、辜負</column>
       <column name="definition_pt">desagradar, decepcionar</column>
-<column name="definition_fi">olla tyytymätön, pettymys [AUTOTRANSLATED]</column>
+<column name="definition_fi">herättää tyytymättömyyttä jossakussa, tuottaa pettymys jollekulle</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{belHa':v}</column>
@@ -3326,7 +3312,7 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="definition_ru">лет</column>
       <column name="definition_zh_HK">歲</column>
       <column name="definition_pt">anos de idade</column>
-<column name="definition_fi">vuotta vanha</column>
+<column name="definition_fi">... vuotta vanha</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bogh:v}, {ben:n:1}, {qan:v:1}, {Qup:v}</column>
@@ -3465,7 +3451,7 @@ Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...
       <column name="definition_ru">экипаж, член экипажа</column>
       <column name="definition_zh_HK">船員</column>
       <column name="definition_pt">tripulação</column>
-<column name="definition_fi">miehistö, miehistön jäsen</column>
+<column name="definition_fi">matruusi, miehistön jäsen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3508,7 +3494,7 @@ Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...
       <column name="definition_ru">Сержантский член экипажа</column>
       <column name="definition_zh_HK">船員宿舍</column>
       <column name="definition_pt">quartos de tripulação não comissionados</column>
-<column name="definition_fi">alipäällystön tilat</column>
+<column name="definition_fi">alipäällystön tilat?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pa'mey:n:hyp}</column>
@@ -3637,7 +3623,7 @@ Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...
       <column name="definition_ru">быть раздражительным, быть раздраженным</column>
       <column name="definition_zh_HK">煩躁、心躁、火起</column>
       <column name="definition_pt">ser irritado, ser irritável</column>
-<column name="definition_fi">olla ärtynyt</column>
+<column name="definition_fi">olla ärtyisä, olla ärtynyt</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIt:v}, {jot:v:1}, {jotHa':v}, {nuQ:v}, {puQ:v}, {mogh:v}</column>
