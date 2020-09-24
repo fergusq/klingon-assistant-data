@@ -4535,7 +4535,7 @@ Ibland används {'e':n:pro} med {-lu':v} istället för {net:n:pro,nolink}. Det 
       <column name="definition_ru">тип кастрюли с ручками (используется для приготовления пищи) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">有帶把手的鍋類型（用於食物準備）</column>
       <column name="definition_pt">tipo de panela com alças (usada para preparação de alimentos)</column>
-<column name="definition_fi">eräs kahvoilla varastettu kulho (käytetään ruoan valmistukseen)</column>
+<column name="definition_fi">eräs kahvoilla varastettu kattila (käytetään ruoan valmistukseen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bargh:n}</column>
@@ -10855,7 +10855,7 @@ Watch a lesson on this word: {YouTube video:url:http://youtu.be/auqS6FR_RDE}</co
       <column name="definition_ru">высмеивать, осмеивать, поднимать на смех</column>
       <column name="definition_zh_HK">嘲笑 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ridículo</column>
-<column name="definition_fi">pilkata</column>
+<column name="definition_fi">pitää pilkkanaan</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vaq:v}, {tIch:v}</column>
