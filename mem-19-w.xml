@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {w:sen:nolink}</column>
       <column name="definition_zh_HK">輔音{w:sen:nolink}</column>
       <column name="definition_pt">a consoante {w:sen:nolink}</column>
-<column name="definition_fi">the consonant {w:sen:nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">konsonatti {w:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -52,7 +52,7 @@
       <column name="definition_ru">звук, шум [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">聲音、噪音 [AUTOTRANSLATED]</column>
       <column name="definition_pt">som, barulho</column>
-<column name="definition_fi">sound, noise [AUTOTRANSLATED]</column>
+<column name="definition_fi">ääni, melu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghogh:n}, {chuS:v}, {vID'Ir:n}, {'arlogh Qoylu'pu'?:sen}, {ya'rIS:n}, {Ham:v}, {pun:v}</column>
@@ -96,7 +96,7 @@
       <column name="definition_ru">радио [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">無線電 [AUTOTRANSLATED]</column>
       <column name="definition_pt">radio</column>
-<column name="definition_fi">radio [AUTOTRANSLATED]</column>
+<column name="definition_fi">radio</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wab labwI':n}, {Se':n}, {rI'Se':n}, {chaDvay':n}</column>
@@ -139,7 +139,7 @@
       <column name="definition_ru">радиопередатчик [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">無線電發射器 [AUTOTRANSLATED]</column>
       <column name="definition_pt">transmissor de rádio</column>
-<column name="definition_fi">radio transmitter [AUTOTRANSLATED]</column>
+<column name="definition_fi">radiolähetin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wab HevwI':n}, {Se':n}, {rI'Se':n}, {chaDvay':n}</column>
@@ -182,7 +182,7 @@
       <column name="definition_ru">гласная буква [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">元音 [AUTOTRANSLATED]</column>
       <column name="definition_pt">vogal</column>
-<column name="definition_fi">vowel [AUTOTRANSLATED]</column>
+<column name="definition_fi">vokaali</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wab poD:n}</column>
@@ -225,7 +225,7 @@
       <column name="definition_ru">согласный [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">輔音 [AUTOTRANSLATED]</column>
       <column name="definition_pt">consoante</column>
-<column name="definition_fi">konsonantti [AUTOTRANSLATED]</column>
+<column name="definition_fi">konsonantti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wab naQ:n}</column>
@@ -268,7 +268,7 @@
       <column name="definition_ru">кассета [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">錄音帶</column>
       <column name="definition_pt">cassete</column>
-<column name="definition_fi">cassette [AUTOTRANSLATED]</column>
+<column name="definition_fi">kasetti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -311,7 +311,7 @@
       <column name="definition_ru">аудио, звукозапись [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">音頻、錄音 [AUTOTRANSLATED]</column>
       <column name="definition_pt">áudio, gravação de som</column>
-<column name="definition_fi">audio, sound record [AUTOTRANSLATED]</column>
+<column name="definition_fi">äänitallenne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HaSta ta:n}</column>
@@ -354,7 +354,7 @@
       <column name="definition_ru">Мах [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">馬赫 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Mach (unidade)</column>
-<column name="definition_fi">Mach [AUTOTRANSLATED]</column>
+<column name="definition_fi">Mach (yksikkö)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -398,7 +398,7 @@
       <column name="definition_ru">быть дорогим [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">貴</column>
       <column name="definition_pt">ser caro</column>
-<column name="definition_fi">be expensive [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla kallis</column>
       <column name="synonyms"></column>
       <column name="antonyms">{qutlh:v}</column>
       <column name="see_also"></column>
@@ -441,7 +441,7 @@
       <column name="definition_ru">пробовать, тестировать, использовать экспериментально</column>
       <column name="definition_zh_HK">試用</column>
       <column name="definition_pt">experimentar, testar, usar experimentalmente</column>
-<column name="definition_fi">try out, test, use experimentally [AUTOTRANSLATED]</column>
+<column name="definition_fi">kokeilla, testata</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngong:v}, {chov:v}, {nuD:v}, {tob:v}, {Daj:v:2}</column>
@@ -484,7 +484,7 @@
       <column name="definition_ru">попробовать, попробовать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">品嚐、嘗試（食物） [AUTOTRANSLATED]</column>
       <column name="definition_pt">provar, experimentar (comida)</column>
-<column name="definition_fi">taste, try out (food) [AUTOTRANSLATED]</column>
+<column name="definition_fi">maistaa, kokeilla (ruokaa)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mum:v}</column>
@@ -544,7 +544,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">вибрировать, быть в состоянии вибрации [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">顫動</column>
       <column name="definition_pt">vibrar, estar em um estado de vibração</column>
-<column name="definition_fi">vibrate, be in a state of vibration [AUTOTRANSLATED]</column>
+<column name="definition_fi">väristä, värähdellä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIrgh:n}, {yu'egh:n}, {jel:v}</column>
@@ -587,7 +587,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">охотиться на</column>
       <column name="definition_zh_HK">打獵</column>
       <column name="definition_pt">caçar</column>
-<column name="definition_fi">hunt [AUTOTRANSLATED]</column>
+<column name="definition_fi">metsästää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chon:n}, {gheD:n}, {wamwI':n}, {ghab:v}</column>
@@ -630,7 +630,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">wam, тип змея [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">wam、蛇的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de serpente</column>
-<column name="definition_fi">wam, type of serpent [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs käärmeen kaltainen eläin, wam</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghargh:n}</column>
@@ -673,7 +673,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">охотник [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">獵人</column>
       <column name="definition_pt">caçador</column>
-<column name="definition_fi">metsästäjä [AUTOTRANSLATED]</column>
+<column name="definition_fi">metsästäjä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -716,7 +716,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">мясо охотника [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">獵人的肉 [AUTOTRANSLATED]</column>
       <column name="definition_pt">carne de caçador</column>
-<column name="definition_fi">hunter's meat [AUTOTRANSLATED]</column>
+<column name="definition_fi">metsästäjän liha</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -759,7 +759,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">be straight (not crooked) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">直（不彎）</column>
       <column name="definition_pt">ser reto (não torto)</column>
-<column name="definition_fi">be straight (not crooked) [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla suora</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wanHa':v}, {job:v}, {'ob:v}</column>
       <column name="see_also">{SIH:v}</column>
@@ -802,7 +802,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">быть кривым, быть согнутым [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">彎、彎曲</column>
           <column name="definition_pt">ser torto, ser dobrado</column>
-<column name="definition_fi">be crooked, be bent [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla vino, taipunut</column>
           <column name="synonyms"></column>
           <column name="antonyms">{wan:v}</column>
           <column name="see_also">{SIH:v}, {job:v}</column>
@@ -845,7 +845,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">явление, событие, вхождение, еффект</column>
       <column name="definition_zh_HK">現象、事件、發生、影響 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fenômeno, evento, ocorrência, efeito</column>
-<column name="definition_fi">phenomenon, event, occurrence, effect [AUTOTRANSLATED]</column>
+<column name="definition_fi">ilmiö, tapahtuma, esiintymä, vaikutus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -889,7 +889,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">частота, коэффициент встречаемости [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">頻率、發生率 [AUTOTRANSLATED]</column>
       <column name="definition_pt">frequência, índice de ocorrência</column>
-<column name="definition_fi">taajuus, esiintymissuhde [AUTOTRANSLATED]</column>
+<column name="definition_fi">esiintymistiheys</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -932,7 +932,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">подмигивать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">眨眼 [AUTOTRANSLATED]</column>
       <column name="definition_pt">piscar o olho</column>
-<column name="definition_fi">wink [AUTOTRANSLATED]</column>
+<column name="definition_fi">iskeä silmää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -975,7 +975,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">башмак</column>
       <column name="definition_zh_HK">鞋</column>
       <column name="definition_pt">sapato</column>
-<column name="definition_fi">shoe [AUTOTRANSLATED]</column>
+<column name="definition_fi">kenkä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{paSlogh:n}, {qam:n}</column>
@@ -1018,7 +1018,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">вид птицы [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一種鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">uma espécie de pássaro</column>
-<column name="definition_fi">a kind of bird [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs pitkänokkainen lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nu'SIylan:n}</column>
@@ -1061,7 +1061,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">преграждать</column>
       <column name="definition_zh_HK">阻礙 [AUTOTRANSLATED]</column>
       <column name="definition_pt">obstruir</column>
-<column name="definition_fi">obstruct [AUTOTRANSLATED]</column>
+<column name="definition_fi">estää, olla tiellä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bot:v}, {Huv:v:1}</column>
@@ -1104,7 +1104,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">через несколько месяцев [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">（幾個）月後</column>
       <column name="definition_pt">meses a partir de agora</column>
-<column name="definition_fi">months from now [AUTOTRANSLATED]</column>
+<column name="definition_fi">... kuukauden päästä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wen:n}</column>
       <column name="see_also">{jar:n}, {pIq:n}</column>
@@ -1147,7 +1147,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">столбец (в таблице или электронной таблице) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">列（在表格或電子表格中） [AUTOTRANSLATED]</column>
       <column name="definition_pt">coluna (em uma tabela ou planilha)</column>
-<column name="definition_fi">column (in a table or spreadsheet) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sarake</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wev:n}</column>
       <column name="see_also">{wa'chaw:n}, {tlhat:n}</column>
@@ -1190,7 +1190,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">тип ножа (используется для приготовления пищи) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">刀的類型（用於食物準備） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de faca (usada para preparação de alimentos)</column>
-<column name="definition_fi">type of knife (used for food preparation) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruoanlaittoon käytetty veitsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIjwI':n}</column>
@@ -1233,7 +1233,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">ошибаться, ошибаться [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">不對頭、唔係路</column>
       <column name="definition_pt">ser errado, distorcido</column>
-<column name="definition_fi">olla väärässä, väärässä [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla väärässä, vinossa, pielessä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1276,7 +1276,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">смазка (общий термин) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">潤滑劑（總稱） [AUTOTRANSLATED]</column>
       <column name="definition_pt">lubricante (termo genérico)</column>
-<column name="definition_fi">lubricant (general term) [AUTOTRANSLATED]</column>
+<column name="definition_fi">voiteluaine</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngIS:n}</column>
@@ -1319,7 +1319,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">быть чистым</column>
       <column name="definition_zh_HK">是純潔的 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser puro</column>
-<column name="definition_fi">be pure [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla puhdas, sekoittumaton</column>
       <column name="synonyms">{nIt:v}</column>
       <column name="antonyms">{qal:v}</column>
       <column name="see_also">{Say':v}</column>
@@ -1374,7 +1374,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">делить</column>
       <column name="definition_zh_HK">劃分</column>
       <column name="definition_pt">dividir</column>
-<column name="definition_fi">divide [AUTOTRANSLATED]</column>
+<column name="definition_fi">jakaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIm:v}</column>
@@ -1417,7 +1417,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">база (военная)</column>
       <column name="definition_zh_HK">基地（軍事）</column>
       <column name="definition_pt">base (termo militar)</column>
-<column name="definition_fi">tukikohta (armeijan termi) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sotilastukikohta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{raQ:n}, {HoS waw':n}, {jem'IH:n}</column>
@@ -1460,7 +1460,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">быть полосатым [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">條紋 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser listrado</column>
-<column name="definition_fi">be striped [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla raidallinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ejvoH:n}, {yegh:v}</column>
@@ -1503,7 +1503,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">парировать, отклонять выпад [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">招架、偏轉弓步 [AUTOTRANSLATED]</column>
       <column name="definition_pt">parrear, afasta-te de um golpe</column>
-<column name="definition_fi">parry, ohjaa syöksy [AUTOTRANSLATED]</column>
+<column name="definition_fi">torjua pisto</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jop:v:1}, {baQ:v:1}, {chaQ:v}, {lev:v}, {ngol:v}, {jIrmoH:v:1}, {DIj:v:1}, {mong'em:n}</column>
@@ -1546,7 +1546,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">хаос [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">混沌 [AUTOTRANSLATED]</column>
       <column name="definition_pt">caos</column>
-<column name="definition_fi">kaaos [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaaos</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghIH:v:1}, {web:v:2}</column>
@@ -1589,7 +1589,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">один</column>
       <column name="definition_zh_HK">一</column>
       <column name="definition_pt">um</column>
-<column name="definition_fi">yksi [AUTOTRANSLATED]</column>
+<column name="definition_fi">yksi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{cha':n:num}, {maH:n:2,num}</column>
@@ -1632,7 +1632,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">первый</column>
           <column name="definition_zh_HK">第一</column>
           <column name="definition_pt">primeiro</column>
-<column name="definition_fi">first [AUTOTRANSLATED]</column>
+<column name="definition_fi">ensimmäinen</column>
           <column name="synonyms"></column>
           <column name="antonyms">{Qav:v}, {HochDIch:n}</column>
           <column name="see_also">{ghubDaQ:n}, {paghDIch:n}</column>
@@ -1677,7 +1677,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">вчера</column>
           <column name="definition_zh_HK">尋日、琴日、昨天</column>
           <column name="definition_pt">ontem</column>
-<column name="definition_fi">yesterday [AUTOTRANSLATED]</column>
+<column name="definition_fi">eilinen, eilen</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1720,7 +1720,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">завтра</column>
           <column name="definition_zh_HK">聽日、明天</column>
           <column name="definition_pt">amanhã</column>
-<column name="definition_fi">tomorrow [AUTOTRANSLATED]</column>
+<column name="definition_fi">huomen, huomenna</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1763,7 +1763,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">один раз</column>
           <column name="definition_zh_HK">一次</column>
           <column name="definition_pt">uma vez</column>
-<column name="definition_fi">once [AUTOTRANSLATED]</column>
+<column name="definition_fi">kerran</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1806,7 +1806,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">десять</column>
           <column name="definition_zh_HK">十</column>
           <column name="definition_pt">dez</column>
-<column name="definition_fi">kymmenen [AUTOTRANSLATED]</column>
+<column name="definition_fi">kymmenen</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1849,7 +1849,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">десятый</column>
           <column name="definition_zh_HK">第十</column>
           <column name="definition_pt">décimo</column>
-<column name="definition_fi">tenth [AUTOTRANSLATED]</column>
+<column name="definition_fi">kymmenes</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1892,7 +1892,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Мы преуспеваем вместе в большом целом. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">我們在更大的整體上共同取得成功。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">Conseguimos juntos um todo maior.</column>
-<column name="definition_fi">We succeed together in a greater whole. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Onnistumme yhdessä suurempana kokonaisuutena.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1935,7 +1935,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Сосредоточьтесь на одной цели. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">只關註一個目標。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">Concentre-se apenas em um alvo.</column>
-<column name="definition_fi">Focus on but one target. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Keskity vain yhteen kohteeseen.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1978,7 +1978,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">We agree. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">我們同意。</column>
           <column name="definition_pt">Nós concordamos.</column>
-<column name="definition_fi">We agree. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olemme samaa mieltä.</column>
           <column name="synonyms"></column>
           <column name="antonyms">{cha' DoSmey DIqIp.:sen}</column>
           <column name="see_also">{Qoch:v}, {Qochbe':v}</column>
@@ -2021,7 +2021,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Сын клингона - это человек, который в первый день может держать клинок. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">克林崗的兒子是他可以先拿刀片的那一天。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">O filho de um klingon é um homem no dia em que pode segurar uma lâmina pela primeira vez.</column>
-<column name="definition_fi">The son of a Klingon is a man the day he can first hold a blade. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kun klingonin poika ensimmäisen kerran pitelee terää, hänestä tulee mies.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2064,7 +2064,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">На одну миссию есть один лидер. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">一個任務只有一個領導者。</column>
           <column name="definition_pt">Para uma missão, há um líder.</column>
-<column name="definition_fi">For one mission, there is one leader. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Yhdessä tehtävässä on yksi johtaja.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2107,7 +2107,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Моноцикл [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">獨輪車 [AUTOTRANSLATED]</column>
           <column name="definition_pt">monociclo</column>
-<column name="definition_fi">unicycle [AUTOTRANSLATED]</column>
+<column name="definition_fi">yksipyörä</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{qam Do Duj:n}</column>
@@ -2150,7 +2150,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">The execution of but one warrior brings shame to all. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">只有一個戰士的執行給所有人帶來了恥辱。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">A execução de apenas um guerreiro traz vergonha a todos.</column>
-<column name="definition_fi">The execution of but one warrior brings shame to all. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Vain yhden soturin teloitus tuo häpeää kaikille.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2193,7 +2193,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Это сложно. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">這很複雜。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">Isso é complicado.</column>
-<column name="definition_fi">It's complicated. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Se on monimutkaista.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{wa'maH wej.:sen}</column>
@@ -2237,7 +2237,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">долго [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">很長時間 [AUTOTRANSLATED]</column>
           <column name="definition_pt">a muito tempo</column>
-<column name="definition_fi">a long time [AUTOTRANSLATED]</column>
+<column name="definition_fi">hyvin pitkä aika</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2280,7 +2280,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">Это сложно. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">這很複雜。 [AUTOTRANSLATED]</column>
           <column name="definition_pt">É complicado.</column>
-<column name="definition_fi">It's complicated. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Se on monimutkaista.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{wa' wa' wa'.:sen}</column>
@@ -2324,7 +2324,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">таблица, таблица [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">電子表格、表格 [AUTOTRANSLATED]</column>
       <column name="definition_pt">planilha, tabela</column>
-<column name="definition_fi">spreadsheet, table [AUTOTRANSLATED]</column>
+<column name="definition_fi">taulukko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhat:n}, {war:n}, {wev:n}, {yu'muD:n}, {qawHaq:n}</column>
@@ -2367,7 +2367,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">масса (физическая концепция) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">質量（物理概念） [AUTOTRANSLATED]</column>
       <column name="definition_pt">massa (conceito de física)</column>
-<column name="definition_fi">mass (physics concept) [AUTOTRANSLATED]</column>
+<column name="definition_fi">massa (fysiikka)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Surma':n}, {ngI':v}, {tlham:n:1}</column>
@@ -2410,7 +2410,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">Wa'Joh'a' [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Wa'Joh'a“ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Wa'Joh'a'</column>
-<column name="definition_fi">Wa'Joh'a' [AUTOTRANSLATED]</column>
+<column name="definition_fi">Wa'Joh'a '</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qun:n}</column>
@@ -2454,7 +2454,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">быть опальным</column>
       <column name="definition_zh_HK">丟醜 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser desgraçado</column>
-<column name="definition_fi">olla häpeällisiä [AUTOTRANSLATED]</column>
+<column name="definition_fi">joutua epäsuosioon</column>
       <column name="synonyms">{mIl:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{tuH:v}</column>
@@ -2497,7 +2497,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">быть хаотичным, дезорганизованным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">混亂無序 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser caótico, desorganizado</column>
-<column name="definition_fi">olla kaoottinen, järjestäytynyt [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla kaaottinen, järjestymätön</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{way'ar:n}</column>
@@ -2540,7 +2540,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">подавать ферментированную пищу на пике [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">在高峰期供應發酵食品 [AUTOTRANSLATED]</column>
       <column name="definition_pt">servir comida fermentada no tempo certo</column>
-<column name="definition_fi">tarjoile fermentoitua ruokaa huipullaan [AUTOTRANSLATED]</column>
+<column name="definition_fi">tarjoilla käynyttä ruokaa parhaimmillaan</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2584,7 +2584,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">органичивать</column>
       <column name="definition_zh_HK">局限 [AUTOTRANSLATED]</column>
       <column name="definition_pt">limitar</column>
-<column name="definition_fi">confine [AUTOTRANSLATED]</column>
+<column name="definition_fi">eristää joku tai jokin (jonnekin)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIghHa':n}, {Sev:v}, {ngaS:v}</column>
@@ -2627,7 +2627,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">собершать набег</column>
       <column name="definition_zh_HK">襲擊 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Incursão</column>
-<column name="definition_fi">raid [AUTOTRANSLATED]</column>
+<column name="definition_fi">tehdä ylläkköhyökkäys jonnekin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIv:v}</column>
@@ -2649,7 +2649,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
-<column name="examples_fi">TRANSLATE</column>
+<column name="examples_fi"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2657,7 +2657,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-<column name="search_tags_fi">TRANSLATE</column>
+<column name="search_tags_fi">yllätyshyökkäys</column>
       <column name="source">[1] {TKD:src}, [2] {KGT p.48:src}</column>
     </table>
     <table name="mem">
@@ -2671,7 +2671,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">ещё нет</column>
       <column name="definition_zh_HK">還沒 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ainda não</column>
-<column name="definition_fi">not yet [AUTOTRANSLATED]</column>
+<column name="definition_fi">ei vielä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wejHa':adv:hyp}</column>
       <column name="see_also">{tagha':adv}, {not:adv}</column>
@@ -2714,7 +2714,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">три</column>
       <column name="definition_zh_HK">三</column>
       <column name="definition_pt">três</column>
-<column name="definition_fi">kolme [AUTOTRANSLATED]</column>
+<column name="definition_fi">kolme</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2757,7 +2757,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">третий</column>
           <column name="definition_zh_HK">第三</column>
           <column name="definition_pt">terceiro</column>
-<column name="definition_fi">kolmas [AUTOTRANSLATED]</column>
+<column name="definition_fi">kolmas</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2800,7 +2800,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="definition_ru">тридцать [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">三十 [AUTOTRANSLATED]</column>
           <column name="definition_pt">trinta</column>
-<column name="definition_fi">thirty [AUTOTRANSLATED]</column>
+<column name="definition_fi">kolmekymmentä</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2843,7 +2843,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">нитрат (химический термин) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">硝酸鹽（化學術語） [AUTOTRANSLATED]</column>
       <column name="definition_pt">nitrato (termo químico)</column>
-<column name="definition_fi">nitrate (chemistry term) [AUTOTRANSLATED]</column>
+<column name="definition_fi">nitraatti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2886,7 +2886,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">вкус, вкус [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">味道</column>
       <column name="definition_pt">sabor, gosto</column>
-<column name="definition_fi">flavor, taste [AUTOTRANSLATED]</column>
+<column name="definition_fi">maku</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ey:v}, {tlhorgh:v}, {mum:v}</column>
@@ -2929,7 +2929,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">Воин сражается до смерти. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一個戰士為死亡而戰。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Um guerreiro luta até a morte.</column>
-<column name="definition_fi">Soturi taistelee kuolemaan asti. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Soturi taistelee kuolemaan asti.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2972,7 +2972,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">прелестный (только иронично)</column>
       <column name="definition_zh_HK">迷人（諷刺性地使用） [AUTOTRANSLATED]</column>
       <column name="definition_pt">encantador (usado apenas ironicamente)</column>
-<column name="definition_fi">charming (used only ironically) [AUTOTRANSLATED]</column>
+<column name="definition_fi">viehättävää (käytetään vain ironisesti)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3015,7 +3015,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">задолжать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">欠、爭</column>
       <column name="definition_pt">dever</column>
-<column name="definition_fi">olla velkaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla velkaa jollekulle</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghogh'ot:n}</column>
@@ -3062,7 +3062,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">звук сделан {targh:n} [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">{targh:n}發出的聲音</column>
       <column name="definition_pt">som produzido por um {targh:n}</column>
-<column name="definition_fi">ääni, jonka tuottaa {targh: n} [AUTOTRANSLATED]</column>
+<column name="definition_fi">{targh:n}in ääntelyä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghugh:v}</column>
@@ -3107,7 +3107,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">нарушать</column>
       <column name="definition_zh_HK">違反 [AUTOTRANSLATED]</column>
       <column name="definition_pt">violar</column>
-<column name="definition_fi">violate [AUTOTRANSLATED]</column>
+<column name="definition_fi">rikkoa, loukata (sopimusta tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIv:v}, {HeQ:v}, {lob:v}, {wogh:v}, {wem:n}</column>
@@ -3150,7 +3150,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">нарушение</column>
       <column name="definition_zh_HK">違反 [AUTOTRANSLATED]</column>
       <column name="definition_pt">violação</column>
-<column name="definition_fi">rikkominen [AUTOTRANSLATED]</column>
+<column name="definition_fi">rikkomus, (sopimuksen tms.) loukkaus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wem:v}</column>
@@ -3193,7 +3193,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">несколько месяцев назад [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">（幾個）月前</column>
       <column name="definition_pt">meses atrás</column>
-<column name="definition_fi">months ago [AUTOTRANSLATED]</column>
+<column name="definition_fi">... kuukautta sitten</column>
       <column name="synonyms"></column>
       <column name="antonyms">{waQ:n}</column>
       <column name="see_also">{jar:n}, {ret:n}</column>
@@ -3236,7 +3236,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">куртка, пальто</column>
       <column name="definition_zh_HK">上衣、外套、夾克</column>
       <column name="definition_pt">casaco</column>
-<column name="definition_fi">takki, takki [AUTOTRANSLATED]</column>
+<column name="definition_fi">takki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{cheSvel:n:2}</column>
@@ -3279,7 +3279,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">рубашка с рукавами [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">袖子襯衫 [AUTOTRANSLATED]</column>
       <column name="definition_pt">camisa com mangas</column>
-<column name="definition_fi">shirt with sleeves [AUTOTRANSLATED]</column>
+<column name="definition_fi">hihallinen paita</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wep:n:1}, {yIvbeH:n:2}, {tlhay:n:2h}</column>
@@ -3322,7 +3322,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">удар (ударный инструмент) ладонью [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">用掌心擊打（打擊樂器） [AUTOTRANSLATED]</column>
       <column name="definition_pt">golpear (instrumento de percussão) com a palma da mão</column>
-<column name="definition_fi">osuma (lyömäsoitin) kämmenellä [AUTOTRANSLATED]</column>
+<column name="definition_fi">lyödä (lyömäsoitinta) kämmenellä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{toch:n}, {qIp:v}, {'In:n}, {chu':v:3}</column>
@@ -3365,7 +3365,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">свеча</column>
       <column name="definition_zh_HK">蠟燭</column>
       <column name="definition_pt">vela</column>
-<column name="definition_fi">kynttilä [AUTOTRANSLATED]</column>
+<column name="definition_fi">kynttilä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sech:n}, {wovmoHbogh jan:n}, {wovmoHwI':n}, {req:n}, {SuS:v}</column>
@@ -3408,7 +3408,7 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="definition_ru">Всемирная паутина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">萬維網</column>
       <column name="definition_pt">Rede mundial de computadores</column>
-<column name="definition_fi">World Wide Web [AUTOTRANSLATED]</column>
+<column name="definition_fi">World Wide Web (osa Internetiä)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'Internet:n}</column>
