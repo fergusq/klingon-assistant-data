@@ -2705,7 +2705,7 @@ This word appears only in the body of {KGT:src} and not in the glossary.</column
       <column name="definition_ru">контроль [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">控制 [AUTOTRANSLATED]</column>
       <column name="definition_pt">controlar</column>
-<column name="definition_fi">hallita (laitetta tms.?)</column>
+<column name="definition_fi">hallita, ohjata (laitetta tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lIS:v}, {ngep:v}, {ra':v:1}, {ruQ:v}</column>

@@ -6602,7 +6602,7 @@ O texto de {SkyBox 99:src} diz:
       <column name="definition_ru">управлять, вести дела, назначать</column>
       <column name="definition_zh_HK">管轄、執政</column>
       <column name="definition_pt">administrar</column>
-<column name="definition_fi">hallita</column>
+<column name="definition_fi">hallita (korkealla tasolla)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{che':v}, {qum:v}, {teblaw':n}, {loH:n}, {loHwI':n}</column>
