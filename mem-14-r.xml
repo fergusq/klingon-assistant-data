@@ -63,7 +63,6 @@
       <column name="notes_ru">Когда этот глагол применен, к какому-то лицу, то он предполагает улучшение здоровья. Когда глагол применен к неодушевленному объекту, подразумевается улучшение или совершенствование. Имеет отличия от {tI':v} потому что тот глагол обычно не применяется к живым существам, и подразумевает восстановление предыдущего состояния, а не улучшения. Также отличается от {Dub:v} в том, что тот глагол используется для описания улучшений абстрактных вещей.[1]</column>
       <column name="notes_zh_HK">當此動詞應用於人時，表明健康狀況得到改善。當將其應用於無生命的物體時，它意味著改進或改善。它與{tI':v}有所不同，因為該動詞通常不應用於生物，它表示恢復到先前的狀態而不是改善。它與{Dub:v}的不同還在於動詞用於改進更抽象的性質。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kun tätä verbiä sovelletaan henkilöön, se viittaa terveyden parantamiseen. Kun sitä käytetään elottomaan esineeseen, se tarkoittaa parantamista tai parantamista. Se erotetaan {tI':v}: stä, koska kyseistä verbiä ei yleensä sovelleta eläviin olentoihin, ja se ehdottaa palauttamista edelliseen tilaan eikä parannusta. Se eroaa myös {Dub:v}: sta siinä, että kyseistä verbiä käytetään abstraktimpien ominaisuuksien parantamiseen.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -109,7 +108,6 @@
       <column name="notes_ru">В клингоне нет единого термина для «медсестры». Другими возможными терминами помощника врача являются {Qel boQ@@Qel:n:1h, boQ:n:1h} (или {HaqwI' boQ@@HaqwI':n, boQ:n:1h}, если врач является хирургом) и {QelHom:n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗語中沒有“護士”這個單一名詞。醫生助手的其他可能術語是{Qel boQ@@Qel:n:1h, boQ:n:1h}（如果醫生是外科醫生，則為{HaqwI' boQ@@HaqwI':n, boQ:n:1h}）和{QelHom:n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Não existe um termo único para "enfermeira" em Klingon. Outros termos possíveis para o assistente de um médico são {Qel boQ@@Qel:n:1h, boQ:n:1h} (ou {HaqwI' boQ@@HaqwI':n, boQ:n:1h} se o médico for cirurgião) e {QelHom:n:nolink}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Klingonissa ei ole yhtä termiä "sairaanhoitaja". Muita lääkäriavustajan mahdollisia termejä ovat {Qel boQ@@Qel:n:1h, boQ:n:1h} (tai {HaqwI' boQ@@HaqwI':n, boQ:n:1h}, jos lääkäri on kirurgi) ja {QelHom:n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Nurse "Ratch"ed, from "One Flew Over the Cuckoo's Nest".</column>
       <column name="components">{rach:v}, {-wI':v}</column>
@@ -683,7 +681,6 @@ Detta verb kan också användas för att uttrycka begreppet att två saker har s
       <column name="notes_pt">O assunto de {rap:v:nolink} são as coisas que são iguais.[2]
 
 Este verbo também pode ser usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade. O verbo {nIb:v} é usado de maneira semelhante, mas geralmente é usado com qualidades mensuráveis ​​e tem a conotação de precisão. No entanto, não é impróprio usar {rap:v:nolink} com uma qualidade mensurável. Veja os exemplos abaixo.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{rap:v:nolink}-aihe on sama asia
 
 Tätä verbiä voidaan käyttää myös ilmaisemaan käsite, että kahdella asialla on sama määrä tiettyä laatua. Verbiä {nIb:v} käytetään samalla tavalla, mutta sitä käytetään yleensä mitattavissa olevilla ominaisuuksilla ja sillä on tarkkuus. Ei ole kuitenkaan väärin käyttää {rap:v:nolink} -laitetta mitattavalla laadulla. Katso alla olevat esimerkit.[3][2] [AUTOTRANSLATED]</column>
@@ -992,7 +989,6 @@ Tätä verbiä voidaan käyttää myös ilmaisemaan käsite, että kahdella asia
       <column name="notes_ru">Когда скрепляют бумаги вместе, смотрите {Ha'on vevwI':n}, бумаги являются объектом для {rar:v:nolink}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kun nidot paperit yhteen (katso {Ha'on vevwI':n}), paperit ovat {rar:v:nolink}-objektin kohteena.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1441,7 +1437,6 @@ On olemassa klingonin idioomi {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRA
       <column name="notes_ru">Это используется для выражения идеи некоторой (возможно неизвестной) точки между двумя концами диапазона. Чтобы выразить полную растяжку всего диапазона, используйте {qubbID:n} вместо .[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這用於表達範圍兩端之間某個點（可能是未知的）的想法。要表達整個範圍的完整範圍，請改用{qubbID:n}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para expressar a ideia de algum ponto (talvez desconhecido) entre duas extremidades de um intervalo. Para expressar toda a extensão de todo o intervalo, use {qubbID:n} em vez disso.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä käytetään ilmaisemaan ajatusta jostakin (kenties tuntemattomasta) pisteestä alueen kahden pään välillä. Jos haluat ilmaista koko alueen koko pituuden, käytä sen sijaan {qubbID:n}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1543,7 +1538,6 @@ Det första elementet i detta ord är {rav:n:1} "golv", men det andra elementet 
       <column name="notes_pt">Refere-se ao teto ({'aqroS:n:1}) de uma sala que tem uma sala acima dela. O teto de uma sala que está no topo (ou apenas) da história de uma estrutura é chamado de {pa' beb:n}.[2]
 
 O primeiro elemento desta palavra é {rav:n:1} "chão", mas o segundo elemento não está relacionado com {'eq:v} "seja antecipado" .[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä viittaa huoneen kattoon ({'aqroS:n:1}), jonka yläpuolella on huone. Rakennuksen ylimmässä (tai ainoassa) tarinassa olevan huoneen kattoa kutsutaan sen {pa' beb:n}.[2]
 
 Tämän sanan ensimmäinen osa on {rav:n:1} "lattia", mutta toinen osa ei liity {'eq:v} "ole varhainen" -kohtaan.[1] [AUTOTRANSLATED]</column>
@@ -2115,7 +2109,6 @@ För andra polygoner med lika sidor / vinklar används {HoS:v} istället för {t
       <column name="notes_pt">Este é um triângulo onde cada ângulo interno é 40,5 {lawmey:n:nolink} ou 60 {lawrI'mey:n:nolink}. (Consulte {law:n} e {lawrI':n}.)
 
 Para outros polígonos com lados / ângulos iguais, {HoS:v} é usado em vez de {tIQ:v:nolink}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämä on kolmio, jossa kukin sisäkulma on 40,5 {lawmey:n:nolink} tai 60 {lawrI'mey:n:nolink}. (Katso {law:n} ja {lawrI':n}.)
 
 Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käytetään {tIQ:v:nolink}: n sijaan.[2] [AUTOTRANSLATED]</column>
@@ -2248,7 +2241,6 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是將白酒加到咖啡中製成的飲料。其名稱可能源自{ra'wI' taj:n:nolink}的縮寫。在聯邦中很流行的“出口”版本叫做“ raktajino”，它不是酒類，但增加了風味。[1, p.96] [AUTOTRANSLATED]</column>
       <column name="notes_pt">É uma bebida feita com licor adicionado ao café. Seu nome pode ter se originado como uma contração de {ra'wI' taj:n:nolink}. Uma versão de "exportação" chamada "raktajino", popular na Federação, não é alcoólatra, mas tem um sabor adicional.[1, p.96] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on juoma, joka on valmistettu kahviin lisätystä viinistä. Sen nimi on saattanut olla peräisin {ra'wI' taj:n:nolink}-supistuksesta. Federaatiossa suosittu "viennin" versio "raktajino" ei ole alkoholipitoinen, mutta se on lisännyt makua.[1, p.96] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3722,7 +3714,6 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="notes_ru">Это означает ошеломленный в смысле растерянности, неспособности правильно мыслить, сбит с толку. В этом смысле это означает бред.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著從困惑，無法正確思考，迷惑的意義上感到頭暈。[1]從這個意義上說，它意味著妄想。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa atordoado no sentido de confuso, incapaz de pensar adequadamente, perplexo.[1] Significa ilusório, nesse sentido.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä tarkoittaa hämmentynyttä hämmentyneenä, kykenemättömänä ajatella, hämmentyneenä.[1] Se tarkoittaa harhaa tässä mielessä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4236,7 +4227,6 @@ This is the same word as the verb {ret:v}.[2]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Erikoissanaa käytetään osoittamaan aikaisempi aika seuraaville yksiköille:
 ▶ {jaj:n} "päivä" - {Hu':n} "päivää sitten"
 ▶ {jar:n} "kuukausi" - {wen:n} "kuukausi sitten"
@@ -5634,7 +5624,6 @@ Detta avser även bläck, som för en gummistämpel ({toqwIn:n}) .[2] [AUTOTRANS
       <column name="notes_pt">Não há substantivo em Klingon que significa "cor" .[1, p.81]
 
 Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Klingonissa ei ole substantiivia, joka tarkoittaa "väri" .[1, p.81]
 
 Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRANSLATED]</column>
@@ -6757,7 +6746,6 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="notes_ru">Относится к волосам на лице, которые покрывают зону подбородка и шеи.[2]</column>
       <column name="notes_zh_HK">這是指覆蓋下巴和脖子區域的臉上的頭髮。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a pelos no rosto que cobrem a área do queixo e pescoço.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa kasvojen hiuksiin, jotka peittävät leuan ja niska-alueen[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6844,7 +6832,6 @@ Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRA
       <column name="notes_ru">Это слово также используется Клингонскими филологами, чтобы упомянуть о правиле, которое определяет использование суффиксов местоимений. Правило Федерации филологи называют "соглашением".[2]</column>
       <column name="notes_zh_HK">克林崗語語法學家還使用此詞來指代控制代詞前綴使用的規則，聯邦文法學家稱之為“協議”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra também é usada pelos gramáticos klingon para se referir à regra que governa o uso de prefixos pronominais, uma regra que os gramáticos da Federação chamam de "acordo".[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä sanaa käyttävät myös klingonilaiset kielioppilaiset viitaten sääntöön, joka säätelee alkusanan etuliitteiden käyttöä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Rome".</column>
       <column name="components"></column>
@@ -7625,7 +7612,6 @@ En "fet bok" skulle vara en {paq qargh:n@@paq:n:1, qargh:v}, såvida inte boken 
       <column name="notes_pt">Isso implica volume devido à gordura corporal ou algo semelhante, enquanto {pI':v} não tem essa conotação. Ambos podem ser usados ​​para expressar "não magro", mas {ror:v:nolink} é mais apropriado para expressar "não magro". Quando este verbo é usado para descrever um objeto inanimado, geralmente ocorre um pouco de antropomorfização, comparando o objeto a uma pessoa ou a um animal.[2]
 
 Um "livro gordo" seria um {paq qargh:n@@paq:n:1, qargh:v}, a menos que o livro ganhe vida como um personagem de desenho animado ou algo parecido. (Nesse caso, o sufixo plural {-pu':n:suff} também pode ser esperado.) [2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä merkitsee suurta määrää kehon rasvasta tai vastaavasta, kun taas {pI':v}: llä ei ole tätä merkitystä. Molempia voidaan käyttää ilmaisemaan "ei ohut", mutta {ror:v:nolink} on tarkoituksenmukaisempi ilmaisemaan "ei laiha". Kun tätä verbiä käytetään kuvaamaan elottomia esineitä, tapahtuu yleensä vähän antropomorfisointia, kohteen vertaamista henkilöön tai eläimeen.
 
 "Rasva kirja" olisi {paq qargh:n@@paq:n:1, qargh:v}, ellei kirja herää eloon sarjakuvahahmona tai vastaavalla tavalla. (Tällöin voidaan odottaa myös monikon pääte {-pu':n:suff}.) [2][2] [AUTOTRANSLATED]</column>
@@ -8775,11 +8761,6 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="notes_ru">Получаемый газ называется {SIp:n} (общее слово для газа любого вида) или {Qep'It:n} (газ, вырабатываемый внутри тела).[1] Чтобы различать выбросы газа из разных отверстий, используйте фразу, включающую {nuj:n}, {Hugh:n} или {Sa'Hut:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">產生的氣體稱為{SIp:n}（任何種類的氣體的通用詞）或{Qep'It:n}（體內產生的氣體）。[1]要區分不同孔的氣體排放，請使用涉及{nuj:n}，{Hugh:n}或{Sa'Hut:n}的短語。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O gás produzido é chamado {SIp:n} (uma palavra geral para qualquer tipo de gás) ou {Qep'It:n} (um gás produzido no corpo).[1] Para distinguir entre emissão de gases de diferentes orifícios, use uma frase envolvendo {nuj:n}, {Hugh:n} ou {Sa'Hut:n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tuotettua kaasua kutsutaan nimellä {SIp:n} (yleinen sana kaikenlaiselle kaasulle) tai {Qep'It:n} (kehossa tuotettu kaasu).[1]{nuj:n}{Hugh:n}{Sa'Hut:n}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">From the Latin "eructare", or the English "eructation". The belch definition came from {HQ 12.4:src}[1]. It was expanded to also mean fart in a message to the {KLI mailing list:src}.[2]</column>
       <column name="components"></column>
@@ -8910,7 +8891,6 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="notes_ru">Этот глагол используется для формирования сравнений, например {puj verengan; bIQ rur@@puj:v, verengan:n, bIQ:n, rur:v} "Ференги слабые, как вода".[2; 4] Также может использоваться, чтобы перевести "как" в смысле "выглядит как".[3]</column>
       <column name="notes_zh_HK">該動詞用於形成比喻，例如{puj verengan; bIQ rur@@puj:v, verengan:n, bIQ:n, rur:v}“ Ferengi像水一樣脆弱”。[2; 4]也可以用於翻譯“ like”，即“ looks like”。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse verbo é usado para formar símiles, como {puj verengan; bIQ rur@@puj:v, verengan:n, bIQ:n, rur:v} "o Ferengi é tão fraco quanto a água" .[2; 4] Também pode ser usado para traduzir "like" no sentido de "aparência" .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä verbiä käytetään muodostamaan vertauksia, kuten {puj verengan; bIQ rur@@puj:v, verengan:n, bIQ:n, rur:v} "Ferengi on yhtä heikko kuin vesi" .[2; 4] Sitä voidaan käyttää myös kääntämään "kuten" "ulkonäön" merkityksessä.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Possibly a reference to the science fiction play R.U.R. (Rossum's Universal Robots) by Karel Čapek.</column>
       <column name="components"></column>

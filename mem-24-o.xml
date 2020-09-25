@@ -661,7 +661,6 @@ Pakollinen verbin etuliite, kun kohde on {'oH:n:nolink}, on {yI-:v:pref}. [AUTOT
       <column name="notes_ru">{'ojHa':v@@ghung:v, -Ha':v} будет что-то вроде "не пить больше" .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{'ojHa':v@@ghung:v, -Ha':v}類似於“不再口渴”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">{'ojHa':v@@ghung:v, -Ha':v} seria algo como "não está mais com sede" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{'ojHa':v@@ghung:v, -Ha':v} olisi jotain "ei jano enää".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Orange juice".
 
@@ -852,9 +851,6 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="notes_ru">Это может относиться к капле дождя или любой жидкости.[1] В частности, его можно использовать для капли {watrIn:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode se referir a uma gota de chuva ou uma gota de qualquer líquido.[1] Em particular, pode ser usado para uma gota de {watrIn:n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä voi viitata sadepisaraan tai pisaraan mitä tahansa nestettä.[1]{watrIn:n}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1471,7 +1467,6 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="notes_ru">Это также называется {'orghenya':n:nolink}, как правило, старшими ораторами.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso também é chamado {'orghenya':n:nolink}, geralmente por falantes mais antigos.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä kutsutaan tyypillisesti vanhemmiksi puhujiksi {'orghenya':n:nolink}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3047,7 +3042,6 @@ Tämä sana on myös kirjoitettu {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</co
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on rumpu, jonka iho on venytetty molempien päiden yli[1, p.75] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

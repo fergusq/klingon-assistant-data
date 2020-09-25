@@ -118,7 +118,6 @@ När objektet för detta verb är {'olQan:n} kan det ofta översättas "ockupera
       <column name="notes_pt">Quando aplicado a sistemas de armas, é usado para travar em um alvo. Consulte {'uch:v:2}.
 
 Quando o objeto deste verbo é {'olQan:n}, muitas vezes pode ser traduzido como "ocupar" ou "pegar" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kun sitä käytetään asejärjestelmiin, sitä käytetään kohteen lukitsemiseen. Katso {'uch:v:2}.
 
 Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittää" tai "ottaa käyttöön".[2] [AUTOTRANSLATED]</column>
@@ -559,7 +558,6 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">{BoP:src}-julisteen mittausten perusteella yksi {'uj:n:nolink} on hyvin lähellä 34,83 ​​cm.
 
 Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {'uj:n:nolink} on noin 6'10 ".[2] [AUTOTRANSLATED]</column>
@@ -616,7 +614,6 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Um {'uj'a':n:nolink} é igual a nove {'uj:n:nolink}. No entanto, não existe uma unidade {'ujHom:n:nolink} que denote um nono de um {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Yksi {'uj'a':n:nolink} on yhtä suuri kuin yhdeksän {'uj:n:nolink}. Ei kuitenkaan ole yksikköä {'ujHom:n:nolink}, joka merkitsisi {'uj:n:nolink}: n yhdeksäsosaa.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'uj:n}, {-'a':n}</column>
@@ -1301,8 +1298,6 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_ru">squat (down) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">跁低、蹲下</column>
       <column name="definition_pt">agachamento (para baixo)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">kyykistyä, istua kyykyssä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1917,7 +1912,6 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_ru">{'uSu':n:nolink} является родным для коренных жителей планеты Танганика.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">{'uSu':n:nolink} é nativo dos habitantes originais do planeta Tanganika.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{'uSu':n:nolink} on kotoisin Tanganika-planeetan alkuperäisiltä asukkailta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">One type of lighter soy sauce is called "usukuchi shoyu" (薄口醤油) in Japanese. Also, the "yuzu" plant is used in the creation of some sauces in Asian cuisine. However, if this word is a pun, it wasn't due to Okrand, but the writers of {DS9 - Melora:src}.</column>
       <column name="components"></column>
@@ -2178,7 +2172,6 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_ru">Этот глагол используется для нажатия на кнопку компьютерной мыши (хотя на самом деле нужно нажать и отпустить). Для перехода по гиперссылке используется глагол {wIv:v}, а не {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞用於單擊計算機鼠標按鈕（即使該操作實際上是按下然後釋放）。單擊超鏈接時，使用動詞{wIv:v}而不是{'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse verbo é usado para clicar no botão do mouse do computador (mesmo que a ação seja realmente pressionar e soltar). Para clicar em um hiperlink, o verbo {wIv:v} é usado em vez de {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä verbiä käytetään napsauttamaan tietokoneen hiiren painiketta (vaikka toiminnon tarkoituksena on todella painaa alas ja sitten vapauttaa). Hyperlinkkiä napsautettaessa käytetään verbiä {wIv:v} eikä {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2230,8 +2223,6 @@ För hundratals miljoner är de nummerbildande elementen {vatlh'uy':n:num@@vatlh
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Kymmenien miljoonien verran {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolink}: een tai {vatlh:n:num} {bIp:n:num}: n kanssa.
 
 Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}, {SaDbIp:n:num@@SaD:n, bIp:n} tai {SanIDbIp:n:num@@SanID:n, bIp:n} ovat mahdollisia.[2][3] [AUTOTRANSLATED]</column>

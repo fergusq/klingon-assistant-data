@@ -583,7 +583,6 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">此動詞可以與後綴{-chu':v}一起使用，以表示將某些東西疊加到其他東西上的想法。[2]請參閱{tIr:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo pode ser usado com o sufixo {-chu':v} para expressar a ideia de sobrepor algo em (para) outra coisa.[2] Consulte {tIr:v}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä verbiä voidaan käyttää liitetiedolla {-chu':v} ilmaisemaan ajatusta, että jotain asetetaan päällekkäin jollekin muulle ([2]).{tIr:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the printed booklet for {qep'a' 26 (2019):src}, there was a typo and {lanchu':sen:nolink} was incorrectly written as {lalchu':sen:nolink}.</column>
       <column name="components"></column>
@@ -733,7 +732,6 @@ This was defined as "be thin" in {TKD:src} and expanded to include "be narrow" a
       <column name="notes_ru">Это голосовать на выборах или голосовать за движение. Он не имеет идиоматического смысла «выражать мнение» и используется только в том случае, если фактически проводится формальное голосование.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是在選舉中投票或對議案進行投票。它沒有“表達意見”的慣用語，僅在實際進行正式投票時使用。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é votar em uma eleição ou votar em uma moção. Ele não tem o senso idiomático de "expressar uma opinião" e é usado apenas se uma votação formal for realmente realizada.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on äänestäminen vaaleissa tai äänestys esityksen puolesta. Sillä ei ole idiomaattista "mielipiteen ilmaisun" merkitystä, ja sitä käytetään vain, jos muodollinen äänestys todella suoritetaan.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1143,11 +1141,6 @@ In English slang, a "lat"rine is sometimes called a "shrine".</column>
       <column name="notes_ru">Суффикс для множественного числа этого слова зависит от того, где он использован, чтобы соотнести возможность использования его в языке(смотрите {-pu':n:suff}), для частей тела (смотрите {-Du':n:suff}), или вещей, а также чего-то другого (смотрите {-mey:n:suff}).</column>
       <column name="notes_zh_HK">這個單詞的複數形式的後綴取決於它是否用於指代具有語言能力的生物（請參閱{-pu':n:suff}），身體部位（請參見{-Du':n:suff}）或兩者都不是（請參見{-mey:n:suff}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämän sanan monikon loppuliite riippuu siitä, käytetäänkö sitä viittaamaan olentoja, jotka osaavat kieltä (ks.{-pu':n:suff}{-Du':n:suff}{-mey:n:suff} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The English translation of the sentence from {Star Trek Constellations:src} does not appear in the book, but in the author's annotations which was a separate document. The {'e':n:pro} was probably a mistake, but can be rationalized as a typo for {-'e':n:suff}.</column>
       <column name="components"></column>
@@ -1636,10 +1629,6 @@ Para dizer que algo não é mais {X:sen:nolink} do que outra coisa, {law'be':v:n
 Para dizer que duas coisas têm a mesma quantidade de alguma qualidade, também é possível usar {rap:v} ou {nIb:v} sem uma construção {law':v:nolink} / {puS:v:nolink}. (Veja esses verbos para obter detalhes.)
 
 As construções acima são normalmente usadas apenas para comparar coisas semelhantes. Para formar símiles, que comparam coisas que são diferentes, use {rur:v} em vez disso. Quando as construções acima são usadas para comparar coisas diferentes, geralmente fazem referência a símiles bem conhecidos. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #20. -->
-<!-- ERROR: Missing link #24. -->
 <column name="notes_fi">Tätä rakennetta käytetään muodostamaan vertailuja ja superlatiiveja. Kaksi vertailtavaa asiaa menee kahteen paikkaan. Superlatiivin muodostamiseksi {Hoch:n} käytetään toisessa paikassa.
 
 Muut antonyymiparit voidaan korvata {law':v}: n ja {puS:v:1}: n sijaan sananmuodon muodossa.
@@ -2659,7 +2648,6 @@ Detta ord kan användas för att hänvisa till resor med eller utan ett särskil
       <column name="notes_pt">{leng:v:nolink} funciona como {jaH:v}.[2]
 
 Essa palavra pode ser usada para se referir a viagens com ou sem um propósito especial. Se desejar indicar uma viagem em missão, use {ve':v} em vez disso.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">{leng:v:nolink} toimii kuten {jaH:v}.[2]
 
 Tätä sanaa voidaan käyttää viittaamaan matkustamiseen erityistarkoituksessa tai ilman sitä. Jos haluat ilmoittaa matkalla matkalla, käytä sen sijaan {ve':v}.[3] [AUTOTRANSLATED]</column>
@@ -3071,7 +3059,6 @@ Informationen zur seitlichen Bewegung ohne Drehung oder Fixierung an einem Punkt
 Para movimento em torno de um pivô em apenas uma direção, que para, consulte {lav:v}.[2]
 
 Para movimento para o lado sem rotação ou sendo fixado em um ponto, consulte {Dav:v:1}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä kuvaa edestakaisen liikkeen, joka on kiinnitetty toiseen päähän kääntöön. Kun sitä käytetään henkilöön, se tarkoittaa, että jalat pysyvät maassa, kun taas keho nojaa vasemmalle ja oikealle. Heilurin kaltainen rytminen värähtely olisi {lerchu':v}.[2]
 
 Katso liike kääntymän ympäri vain yhteen suuntaan, joka pysähtyy, katso {lav:v}.[2]
@@ -3779,7 +3766,6 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Слово для носа везде {ghIch:n}, но в некоторых регионах это слово используется в качестве альтернативы. [1, p.28] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">鼻子這個詞到處都是{ghIch:n}，但在某些地區，這個詞被用作替代。[1, p.28] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra para nariz é {ghIch:n} em todos os lugares, mas em algumas regiões esta palavra é usada como alternativa.[1, p.28] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Nenän sana on {ghIch:n} kaikkialla, mutta joillakin alueilla tätä sanaa käytetään vaihtoehtona.[1, p.28] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The regions where this word is used are not specified in {KGT:src}.[1, p.28]</column>
       <column name="components"></column>
@@ -3866,7 +3852,6 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Это может быть использовано в общем смысле (как противоположность к слову специфичный, особенный и пр). Например, {nav HablI' le'be'} может относиться к общему или коллективному факсу у кого-то на столе, как противоположность факс-машине на чьем-то столе.[2]</column>
       <column name="notes_zh_HK">可以按“一般”（相對於特定）的意義使用它。例如，{nav HablI' le'be'}可能是指辦公室前台的通用或共享傳真機，與某人的辦公桌上的傳真機相反。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado no sentido de "geral" (em oposição a específico). Por exemplo, {nav HablI' le'be'} pode se referir à máquina de fax geral ou compartilhada na recepção de um escritório, em oposição a uma máquina de fax na mesa de alguém.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä voidaan käyttää "yleisen" merkityksessä (toisin kuin erityinen). Esimerkiksi {nav HablI' le'be'} voi viitata toimiston vastaanotossa olevaan yleiseen tai jaettuun faksilaitteeseen, toisin kuin jonkun työpöydän faksilaitteeseen.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4241,7 +4226,6 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Это также называется {lIghonya':n:nolink}, как правило, старшими ораторами. [1, p.141-142] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso também é chamado {lIghonya':n:nolink}, geralmente por falantes mais antigos.[1, p.141-142] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä kutsutaan tyypillisesti vanhemmiksi puhujiksi {lIghonya':n:nolink}[1, p.141-142] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4415,7 +4399,6 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Это значит начать петь песню (певец - это субъект, а песня - это объект).[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著要開始唱歌（歌手是主體，而歌曲是目標）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa começar a cantar uma música (o cantor é o assunto e a música é o objeto).[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa laulun aloittamista (laulaja on aihe ja kappale on esine).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4648,7 +4631,6 @@ När en dator (eller datorsystem) är online sägs det vara "delning". Se {lIn:v
       <column name="notes_pt">Quando {A:sen:nolink} e {B:sen:nolink} compartilham {C:sen:nolink} um com o outro, a construção é {C lulIn A B je:sen:nolink} (ou {C lIn A B je:sen:nolink} se {C:sen:nolink} for plural). Neste caso, o falante não se compromete sobre se {A:sen:nolink} ou {B:sen:nolink} é quem decidiu compartilhar com o outro.[1]
 
 Quando um computador (ou sistema de computador) está online, ele está "compartilhando". Consulte {lIn:v:2}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Kun {A:sen:nolink} ja {B:sen:nolink} jakavat {C:sen:nolink} keskenään, rakenne on {C lulIn A B je:sen:nolink} (tai {C lIn A B je:sen:nolink}, jos {C:sen:nolink} on monikko). Tässä tapauksessa puhuja ei ole sitoutunut siihen, onko {A:sen:nolink} vai {B:sen:nolink} se, joka päätti jakaa jakamisen toisen kanssa.
 
 Kun tietokone (tai tietokonejärjestelmä) on verkossa, sen sanotaan olevan "jakamista". Katso {lIn:v:2}.[1] [AUTOTRANSLATED]</column>
@@ -5792,7 +5774,6 @@ Ainoastaan ​​naimisissa olevilla ihmisillä voisi olla kumppani, jota voidaa
       <column name="notes_ru">Это относится к волосам на верхней губе.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指上唇的頭髮。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a cabelos no lábio superior.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa hiuksiin ylähuulella[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6114,7 +6095,6 @@ Tarvittaessa matemaattisessa keskustelussa etuliitettä ei käytetä, vaikka nim
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Em Klingon, "espaço profundo" é chamado {logh Hop:n}, literalmente, "espaço distante" .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Klingonissa "syvä avaruus" on nimeltään {logh Hop:n}, kirjaimellisesti "kaukaa tilaa".[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6395,7 +6375,6 @@ Texten till {SkyBox 99:src} lyder:
 
 O texto de {SkyBox 99:src} diz:
 ▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on federaation avaruusaseman nimi.
 
 {SkyBox 99:src}: n teksti kuuluu:
@@ -7824,8 +7803,6 @@ Joillakin verbiliitteillä on tarkka merkitys käytettäessä tätä verbiä, ku
       <column name="definition_ru">ждать чего-то</column>
       <column name="definition_zh_HK">等待、等候</column>
       <column name="definition_pt">aguardar (por)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">odottaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8009,7 +7986,6 @@ Joillakin verbiliitteillä on tarkka merkitys käytettäessä tätä verbiä, ku
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2,nolink}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8184,7 +8160,6 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="notes_ru">Это слово и {Qugh:n:1h} в основном взаимозаменяемы. Чтобы сослаться на то, от чего, по всей вероятности, невозможно оправиться (например, потеря {pIraqSIS:n}), {lot:n:nolink} лучше.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞和{Qugh:n:1h}通常可以互換。提到某種不可能恢復的東西（例如{pIraqSIS:n}的損失，{lot:n:nolink}更好）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä sana ja {Qugh:n:1h} ovat enimmäkseen vaihdettavissa. {lot:n:nolink} on parempi viitata johonkin, josta todennäköisesti ei voi toipua (kuten {pIraqSIS:n}: n menetys).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Possibly a reference to the Biblical story of Lot.</column>
       <column name="components"></column>
@@ -8899,7 +8874,6 @@ This prefix is sometimes dropped for unknown reasons. While an error, this is of
 Иногда этот префикс опускается по неизвестным причинам. Хотя это и является ошибкой, это часто упускается из вида, когда ясность не является проблемой, за исключением некоторых ситуаций.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">{chaH:n} / {bIH:n}: {ghaH:n} / {'oH:n} = {lu-:v:pref,nolink}
 
 Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (määrittelemätön aihe) tekee heille jotain".
@@ -10071,10 +10045,6 @@ As áreas ao redor de um objeto são {Dung:n} (área acima), {bIng:n} (área aba
 No Klingon padrão, os substantivos locativos seguem pronomes, por exemplo, {jIH tlhop:n:nolink} "na minha frente". Porém, no dialeto da região de Sakrej ({Sa'Qej Sep:n}), os substantivos locativos recebem sufixos possessivos pronominais, por exemplo, {tlhopwIj:n:nolink} "minha área na frente" .[2] No entanto, os substantivos direcionais são uma exceção a essa regra e usam sufixos possessivos em todos os dialetos conhecidos , por exemplo, {chanwIj:n:nolink} "leste de mim, para o leste". Se o pronome completo for usado com um substantivo direcional, o pronome será enfatizado, por exemplo, {jIH chan:n:nolink} "leste de ME, para MEU leste" .[4]
 
 Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos. Por exemplo, pode-se dizer que {nIHwIj ghop:n@@nIH:n, -wIj:n, ghop:n} se refere à mão direita.[5] Os pontos entre as três direções cardeais são {tIng chan:n:nolink}, {'ev chan:n:nolink} e {tIng 'ev:n:nolink} ou {'ev tIng:n:nolink}. O {chan:n:nolink} sempre fica em segundo lugar nesse tipo de composto.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #17. -->
-<!-- ERROR: Missing link #20. -->
-<!-- ERROR: Missing link #22. -->
-<!-- ERROR: Missing link #28. -->
 <column name="notes_fi">Klingonin kompassissa on kolme pistettä eikä neljä: {chan:n} (itään), {'ev:n} (luoteeseen) ja {tIng:n} (lounaaseen).
 
 Kohteen ympärillä olevat alueet ovat sen {Dung:n} (yläpuolella oleva alue), {bIng:n} (ala alapuolella), {retlh:n} (ala vieressä), {tlhop:n:1} (edessä) ja {'em:n} (takana). Jotain objektin {retlh:n:nolink}-tiedostossa voi olla sen {poS:n} (vasen) tai {nIH:n} (oikea) puolella. Kahden kohteen välinen alue on niiden {joj:n} (välinen alue). Kohteen takana oleva alue on sen {Hay:n:2h}.

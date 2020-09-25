@@ -840,7 +840,6 @@
       <column name="notes_ru">Сам по себе, {naH:n} обоычно относится к {Du' naH:n} больше, чем {naH tlhab:n}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">{naH:n} viittaa sinänsä yleensä {Du' naH:n}: een {naH tlhab:n}: een.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -971,7 +970,6 @@
       <column name="notes_ru">Это относится к фруктам или овощам, выращенным не на ферме, в отличие от {Du' naH:n}.[1, p.89] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與{Du' naH:n}.[1, p.89]相反，這是指不在農場上種植的水果或蔬菜。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a frutas ou vegetais que não são cultivados em uma fazenda, ao contrário de {Du' naH:n}.[1, p.89] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä tarkoittaa hedelmiä tai vihanneksia, joita ei ole kasvatettu tilalla, toisin kuin {Du' naH:n}.[1, p.89] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{naH:n}, {tlhab:v}</column>
@@ -1117,7 +1115,6 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Один обычно {choptaH:v} на гайке, затем {tlhIS:v} кусочки скорлупы. [1, p.87] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Yksi tyypillisesti {choptaH:v} mutterissa, sitten {tlhIS:v} palan kuori.[1, p.87] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{naHlet:n}, {yub:n}</column>
@@ -1248,9 +1245,6 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот глагол может принимать содержимое или объект мечтания в качестве объекта.[2] Он используется только для сновидений, происходящих во сне, но не для фантазий или надежд на что-то, ни для галлюцинаций (см. {'ergh:v}) .[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞可以將夢的內容或主題作為對象。[2]僅用於在睡眠中發生的夢，不用於幻想或希望某件事，也不用於幻覺（請參見{'ergh:v}）。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo pode tomar o conteúdo ou assunto de um sonho como um objeto.[2] É usado apenas para o sonho que ocorre durante o sono, e não para fantasiar ou esperar por algo, nem para alucinações (para as quais ver {'ergh:v}) .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä verbi voi ottaa unelman sisällön tai aiheen esineeksi.[2]{'ergh:v}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1871,7 +1865,6 @@ Huomaa, että kun {naQ:v:nolink}: ta käytetään adjektiivisesti, se tarkoittaa
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode ter se originado com a pronúncia do dialeto {Qotmagh Sep:n} em {DaQ:n}.[1, p.154] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on voinut syntyä {Qotmagh Sep:n}-murteen ääntämällä sanaa {DaQ:n}.[1, p.154] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2189,7 +2182,6 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот глагол использован идиоматически с {'eb:n} чтобы описать упущенные или потерянные возможности.[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esse verbo é usado idiomaticamente com {'eb:n} para descrever oportunidades perdidas ou perdidas.[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä verbiä käytetään idiomaattisesti {'eb:n}: n kanssa kuvaamaan menetettyjä tai menetettyjä mahdollisuuksia.[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2839,7 +2831,6 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">{naychuq:v@@nay:v, -chuq:v} может быть понято, как брак между двумя женщинами.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{naychuq:v@@nay:v, -chuq:v} ymmärrettäisiin kahden naisen välisestä samaa sukupuolta olevasta avioliitosta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">MO confirmed at {qep'a' 4 (1997):src} that {Saw:v:nolink} and {nay:v:nolink} come from "sure" and "no" said with a Southern drawl.</column>
       <column name="components"></column>
@@ -3098,10 +3089,6 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Essa palavra refere-se a bicos de foguetes, mangueiras etc., e leva o sufixo {-mey:n}, pois a conexão com a parte do corpo foi perdida.[1] (Esta é uma exceção ao padrão geral de palavras para a parte do corpo que retém o sufixo {-Du':n} quando eles são usados ​​para se referir a outras coisas, à medida que o significado dessa palavra que não é parte do corpo se tornou lexicalizado.[2]) [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämä sana viittaa rakettien, letkujen jne. Suuttimiin ja vie monikon {-mey:n}, koska yhteys rungon osaan on kadonnut. kun niitä käytetään viittaamaan muihin asioihin, koska tämän sanan ei-ruumiinosa-merkitys on muuttunut leksikalisoituneeksi.[2])[1]{-Du':n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3231,7 +3218,6 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Значение данного слова очень похоже на {QaS:n:1h}, но включает в себя офицеров ({yaS:n}).[1]</column>
       <column name="notes_zh_HK">該詞的含義與{QaS:n:1h}相似，但其中包括官員（{yaS:n}）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O significado desta palavra é semelhante ao de {QaS:n:1h}, mas inclui oficiais ({yaS:n}).[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämän sanan merkitys on samanlainen kuin sanalla {QaS:n:1h}, mutta se sisältää upseerit ({yaS:n}).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word is grammatically singular and the correct pronoun is {ghaH:n}. In the first edition of the {paq'batlh:src}, the pronoun {chaH:n} was incorrectly used and the word was erroneously treated as grammatically plural in some places.[2]</column>
       <column name="components">{mang:n}</column>
@@ -3409,7 +3395,6 @@ Se en lektion om detta ord: {YouTube video:url:http://youtu.be/JyeePTUXVa8} [AUT
 Смотрите урок по этому слову: {YouTube video:url:http://youtu.be/JyeePTUXVa8}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kun tämä on verbi lauseobjektirakenteen toisessa virkkeessä, {'e':n:pro}- tai {net:n:pro}-sanoja ei käytetä.
 
 Katso oppitunti tästä sanasta: {YouTube video:url:http://youtu.be/JyeePTUXVa8}[1] [AUTOTRANSLATED]</column>
@@ -3692,9 +3677,6 @@ När det används för objekt som kommer i par, som strumpor och handskar, är m
 Gramaticamente, esse verbo funciona como {rur:v}. Pode-se dizer {A nel B:sen:nolink} "B corresponde a A" ou {nelchuq A B je:sen:nolink} "A e B correspondem um ao outro" .[2]
 
 Quando usado para objetos que vêm em pares, como meias e luvas, o sujeito é um item do par, e o objeto é o outro.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Tätä voidaan käyttää, jos sormenjäljet ​​vastaavat toisiaan (katso {nItlh Su'nIm:n} ja {nItlh Su'nIm vem:n}).
 
 Kieliopillisesti tämä verbi toimii kuten {rur:v}. Voidaan sanoa, että {A nel B:sen:nolink} "B vastaa A" tai {nelchuq A B je:sen:nolink} "A ja B vastaavat toisiaan".
@@ -4475,7 +4457,6 @@ Joskus {'e':n:pro} ja {-lu':v} käytetään {net:n:pro,nolink}: n sijaan. Ei ole
       <column name="notes_ru">Чтобы обозначить "десятки тысяч лет назад" или "десятки тысяч лет спустя", {ret:n} и {pIq:n} использованы в соответствующем месте {poH:n}.[1]</column>
       <column name="notes_zh_HK">為了表示“數万年前”或“從現在起數万年”，分別使用{ret:n}和{pIq:n}代替{poH:n}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Ilmaisemaan "kymmeniä tuhansia vuosia sitten" tai "kymmeniä tuhansia vuosia nyt" käytetään {ret:n} ja {pIq:n} vastaavasti {poH:n}: n sijasta.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{netlh:n:num}, {DIS:n:2}, {poH:n}</column>
@@ -4801,7 +4782,6 @@ Detta verb används för att uttrycka begreppet att två saker har samma mängd 
 O uso deste verbo não sugere de que maneira as coisas são idênticas, exceto quando é usado na seguinte construção.
 
 Este verbo é usado para expressar o conceito de que duas coisas têm a mesma quantidade de alguma qualidade, de maneira semelhante a {rap:v}, mas com a conotação de precisão. Se a qualidade for mensurável, a conotação é que as duas coisas têm exatamente a mesma quantidade dessa qualidade. Veja o exemplo abaixo.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{nIb:v:nolink}-aihe on identtinen
 
 Tämän verbin käyttö ei osoita, miten asiat ovat identtiset, paitsi jos sitä käytetään seuraavassa rakennelmassa.
@@ -4969,8 +4949,6 @@ Tätä verbiä käytetään ilmaisemaan käsite, että kahdella asialla on sama 
       <column name="definition_ru">право(сторона)</column>
       <column name="definition_zh_HK">右邊</column>
       <column name="definition_pt">direito (lado)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">oikea (puoli)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{poS:n}</column>
@@ -4982,8 +4960,6 @@ Tätä verbiä käytetään ilmaisemaan käsite, että kahdella asialla on sama 
       <column name="notes_ru">При обращении к левой и правой сторонам используются притяжательные суффиксы.[2] См. Также {lurgh:n} для других слов, связанных с пространственными направлениями. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos.[2] Consulte também {lurgh:n} para outras palavras relacionadas às direções espaciais. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Vasemmalle ja oikealle puolelle viitattaessa käytetään omistavia jälkiliitteitä.[2]{lurgh:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5202,7 +5178,6 @@ A line which was cut from {Star Trek Into Darkness:src} reveals that the person 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">牛奶很少自己消耗，但是某些生物的牛奶（例如{targh:n}）與其他成分結合在一起可以製成更複雜的飲料。[1, p.95] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O leite raramente é consumido por si só, mas o leite de algumas criaturas, como o {targh:n}, é combinado com outros ingredientes para criar bebidas mais complexas.[1, p.95] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Maitoa ei käytetä itsessään harvoin, mutta joidenkin olentojen, kuten {targh:n}, maito yhdistetään muiden ainesosien kanssa monimutkaisempien juomien luomiseksi.[1, p.95] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5590,7 +5565,6 @@ A line which was cut from {Star Trek Into Darkness:src} reveals that the person 
       <column name="notes_ru">Для использования такого устройства можно использовать {qIp:v}, {'uy:v} или {ngaH:v}, в зависимости от конкретного устройства. Перфоратор {ghID:v} бумага (или другой материал). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">要使用這樣的設備，取決於特定的設備，可以是{qIp:v}，{'uy:v}或{ngaH:v}。打孔器將對紙張（或其他材料）進行{ghID:v}處理。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tällaisen laitteen käyttämiseksi voi {qIp:v}, {'uy:v} tai {ngaH:v} sen, tietystä laitteesta riippuen. Rei'itin lävistää4 paperin (tai muun materiaalin).{ghID:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Reverse of "bodkin".</column>
       <column name="components"></column>
@@ -7352,7 +7326,6 @@ Katso selitys näiden sormiverbien käytöstä kohdasta {SIq:v}. [AUTOTRANSLATED
       <column name="notes_ru">Противопоставляется слову {veS:n}, которое относится к концепции ведения военных дейтсвий.[2, стр.47]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Compare isso com {veS:n}, que se refere ao conceito de guerra.[2, p.47] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kontrasti tämä {veS:n}: llä, joka viittaa sodankäynnin käsitteeseen.[2, p.47] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -9391,7 +9364,6 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_ru">Не путать с обществом в научном смысле, для которого есть слово {yej'an:n}.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Não confunda isso com uma sociedade no sentido acadêmico, chamado {yej'an:n}.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Älä sekoita tätä tieteellisessä mielessä yhteiskuntaan, jota kutsutaan {yej'an:n}.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -9652,7 +9624,6 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_ru">{nuH bey':n:nolink} имеет один {betleH:n}, один {naQjej:n} и один {ghop 'etlh:n}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{nuH bey':n:nolink}具有一個{betleH:n}，一個{naQjej:n}和一個{ghop 'etlh:n}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um {nuH bey':n:nolink} possui um {betleH:n}, um {naQjej:n} e um {ghop 'etlh:n}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">{nuH bey':n:nolink}: llä on yksi {betleH:n}, yksi {naQjej:n} ja yksi {ghop 'etlh:n}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">There is also a picture of one on {TKW p.124:src}.</column>
       <column name="components">{nuH:n:1}, {bey':n}</column>
@@ -10179,8 +10150,6 @@ Also, note that "What are your orders?" is expressed in Klingon as {chay' jura'?
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Tämä sana sopii lauseeseen siinä paikassa, johon vastaus vie .[1] Se toimii kuten pronomini kysymyksissä, joissa englanninkielisissä käännöksissä on "olla".
 
 Englanninkieliset kysymykset vastaavat usein luonnollisemmin Klingonin vaatimuksia. Jos haluat kysyä "mitä" -kysymyksen, harkitse sen sijaan komennon käyttämistä verbillä, kuten {ngu':v}. [2] Harkitse esimerkiksi {per:v}, {ja':v}, {Del:v} jne.
@@ -10536,7 +10505,6 @@ Huomaa myös, että "Mitkä ovat tilauksesi?" ilmaistaan ​​Klingonissa nimel
       <column name="notes_ru">Является укороченным вариантом фразы {nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v}</column>
       <column name="notes_zh_HK">這是在修剪過的克林崗語中。問“你說了什麼？”的語法方式會是{nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso está no Klingon cortado. A maneira gramatical de perguntar "O que você disse?" seria {nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on leikattu Klingon. Kieliopillinen tapa kysyä "Mitä sanoit?" olisi {nuq Dajatlh?: sen @@ nuq: ques, Da-: v, jatlh: v}{nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10592,8 +10560,6 @@ Watch a lesson on this word: {YouTube video:url:http://youtu.be/auqS6FR_RDE}</co
 Смотрите урок по этому слову: {YouTube video:url:http://youtu.be/auqS6FR_RDE}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä huutomerkki ei vastaa "hei". Tervehdytetyn osapuolen odotetaan yksinkertaisesti aloittavan puhumisen eikä palauttavan tervehdyksen
 
 Huomaa, että tämä huutomerkki on leikattu klingon. Kieliopillinen tapa kysyä "Mitä haluat?" olisi {nuq DaneH?: sen @@ nuq: ques, Da-: v, neH: v} [2]
@@ -10944,7 +10910,6 @@ Katso oppitunti tästä sanasta: {YouTube video:url:http://youtu.be/auqS6FR_RDE}
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Quando essa palavra é plural, ela se concentra mais no grupo como um todo do que nos indivíduos. Portanto, {nuvpu':n@@nuv:n, -pu':n} provavelmente seria traduzido como "pessoas" (em vez de "pessoas"), mas essa não é uma regra estrita.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kun tämä sana on monikko, se keskittyy enemmän koko ryhmään kuin yksilöihin. Joten {nuvpu':n@@nuv:n, -pu':n} käännetään todennäköisesti "ihmisiksi" (eikä "henkilöiksi"), mutta tämä ei ole tiukka sääntö.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

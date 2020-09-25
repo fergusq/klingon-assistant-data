@@ -77,7 +77,6 @@ Suffixet {-Daq:n} markerar målet. [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra é usada quando se refere a disruptores ({nISwI':n}) e é distinta de {baH:v}. O objeto desse verbo é o "raio de energia" {tIH:n:1} que é acionado, por exemplo, {nISwI' tIH bach:sen@@nISwI':n, tIH:n:1, bach:v}. Na prática, a palavra {tIH:n:1,nolink} geralmente é descartada, e simplesmente se diz {nISwI 'bach:sen@@nISwI':n, bach:v}.[2]
 
 O sufixo {-Daq:n} marca o destino.</column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tätä sanaa käytetään viitattaessa häiriötekijöihin ({nISwI':n}), ja se eroaa {baH:v}-sanasta. Tämän verbin kohde on {tIH:n:1} "energiasäde", joka laukaistaan, esimerkiksi {nISwI' tIH bach:sen@@nISwI':n, tIH:n:1, bach:v}. Käytännössä sana {tIH:n:1,nolink} pudotetaan yleisesti, ja sanotaan yksinkertaisesti {nISwI' bach:sen@@nISwI':n, bach:v} sen sijaan.
 
 Pääte {-Daq:n} merkitsee kohteen.[2] [AUTOTRANSLATED]</column>
@@ -552,7 +551,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYM
       <column name="notes_ru">В одной традиционной форме поединка цель каждого из бойцов-мужчин состоит в том, чтобы «завоевать благосклонность женщины» ({vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}, буквально «заработать, чтобы женщина уважала его»). [1, p.69] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在一種傳統的對決形式中，每個男性戰鬥人員的目標都是“贏得女人的青睞”（{vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}，字面意思是“贏得女人的尊敬”）。[1, p.69] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Numa forma tradicional de duelo, o objetivo de cada um dos combatentes do sexo masculino é "conquistar o favor de uma mulher" ({vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}, literalmente, "fazer com que a mulher o respeite").[1, p.69] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Yhdessä perinteisessä kaksintaistelumuodossa jokaisen miespuolisen taistelijan tavoitteena on "voittaa naisen suosio" ({vuv be' 'e' baj:sen@@vuv:v, be':n, 'e':n, baj:v}, kirjaimellisesti "ansaita, että nainen kunnioittaa häntä").[1, p.69] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A "badge" is something that has to be earned.</column>
       <column name="components"></column>
@@ -901,7 +899,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYM
       <column name="notes_ru">Они обычно характерны для пары, и почти никогда не произносятся, если пара не одинока. Имя питомца формируется добавлением суффикса {-oy:n:suff} к существительному. [1, p.199] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這些通常是一對夫婦特有的，除非一對夫婦獨自一人，否則幾乎不會說出來。寵物名是通過將名詞後綴{-oy:n:suff}添加到名詞而形成的.[1, p.199] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Geralmente são específicos para um casal e quase nunca são pronunciados, a menos que o casal esteja sozinho. Um apelido carinhoso é formado pela adição do sufixo {-oy:n:suff} a um substantivo.[1, p.199]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Nämä ovat yleensä pariskunnalle ominaisia, ja melkein koskaan lausutaan, elleivät pariskunnat ole yksin. Lemmikkieläinten nimi muodostetaan lisäämällä substantiiviin loppuliite {-oy:n:suff}.[1, p.199] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{bang:n}, {pong:n}</column>
@@ -1722,7 +1719,6 @@ In Japanese, "baka" means "fool" or "idiot".</column>
       <column name="notes_ru">Это слово относится к важному, более общему, философскому понятию, в сравнении с {quv:n}.[2]</column>
       <column name="notes_zh_HK">與{quv:n}.[2]相比，此詞指的是更宏大，更籠統的哲學概念。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra refere-se a um conceito filosófico mais grandioso, mais geral, em comparação com {quv:n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana viittaa suurempaan, yleisempään filosofiseen käsitteeseen verrattuna {quv:n}: een.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Reverse of {tlhab:n}.</column>
       <column name="components"></column>
@@ -3327,7 +3323,6 @@ To say "when I was X years old", the construction is, for example, {qaStaHvIS DI
 Чтобы сказать "Когда мне было X лет", можно, например использовать следующую конструкцию, {qaStaHvIS DISwIj javDIch...:sen@@qaS:v, -taH:v, -vIS:v, DIS:n:2, -wIj:n, jav:n:1, -DIch:n} "Когда мне было шесть лет...".[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Klingonissa sen sijaan, että sanottaisiin "Olen X-vuotias", ihmisen ikä ilmaistaan ​​sanomalla "Olen syntynyt X vuotta sitten". [2]
 
 Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...:sen@@qaS:v, -taH:v, -vIS:v, DIS:n:2, -wIj:n, jav:n:1, -DIch:n} "Kun olin kuusi vuotta vanha ...". Syntymäpäivän ja ensimmäisen syntymäpäivän välistä aikaa pidetään nolla-vuotena[4] [AUTOTRANSLATED]</column>
@@ -5357,7 +5352,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/NpFDKTzIN
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n:nolink}, {'egh:n}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Instead of "ray", which is "a drop of golden sun", this is a "beam".</column>
       <column name="components"></column>
@@ -5628,7 +5622,6 @@ För tiotals miljoner kunde man kombinera {maH:n:2,num} med {'uy':n:num,nolink} 
       <column name="notes_pt">Observe que a palavra klingon para "cem mil" é independente das palavras para "cem" ({vatlh:n:num}) e "mil" ({SaD:n:num}). O Klingon {bIp:n:num,nolink} é equivalente ao "lakh" usado nos sistemas de numeração do sul da Ásia na Terra.
 
 Para dezenas de milhões, pode-se combinar {maH:n:2,num} com {'uy':n:num,nolink} ou {vatlh:n:num} com {bIp:n:num}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Huomaa, että klingonilainen sana "sata tuhatta" on riippumaton sanoista "sata" ({vatlh:n:num}) ja "tuhat" ({SaD:n:num}). Klingon {bIp:n:num,nolink} on sama kuin "lakh", jota käytetään maan Aasian Aasian numerointijärjestelmissä.
 
 Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolink}: een tai {vatlh:n:num} {bIp:n:num}: n kanssa.[2] [AUTOTRANSLATED]</column>
@@ -5878,8 +5871,6 @@ Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolin
           <column name="definition_ru">Душевая комната</column>
           <column name="definition_zh_HK">沖涼房、淋浴房</column>
           <column name="definition_pt">banheiro</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">suihkuhuone</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -5977,7 +5968,6 @@ Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolin
           <column name="notes_ru">Солоноватая вода - лучшая вода для чая. [1, p.96] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">苦鹹水是最好的茶水。[1, p.96] [AUTOTRANSLATED]</column>
           <column name="notes_pt">A água salobra é a melhor água para o chá.[1, p.96] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Suolainen vesi on paras teetä varten tarkoitettu vesi[1, p.96] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{bIQ:n}, {na':v:1}</column>
@@ -6110,7 +6100,6 @@ Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolin
           <column name="notes_ru">Охватывает большинство животных, что живут в море, таких как дельфины, киты, рыба, а также осьминоги, но не животных поменьше таких как креветки или водяные жуки, или амфибии. Каждый {ghotI':n} является {bIQDep:n:nolink}, но не каждый {bIQDep:n:nolink} является {ghotI':n:nolink}.[2]</column>
           <column name="notes_zh_HK">它涵蓋了大多數生活在海洋中的動物，例如海豚，鯨魚，魚類和章魚，但不包括較小的動物，例如蝦或水蟲或兩棲動物。每個{ghotI':n}都是{bIQDep:n:nolink}，但不是每個{bIQDep:n:nolink}都是{ghotI':n:nolink}.[2] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Isso abrange a maioria dos animais que vivem no mar, como golfinhos, baleias, peixes e polvos, mas não animais menores, como camarões ou insetos aquáticos, ou anfíbios. Todo {ghotI':n} é um {bIQDep:n:nolink}, mas nem todo {bIQDep:n:nolink} é um {ghotI':n:nolink}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä koskee useimpia meressä eläviä eläimiä, kuten delfiinejä, valaita, kaloja ja mustekaloja, mutta ei pienempiä eläimiä, kuten katkarapuja, vesibugeja tai sammakkoeläimiä. Jokainen {ghotI':n} on {bIQDep:n:nolink}, mutta jokainen {bIQDep:n:nolink} ei ole {ghotI':n:nolink}.[2] [AUTOTRANSLATED]</column>
           <column name="hidden_notes">This was defined as "fish" in {KGT:src}[1], but was clarified to refer to any sea or water-based creature later.[2]</column>
           <column name="components">{bIQ:n}, {Dep:n}</column>
@@ -6894,7 +6883,6 @@ It was clarified during the Q &amp; A session at {qep'a' 27 (2020):src} that the
       <column name="notes_ru">Это блюдо может быть сделано из дыхательного органа любого из множества животных. Несмотря на то, что это блюдо может состоять из кусочков легкого из более чем одного брегита, его никогда не называют «бредит легкими».[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這道菜可以用許多野獸的呼吸器官製成。即使這道菜可能由來自多個布雷吉特的肺碎片組成，也從未被稱為“布雷吉特肺”。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este prato pode ser feito a partir do órgão respiratório de qualquer um dos vários animais. Mesmo que esse prato possa consistir em pedaços de pulmão de mais de um bregit, nunca é chamado de "pulmão bregit".[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä ruokalaji voidaan valmistaa minkä tahansa pedon hengityselimestä. Vaikka tämä ruokalaji voi koostua useamman kuin yhden bregitin keuhkopaloista, sitä ei koskaan kutsutaan "bregit-keuhkoiksi".[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{bIreQ:n}, {tagh:n}</column>
@@ -7319,8 +7307,6 @@ On {KGT p.132:src}, the word is written as {tIb:v:nolink} instead of {bIt:v:noli
       <column name="definition_ru">Нарушать правила</column>
       <column name="definition_zh_HK">違章、違紀</column>
       <column name="definition_pt">quebrar (regras)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">rikkoa (sääntöjä)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pab:v}</column>
@@ -7496,8 +7482,6 @@ On {KGT p.132:src}, the word is written as {tIb:v:nolink} instead of {bIt:v:noli
       <column name="definition_ru">Отметать, выметать (прочь)</column>
       <column name="definition_zh_HK">掃走</column>
       <column name="definition_pt">varrer (para longe)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">lakaista (pois)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -10448,7 +10432,6 @@ Story of the Promise säger att:
 
 A história da promessa afirma que:
 ▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Planeetta Klingonin imperiumissa. Klingonin mytologian mukaan {qeylIS'e' lIjlaHbe'bogh vay':n:name} palaa tänne.
 
 Lupauksen tarinassa todetaan, että:
@@ -11426,7 +11409,6 @@ Detta kan hänvisa till en "kategori" (dvs en relaterad grupp) av {DuH:n} i en {
       <column name="notes_pt">Consulte {Hung buv rav:n} para obter um exemplo de como falar sobre informações classificadas.
 
 Isso pode se referir a uma "categoria" (ou seja, um grupo relacionado) de {DuH:n} em uma {SeHlaw:n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Katso {Hung buv rav:n}-esimerkki siitä, miten puhutaan turvaluokitellusta tiedosta.
 
 Tämä voi viitata {DuH:n}: n "luokkaan" (eli siihen liittyvään ryhmään) {SeHlaw:n}: ssa.[2] [AUTOTRANSLATED]</column>
@@ -11516,7 +11498,6 @@ Tämä voi viitata {DuH:n}: n "luokkaan" (eli siihen liittyvään ryhmään) {Se
       <column name="notes_ru">Это нельзя использовать, чтобы сказать человек "полон"(т.е., не голоден).[2]</column>
       <column name="notes_zh_HK">這不能用來說一個人“飽”（即不餓）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso não pode ser usado para dizer que uma pessoa está "cheia" (ou seja, sem fome).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä ei voida käyttää sanomaan, että henkilö on "täynnä" (eli ei nälkäinen).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Cantonese Chinese for "cup" (杯).</column>
       <column name="components"></column>

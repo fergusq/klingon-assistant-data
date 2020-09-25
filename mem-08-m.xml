@@ -676,7 +676,6 @@ Pakollinen verbin etuliite, kun kohde on {maH:n:1h,nolink}, on {gho-:v:pref}. [A
       <column name="notes_ru">Это большая миска, используемая для подачи {chatlh:n:1}, который обедающий вливает в {Duq:n} чтобы есть.[1, стр.99]</column>
       <column name="notes_zh_HK">這是一個大碗，用來盛裝{chatlh:n:1}，食客倒入{Duq:n}中食用。[1, p.99] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma tigela grande, usada para servir {chatlh:n:1}, que os clientes despejam em um {Duq:n} para comer.[1, p.99] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on iso kulho, jota käytetään {chatlh:n:1}: n tarjoilemiseen, jonka ruokalaiset kaatavat {Duq:n}: een syömään.[1, p.99] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Ten-pin bowling" is a popular game.</column>
       <column name="components"></column>
@@ -732,7 +731,6 @@ Detta ord har inte känslan av "god" som används i en hälsning, till exempel "
       <column name="notes_pt">Esta é uma exclamação que expressa satisfação. Para ver o verbo (ou adjetivo) que significa "ser bom", consulte {QaQ:v}.
 
 Essa palavra não tem o sentido de "bom" quando usada em uma saudação, como "bom dia" ou "boa noite". Embora haja uma expressão idiomática em Klingon, {maj ram:sen:nolink}, que é usada de maneira semelhante a "boa noite", na verdade significa algo como "Bom, (é) noite" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on huutomerkki, joka ilmaisee tyytyväisyyden. Katso verbi (tai adjektiivi), joka tarkoittaa "olla hyvä", katso {QaQ:v}.
 
 Tällä sanalla ei ole sanaa "hyvä", jota käytetään tervehdyksessä, kuten "hyvää huomenta" tai "hyvää yötä". Vaikka Klingonissa on idiomaattinen ilmaisu {maj ram:sen:nolink}, jota käytetään samalla tavalla kuin "hyvää yötä", se tarkoittaa itse asiassa jotain "hyvää, (se on) yötä".[2] [AUTOTRANSLATED]</column>
@@ -1042,7 +1040,6 @@ The writers who came up with this apparently looked up words for "good" and "nig
       <column name="notes_ru">Слово {mangpu':n@@mang:n, -pu':n} редко используется, и несет смысловую нагрузку, что есть люди, которые создают группу. Слово {negh:n} фокусируется на группе, как на подразделении. {QaS:n:1h} похож на {negh:n:nolink}, но исключает офицеров.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">單詞{mangpu':n@@mang:n, -pu':n}很少使用，帶有這樣的概念，即由個人組成該組。 {negh:n}將小組作為一個單元來關注。 {QaS:n:1h}與{negh:n:nolink}類似，但不包括人員。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra {mangpu':n@@mang:n, -pu':n} é raramente usada e carrega a noção de que há indivíduos que compõem o grupo. O {negh:n} foca o grupo como uma unidade. {QaS:n:1h} é semelhante ao {negh:n:nolink}, mas exclui oficiais.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Sanaa {mangpu':n@@mang:n, -pu':n} käytetään harvoin, ja siinä on käsitys, että ryhmän muodostavat yksilöt. {negh:n} keskittyy ryhmään yhtenä kokonaisuutena. {QaS:n:1h} on samanlainen kuin {negh:n:nolink}, mutta ei sisällä virkamiehiä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{negh:n}</column>
@@ -1173,7 +1170,6 @@ The writers who came up with this apparently looked up words for "good" and "nig
       <column name="notes_ru">Это место, где средний / дальний транспорт прибывает и уходит.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是中長途運輸到達和離開的地方。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um local onde o transporte de médio / longo alcance chega e parte.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on paikka, jonne keski- / pitkän matkan kuljetus saapuu ja lähtee[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2322,7 +2318,6 @@ This was used to translate "print" or "output" (i.e., display something to the u
       <column name="notes_ru">Слово для печени везде {chej:n}, но в некоторых регионах это слово используется в качестве альтернативы. [1, p.28] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">肝臟這個詞到處都是{chej:n}，但是在某些地區，這個詞被用作替代。[1, p.28] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra fígado é {chej:n} em todos os lugares, mas em algumas regiões essa palavra é usada como alternativa.[1, p.28] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Maksan sana on {chej:n} kaikkialla, mutta joillakin alueilla tätä sanaa käytetään vaihtoehtona.[1, p.28] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The regions where this word is used are not specified in {KGT:src}.[1, p.28]</column>
       <column name="components"></column>
@@ -4406,7 +4401,6 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru">Если нет объекта, тогда субъект это вещь, которая горит, например {meQtaHbogh qachDaq Suv qoH neH.:sen}[2] Если есть объект, тогда субъект сжигает объект, например., {to'waQ meQ vutwI'.}[3] {meQ:v:nolink} может также использоваться для прикладных вещей, например, {Ha'DIbaHmey meQ Sop 'e' tIv tera'nganpu'@@Ha'DIbaH:n:1, -mey:n, meQ:v, Sop:v, 'e':n, tIv:v, tera'ngan:n, -pu':n}.[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Jos kohdetta ei ole, aihe on asia, joka polttaa, esim. {meQtaHbogh qachDaq Suv qoH neH.:sen}[2] Jos on objekti, kohde polttaa objektia, esim. {to'waQ meQ vutwI'.}[3] {meQ:v:nolink} voidaan käyttää myös adjektiivisesti, esim. {Ha'DIbaHmey meQ Sop 'e' tIv tera'nganpu'@@Ha'DIbaH:n:1, -mey:n, meQ:v, Sop:v, 'e':n, tIv:v, tera'ngan:n, -pu':n}.DONOTTRANSLATE6[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the sentence from {CK:src}, {tIv:sen:nolink} should have been {lutIv:sen:nolink} since {tera'nganpu':n:nolink} is plural.</column>
       <column name="components"></column>
@@ -4821,7 +4815,6 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">與{So'Ha':v:2,nolink}一樣，這意味著進行解密的人可以提前知道自己在做什麼，並且不會破解代碼。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Assim como no {So'Ha':v:2,nolink}, isso implica que a pessoa que está executando a descriptografia sabe o que está fazendo com antecedência e não está decifrando um código.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kuten {So'Ha':v:2,nolink}: n kohdalla, tämä tarkoittaa, että salauksen salauksen tekijä tietää, mitä hän tekee etuajassa eikä halkeile koodia.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{meS:v:2}, {-Ha':v}</column>
@@ -4908,7 +4901,6 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru">Когда используется в качестве команды, это слово значит прекратить что-либо делать. Это слово не используется чтобы приказать что-либо выключить.[2]</column>
       <column name="notes_zh_HK">當用作命令時，此詞表示停止做某事。它不會用於停止設備（例如引擎）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando usada como comando, essa palavra significa parar de fazer algo. Não seria usado para parar um dispositivo (como um motor).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Kun sitä käytetään komentona, tämä sana tarkoittaa lopettaa tekemästä jotain. Sitä ei käytetä laitteen (kuten moottorin) pysäyttämiseen[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The only object this verb has taken in canon is {'e':n:pro}, and in every case the subject of {mev:v:nolink} has been identical to the subject of the sentence-as-object. It seems that the subject is what stops or ceases, even when there is an object. It is notable that {mevmoH:v@@mev:v, -moH:v} appears on {KGT p.154:src} as "cause [someone] to stop".</column>
       <column name="components"></column>
@@ -5078,8 +5070,6 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="definition_ru">квадратная (форма) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">正方形</column>
       <column name="definition_pt">quadrado (forma)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">neliö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5101,7 +5091,6 @@ Detta ord kan också hänvisa till "diamant" -dräkten i ett kortlek med spelkor
       <column name="notes_pt">Este é tecnicamente um {letbaQ HoS:n@@letbaQ:n, HoS:v}.
 
 Esta palavra também pode se referir ao naipe de "diamante" em um baralho de cartas (consulte {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on teknisesti {letbaQ HoS:n@@letbaQ:n, HoS:v}.
 
 Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
@@ -6347,8 +6336,6 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="definition_ru">(курительная) трубка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">煙斗</column>
       <column name="definition_pt">cachimbo</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">(tupakka)piippu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6403,7 +6390,6 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Это относится к умственной путанице.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指精神錯亂。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à confusão mental.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa henkiseen sekaannukseen[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Mish" mash.</column>
       <column name="components"></column>
@@ -6492,7 +6478,6 @@ This was clarified to mean "mental confusion" at {qep'a' 24 (2017):src}.</column
           <column name="notes_ru">Это относится к умственной путанице.[2] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這是指精神錯亂。[2] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Isso se refere à confusão mental.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa henkiseen sekaannukseen[2] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{mIS:v}, {-moH:v}</column>
@@ -8220,10 +8205,6 @@ See under {wot:n} for the verb suffixes.</column>
 Смотрите {wot:n} для глагольных суффиксов.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonissa verbien etuliitteet osoittavat sekä lauseen kohteen että kohteen.
 
 Katso verbi-etuliitteet kunkin seuraavan pronominin alla:
@@ -9036,7 +9017,6 @@ Observera att verbet som används för ett hjärtslag är {joq:v}. [AUTOTRANSLAT
 Também é usado para bater {'In:n} (compare com {tlhaw':v} e {weq:v}) .[1, p.75]
 
 Observe que o verbo usado para uma pulsação é {joq:v}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä käytetään ilmoittamaan kaksintaistelun alkamisesta.[1, p.68]
 
 Sitä käytetään myös {'In:n}: n voittamiseen (vertaa {tlhaw':v} ja {weq:v}).
@@ -9374,7 +9354,6 @@ Huomaa, että sydämenlyönnissä käytetty verbi on {joq:v}.[1, p.75] [AUTOTRAN
       <column name="definition_ru">единица площади (27 квадратных {'ujmey:n @@'uj:n, -mey:n}) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">面積單位（27平方{'ujmey:n@@'uj:n, -mey:n}） [AUTOTRANSLATED]</column>
       <column name="definition_pt">unidade de área (27 quadrados {'ujmey:n@@'uj:n, -mey:n})</column>
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">eräs pinta-alan yksikkö (27 neliö-{'uj:n}:ia})</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -9919,7 +9898,6 @@ Den morskanska dialekten sätter inte suffixet {-'e':n:suff} på ämnet substant
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Tämä on planeetta, josta on tullut osa Klingonin imperiumia. Tällä planeetalla klingonin murre on korvannut kaikki, paitsi alun perin puhutut kielet, [2, p.17]
 
 Morskanin murteessa {tlh:sen:nolink} tavun lopussa lausutaan kuten "ts" (kuten "kissoilla"), kun taas alussa se lausutaan kuten {ghl:sen:nolink}. {H:sen:nolink} tavujen alussa lausutaan kuten "h" (kuten "hattu"), kun taas sitä ei lausuta lainkaan tavujen päissä. Tavujen alussa oleva {Q:sen:nolink} lausutaan samalla tavoin kuin tavallinen {H:sen:nolink}.[2, p.22]
@@ -10108,7 +10086,6 @@ Detta verb används också i musik ({much:v:2}) och kampsport ({much:v:3}). [AUT
       <column name="notes_pt">Em um contexto geral, esta palavra significa "apresentar", como em "apresentar um presente" a alguém.[2]
 
 Este verbo também é usado em música ({much:v:2}) e artes marciais ({much:v:3}). [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Yleisesti ottaen tämä sana tarkoittaa "esittämistä", kuten "lahjan esittäminen" jollekin.
 
 Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({much:v:3}).[2] [AUTOTRANSLATED]</column>
@@ -10543,7 +10520,6 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_ru">Слово для погоды, означающее состояние атмосферы, это тоже самое слово, как и для атмосферы (смотрите {muD:n:2}).[2]</column>
       <column name="notes_zh_HK">天氣一詞，即大氣層的狀態，與大氣層本身是相同的詞（請參閱{muD:n:2}）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra clima, que significa o estado da atmosfera, é a mesma que para a própria atmosfera (consulte {muD:n:2}).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Sääsana, joka tarkoittaa ilmakehän tilaa, on sama sana kuin itse ilmakehässä (katso {muD:n:2}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10587,7 +10563,6 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">天氣一詞，即大氣狀態，與大氣本身是相同的詞（請參閱{muD:n:1}）。當查詢特定時間和/或地點的天氣條件時，使用表達式{muD Dotlh:n}。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra clima, que significa o estado da atmosfera, é a mesma palavra que a atmosfera em si (consulte {muD:n:1}). Ao indagar sobre as condições meteorológicas em um horário e / ou local específico, a expressão {muD Dotlh:n} é usada.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Sääsana, joka tarkoittaa ilmakehän tilaa, on sama sana kuin itse ilmakehässä (katso {muD:n:1}). Kun tiedustellaan sääolosuhteita tiettynä ajankohtana ja / tai paikassa, käytetään ilmaisua {muD Dotlh:n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Mood".</column>
       <column name="components"></column>
@@ -10631,7 +10606,6 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
           <column name="notes_ru"></column>
           <column name="notes_zh_HK">在大氣層狀態下，克林崗語中的“天氣”一詞只是{muD:n:2}，與大氣層本身（{muD:n:1}）相同。查詢特定時間和/或地點的天氣條件時使用表達式{muD Dotlh:n:nolink}。[2] [AUTOTRANSLATED]</column>
           <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Klingonin sana "sää" ilmakehän tilassa on vain {muD:n:2}, sama sana kuin itse ilmakehälle ({muD:n:1}). Ilmaisua {muD Dotlh:n:nolink} käytetään, kun tiedustellaan sääolosuhteita tiettynä aikana ja / tai paikassa.[2] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{muD:n:2}, {Dotlh:n}</column>
@@ -11149,7 +11123,6 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_ru">Не путайте это с {waH:v:2}, что означает «вкус» в том смысле, что вы пробуете пищу, чтобы увидеть, правильно ли она приготовлена, или определить, нравится ли она вам.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Älä sekoita tätä {waH:v:2}: een, mikä tarkoittaa "makua" siinä mielessä, että kokeilet ruokaa sen selvittämiseksi, onko se valmistettu oikein, tai sen selvittämiseksi, pidetäänkö siitä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

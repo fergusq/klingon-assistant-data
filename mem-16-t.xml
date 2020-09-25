@@ -616,7 +616,6 @@ Harkitse verbiliitteen {-choH:v:suff} sijaan, että käytät verbiä {tagh:v:nol
       <column name="notes_ru">Это относится к кораблю в космосе, который повернул нос вниз. Поворот на отрицательный угол в 90 градусов означал бы, что нос корабля был направлен вниз относительно его предыдущей ориентации.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指太空中的船頭向下旋轉的船隻。旋轉90度的負角將意味著船頭相對於先前的方向筆直指向下方。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma nave espacial que girou o nariz para baixo. Uma rotação em um ângulo negativo de 90 graus significaria que o nariz do navio estava apontado diretamente para baixo em relação à sua orientação anterior.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa avaruudessa olevaan alukseen, joka on pyörittänyt nenäänsä alaspäin. 90 asteen negatiivisen kulman kiertäminen tarkoittaisi, että aluksen nenä osoitti suoraan alaspäin edelliseen suuntaan nähden.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -695,21 +694,6 @@ Watch a performance of these lines by {Brian Rivera:url:http://www.imdb.com/name
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #17. -->
-<!-- ERROR: Missing link #18. -->
-<!-- ERROR: Missing link #19. -->
-<!-- ERROR: Missing link #20. -->
-<!-- ERROR: Missing link #21. -->
-<!-- ERROR: Missing link #31. -->
 <column name="notes_fi">Tämä on kuuluisa linja {Hamlet:n:name}: ltä.
 
 Koko III, kohtaus I, yksinäinen saarnaus menee seuraavasti:
@@ -968,7 +952,6 @@ Katso näiden linjojen esitys artistilta {Brian Rivera:url:http://www.imdb.com/n
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">角度以{lawrI':n}（或在更遠的古代或傳統文獻中為{law:n}）測量。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os ângulos são medidos em {lawrI':n} (ou {law:n} nos tempos mais antigos ou em documentos tradicionais).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kulmat mitataan muodossa {lawrI':n} (tai {law:n} muinaisina aikoina tai perinteisissä asiakirjoissa).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1540,8 +1523,6 @@ Ett svagt ljus skulle vara {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (medan {
       <column name="notes_pt">Para "luz" no sentido de "brilho", por exemplo, os olhos de alguém sendo "sensíveis à luz", considere {wovtaHghach:n@@wov:v, -taH:v, -ghach:v} em vez disso.[1]
 
 Uma luz fraca seria {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (enquanto {tamghay Hurgh:n@@tamghay:n, Hurgh:v} soa estranho) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Jos esimerkiksi "valo" tarkoittaa "kirkkautta", esimerkiksi jos jonkun silmät ovat "herkkiä valolle", harkitse sen sijaan {wovtaHghach:n@@wov:v, -taH:v, -ghach:v}.
 
 Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tamghay Hurgh:n@@tamghay:n, Hurgh:v} kuulostaa oudolta).[1][2] [AUTOTRANSLATED]</column>
@@ -1649,22 +1630,6 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #15. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #19. -->
 <column name="notes_fi">Tunnettuja sanoja elementeille ovat:
 ▶ KÄÄNTÄMINEN 1
 ▶ KÄÄNNÖT2
@@ -2090,7 +2055,6 @@ Denna dialekt är typ halvvägs mellan standarddialekten och {Qotmagh Sep:n}-dia
       <column name="notes_pt">Os residentes desta região superam em muito os residentes de {Qotmagh Sep:n}.
 
 Este dialeto é uma espécie de meio caminho entre o dialeto padrão e o dialeto {Qotmagh Sep:n}. Os alto-falantes substituem {b:sen:nolink} por {mb:sen:nolink} e {D:sen:nolink} por {ND:sen:nolink}.[1, p.22] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämän alueen asukkaat ovat huomattavasti enemmän kuin {Qotmagh Sep:n}-asukkaat.
 
 Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-murteen välillä. Kaiuttimet korvaavat {b:sen:nolink}: lla {mb:sen:nolink}: n ja {D:sen:nolink}: lla {ND:sen:nolink}: lla.[1, p.22] [AUTOTRANSLATED]</column>
@@ -2352,7 +2316,6 @@ Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-m
       <column name="notes_ru">Это своего рода животное, чем-то напоминающее собаку. Он популярен как домашнее животное, но его сердце также считается деликатесом.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種有點像狗的動物。它作為寵物很受歡迎，但它的心臟也被視為美味佳餚。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um tipo de animal que lembra um cachorro. É popular como animal de estimação, mas seu coração também é considerado uma iguaria.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on eräänlainen eläin, joka muistuttaa hieman koiraa. Se on suosittu lemmikkinä, mutta sen sydäntä pidetään myös herkkuna[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2873,7 +2836,6 @@ Marc Okrand noted that he can't answer yet the question of whether an airlane (a
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">克林崗人（或多或少）是婚禮上“伴郎”。通常將其翻譯為“持劍者”，但是從詞源上講這是不正確的。它是一個舊單詞的凍結形式，經過某種程度的修改，顯然類似於{taywI'yan:n:nolink}，與儀式或儀式{tay:n:2}和劍{yan:n}有關，但舊語法結構的細節未知。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Contraparte Klingon (mais ou menos) do "padrinho" em um casamento. Isso normalmente é traduzido como "portador da espada", mas etimologicamente isso não está certo. É uma forma congelada e um tanto modificada de uma palavra antiga que aparentemente era algo como {taywI'yan:n:nolink}, tendo algo a ver com cerimônia ou ritual {tay:n:2} e espada {yan:n}, mas os detalhes da antiga construção gramatical são desconhecidos.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Klingonin vastine (enemmän tai vähemmän) "parhaan miehen" häät. Tämä käännetään yleensä "miekkakantajaksi", mutta etymologisesti se ei ole aivan oikein. Se on jäädytetty ja hieman muunnettu muoto vanhasta sanasta, joka oli ilmeisesti jotain {taywI'yan:n:nolink}, jolla oli jotain tekemistä seremonian tai rituaalin {tay:n:2} ja miekan {yan:n} kanssa, mutta vanhan kielioppirakenteen yksityiskohtia ei tunneta.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3321,7 +3283,6 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="notes_ru">Планета в империи клингонов, где происходит вступление в орден Бат'лет.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗帝國的一顆行星，在那兒，被引入巴蒂斯騎士團。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um planeta no Império Klingon, onde ocorre a indução à Ordem dos Bat'leth.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Planeetta Klingonin valtakunnassa, jossa tapahtuu induktio Bat'lethin ritarikuntaan.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5245,7 +5206,6 @@ The Terran months are:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä termiä käytetään kutsussa {Star Trek The Exhibition:src}. Kutsu kuuluu:
 ▶ {tera' poH jaj wa', jar wa', jaj loSDIch, DIS wa'-Hut-Hut-chorgh. HovpoHvetlh latlh nab yIHutlh.:sen:nolink} "Tallenna tämä tähtitaiva: sunnuntai 4. tammikuuta 1998".
 
@@ -5659,7 +5619,6 @@ Terran-kuukaudet ovat:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這個詞可以用於任何類似滾動的內容，並且通常也用於表示任何種類的列表，而{Qumran:n}則是一種更為禮儀的滾動形式。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra pode ser usada para qualquer coisa enrolada como um pergaminho e também costuma denotar qualquer tipo de lista, enquanto {Qumran:n} se refere a um tipo mais cerimonial de pergaminho.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä sanaa voidaan käyttää mihin tahansa käärittyyn kuin vieritys, ja se on yleisesti tullut merkitsemään kaikenlaista luetteloa, kun taas {Qumran:n} viittaa seremoniallisempaan vieritykseen.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Klingon phrase as printed on the {BoP:src} poster contains typos.
 
@@ -6404,7 +6363,6 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_ru">Это слово относится к любому лучу энергии. Это расширение традиционного значения {tIH:n:2} (копья) для современного оружия. [2, p.65] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra se refere a qualquer feixe de energia. É uma extensão do significado tradicional de {tIH:n:2} (haste de lança) para armamento moderno.[2, p.65] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana viittaa mihin tahansa energiapalkkiin. Se on {tIH:n:2}: n (keihäsakseli) perinteisen merkityksen laajennus nykyaikaisiin aseisiin.[2, p.65] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7695,8 +7653,6 @@ Detta verb kan användas reflexivt för att betyda "njuta av dig själv", "ha de
 Os klingons normalmente não falam sobre música em termos de diversão, mas sim em termos do que ela faz ao ouvinte. Por exemplo, a música pode ser dita {jaqmoH:v}, {SeymoH:v}, {tungHa':v} ou {pIlmoH:v}.[2]
 
 Este verbo pode ser usado reflexivamente para significar "divirta-se", "divirta-se" .[3; 4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
 <column name="notes_fi">Katso verbit, joita käytetään ruoan tai musiikin nauttimisen ilmaisemiseen klingonilaisten keskuudessa, ks.{DuQ:v:2} ja {'ey:v}.[2]
 
 Klingonit eivät yleensä puhu musiikista nautinnon kannalta, vaan pikemminkin sen suhteen, mitä se tekee kuuntelijalle. Esimerkiksi musiikista voidaan sanoa {jaqmoH:v}, {SeymoH:v}, {tungHa':v} tai {pIlmoH:v}.
@@ -7834,7 +7790,6 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="notes_ru">В отличие от {rach:v}, этот глагол, как правило, не применяется к существам и предлагает только восстановление предыдущего состояния (и не обязательно улучшение) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與{rach:v}不同，此動詞通常不應用於存在者，它僅建議恢復到先前的狀態（不一定是改善）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ao contrário de {rach:v}, esse verbo geralmente não é aplicado aos seres e sugere apenas a restauração para um estado anterior (e não necessariamente para melhoria).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Toisin kuin {rach:v}, tätä verbiä ei tyypillisesti sovelleta olentoihin, ja se ehdottaa vain palauttamista edelliseen tilaan (eikä välttämättä parannusta).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8798,8 +8753,6 @@ Det används också för att namnge kampsportställningar. För att beordra någ
       <column name="notes_pt">Refere-se a uma única técnica executada em uma luta ou, por extensão, a uma única manobra jogada em um jogo.[3]
 
 Também é usado para nomear posturas de artes marciais. Para comandar alguém a assumir uma postura ou pose, o verbo {much:v:3} é usado. A palavra {tonSaw':n:nolink} pode ser deixada de fora do nome se o contexto for claro.[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä viittaa yhteen taistelussa suoritettuun tekniikkaan tai jatkossa yhteen pelin pelaamiseen.
 
 Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku lyödä asenne tai poseeraa, käytetään verbiä {much:v:3}. Sana {tonSaw':n:nolink} voidaan jättää nimen ulkopuolelle, jos asiayhteys on selkeä.[3][4] [AUTOTRANSLATED]</column>
@@ -9495,7 +9448,6 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Com base no seu uso no {paq'batlh:src}, o objeto escalado é o objeto, o destino é marcado com {-Daq:n} e o ponto de partida é marcado com {-vo':n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Perustuen sen käyttöön {paq'batlh:src}: ssä, kiipeilevä asia on objekti, kohde on merkitty {-Daq:n}: lla ja aloituspiste on merkitty {-vo':n}: lla.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10122,7 +10074,6 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_ru">Это значит невольно мигать. Сленговым способом сказать, что это {mInDu' yIv:sen@@mIn:n, -Du':n, yIv:v:1}. Например, {mInDu'(wIj) vIyIv:sen@@mIn:n, -Du':n, -wIj:n, vI-:v, yIv:v:1} означает «Я моргаю». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著不由自主地眨眼。 this語是{mInDu' yIv:sen@@mIn:n, -Du':n, yIv:v:1}。例如，{mInDu'(wIj) vIyIv:sen@@mIn:n, -Du':n, -wIj:n, vI-:v, yIv:v:1}表示“我眨眼”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa piscar involuntariamente. Uma forma de gíria para dizer isso é {mInDu' yIv:sen@@mIn:n, -Du':n, yIv:v:1}. Por exemplo, {mInDu'(wIj) vIyIv:sen@@mIn:n, -Du':n, -wIj:n, vI-:v, yIv:v:1} significa "Eu pisco". [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä tarkoittaa vilkkua tahattomasti. Slangitapa sanoa tämä on {mInDu' yIv:sen@@mIn:n, -Du':n, yIv:v:1}. Esimerkiksi {mInDu '(wIj) vIyIv: sen @@ mIn: n, -Du': n, -wIj: n, vI-: v, yIv: v: 1} tarkoittaa "vilkkuu".{mInDu'(wIj) vIyIv:sen@@mIn:n, -Du':n, -wIj:n, vI-:v, yIv:v:1} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It was stated during the Q &amp; A session that this does not generally take an object. It is used for eyes, not lights.</column>
       <column name="components"></column>
@@ -11221,7 +11172,6 @@ This construction seems to be related to the proverb {reH tay' ghot tuqDaj je.:s
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Sanoa "Kahlor of the Molor House", sanotaan yksinkertaisesti {qeylor, molor tuq:sen:nolink} "Kahlor, House of Molor". Ollakseen muodollisempi voidaan lisätä isän nimi, kuten julkaisussa {qeylor, qeylIn puqloD, molor tuq:sen:nolink} "Kahlor, Kahlinin poika, (Molorin talon)".
 
 Toinen muodollinen ja hieman arkaainen tapa ilmaista jäsenyyttä talossa on käyttää verbiä {tay':v}:
@@ -11585,7 +11535,6 @@ Slanguttrycket {qogh tuQmoHHa':sen}, bokstavligen "att ta av sig bältet", betyd
       <column name="notes_pt">Veja {qawmoH:v} para um exemplo de como usar um verbo como este.
 
 A expressão de gíria {qogh tuQmoHHa':sen}, literalmente "tirar o cinto", significa "não ouvir" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Katso {qawmoH:v} esimerkki siitä, miten tämän kaltaista verbiä käytetään.
 
 Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tarkoittaa "ei kuulla".[2] [AUTOTRANSLATED]</column>
@@ -12364,9 +12313,6 @@ The KLI got a list of vocabulary used in {KCD:src} in advance, which was printed
       <column name="notes_ru">Это глагол {tu':v} с суффиксом {-lu':v}, комбинация которого часто переводится как «есть» на английском языке.[1] Обратите внимание, что используется префикс единственного числа от третьего лица, даже если объект является множественным (когда можно ожидать префикс {lu-:v:pref}, т.е. {lutu'lu':sen:nolink}) .[1; 3; 4] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämä on verbi {tu':v}, jonka pääte on {-lu':v}, jonka yhdistelmä käännetään usein englanniksi "on" -toimintona. {lu-:v:pref}, eli {lutu'lu':sen:nolink}) .[1; 3; 4][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tu':v}, {-lu':v}</column>

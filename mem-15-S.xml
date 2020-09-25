@@ -306,7 +306,6 @@ Medan {SaD law':n:nolink} är ett grammatiskt uttryck, är {SaDmey:n:nolink} int
 Observe que o klingon tem palavras para "dez mil" ({netlh:n:num}) e "cem mil" ({bIp:n:num}) que são independentes da palavra para "mil".
 
 Enquanto {SaD law':n:nolink} é uma expressão gramatical, {SaDmey:n:nolink} não é.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Toinen variantti sanasta, jota käytetään suunnilleen yhtä usein, on {SanID:n:num,nolink}.
 
 Huomaa, että Klingonilla on sanoja "kymmenentuhatta" ({netlh:n:num}) ja "sata tuhatta" ({bIp:n:num}), jotka ovat riippumattomia sanasta "tuhat".
@@ -366,7 +365,6 @@ Vaikka {SaD law':n:nolink} on kieliopillinen lauseke, {SaDmey:n:nolink} ei ole.[
       <column name="notes_ru">Чтобы указать «тысячелетия назад» или «тысячелетия назад», {ret:n} и {pIq:n} используются вместо {poH:n}, соответственно.[1], соответственно [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">為了表示“千年前”或“從現在開始千年”，分別使用{ret:n}和{pIq:n}代替{poH:n}。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para indicar "milênios atrás" ou "milênios a partir de agora", {ret:n} e {pIq:n} são usados ​​no lugar de {poH:n}, respectivamente.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Ilmaisemaan "vuosituhat sitten" tai "vuosituhat nyt" käytetään {ret:n} ja {pIq:n} vastaavasti {poH:n}: n sijasta.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{SaD:n:num}, {DIS:n:2}, {poH:n}</column>
@@ -477,10 +475,6 @@ För biljoner är de nummerbildande elementen {SaDSaghan:n:num@@SaD:n, Saghan:n}
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Tämä on lyhyt miljardi (eli tuhat miljoonaa)
 
 Kymmenille miljardeille luvut muodostavat elementit {maHSaghan:n:num@@maH:n:2, Saghan:n} tai {netlh'uy':n:num@@netlh:n, 'uy':n} ovat mahdollisia.
@@ -861,7 +855,6 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Глагол {chenmoH:v} может использоваться с {San:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">動詞{chenmoH:v}可與{San:n}.[2]一起使用 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo {chenmoH:v} pode ser usado com {San:n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Verbiä {chenmoH:v} voidaan käyttää {San:n}: n kanssa.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "fate" in {TKD:src}. It was explained in a {KLI mailing list:src} message that "destiny" is another possible translation.</column>
       <column name="components"></column>
@@ -1552,8 +1545,6 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Os klingons não têm canais lacrimais, e não há palavras para lágrimas ou lágrimas. No entanto, os olhos de Klingon ficam avermelhados ({DoqchoH:v:nolink}) de tempos em tempos.[2] Eles também entenderiam {mIn 'onroS:n} para se referir a uma lágrima. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Klingoneilla ei ole kyynelkanavia, eikä kyyneleitä tai kyyneleitä ole. Klingonien silmät kuitenkin punoittavat ({DoqchoH:v:nolink}) aika ajoin.[2]{mIn 'onroS:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1644,7 +1635,6 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это означает «разнообразие» в смысле «интересный сорт чая», а не «разнообразие - это пряность жизни».[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指“多種茶”，而不是“多樣性是生活的香料”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "variedade" no sentido de "uma variedade interessante de chá", não "variedade é o tempero da vida".[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa "vaihtelua" mielenkiintoisen teevalikoiman merkityksessä, ei "lajike on elämän mauste".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1951,7 +1941,6 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru">{Sawchuq:v@@Saw:v, -chuq:v} будет пониматься как однополый брак между двумя мужчинами.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{Sawchuq:v@@Saw:v, -chuq:v}被理解為兩個男人之間的同性婚姻。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">{Sawchuq:v@@Saw:v, -chuq:v} seria entendido como um casamento entre pessoas do mesmo sexo entre dois homens.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{Sawchuq:v@@Saw:v, -chuq:v} ymmärrettäisiin kahden miehen välisestä samaa sukupuolta olevasta avioliitosta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">MO confirmed at {qep'a' 4 (1997):src} that {Saw:v:nolink} and {nay:v:nolink} come from "sure" and "no" said with a Southern drawl.</column>
       <column name="components"></column>
@@ -2005,7 +1994,6 @@ Maltz visste inte ett generiskt verb för detta.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Usar um gesto é {Sawlay lo':sen@@Sawlay:n, lo':v} ou então um verbo de gesto específico (como {SIq:v}, {qay:v}, etc.).
 
 Maltz não conhecia um verbo genérico para isso.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Eleen käyttö on {Sawlay lo':sen@@Sawlay:n, lo':v} tai muuten tietty verbi (kuten {SIq:v}, {qay:v} jne.).
 
 Maltz ei tiennyt yleistä verbiä tälle[1] [AUTOTRANSLATED]</column>
@@ -3256,7 +3244,6 @@ Koska tämä on muu kuin klingonilainen nimi, siinä on jonkin verran vaihtelua 
       <column name="notes_ru">Клингоны разводят некоторых мелких животных для еды.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗人繁殖了一些小動物作為食物。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os klingons criam alguns pequenos animais como alimento.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Klingonit kasvattaa pieniä eläimiä ruokaa varten[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Shep"herds breed sheep.</column>
       <column name="components"></column>
@@ -3312,15 +3299,6 @@ In {TNK:src}, the category title for "Countries" was translated {Sepmey tlhab:n:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #14. -->
 <column name="notes_fi">Tämä viittaa alueeseen, jonka rajat ovat määriteltävissä ja joka oli poliittisesti erillinen aikaisemmin. Yksi sopiva käännös tälle sanalle voi olla "maa" .[2]
 
 Jotkut {Qo'noS:n}: n tunnetuista alueista ovat:
@@ -3384,14 +3362,6 @@ Kohdassa {TNK:src} kategorian "Maat" otsikko käännettiin {Sepmey tlhab:n:nolin
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Paikkoja, joissa on merkittäviä alueellisia murteita, ovat:
 ▶ KÄÄNTÄMINEN 1
 ▶ KÄÄNNÖT2
@@ -5372,7 +5342,6 @@ Jos työvälinettä käytetään tyypillisesti sormen suorittamaan toimintaan, v
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是克林崗神話中的一種小人物，例如小精靈或侏儒。[1]它也可以用來翻譯人種神話中的“矮人”或“仙女”之類的生物，儘管它可能不適合翻譯“童話”一詞。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on eräänlainen pieni henkilö Klingonin mytologiassa, kuten tonttu tai tonttu. termi "satu" .[2][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The information that it can also be used to translate "dwarf" or "fairy" was not directed posted to the mailing list, but was also revealed in the discussion about translating The Wizard of Oz.</column>
       <column name="components"></column>
@@ -6198,7 +6167,6 @@ Jos työvälinettä käytetään tyypillisesti sormen suorittamaan toimintaan, v
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2,nolink}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6532,9 +6500,6 @@ Detta ord bär den idiomatiska betydelsen av "materia, oro, affär", för vilka 
 Это слово несет идиоматическое значение «вопрос, забота, дело», см. {Soj:n:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä sana koskee sekä ruokia että juomia [2] tai kaikkea ravinnoksi kulutettua.
 
 Tällä sanalla on idiomaattinen merkitys "asia, huoli, suhde", josta ks. {Soj:n:2}.[4]{nay':n}[2] [AUTOTRANSLATED]</column>
@@ -6669,7 +6634,6 @@ Tällä sanalla on idiomaattinen merkitys "asia, huoli, suhde", josta ks. {Soj:n
       <column name="notes_ru">Это редко, если еда не была прервана. [1, p.102] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">除非用餐中斷，否則這種情況很少見。[1, p.102] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é raro, a menos que a refeição tenha sido interrompida.[1, p.102] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on harvinaista, ellei ateria keskeytetty[1, p.102] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Soj:n:1}, {chuv:v}</column>
@@ -6885,7 +6849,6 @@ Tällä sanalla on idiomaattinen merkitys "asia, huoli, suhde", josta ks. {Soj:n
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Refere-se a alimentos aos quais ninguém fez nada.[1, p.84] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa ruokaan, johon kukaan ei ole tehnyt mitään[1, p.84] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The example appears to be missing a conjunction.</column>
       <column name="components">{Soj:n:1}, {tlhol:v}</column>
@@ -7630,7 +7593,6 @@ Detta ord kan också hänvisa till "club" -dräkten i ett spellekskort (se {Degh
       <column name="notes_pt">Existe um idioma, {lugh; Sor rur@@lugh:v, Sor:n, rur:v}, que está conectado ao verbo {Sor:v}.
 
 Esta palavra também pode se referir ao naipe de "clube" em um baralho de cartas (ver {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Versioon {Sor:v} liittyy idioomi {lugh; Sor rur@@lugh:v, Sor:n, rur:v}.
 
 Tämä sana voi viitata myös "klubipukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
@@ -8497,7 +8459,6 @@ This verb is also used for the encryption of data (see {So':v:2}).</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Jos kohdetta ei ole, piiloutuu aihe (esim. {NuqDaq So'taH yaS?: Sen: nolink} [1]). Jos objektia on, kohde piilottaa objektin (esim. {Duj So':sen:nolink} tai {Duj So'lu'pu':sen:nolink}[2]).
 
 Tätä verbiä käytetään myös tietojen salaamiseen (katso {So':v:2}).{nuqDaq So'taH yaS?:sen:nolink} [AUTOTRANSLATED]</column>
@@ -8632,7 +8593,6 @@ Despite the English definition, it may be the case that the grammar follows {So'
           <column name="notes_ru">Это всего лишь приложение {So'Ha':v:1} к данным. Когда этот термин используется для расшифровки данных, это означает, что дешифрование разрешено, и способ сделать это известен.[1] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這只是{So'Ha':v:1}對數據的應用。當將此術語用於數據解密時，它意味著解密已被授權並且知道解密的方式.[1] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Este é apenas um aplicativo de {So'Ha':v:1} para dados. Quando esse termo é usado para a descriptografia de dados, isso implica que a descriptografia está autorizada e a maneira de fazê-lo é conhecida.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on vain {So'Ha':v:1} -sovelluksen tietoja. Kun tätä termiä käytetään tietojen salauksen purkamiseen, se tarkoittaa, että salauksen purku on sallittu ja tapa tapa tehdä se tiedetään.[1] [AUTOTRANSLATED]</column>
           <column name="hidden_notes">Despite the English definition, it may be the case that the grammar follows {So':v:1,nolink}, and that the subject is decrypted if there is no object.</column>
           <column name="components">{So':v:2}, {-Ha':v}</column>
@@ -8852,7 +8812,6 @@ Despite the English definition, it may be the case that the grammar follows {So'
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">與之最接近的是繼父或繼母，其作用類似於教父。該角色被授予一個家庭朋友，如果父母無行為能力，該朋友將照看孩子。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A aproximação mais próxima a isto é uma espécie de meio-irmão ou meia-irmã, cujo papel é semelhante ao de um padrinho. O papel é conferido a um amigo da família que cuidaria de uma criança se seus pais fossem incapacitados[2].</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Lähin arvio tästä on eräänlainen velipuoli tai sisarpuoli, jonka rooli on samanlainen kuin ristivanhemman. Rooli annetaan perheen ystävälle, joka hoitaisi lasta, jos heidän vanhempansa eivät olisi kykeneviä toimintaan.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -9199,7 +9158,6 @@ Despite the English definition, it may be the case that the grammar follows {So'
       <column name="notes_ru">Это относится к сну, который приходит во сне, а не в смысле надежды, цели или желания. Он также используется для обозначения галлюцинаций.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指夢境發生在睡覺時而不是在希望，目標或慾望的意義上。它也用於指幻覺.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um sonho que ocorre quando a pessoa está dormindo, e não no sentido de esperança, objetivo ou desejo. Também é usado para se referir a uma alucinação.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa uneen, joka tapahtuu nukkuessa eikä toivon, tavoitteen tai halun merkityksessä. Sitä käytetään myös viittaamaan hallusinaatioihin[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was rumoured to have been revealed at {qep'a' 26 (2019):src}, and was confirmed at {qep'a' 27 (2020):src} during the Q &amp; A session.</column>
       <column name="components"></column>
@@ -9539,7 +9497,6 @@ Uttrycket {jISum:sen:nolink} har en idiomatisk filosofisk betydelse, "Jag är i 
       <column name="notes_pt">O uso desta palavra envolve o conceito de dêixis. Geralmente indica que o sujeito está perto do locutor, a menos que o contexto seja configurado para indicar que a ação está ocorrendo em outro lugar (por exemplo, usando {-Daq:n}). O sufixo {-chuq:v} não é usado com este verbo.[2]
 
 A expressão {jISum:sen:nolink} tem um significado filosófico idiomático, "Estou em contato com meu eu interior" (à maneira Klingon) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämän sanan käyttöön liittyy deixiksen käsite. Yleensä se tarkoittaa, että kohde on puhujan lähellä, ellei kontekstia ole asetettu osoittamaan, että toiminta tapahtuu muualla (esimerkiksi käyttämällä {-Daq:n}-toimintoa). Laajennusta {-chuq:v} ei käytetä tässä verbissä.[2]
 
 Ilmaisulla {jISum:sen:nolink} on idiomaattinen filosofinen merkitys: "Olen yhteydessä sisäiseen minääni" (klingonin tapaan).[2] [AUTOTRANSLATED]</column>
@@ -10281,7 +10238,6 @@ Detta kan också användas för att blåsa ut ett ljus ({weQ:n}). Till skillnad 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämä on yleinen termi, jota käytetään kaikkiin puhallinsoittimiin, kun taas {rIl:v:2} on rajoitettu koskemaan {gheb:n}.[2]
 
 Tätä voidaan käyttää myös kynttilän puhaltamiseen ({weQ:n}). Toisin kuin {jo':v}: ssä, ilma pääsee esineestä, joka on puhallettu päälle / sisään / sisään (tai ei koskaan mene siihen). Jos käytetään {-Daq:n}-ohjelmaa, se tarkoittaa epäonnistumista: ilmaa puhallettiin kohti kohdetta, mutta ohitettiin se.[3] [AUTOTRANSLATED]</column>
@@ -11107,7 +11063,6 @@ Tätä voidaan käyttää myös kynttilän puhaltamiseen ({weQ:n}). Toisin kuin 
       <column name="notes_ru">Называть кого-то {Suy':n:nolink} считается оскорбительным, сравнимым с тем, чтобы называть кого-то «свиньей» в стандарте Федерации. [1, p.196] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Chamar alguém de {Suy':n:nolink} é considerado um insulto, comparável a chamar alguém de "porco" no Federation Standard.[1, p.196] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Jonkun kutsuminen {Suy':n:nolink}: ksi katsotaan loukkaavaksi, mikä on verrattavissa jonkun kutsumiseen "sikaksi" Federation Standardissa.[1, p.196] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Sooey" is a sound used in calling pigs. The Hog Call, a traditional cheer at the University of Arkansas, goes "Woo, Pig! Sooey!"</column>
       <column name="components"></column>

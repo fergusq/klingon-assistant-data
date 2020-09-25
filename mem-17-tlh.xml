@@ -1187,8 +1187,6 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Uma expressão de gíria para pontuação é {ghewmey:n}. {tlhavqop:n:nolink} é inerentemente plural, mas pode-se dizer {tlhavqop ngutlh(mey):n@@tlhavqop:n, ngutlh:n, -mey:n} "sinais de pontuação".[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Välimerkkien slangilauseke on {ghewmey:n}. {tlhavqop:n:nolink} on luonnostaan ​​monikkomuoto, mutta voidaan sanoa {tlhavqop ngutlh (mey): n @@ tlhavqop: n, ngutlh: n, -mey: n} "välimerkit (merkit)".{tlhavqop ngutlh(mey):n@@tlhavqop:n, ngutlh:n, -mey:n}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1404,7 +1402,6 @@
       <column name="notes_ru">Это относится к животным, живущим в доме.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指生活在房屋中的動物。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere aos animais que vivem em uma casa.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa eläimiä, jotka asuvat talossa[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1534,7 +1531,6 @@
       <column name="notes_ru">Одиннадцатый том Клавека является частью {paq'batlh:n} и рассказывает историю спуска {qeylIS'e' lIjlaHbe'bogh vay':n:name} в {ghe'tor:n}, чтобы спасти его брата.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O Décimo Primeiro Tomo de Klavek faz parte do {paq'batlh:n} e conta a história da descida de {qeylIS'e' lIjlaHbe'bogh vay':n:name} ao {ghe'tor:n} para resgatar seu irmão.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Klavekin yhdestoista Tome on osa {paq'batlh:n}-elokuvaa ja kertoo tarinan {qeylIS'e' lIjlaHbe'bogh vay':n:name}: n laskeutumisesta {ghe'tor:n}: ksi pelastaakseen veljensä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4200,7 +4196,6 @@ Voidaan sanoa joko {B tlhogh A:sen:nolink} "{A:sen:nolink} naimisiin {B:sen:noli
       <column name="notes_ru">Это делается путем покрытия блока {tlhagh:n} {ngat:n:2} и {tIr:n}, затем {mIQ:n}. [1, p.93] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso é feito revestindo um bloco de {tlhagh:n} com {ngat:n:2} e {tIr:n} e depois {mIQ:n}.[1, p.93] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä tehdään päällystämällä {tlhagh:n}-lohko {ngat:n:2}: lla ja {tIr:n}: lla, sitten {mIQ:n}: llä.[1, p.93] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Thrombus".</column>
       <column name="components"></column>

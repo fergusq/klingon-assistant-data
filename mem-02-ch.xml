@@ -1233,7 +1233,6 @@ Pakollinen verbin etuliite, kun kohde on {chaH:n:nolink}, on {tI-:v:pref}. [AUTO
       <column name="notes_ru">Удар кого-либо тыльной стороной руки означает вызов вызова на смертельный поединок (см. {Hay':v} и {Hay'chu':v}). Чтобы ударить кого-то по какой-либо другой причине, например, от удовольствия, используйте кулак ({ro':n}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">用手背擊打某人意味著向死亡決鬥發起挑戰（請參閱{Hay':v}和{Hay'chu':v}）。要以某些其他原因（例如娛樂）擊中某人，請使用拳頭（{ro':n}）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Bater em alguém com as costas da mão significa desafiar um duelo até a morte (veja {Hay':v} e {Hay'chu':v}). Para bater em alguém por algum outro motivo, como diversão, use o punho ({ro':n}).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Jonkun lyöminen käden takaosaan tarkoittaa haastetta kaksintaisteluun kuolemaan asti (katso {Hay':v} ja {Hay'chu':v}). Jos haluat lyödä jotakuta muusta syystä, kuten nautinnosta, käytä nyrkkiä ({ro':n}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's quite common for the backs of one's hands to become "chap"ped.</column>
       <column name="components"></column>
@@ -1909,7 +1908,6 @@ En {chaw':n:nolink} visar att du officiellt eller lagligt har rätt att göra el
       <column name="notes_pt">Esta palavra é usada para uma gama mais ampla de objetos do que a tradução "permitir" sugere. Os tipos de {chaw':n:nolink} incluem {HIjmeH chaw':n}, {Huch chaw':n}, {leng chaw':n}, {lojmIt chaw':n:nolink}, {yer ghajwI' chaw':n} e {'elmeH chaw':n}. Assim, {chaw':n:nolink} também pode significar "passagem", "aprovação" ou "licença".
 
 UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado a fazer, obter ou possuir algo, enquanto um {Qoyje':n} serve como prova ou verificação de algum tipo de realização ou realização.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Tätä sanaa käytetään laajemmalle objektijoukolle kuin käännös "lupa" ehdottaa. {chaw':n:nolink}-tyypit sisältävät {HIjmeH chaw':n}, {Huch chaw':n}, {leng chaw':n}, {lojmIt chaw':n:nolink}, {yer ghajwI' chaw':n} ja {'elmeH chaw':n}. Täten {chaw':n:nolink} voi tarkoittaa myös "lippua", "passia" tai "lisenssiä".
 
 {chaw':n:nolink} osoittaa, että sinulla on virallisesti tai laillisesti oikeus tehdä, hankkia tai omistaa jotain, kun taas {Qoyje':n} toimii todisteena tai todisteeksi jonkinlaisesta saavutuksesta tai suorituksesta.[3] [AUTOTRANSLATED]</column>
@@ -2804,7 +2802,6 @@ Det är möjligt att säga {DeS cha'neH:n@@DeS:n:1, cha'neH:n} för "underarm", 
 
 可以將{DeS cha'neH:n@@DeS:n:1, cha'neH:n}表示為“ forearm”，但這可能僅在有人同時談論前臂和小腿並且需要區分它們的情況下使用。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Yksin käytettynä tämä tarkoittaa "käsivartta", mutta kun sitä edeltää {'uS:n}, se tarkoittaa "jalan alaosaa". (Säären etuosa on {reStav:n}.)
 
 On mahdollista sanoa {DeS cha'neH:n@@DeS:n:1, cha'neH:n} käsivarrelle, mutta tätä todennäköisesti käytettäisiin vain tilanteessa, jossa puhuttiin sekä kyynärvarresta että säärestä ja tarvittiin niiden erottamiseksi.[2] [AUTOTRANSLATED]</column>
@@ -2987,9 +2984,6 @@ Also, in Spanish, "parpar" is the sound made by a duck.</column>
       <column name="notes_ru">Неочищенный кристалл дилития называется {Dom:n}.[1]. Кристаллический дилитий используется в качестве замедляющего реакцию элемента ({choH lISbogh Hap'e':n}) в хищной птице клингона.[2] Глагол {chIm:v} используется для осушенного кристалла дилития.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">粗製的二鋰晶體被稱為{Dom:n}.[1]晶體二鋰被用作克林崗猛禽中的反應緩和元素（{choH lISbogh Hap'e':n}）.[2]動詞{chIm:v}用於排水的二鋰晶體.[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O cristal de dilítio bruto é denominado {Dom:n}.[1] O dilítio cristalino é usado como elemento moderador da reação ({choH lISbogh Hap'e':n}) em uma ave de rapina Klingon.[2] O verbo {chIm:v} é usado para um cristal de dilítio drenado.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Raakaa dilitiumkidettä kutsutaan {Dom:n}.[1] Kiteistä dilitiumia käytetään reaktion hillitsevänä elementtinä ({choH lISbogh Hap'e':n}) Klingonin petolinnussa.[2]{chIm:v}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{cha'puj:n}, {qut:n}</column>
@@ -3510,7 +3504,6 @@ Also, in Spanish, "parpar" is the sound made by a duck.</column>
       <column name="notes_ru">Алкогольный напиток, который лучше всего подавать нагретым и дымящимся.[1] Это имя составлено из {chech:v} и {tlhutlh:v}.[2]</column>
       <column name="notes_zh_HK">酒精飲料最適合加熱和蒸煮.[1]它的名稱似乎由{chech:v}和{tlhutlh:v}.[2]組成 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Uma bebida alcoólica melhor servida aquecida e cozida no vapor.[1] Seu nome parece ser composto por {chech:v} e {tlhutlh:v}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Alkoholijuomaa tarjoillaan parhaiten kuumennettuna ja höyryssä.[1] Sen nimi näyttää koostuvan {chech:v}: sta ja {tlhutlh:v}: sta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the K-E side, this is given as "baceh'tluth". This is commonly assumed to be a typo, or perhaps a joke.</column>
       <column name="components"></column>
@@ -3543,8 +3536,6 @@ Also, in Spanish, "parpar" is the sound made by a duck.</column>
       <column name="definition_ru">Возвращаться (куда-то)</column>
       <column name="definition_zh_HK">回來</column>
       <column name="definition_pt">voltar (para)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">palata jonnekin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3556,7 +3547,6 @@ Also, in Spanish, "parpar" is the sound made by a duck.</column>
       <column name="notes_ru">Объектом является место, куда субъект возвращается (если оно не упомянуто, глагол принимает префикс, который не указывает на объект). Если возвращение вынужденное, используйте {tatlh'egh:v} вместо этого.[5]</column>
       <column name="notes_zh_HK">賓語是主語返回的地方（如果未提及，則動詞使用前綴表示沒有賓語）。如果強制退貨，請改用{tatlh'egh:v}。[5] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é o local para o qual o sujeito retorna (se não for mencionado, o verbo usa um prefixo indicando nenhum objeto). Se o retorno for forçado, use {tatlh'egh:v}.[5] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kohde on paikka, johon kohde palaa (jos sitä ei mainita, verbi ottaa etuliitteen, joka ei osoita kohdetta). Jos palautus pakotetaan, käytä sen sijaan {tatlh'egh:v}[5] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3838,7 +3828,6 @@ The following four examples illustrate the role of the object(s) and how to use 
       <column name="notes_ru">Женщины-клингоны издают звуки, похожие на {chemvaH:n:nolink}, чтобы обозначить интерес к потенциальному партнеру.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗婦女聽起來像{chemvaH:n:nolink}，表明對潛在伴侶的興趣。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">As mulheres klingon emitem sons como um {chemvaH:n:nolink} para indicar interesse em um parceiro em potencial.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Klingon-naiset kuulostavat {chemvaH:n:nolink}: ltä osoittamaan kiinnostusta potentiaalista kaveria kohtaan.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4577,7 +4566,6 @@ Skillnaden mellan en {chetvI':n:nolink} och en {DuS:n} har att göra med hur pro
 
 
 A distinção entre um {chetvI':n:nolink} e um {DuS:n} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">On idioomi {lo'laHbe'; chetvI' chIm rur@@lo'laHbe':v, chetvI':n:1, chIm:v, rur:v}.
 
 
@@ -5027,7 +5015,6 @@ This verb can be used for misplacing your keys, but also for things like losing 
 Этот глагол может быть использован для описания потери ваших ключей, но также для вещей, подобных потери сигнала чего-то, что вы отслеживали.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Idiomaattinen ilmaus {DoS chIl:sen:idiom} tarkoittaa "poikkeamaan", esim. {DoS vIchIl:sen:nolink} tarkoittaa "poikkeamaan".
 
 Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta myös esimerkiksi seuraamasi signaalin menettämiseen.[3][2] [AUTOTRANSLATED]</column>
@@ -5118,7 +5105,6 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="notes_ru">Это слово может использоваться, чтобы резать или подстригать другие вещи, такие как трава, полоски на одежде, ногти и т. Д.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此詞可用於剪切或修剪其他事物，例如草，衣服上的條紋，指甲等。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra pode ser usada para cortar ou aparar outras coisas, como grama, franjas na roupa, unhas, etc.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä sanaa voidaan käyttää leikkaamaan tai leikkaamaan muita asioita, kuten ruohoa, hapsut vaatteissa, kynnet jne.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">One "chip"s away at hair.</column>
       <column name="components"></column>
@@ -5861,7 +5847,6 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="notes_ru">Объект этого глагола - это то, к чему приближается субъект. {-Daq:n:suff} не нужен. Это иногда используется, но это избыточно (хотя и не неправильно) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個動詞的賓語是主語越來越接近的東西。不需要{-Daq:n:suff}。有時會使用它，但它是多餘的（儘管沒有錯）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto desse verbo é o assunto em que o assunto está se aproximando. {-Daq:n:suff} não é necessário. Às vezes é usado, mas é redundante (embora não esteja errado).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämän verbin kohde on asia, johon aihe on lähempänä. {-Daq:n:suff}-tiedostoa ei tarvita. Sitä käytetään joskus, mutta se on tarpeeton (vaikkakaan ei väärin)[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5948,7 +5933,6 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="notes_ru">В Клингонском баре, бармен кричит {'eb Qav:n} для "последнего заказа".[2]</column>
       <column name="notes_zh_HK">在克林崗酒吧，酒保喊{'eb Qav:n}表示“最後通話”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em uma barra de Klingon, o barman grita {'eb Qav:n} para "última chamada" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Baarimikko huutaa Klingon-baarissa {'eb Qav:n} "viimeisestä puhelusta".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The bartender is your "chum".</column>
       <column name="components"></column>
@@ -6753,7 +6737,6 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2,nolink}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

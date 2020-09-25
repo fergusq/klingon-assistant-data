@@ -321,7 +321,6 @@
       <column name="notes_ru">Это слово имеет негативную коннотацию и считается довольно оскорбительным применительно к человеку. [1, p.167] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tällä sanalla on kielteisiä merkityksiä, ja sitä pidetään melko loukkaavana, kun sitä käytetään henkilöön.[1, p.167] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1412,7 +1411,6 @@ Se {rav:n:1} för ett formspråk relaterat till sorg. [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso não é exatamente o mesmo que {QuchHa':v}, pois o último implica uma mudança de ser feliz para não ser feliz.[2]
 
 Veja {rav:n:1} para um idioma relacionado à tristeza. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä ei ole täsmälleen sama kuin {QuchHa':v}, koska jälkimmäinen tarkoittaa muutosta onnellisuudesta ei-onnelliseksi.
 
 Katso {rav:n:1} surullisuuteen liittyvästä idiomasta.[2] [AUTOTRANSLATED]</column>
@@ -2021,7 +2019,6 @@ Katso {rav:n:1} surullisuuteen liittyvästä idiomasta.[2] [AUTOTRANSLATED]</col
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是一種稍帶果的果實，在堅硬的外殼或皮膚上有刺突。內部比甜的更苦（與地球菠蘿不同，它可能被稱為{tera' 'IventoH:n@@tera':n, 'IventoH:n}）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on suuri hedelmä, jossa on piikkisiä ulkonemia kohtuullisen kovassa kuoressa tai kuoressa. Sisäpuoli on enemmän katkera kuin makea (toisin kuin maan ananas, jota voidaan kutsua nimellä {tera' 'IventoH:n@@tera':n, 'IventoH:n}).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Lake Ivanhoe in Orlando was once the centre of the US pineapple industry.</column>
       <column name="components"></column>

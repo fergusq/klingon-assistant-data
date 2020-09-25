@@ -75,7 +75,6 @@ I samband med ett löfte eller ett löfte som har gjorts (se {'Ip:v} och {lay':v
       <column name="notes_pt">Alguns objetos possíveis desse verbo são {pab:n}, {chut:n}, {nab:n}, {'Ip:n}, {lurDech:n}, {quv:n} e {tIgh:n}.
 
 No contexto de um voto ou promessa que foi feito (ver {'Ip:v} e {lay':v}), {pab:v:nolink} significa "manter" ou "cumprir" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Jotkut tämän verbin mahdollisista kohteista ovat {pab:n}, {chut:n}, {nab:n}, {'Ip:n}, {lurDech:n}, {quv:n} ja {tIgh:n}.
 
 Annetun lupauksen tai lupauksen yhteydessä (katso {'Ip:v} ja {lay':v}) {pab:v:nolink} tarkoittaa "pitämistä" tai "täyttämistä".[2] [AUTOTRANSLATED]</column>
@@ -1671,7 +1670,6 @@ Katso myös hypoteettinen samanlainen kieliopillinen rakenne kohdasta {tIq'ghob:
       <column name="notes_ru">{paSjav:n:nolink} - это клингонское дерево, кора которого режется на полоски и употребляется вместе с определенными продуктами, либо измельчается (например, {ngat:n:2}) и добавляется в некоторые другие виды продуктов. (Иногда его просто срывают с дерева и тут же едят.) Неклингоны, которые едят слишком много {paSjav:n:nolink}, начинают кашлять. Клингоны думают, что это довольно забавно, и никогда не устают от этого. {tera' paSjav:n@@tera':n, paSjav:n} - это способ обозначить корицу.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{paSjav:n:nolink}是一棵克林崗樹，其樹皮被切成條狀並與某些食物一起食用，或者被碾碎（例如{ngat:n:2}）並添加到其他種類的食物中。 （它偶爾會從樹上剝下來，然後在那兒吃。）吃了過多{paSjav:n:nolink}的非克林貢人開始咳嗽。克林貢斯人認為這很有趣，而且從未厭倦。 {tera' paSjav:n@@tera':n, paSjav:n}是指肉桂的一種方式。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">{paSjav:n:nolink} on klingonipuu, jonka kuori leikataan nauhoiksi ja syödään yhdessä tiettyjen elintarvikkeiden kanssa tai muuten jauhetaan (kuten {ngat:n:2}) ja lisätään joihinkin muihin elintarvikkeisiin. (Se on joskus vain repitty puusta ja syönyt silloin tällöin.) Ei-klingonilaiset, jotka syövät liikaa {paSjav:n:nolink}: ta, alkavat yskää. Klingonien mielestä tämä on aika hauskaa eikä koskaan näytä väsyttävän sitä. {tera' paSjav:n@@tera':n, paSjav:n} on tapa viitata kaneliin[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1715,7 +1713,6 @@ Katso myös hypoteettinen samanlainen kieliopillinen rakenne kohdasta {tIq'ghob:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">說“一雙襪子”的通常方法是{paSlogh chang'eng:n@@paSlogh:n, chang'eng:n}； {tu'mI' chang'eng:n@@tu'mI':n, chang'eng:n}很奇怪，但是可以理解。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A maneira usual de dizer "um par de meias" é {paSlogh chang'eng:n@@paSlogh:n, chang'eng:n}; {tu'mI' chang'eng:n@@tu'mI':n, chang'eng:n} é ímpar, mas seria compreendido.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tavallinen tapa sanoa "sukkapari" on {paSlogh chang'eng:n@@paSlogh:n, chang'eng:n}; {tu'mI' chang'eng:n@@tu'mI':n, chang'eng:n} on pariton, mutta se ymmärretään[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tu'mI':n:inhps}</column>
@@ -2065,8 +2062,6 @@ När verbet används med "jämför" -beteckningen, måste verbens objekt vara pl
       <column name="notes_pt">Quando o objeto é singular, isso significa "classificação" no sentido de "grau" .[2]
 
 Quando usado com o significado de "comparar", o objeto do verbo deve estar no plural. A implicação é que as coisas são classificadas em comparação umas às outras.[1] Quando usado para significar "classificar", o objeto não é uma lista (como um todo), mas as coisas na lista, as coisas a serem classificadas ou classificadas.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kun kohde on yksikkö, se tarkoittaa "sijoitus" merkityksessä "arvosana" .[2]
 
 Verbi-merkinnän kanssa käytettynä verbiobjektin on oltava monikko. Tarkoituksena on, että asiat luokitellaan toisiinsa nähden.[1][3] [AUTOTRANSLATED]</column>
@@ -2235,7 +2230,6 @@ Förväxla inte detta med {paw:v}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo {paw':v:nolink} sempre leva um sujeito no plural, a saber, as coisas em movimento que colidem. Quando o assunto é pessoas, o verbo é geralmente interpretado com o significado da gíria de "cabeçadas" (ver {paw':v:2,slang}). Para descrever a colisão de algo se movendo com algo parado, use {ngeQ:v} em vez disso.[2; 3]
 
 Não confunda isso com {paw:v}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Verbi {paw':v:nolink} ottaa aina monikkomuodon, nimittäin törmäävät liikkeessä olevat asiat. Kun aihe on ihminen, verbi tulkitaan yleensä slang-merkityksellä "puskupäät" (katso {paw':v:2,slang}). Käytä sen sijaan {ngeQ:v}: n kuvaamista törmäyksestä, joka liikkuu jonkin paikallaan olevan kanssa.
 
 Älä sekoita tätä {paw:v}: een.[2; 3] [AUTOTRANSLATED]</column>
@@ -2282,10 +2276,6 @@ Não confunda isso com {paw:v}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">與該動詞的字面用法（請參閱{paw':v:1}）一樣，當以其lang語含義使用時，它也包含多個主語，在這種情況下，是撞頭的人。要說兩個人發生碰撞而並不意味著他們在撞頭，可以將{ngeQ:v}與{-chuq:v:suff}.[1]一起使用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Kuten tämän verbin kirjaimellisessa käytössä (ks. Jos sanotaan, että kaksi ihmistä törmää toisiinsa tarkoittamatta, että he ovat takapäätä, {ngeQ:v}: ta voidaan käyttää yhdessä {-chuq:v:suff}: n kanssa.{paw':v:1}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's what it sounds like.</column>
       <column name="components"></column>
@@ -2952,7 +2942,6 @@ Generally, when a verb describing a state of being is used as an imperative, the
 В целом, когда глагол описывает состояние пребывания, и используется в форме повелительного наклонения, то используются суффиксы {-'egh:v} и {-moH:v} вместе с ним.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">{tlhIH:n}: {pagh:n:1h} = {pe-:v:pref,nolink} (imp.)
 
 Yleensä kun olotilaa kuvaavaa verbiä käytetään välttämättömänä, sen kanssa käytetään päätteitä {-'egh:v} ja {-moH:v}.[2] [AUTOTRANSLATED]</column>
@@ -3053,7 +3042,6 @@ Detta verb kan också användas för andra saker vars fallande rörelse liknar s
       <column name="notes_pt">Não há substantivo ou verbo conhecido para nevasca, mas pode-se dizer {peDqu':sen@@peD:v, -qu':v}, {pe'vIl peD:sen@@pe'vIl:adv, peD:v} ou mesmo {pe'vIl peDqu':sen@@pe'vIl:adv, peD:v, -qu':v}.[2]
 
 Esse verbo também pode ser usado para outras coisas cujo movimento de queda se assemelha a neve, por exemplo migalhas de pão, confete ou cinzas. A coisa que está caindo é o assunto.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Blizzardille ei ole tunnettua substantiivia tai verbiä, mutta voidaan sanoa {peDqu':sen@@peD:v, -qu':v}, {pe'vIl peD:sen@@pe'vIl:adv, peD:v} tai edes {pe'vIl peDqu':sen@@pe'vIl:adv, peD:v, -qu':v}.[2]
 
 Tätä verbiä voidaan käyttää myös muihin asioihin, joiden putoava liike muistuttaa lumisateita, esimerkiksi leivänmuruja, konfettia tai tuhkaa. Kaatuva asia on aihe[3] [AUTOTRANSLATED]</column>
@@ -3259,7 +3247,6 @@ Detta förkortas också sällan till {pegh vIttlhegh:n:nolink}.[1] [AUTOTRANSLAT
       <column name="notes_pt">Trata-se de um conjunto de provérbios usados ​​com mais frequência em situações em que o falante deseja mostrar que pode guardar um segredo sob qualquer condição.[2]
 
 Também raramente é abreviado para {pegh vIttlhegh:n:nolink}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Nämä ovat sananlaskuja, joita käytetään useimmiten tilanteissa, joissa puhuja haluaa osoittaa voivansa pitää salaisuuden missään olosuhteissa.
 
 Tämä lyhennetään harvoin myös muotoon {pegh vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</column>
@@ -3523,7 +3510,6 @@ Tämä lyhennetään harvoin myös muotoon {pegh vIttlhegh:n:nolink}.[1][2] [AUT
       <column name="notes_ru">Относится к части дня, когда есть свет (в противоположность к {ram:n}).[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Refere-se à parte do dia em que a luz está apagada (em oposição a {ram:n}).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä viittaa päivän osaan, jolloin se on valaistu (toisin kuin {ram:n}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3826,7 +3812,6 @@ Tämä lyhennetään harvoin myös muotoon {pegh vIttlhegh:n:nolink}.[1][2] [AUT
       <column name="notes_ru">Это слово означает намерение, нацеленное на конкретных жертв.</column>
       <column name="notes_zh_HK">這個詞意指針對特定受害者的意圖。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra conota intenção, visando vítimas específicas.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä sana merkitsee tarkoitusta, joka kohdistuu tiettyihin uhreihin[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH}.</column>
       <column name="components"></column>
@@ -4089,7 +4074,6 @@ Tämä lyhennetään harvoin myös muotoon {pegh vIttlhegh:n:nolink}.[1][2] [AUT
           <column name="notes_ru">Кодовое имя обычно заканчивается на {Qu':n}, например, {targh Qu':n:nolink} "Операция Тарг".[1, стр.48]</column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt">Um nome de código geralmente termina em {Qu':n}, por exemplo, {targh Qu':n:nolink} "Operation Targ" .[1, p.48] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Koodinimi päättyy yleensä kohtaan {Qu':n}, esim. {targh Qu':n:nolink} "Operation Targ".[1, p.48] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{per:n}, {yuD:v}</column>
@@ -4923,7 +4907,6 @@ Verbi {roS:v:2} tarkoittaa "kolmannen kärjen käyttämistä". Se on myös homof
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">單詞{mIvwa'mey:n@@mIvwa':n, -mey:n}用於保持提示或得分。要說“出”，請使用類似{loSlogh pe''egh; vaghlogh nID:sen@@loS:n:1,num, -logh:n:num, pe''egh:v, vagh:n:1,num, -logh:n, nID:v}的結構（即5分中的4分）。即使此人在四點之後停下來並且沒有試圖獲得第五分，也將使用此方法.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra {mIvwa'mey:n@@mIvwa':n, -mey:n} é usada para manter um registro ou pontuação. Para dizer "fora de", use uma construção como {loSlogh pe''egh; vaghlogh nID:sen@@loS:n:1,num, -logh:n:num, pe''egh:v, vagh:n:1,num, -logh:n, nID:v} (ou seja, 4 de 5 pontos). Isso é usado mesmo se a pessoa parou após as quatro e não tentou obter o quinto ponto.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Sanaa {mIvwa'mey:n@@mIvwa':n, -mey:n} käytetään pitämään laskenta tai pisteet. Jos haluat sanoa "out of", käytä {loSlogh pe''egh; vaghlogh nID:sen@@loS:n:1,num, -logh:n:num, pe''egh:v, vagh:n:1,num, -logh:n, nID:v}: n kaltaista rakennetta (eli 4 pistettä viidestä). Tätä käytetään, vaikka henkilö pysähtyi neljän jälkeen eikä yrittänyt saada viides piste[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Another meaning of "to score" is to cut a notch in something.</column>
       <column name="components">{pe':v}, {-'egh:v}</column>
@@ -5403,7 +5386,6 @@ Verbi {roS:v:2} tarkoittaa "kolmannen kärjen käyttämistä". Se on myös homof
       <column name="notes_ru">Другой способ выразить это, если он решителен, это перифрастически: {V 'ej V-qa' ('ej V-qa'...):sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">強調的另一種表達方式是近距表達：{V 'ej V-qa' ('ej V-qa'...):sen:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Outra maneira de expressar isso, se for enfática, é perifricamente: {V 'ej V-qa' ('ej V-qa'...):sen:nolink}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Toinen tapa ilmaista tämä, jos se on korostettava, on etenevästi: {V 'ej V-qa' ('ej V-qa' ...): sen: nolink}.{V 'ej V-qa' ('ej V-qa'...):sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6321,7 +6303,6 @@ Muita aikayksikköjä käytetään {pIq:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Мало изветно о том, как {pIqaD:n:nolink} работает, за исключением, что это не алфавит.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Pouco se sabe sobre como {pIqaD:n:nolink} funciona, exceto que não é um alfabeto.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{pIqaD:n:nolink}: n toiminnasta tiedetään vähän, paitsi että se ei ole aakkoset.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">If interpreted as a sentence, {pIqaD:sen@@pI-:v, qaD:v} literally means "we challenge you".
 
@@ -7424,7 +7405,6 @@ Sitä voidaan käyttää myös typografiassa "lihavoidun" fontin kuvaamiseen. Ka
       <column name="notes_ru">Относится к волосам ниже шеи. Например, "волосы на руке" будут {DeS pob:n@@DeS:n:1, pob:n}. Также используется, чтобы сказать о волосах в ухе или в носу. Использовать это слово, чтобы упомянуть о волосах на лице (смотрите {rol:n} и {loch:n}) или волосах на голове (смотрите {jIb:n}) является возможным, но будет расцениваться странно.[2]</column>
       <column name="notes_zh_HK">這是指從脖子向下的頭髮。例如，“手臂頭髮”是{DeS pob:n@@DeS:n:1, pob:n}。它也用於談論耳毛或鼻毛。可以使用此詞來指代面部毛髮（請參閱{rol:n}和{loch:n}）或頭毛（請參閱{jIb:n}），但這樣做確實很奇怪。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se aos cabelos do pescoço para baixo. Por exemplo, "cabelo do braço" é {DeS pob:n@@DeS:n:1, pob:n}. Também é usado para falar sobre pêlos da orelha ou pêlos do nariz. Usar esta palavra para se referir a pêlos faciais (consulte {rol:n} e {loch:n}) ou pêlos da cabeça (consulte {jIb:n}) é possível, mas isso seria considerado muito estranho.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä viittaa hiuksiin kaulasta alaspäin. Esimerkiksi "käsivarren hiukset" on {DeS pob:n@@DeS:n:1, pob:n}. Sitä käytetään myös puhumaan korvan tai nenän hiuksista. Tämän sanan käyttäminen viittaamaan kasvojen hiuksiin (katso {rol:n} ja {loch:n}) tai pään hiuksiin (katso {jIb:n}) on mahdollista, mutta sitä pidettäisiin hyvin outona tehdä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7640,7 +7620,6 @@ Sitä voidaan käyttää myös typografiassa "lihavoidun" fontin kuvaamiseen. Ka
       <column name="notes_ru">Чтобы обозначить "период времени некоторое время назад" или "период времени спустя", {ret:n} и {pIq:n} используются там, где используется {poH:n}, соответственно.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para indicar "período de tempo atrás" ou "período de tempo a partir de agora", {ret:n} e {pIq:n} são usados ​​no lugar de {poH:n}, respectivamente.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">"Aika sitten" tai "ajanjakso nyt" osoittamiseksi käytetään {ret:n} ja {pIq:n} vastaavasti {poH:n}: n sijasta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8503,7 +8482,6 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Это слово может также относиться к масти «сердца» в колоде игральных карт (см. {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此單詞還可以指一副撲克牌中的“心臟”套裝（請參閱{Degh:n:1}）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra também pode se referir ao naipe "coração" em um baralho de cartas (consulte {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana voi viitata myös "sydänpukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A leaf has lots of "pore"s.</column>
       <column name="components"></column>
@@ -8677,7 +8655,6 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Мальцу было трудно подумать о повседневном предложении, содержащем эту фразу.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">Maltz很難思考包含該短語的日常句子。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Maltz teve dificuldade em pensar em uma frase cotidiana que continha essa frase.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Maltzilla oli vaikeuksia ajatella jokapäiväistä virkettä, joka sisälsi tämän lauseen[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{porgh:n}, {mIw:n}</column>
@@ -8796,8 +8773,6 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="definition_ru">левая сторона</column>
       <column name="definition_zh_HK">左邊</column>
       <column name="definition_pt">esquerdo (lado)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">vasen (puoli)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{nIH:n}</column>
@@ -8809,8 +8784,6 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">При обращении к левой и правой сторонам используются притяжательные суффиксы.[2] См. Также {lurgh:n} для других слов, связанных с пространственными направлениями. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos.[2] Consulte também {lurgh:n} para outras palavras relacionadas às direções espaciais. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Vasemmalle ja oikealle puolelle viitattaessa käytetään omistavia jälkiliitteitä.[2]{lurgh:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10392,7 +10365,6 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Это идиоматическое выражение буквально означает «когда оно падает». Чаще всего его слышат без субъекта, но при указании субъекта наиболее распространенным является {'etlh:n}. Другое слово может быть выбрано в качестве субъекта в качестве формы игры слов, при условии, что оно может упасть (например, {DaS:n}, {'obmaQ:n}, {nagh:n}, {rutlh:n}). При использовании идиоматически {pumDI':sen:nolink} всегда предшествует главному предложению.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這種慣用語的字面意思是“跌倒時”。在沒有主題的情況下通常會聽到它，但是在指定主題時，最常見的是{'etlh:n}。可以將另一個單詞選作單詞遊戲的形式，只要它可以掉下來（例如{DaS:n}，{'obmaQ:n}，{nagh:n}，{rutlh:n}）。習慣用法時，{pumDI':sen:nolink}始終在主子句之前。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta expressão idiomática significa literalmente "quando cair". É mais freqüentemente ouvido sem um assunto, mas quando um assunto é especificado, o mais comum é {'etlh:n}. Outra palavra pode ser escolhida como o assunto como uma forma de jogo de palavras, desde que seja algo que pode cair (por exemplo, {DaS:n}, {'obmaQ:n}, {nagh:n}, {rutlh:n}). Quando usado de forma idiomática, {pumDI':sen:nolink} sempre precede a cláusula principal.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tämä idiomaattinen ilmaisu tarkoittaa kirjaimellisesti "kun se putoaa". Sitä kuulee useimmin ilman aihetta, mutta kun aihe määritetään, yleisin on {'etlh:n}. Toinen sana voidaan valita aiheeksi sanapelimuodoksi, kunhan se voi pudota (esim. {DaS:n}, {'obmaQ:n}, {nagh:n}, {rutlh:n}). Kun sitä käytetään idiomaattisesti, {pumDI':sen:nolink} edeltää aina päälauseketta.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{pum:v:2}, {-DI':v}</column>
@@ -11500,8 +11472,6 @@ Detta ord tar flertalssuffixet {-mey:n}, till skillnad från när {pu':n:3} refe
       <column name="notes_pt">No Klingon moderno, o pico na ponta de uma bota é sempre chamado de {DaSpu':n}, nunca apenas {pu':n:2,nolink} sozinho.[1]
 
 Esta palavra recebe o sufixo plural {-mey:n}, ao contrário de quando {pu':n:3} se refere a um chifre (parte do corpo animal) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Nykyaikaisessa Klingonissa kengän varren piikkiä kutsutaan aina {DaSpu':n}: ksi, ei koskaan vain {pu':n:2,nolink} yksinään.
 
 Tämä sana vie monikon {-mey:n}, toisin kuin silloin, kun {pu':n:3} viittaa sarviin (eläimen ruumiinosa).[1][2] [AUTOTRANSLATED]</column>

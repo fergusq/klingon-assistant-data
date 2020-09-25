@@ -458,7 +458,6 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="notes_ru">Чтобы спросить где находится человек, следует использовать {ghaH:n} вместо {'oH:n}. {nuqDaq ghaH ...'e'?:sen:nolink} "Где ...?</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para perguntar onde uma pessoa está, {ghaH:n} deve ser usado em vez de {'oH:n}. {nuqDaq ghaH ...'e'?:sen:nolink} "Onde está ...?" [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Jos haluat kysyä, missä henkilö on, {'oH:n}: n sijaan tulisi käyttää {ghaH:n}. {nuqDaq ghaH ... 'e'?: sen: nolink} "Missä on ...?"{nuqDaq ghaH ...'e'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{nuqDaq:ques}, {'oH:n:pro}, {-'e':n:suff}</column>
@@ -2561,22 +2560,6 @@ Buy the full "Warrior Woman" album: {Google Play store:url:https://play.google.c
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #17. -->
-<!-- ERROR: Missing link #18. -->
-<!-- ERROR: Missing link #19. -->
-<!-- ERROR: Missing link #21. -->
-<!-- ERROR: Missing link #30. -->
-<!-- ERROR: Missing link #32. -->
 <column name="notes_fi">Tämä on Klingon karaoke klassikko.
 
 ▶ KÄÄNTÄMINEN 1
@@ -2683,19 +2666,6 @@ The lyrics are as follows:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #17. -->
-<!-- ERROR: Missing link #18. -->
-<!-- ERROR: Missing link #19. -->
-<!-- ERROR: Missing link #21. -->
 <column name="notes_fi">Tämä on {tlhIngan Hol yejHaD:n} (epävirallinen) hymni, joka on laulettu jokaisella {qep'a':n:nolink}: lla.
 
 Sanoitukset ovat seuraavat:
@@ -2779,17 +2749,6 @@ Watch this song performed by Rachel Bloom: {YouTube video:url:http://youtu.be/Y3
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
 <column name="notes_fi">Tämä on kappale Terran-musikaalin "Rent" -elokuvasta. Tämän kappaleen Klingon-otsikko tarkoittaa kirjaimellisesti "525 600 minuuttia".
 
 ▶ KÄÄNTÄMINEN 1

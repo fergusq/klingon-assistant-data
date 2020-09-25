@@ -149,11 +149,6 @@
       <column name="notes_ru">чьё-то лицо показано, как символ идентичности или чести.[2] Различные аспекты дуэли выражаются в терминах показа лица (см. {Hay':v}).[3] Смотрите также {cha' qabDu':n} и {qabDu' law':n} для идиоматических выражений, использующих это слово. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O rosto de alguém é mostrado como um símbolo de identidade ou honra.[2] Vários aspectos do duelo são expressos em termos de mostrar o rosto (consulte {Hay':v}) .[3] Consulte também {cha' qabDu':n} e {qabDu' law':n} para usos idiomáticos dessa palavra. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Henkilön kasvot näytetään identiteetin tai kunnian symbolina.[2]{Hay':v}[3]{cha' qabDu':n}{qabDu' law':n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Spanish word for "head" is "cabeza".</column>
       <column name="components"></column>
@@ -384,7 +379,6 @@ För {qoD:n} delar av en {qach:n}, se {pa':n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">O {yor:n} de um {qach:n} é o seu {beb:n}, e suas paredes voltadas para o {Hur:n} são chamadas de {reD:n:1}. O outro lado do {beb:n} (isto é, o {'aqroS:n:1} de um {qach:n}) é chamado de {pa' beb:n}; a face {qoD:n} de um {reD:n:1} é conhecida como {pa' reD:n}.
 
 Para as partes {qoD:n} de um {qach:n}, consulte {pa':n:1}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #13. -->
 <column name="notes_fi">{qach:n}: n {yor:n} on sen {beb:n}, ja sen {Hur:n} -puoleisia seiniä kutsutaan {reD:n:1}: ksi. {beb:n}: n (toisin sanoen {qach:n}: n {'aqroS:n:1}) toista puolta kutsutaan {pa' beb:n}: ksi; {reD:n:1}-kasvoihin {qoD:n} viitataan nimellä {pa' reD:n}.
 
 Katso {qach:n}-osat DONOTTRANSLATE14-osasta kohdasta {pa':n:1}.{qoD:n} [AUTOTRANSLATED]</column>
@@ -1096,7 +1090,6 @@ On idioomi {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это слово буквально означает «огненная лава» на Криосе. Это подразумевает смелость неожиданного или неожиданного характера, возможно, даже безрассудства (в отличие от {toDuj:n}, который более нейтрален) .[1, p.10] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra significa literalmente "lava ardente" em Krios. Implica coragem de um tipo surpreendente ou inesperado, talvez até imprudência (ao contrário de {toDuj:n}, que é mais neutro).[1, p.10] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana tarkoittaa kirjaimellisesti "tulista laavaa" Kriosissa. Se merkitsee yllättävän tai odottamattoman rohkeutta, ehkä jopa huolimattomuutta (toisin kuin neutraali {toDuj:n}).[1, p.10] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1226,7 +1219,6 @@ On idioomi {ghung; qagh rur@@ghung:v, qagh:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">У клингона нет слова «цвет» в смысле «что это за цвет?» или "красный - это хороший цвет". Это слово используется для различения, например, цветной фотографии и черно-белой фотографии.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗語中的“顏色”一詞毫無意義。或“紅色是一種不錯的顏色”。此詞用於區分彩色照片和黑白照片。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Klingon não tem uma palavra para "cor" no sentido de "que cor é essa?" ou "vermelho é uma cor bonita". Essa palavra é usada para distinguir entre, por exemplo, uma fotografia colorida e uma fotografia em preto e branco.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Klingonilla ei ole sanaa "väri" merkityksessä "mikä väri se on?" tai "punainen on mukava väri". Tätä sanaa käytetään erottamaan esimerkiksi värivalokuva ja mustavalkoinen valokuva.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Herbert Kalmus was the co-founder and President of the Technicolor Motion Picture Corporation, and Natalie Kalmus was the color supervisor for many of its films.
 
@@ -1539,7 +1531,6 @@ Detta ord används på människor och djur.[2] [AUTOTRANSLATED]</column>
 Слово применяется к людям и животным.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Huomaa, että Klingonissa on erilainen sana "olla vanha (ei uusi)" ({ngo':v}) kuin "olla vanha (ei nuori)" ({qan:v:1,nolink}). Myös "vanha" "entisen" merkityksessä on {Deq:v}.
 
 Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
@@ -1589,7 +1580,6 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Идиоматический жест (из-за гомофонии с {qan:v:1}): указывать кому-то свой мизинец - значит комментировать, что вы считаете его старым. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">慣用的手勢（由於與{qan:v:1}的諧音）：將小指指向某人，就是說您認為他們已經老了。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um gesto idiomático (devido à homofonia com {qan:v:1}): apontar seu dedo mindinho para alguém é comentar que você acredita que ele é velho. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Idioomainen ele (johtuen homofoniasta DONOR TRANSLATE1: n kanssa): Jos osoitat vaaleanpunaisellesi jotakuta, on kommentoitava, että uskot hänen olevan vanha.{qan:v:1} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Canandaigua Lake.</column>
       <column name="components"></column>
@@ -2768,8 +2758,6 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{qaSuj'a '?: sen: nolink} on tapa, jolla esität kysymyksen, jos puhut vain yhdelle henkilölle. Jos haluat kysyä ihmisryhmältä, häiritsetkö heitä, sano {SaSuj'a '?: Sen: nolink} "Häiritsenko sinua (monikko)?"{qaSuj'a'?:sen:nolink}{SaSuj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3774,7 +3762,6 @@ Tämä verbi näyttää olevan johdettu {qa'meH:n}: stä, mahdollisesti tulkitse
       <column name="notes_ru">Это относится к некой жизненной силе внутри человека, которая убегает, когда тот умирает.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指一個人內的一種生命力，該生命力在該人死亡時會逃脫。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um tipo de força vital dentro de uma pessoa que escapa quando ela morre.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa eräänlaiseen ihmishenkeen, joka pakenee, kun henkilö kuolee[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is an acceptable word to use for "ghost", but there may be another (and better) unknown word for that concept.[2]</column>
       <column name="components"></column>
@@ -3916,7 +3903,6 @@ Tidigare brukade detta vara {quvqa'meH vIttlhegh:n:nolink}.[1] [AUTOTRANSLATED]<
 В прошлом, это было {quvqa'meH vIttlhegh:n:nolink}.[1]</column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Nämä ovat joukko sananlaskuja, joita käytetään kunnioituksen tai uskottavuuden palauttamiseen sen jälkeen, kun jotakin on nolostettu julkisessa ympäristössä.
 
 Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</column>
@@ -4391,7 +4377,6 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="notes_ru">Это относится к действию сдавливания части сумки {DIron:n}, обычно с локтем. [1, p.76] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指通常用肘部擠壓{DIron:n}的袋子部分的動作。[1, p.76] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä viittaa {DIron:n}-laukun pussin puristamiseen tavallisesti kyynärpäällä.[1, p.76] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4607,7 +4592,6 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="notes_ru">В {paq'raD:n:nolink} "Книга силы", являющаяся частью {paq'batlh:n}, вторая секция озаглавлена {qeHHa' loDnI':sen:nolink}, что переводится, как "Братское прощение". Сноска объясняет, что концепция прощения не относится к Клингонской культуре, и что дословное значение заголовка "Брат не негодует". Заголовок соответствующей песни в опере {'u':n:name,nolink} будет {loDnI'Daj quvqa'moH:sen:nolink}, что дословно значит, "он побуждает своего брата получить честь снова".</column>
       <column name="notes_zh_HK">在{paq'batlh:n}的{paq'raD:n:nolink}“強製書”中，第二部分的標題為{qeHHa' loDnI':sen:nolink}，該部分的英文譯本有點“兄弟的寬恕”。一個腳註解釋說，寬恕的概念與克林崗文化並不完全對應，標題的字面意思是“不折磨的兄弟”。歌劇《 {'u':src}》中相應頌歌的標題是{loDnI'Daj quvqa'moH:sen:nolink}，字面意思是“他使兄弟再次獲得榮譽”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">No {paq'raD:n:nolink} "Force Book" do {paq'batlh:n}, a segunda seção é intitulada {qeHHa' loDnI':sen:nolink}, que recebe a tradução em inglês um tanto vaga de "Perdão de um irmão". Uma nota de rodapé explica que o conceito de perdão não é mapeado exatamente para a cultura klingon e que o significado literal do título é "Um irmão não ressentido". O título do canto correspondente na ópera {'u':src} é {loDnI'Daj quvqa'moH:sen:nolink}, literalmente, "ele faz com que o irmão tenha honra novamente". [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{paq'raD:n:nolink}: n "Force Book" -kirjassa DONOTTRANSLATE1 on toinen osa otsikolla {qeHHa' loDnI':sen:nolink}, jolle on annettu hieman löysä englanninkielinen käännös "A Brother's Forgiveness". Alaviitteessä selitetään, että anteeksiannon käsite ei sovi tarkalleen Klingonin kulttuuriin ja että otsikon kirjaimellinen merkitys on "Veli ei läsnä". Vastaavan laulun nimi oopperassa {'u':src} on {loDnI'Daj quvqa'moH:sen:nolink}, kirjaimellisesti "hän saa veljen jälleen kunnioittamaan".{paq'batlh:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qeH:v}, {-Ha':v}</column>
@@ -6288,7 +6272,6 @@ Hans återkomst profeteras i berättelsens berättelse, som säger att:
 
 Seu retorno é profetizado na História da Promessa, que afirma que:
 ▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Kahless on legendaarinen ensimmäinen Klingonin keisari, joka yhdisti klingonilaiset.
 
 Hänen paluunsa ennustetaan Lupauksen tarinassa, jossa todetaan seuraavaa:
@@ -7678,7 +7661,6 @@ In the {Haynes BoP Manual:src}, this ship class is referred to as {raptor:n:noli
       <column name="notes_ru">Является большой, толстой птицей, являющейся коренным обитателем Кроноса, умеющей летать,но непродолжительное время. Самок этих птиц называют {qItbe':n:nolink}, в то время, как самцов {qItloD:n:nolink}.[2] Похожа на земную цесарку.[1]</column>
       <column name="notes_zh_HK">這是克羅諾斯（Kronos）原生的大胖鳥，能夠飛翔，但時間不長。其中一個雌性是{qItbe':n:nolink}，而一個雄性是{qItloD:n:nolink}.[2]，它類似於人種的guineafowl。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um pássaro grande e gordo, nativo de Cronos, que consegue voar, mas não por muito tempo. Uma fêmea dessas é uma {qItbe':n:nolink}, enquanto um macho é uma {qItloD:n:nolink}.[2] Ela se assemelha a uma guineafowl terráquea.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä on iso, lihava Kronosista kotoisin oleva lintu, joka pystyy lentämään, mutta ei pitkään aikaan. Nainen näistä on {qItbe':n:nolink}, kun taas uros on {qItloD:n:nolink}.[2] Se muistuttaa Terran-helmikanaa.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The source is Andrew Miller. This word was revealed for a Smithsonian Klingon Shakespeare skit that he and Marc Okrand were involved in. It was confirmed at the {Saarbrücken qepHom'a' 2016:src}.
 
@@ -7867,8 +7849,6 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
 Мальц неохотно разговаривает о том, что в точности это такое.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">{qor:n:name}: n vasen {qIvon:n:nolink} sattuisi aina, kun hänen aluksensa loimi loimi kahdeksan.
 
 Maltz näytti haluttomalta puhua mitä tämä oikein on[3][2] [AUTOTRANSLATED]</column>
@@ -7916,7 +7896,6 @@ Maltz näytti haluttomalta puhua mitä tämä oikein on[3][2] [AUTOTRANSLATED]</
       <column name="notes_ru">У клингонов нет эвфемизмов для посещения ванной комнаты, и они просто использовали бы {ghIm:v} с {turmIq:n}, {qeQ:n} или {taQbang:n:2}. Тем не менее, это сленговое выражение или идиома время от времени используется, хотя в основном (но вряд ли всегда) детьми. Можно спросить у нервного ребенка {belHa''a' qIvonlIj?:sen@@belHa':v, -'a':v, qIvon:n, -lIj:n} Большинство людей говорят {qIvon:n}, но некоторые говорят {qIvonDu':n@@qIvon:n, -Du':n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗人沒有上廁所的委婉說法，只會將{ghIm:v}與{turmIq:n}，{qeQ:n}或{taQbang:n:2}結合使用。但是，這種mostly語表達或習語有時會被孩子使用，儘管大多數（但並非總是如此）使用。有人可能會問一個緊張的孩子，{belHa''a' qIvonlIj?:sen@@belHa':v, -'a':v, qIvon:n, -lIj:n}大多數人都說{qIvon:n}，但有些人則說{qIvonDu':n@@qIvon:n, -Du':n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os klingons não têm eufemismos para ir ao banheiro e usariam {ghIm:v} com {turmIq:n}, {qeQ:n} ou {taQbang:n:2}. No entanto, essa expressão ou expressão de gíria é usada de tempos em tempos, embora principalmente (mas quase sempre) por ou para crianças. Pode-se perguntar a uma criança nervosa: {belHa''a' qIvonlIj?:sen@@belHa':v, -'a':v, qIvon:n, -lIj:n} A maioria das pessoas diz {qIvon:n}, mas algumas dizem {qIvonDu':n@@qIvon:n, -Du':n}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Klingoneilla ei ole eufemismejä käymällä vessassa, ja he käyttävät vain {ghIm:v}: tä {turmIq:n}: n, {qeQ:n}: n tai {taQbang:n:2}: n kanssa. Tätä slangilauseketta tai idiomia käytetään kuitenkin ajoittain, vaikkakin enimmäkseen (mutta tuskin aina) lapset tai lapsille. Voisi kysyä jittery-lapselta, {belHa''a 'qIvonlIj?: Sen @@ belHa': v, -'a ': v, qIvon: n, -lIj: n} Useimmat ihmiset sanovat {qIvon:n}, mutta jotkut sanovat {qIvonDu':n@@qIvon:n, -Du':n}.[2]{belHa''a' qIvonlIj?:sen@@belHa':v, -'a':v, qIvon:n, -lIj:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qIvon:n}, {bel:v}, {-moH:v}</column>
@@ -8369,7 +8348,6 @@ Maltz näytti haluttomalta puhua mitä tämä oikein on[3][2] [AUTOTRANSLATED]</
 {qoghmey:n:nolink} в общем означает "пояса", но также может означать "уши, разбросанные повсюду", из-за того, что слово является омофоном к {qogh:n:2}. Данный омофон также является основой для сленгового выражения, {qogh tuQmoHHa':sen}.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä pitää molemmat yllä {yopwaH:n}: tä ja sitä käytetään ripustamaan aseita
 
 {qoghmey:n:nolink} tarkoittaa yleensä "vyöt", mutta se voi tarkoittaa myös "korvat, jotka ovat hajallaan", johtuen homofoniasta {qogh:n:2}: n kanssa. Tämä homofonia on myös slangilausekkeen {qogh tuQmoHHa':sen}.[3] perusta.[2] [AUTOTRANSLATED]</column>
@@ -9081,9 +9059,6 @@ Det finns ett annat verb, {gher:v}, som används för att sammanställa listor o
       <column name="notes_pt">Esta palavra é usada para o ato de compor canções, histórias, etc.[2, p.71] Os klingons consideram as canções como coisas que simplesmente existem, e o ato de composição é visto como caçá-las, capturá-las e registrá-las.[3]
 
 Há outro verbo, {gher:v}, que é usado para compilar listas e semelhantes e que, ao contrário de {qon:v:nolink}, sugere que a informação é meramente repassada.[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä sanaa käytetään kappaleiden, tarinoiden yms. Säveltämiseen.
 
 On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoamiseen, ja joka toisin kuin {qon:v:nolink} viittaa siihen, että tietoa pelkästään välitetään.[2, p.71][3][4] [AUTOTRANSLATED]</column>
@@ -9577,8 +9552,6 @@ Det kan också användas för den enhet som vissa människor använder för att 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana viittaa pullon, kuten viinipullon, korkkiin tai tulpaan
 
 Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vauvojensa hiljentämiseen (mikä ei ole klingonilaista tapaa).[1][2] [AUTOTRANSLATED]</column>
@@ -9840,9 +9813,6 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="notes_ru">Это слово относится к форме, а не функции.[2] Его можно рассматривать как плоскую версию {SIrgh:n}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞是指形式而不是功能。[2]可以認為是{SIrgh:n}的平面版本。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra se refere à forma, e não à função.[2] Pode ser considerada uma versão simples de {SIrgh:n}.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana viittaa muotoon eikä funktioon.[2]{SIrgh:n}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The clarifications were made because the only uses of this word in canon had been for ribbon-like recording media.[2; 3].</column>
       <column name="components"></column>
@@ -10323,7 +10293,6 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="notes_ru">Это считается материалом, а не частью тела.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這被認為是材料，而不是身體部位。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é considerado um material, não uma parte do corpo.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä pidetään materiaalina, ei ruumiinosana[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Corinthian leather.
 
@@ -10415,7 +10384,6 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="notes_ru">Согласно {The Klingon Art of War:src}, древние Клингонские боги жили на нём.[1]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{The Klingon Art of War:src}: n mukaan muinaiset klingonijumalat asuivat täällä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qo':n}, {Sor:n}</column>
@@ -13045,7 +13013,6 @@ Huomaa, että {ghaj:v}: ta ja {Hutlh:v}: ää voidaan käyttää tämän substan
           <column name="notes_ru">Это просто {quv:v} плюс суффикс {-moH:v}, поэтому суффиксы глаголов типов 1–3 должны идти перед {-moH:v}, тип 4. Но это правило иногда нарушается для риторического эффекта.[2] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這只是{quv:v}加上後綴{-moH:v}，因此類型1到3的動詞後綴需要放在{-moH:v}（即類型4）之前。但是，出於修辭效果，有時會打破此規則。[2] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Isso é simplesmente {quv:v} mais o sufixo {-moH:v}; portanto, os sufixos verbais dos tipos 1 a 3 precisam passar antes de {-moH:v}, que é do tipo 4. No entanto, às vezes, essa regra é quebrada para efeito retórico.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä on yksinkertaisesti {quv:v} plus loppuliite {-moH:v}, joten tyyppien 1–3 verbiliitteiden on mentävä ennen {-moH:v}-tyyppiä, joka on tyyppi 4. Tämä sääntö kuitenkin joskus rikkoutuu retorisen vaikutuksen vuoksi.[2] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{quv:n}, {-moH:v}</column>
@@ -13349,7 +13316,6 @@ Huomaa, että {ghaj:v}: ta ja {Hutlh:v}: ää voidaan käyttää tämän substan
       <column name="notes_ru">Глагол применяется только к людям или животным. Когда его применяют к чему-то другому, это больше похоже на сленг (см {qu':v:2}).[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esse verbo normalmente é aplicado apenas a pessoas ou animais. Quando aplicado a algo que não seja uma pessoa ou um animal, é provável que seu significado de gíria (consulte {qu':v:2}) seja intencional.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä verbiä käytetään tyypillisesti vain ihmisiin tai eläimiin. Kun sitä käytetään mihinkään muuhun kuin henkilöön tai eläimeen, on todennäköistä, että sen slangi-merkitys (ks.{qu':v:2}) on tarkoitettu.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -13399,8 +13365,6 @@ Två moderna slangord med samma betydelse är {Huv:v:2,slang} och {nong:v:2,slan
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Kun tätä verbiä sovelletaan henkilöön tai eläimeen, ei ole aina selvää, onko slangi vai kirjaimellinen merkitys (katso {qu':v:1}) tarkoitettu. Slangin merkitys on kuitenkin todennäköisempi, kun sitä käytetään johonkin muuhun kuin henkilöön tai eläimeen.
 
 Kaksi muodin ulkopuolista slangisanaa, joilla on sama merkitys, ovat {Huv:v:2,slang} ja {nong:v:2,slang}, joista jälkimmäinen saattaa palata takaisin.[1, p.159][1, p.161] [AUTOTRANSLATED]</column>

@@ -407,7 +407,6 @@
       <column name="notes_ru">Используется в ситуациях, где персона нуждается в помощи, не будучи в состоянии сделать что-либо, что должно быть сделано, без оказания помощи, в отличии от {boQ:v}. Объект {QaH:v:nolink} не может завершить задачу в одиночку, так что ответственность падает на субъект (или делится поровну). Нет ничего предосудительного в просьбе о {QaH:v:nolink} когда она гарантирована, но предложение о {QaH:v:nolink} когда ожидается {boQ:v:nolink} может иногда быть мягким оскорблением.[2]</column>
       <column name="notes_zh_HK">與{boQ:v}相反，這種方法將用於需要幫助的人在沒有幫助的情況下無法做任何事情的情況下。 {QaH:v:nolink}的對象無法單獨執行任務，因此責任落在主題上（或由它承擔）。在有擔保的情況下索要{QaH:v:nolink}並沒有什麼弱點，但在預期{boQ:v:nolink}出現時向{QaH:v:nolink}提出的報價有時可能會有點侮辱。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso seria usado em situações em que a pessoa que precisa de ajuda não pode fazer o que for necessário sem assistência, em contraste com o {boQ:v}. O objeto {QaH:v:nolink} não pode executar a tarefa sozinho, portanto a responsabilidade recai sobre o assunto (ou é compartilhado). Não há nada fraco em pedir {QaH:v:nolink} quando justificado, mas uma oferta para {QaH:v:nolink} quando {boQ:v:nolink} é esperado às vezes pode ser um pouco ofensiva.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tätä käytettäisiin tilanteissa, joissa apua tarvitseva henkilö ei voi tehdä mitä tarvitsee tehdä ilman apua, toisin kuin {boQ:v}. {QaH:v:nolink}-objekti ei voi suorittaa tehtävää yksin, joten vastuu kuuluu aiheeseen (tai se on jaettu). {QaH:v:nolink}: n pyytämisessä ei ole mitään heikkoa, kun se on perusteltua, mutta tarjous {QaH:v:nolink}: lle, kun {boQ:v:nolink}: ää odotetaan, voi joskus olla lievästi loukkaavaa.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -506,7 +505,6 @@ Förväxla inte detta med liknande namn {qa'raj:n}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um kradge tem lábios castanhos. A expressão {Doq 'ej Qaj wuS rur:sen} é usada para descrever um objeto que é um tom particular de marrom (ver {Doq 'ej wovbe':sen}) .[2]
 
 Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kradge on ruskeat huulet. Ilmaisua {Doq 'ej Qaj wuS rur:sen} käytetään kuvaamaan kohdetta, joka on tietty ruskea sävy (katso {Doq 'ej wovbe':sen}).
 
 Älä sekoita tätä vastaavasti nimettyyn {qa'raj:n}: ään.[2] [AUTOTRANSLATED]</column>
@@ -853,7 +851,6 @@ Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column
       <column name="notes_ru">"Чтобы победить" в соревновании, подойдет {Qap:v:nolink}. Если победа решительна или частично удовлетворительна, то используется выражение {Qapchu':v:nolink}, даже если оно немного избыточное.[4]</column>
       <column name="notes_zh_HK">“取勝”競賽是{Qap:v:nolink}。如果勝利是決定性的或特別令人滿意的，則使用{Qapchu':v:nolink}表達式，即使它有點多餘。[4] [AUTOTRANSLATED]</column>
       <column name="notes_pt">"Ganhar" uma competição é {Qap:v:nolink}. Se a vitória for decisiva ou particularmente gratificante, a expressão {Qapchu':v:nolink} será usada, mesmo que seja um pouco redundante.[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Kilpailun "voittaminen" on {Qap:v:nolink}. Jos voitto on ratkaiseva tai erityisen ilahduttava, käytetään ilmaisua {Qapchu':v:nolink}, vaikka se olisikin hieman tarpeeton.[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined in {TKD:src} as "work, function, succeed", and in {KGT:src} as "win" and "operate, be in operation" (two separate entries). The "succeed" and "win" meanings are elaborated upon in {TKW:src}. In {HQ 2.4:src}, it is explained that to Klingons, to win is to function perfectly.</column>
       <column name="components"></column>
@@ -1437,7 +1434,6 @@ I {Klingon Monopoly:src} är {tlhIngan QaS:n:nolink} den valutaenhet som använd
 É possível que esta palavra possa ser usada para se referir a um único membro da tropa.[2, p.51]
 
 Em {Klingon Monopoly:src}, {tlhIngan QaS:n:nolink} é a unidade monetária usada no jogo. Deste jogo, temos os exemplos {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink} e {wa'vatlh QaS yItlhap:sen:nolink}. Observe que o prefixo singular {yI-:v} é usado mesmo que {QaS:n:1h,nolink} seja um substantivo inerentemente plural cujos membros estão sendo contados.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #13. -->
 <column name="notes_fi">Tämän sanan merkitys on kuin {negh:n}, mutta se sulkee pois upseerit ({yaS:n}). {QaS:n:1h,nolink}: n korkeimmat rivit ovat:
 ▶ {bu':n} "kersantti"
 ▶ {Da':n} "korpraali"
@@ -1622,7 +1618,6 @@ Kohdassa {Klingon Monopoly:src} {tlhIngan QaS:n:nolink} on pelissä käytetty ra
       <column name="notes_ru">В отличие от английского слова «последний», это означает «последний» и не означает «предыдущий» (который является {vorgh:v}) или «самый последний» (который является {ret:v}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Diferente da palavra em inglês "last", significa "final" e não significa "previous" (que é {vorgh:v}) ou "mais recente" (que é {ret:v}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Toisin kuin englanninkielinen sana "last", tämä tarkoittaa "lopullista" eikä tarkoita "edellistä" (joka on {vorgh:v}) tai "viimeisintä" (joka on {ret:v}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2203,7 +2198,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/SIpF7Zak6
       <column name="notes_ru">Это слово может быть использовано для других видов ювелирных изделий, наподобие кольца на палец ноги (хотя веротяно, это будет звучать как {yaD Qeb:n@@yaD:n:1, Qeb:n:1}, или более точно {Qay'wI' Qeb:n@@Qay'wI':n, Qeb:n:1}). Не используется для описания звена в цепи, если конечно цепь не сделана из ювелирных колец.[2]</column>
       <column name="notes_zh_HK">這個詞也可以用於其他種類的（類似）珠寶，例如用於腳趾（儘管可能是{yaD Qeb:n@@yaD:n:1, Qeb:n:1}，或更具體地，例如{Qay'wI' Qeb:n@@Qay'wI':n, Qeb:n:1}）。除非該鏈由（珠寶般的）環組成，否則它不用於鏈中的鏈接。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra também pode ser usada para outros tipos de jóias (semelhantes), como um dedo do pé (embora provavelmente seja {yaD Qeb:n@@yaD:n:1, Qeb:n:1}, ou mais específico, como {Qay'wI' Qeb:n@@Qay'wI':n, Qeb:n:1}). Isso não é usado para um link em uma corrente, a menos que a corrente seja composta de anéis (semelhantes a joias).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä sanaa voidaan käyttää myös muun tyyppisiin (samankaltaisiin) koruihin, kuten varpaisiin (vaikka se todennäköisesti olisi {yaD Qeb:n@@yaD:n:1, Qeb:n:1} tai tarkempi, kuten {Qay'wI' Qeb:n@@Qay'wI':n, Qeb:n:1}). Tätä ei käytetä ketjun lenkkiin, paitsi jos ketju koostuu (korujen kaltaisista) renkaista.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2395,22 +2389,6 @@ For every {QeD:n:nolink} there is a corresponding {tej:n}.[2; 3]</column>
       <column name="notes_ru">Клингонские науки включают в себя {HolQeD:n}, {HuchQeD:n}, {nughQeD:n}, {porghQeD:n}, и {'otlhQeD:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #15. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #19. -->
 <column name="notes_fi">Klingonin tieteitä ovat:
 ▶ KÄÄNTÄMINEN 1
 ▶ KÄÄNNÖT2
@@ -3067,8 +3045,6 @@ This word was awarded to {janSIy:n:name,nolink} as a Friend of Maltz.</column>
       <column name="definition_ru">цель [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">目標 [AUTOTRANSLATED]</column>
       <column name="definition_pt">apontar</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">tähdätä jotain</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3141,7 +3117,6 @@ Tätä verbiä käytetään myös ilmaisemaan ajatusta "kasvot" (suunta kohti) (
       <column name="notes_ru">Это просто приложение {Qeq:v:1}. Объект - это объект, ориентированный на кого-то или что-то, а находящаяся на нем вещь или человек помечается {-Daq:n:suff}. В этом значении этот глагол часто используется с {-'egh:v:suff} или {-chuq:v:suff}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這只是{Qeq:v:1}的應用程序。該對像是面向某人或某物的對象，並且所面對的某物或某人用{-Daq:n:suff}標記。具有此含義的此動詞通常與{-'egh:v:suff}或{-chuq:v:suff}.[1]一起使用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é apenas uma aplicação do {Qeq:v:1}. O objeto é aquele orientado para alguém ou algo, e a coisa ou pessoa que está sendo confrontada é marcada com {-Daq:n:suff}. Com esse significado, esse verbo é frequentemente usado com {-'egh:v:suff} ou {-chuq:v:suff}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä on vain {Qeq:v:1}-sovellus. Kohde on joku tai jokin suuntautunut, ja kohtaamasi asia tai henkilö on merkitty {-Daq:n:suff}-merkinnällä. Tällä merkityksellä tätä verbiä käytetään usein {-'egh:v:suff}- tai {-chuq:v:suff}-tiedostojen kanssa.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3789,10 +3764,6 @@ The names of the Klingon consonants consist of the sound followed by {ay:sen:nol
 Названия Клингонских согласных состоят  из звуков, которые следуют за {ay:sen:nolink}, и названий гласных состоящих из звуков, которым предшествует {':sen:nolink} и следующих за {t:sen:nolink}. Гортанная смычка является исключением, названная {qaghwI':n}.[4]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #40. -->
 <column name="notes_fi">Klingonin äänien ymmärtämiseksi on suositeltavaa, että ostat {The Klingon Dictionary:src}, jossa on täydellisempi kuvaus äänistä, sekä äänitallenteet {Conversational Klingon:src} ja {Power Klingon:src}, joissa voit kuulla niiden puhuvan.
 
 Klingonin kirjoittamiseen roomalaisella (englanninkielisellä) aakkosella käytettävä transkriptiojärjestelmä on foneettinen, mikä tarkoittaa, että sanat kirjoitetaan täsmälleen samalla tavalla kuin ne lausutaan. Seuraavassa Klingonin äänien kuvauksessa, joka on tarkoitettu vain karkeaksi oppaaksi, IPA-foneettiset symbolit näytetään kauttaviivaparin välillä, joka seuraa jokaisen äänen transkriptointiin käytettyä roomalaista kirjainta tai kirjaimia.
@@ -4230,7 +4201,6 @@ Detta ord används inte för att betyda "ivrigt efter, längtan efter, i verklig
       <column name="notes_pt">É usado quando não há saída ou não há nada a perder. Inclui ideias como "última vala, vida ou morte, sem esperança, condenada" .[1]
 
 Esta palavra não é usada para significar "ansioso por, ansiando por, com necessidade real de, tendo um grande desejo por", e assim por diante. Para expressar essas idéias, pode-se usar {-nIS:v} com {-qu':v}, ou talvez {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä käytetään, kun ei ole ulospääsyä tai jos ei ole mitään menetettävää. Se sisältää ideoita, kuten "viimeinen oja, tee tai kuole, toivoton, tuomittu" .[1]
 
 Tätä sanaa ei käytetä tarkoittavan "haluaa, kaipaa, kaipaa sitä, sitä todella tarvitsee, jolla on suuri halu" ja niin edelleen. Näiden ajatusten ilmaisemiseksi voidaan käyttää {-nIS:v} {-qu':v}: n kanssa tai ehkä {neHqu':sen@@neH:v, -qu':v}.[2] [AUTOTRANSLATED]</column>
@@ -4319,7 +4289,6 @@ Tätä sanaa ei käytetä tarkoittavan "haluaa, kaipaa, kaipaa sitä, sitä tode
       <column name="notes_ru">Это может принимать в качестве объекта {watrIn:n} или {'onroS:n}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可以將{watrIn:n}或{'onroS:n}作為其對象。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode levar {watrIn:n} ou {'onroS:n} como seu objeto.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä voi ottaa kohteeksi {watrIn:n} tai {'onroS:n}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4416,7 +4385,6 @@ Den används för att hänvisa till punkten på en (geometrisk) stjärna ({Dujtl
       <column name="notes_pt">Esta palavra também se refere à ponta afiada de um lápis. Provavelmente se refere à extremidade afiada de qualquer objeto parecido com um pedaço de pau.[2]
 
 É usado para se referir ao ponto em uma estrela (geométrica) ({DujtlhuQ:n}) .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana viittaa myös lyijykynän teroitettuun päähän. Se viittaa todennäköisesti minkä tahansa tikkumaisen esineen terävään päähän.[2]
 
 Sitä käytetään viittaamaan (geometrisen) tähden pisteeseen ({DujtlhuQ:n}).[3] [AUTOTRANSLATED]</column>
@@ -5209,7 +5177,6 @@ Ei ole perinteistä klingonilaista tapaa sanoa jotain "hyvää joulua". Lauseke,
       <column name="notes_ru">Это название заставы в Клингонской империи рядом с Ромуланской границей, где было заключено важное мирное соглашение с Федерацией.[3]</column>
       <column name="notes_zh_HK">這是羅慕蘭邊境附近克林崗帝國前哨站的名稱，在那裡與聯邦簽署了重要的和平協議。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome de um posto avançado no Império Klingon, perto da fronteira romulana, onde um importante acordo de paz foi assinado com a Federação.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on Klinonin imperiumin etuvartion nimi lähellä Romulanin rajaa, jossa federaation kanssa allekirjoitettiin tärkeä rauhansopimus.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5296,7 +5263,6 @@ Ei ole perinteistä klingonilaista tapaa sanoa jotain "hyvää joulua". Lauseke,
       <column name="notes_ru">Есть 2 идиомы, связанные с {QI'tu':n:nolink}, обе связаны с возрастом: {ngo'; QI'tu' rur@@ngo':v, QI'tu':n, rur:v} и {qan; QI'tu' rur@@qan:v:1, QI'tu':n, rur:v}. Первая может быть применена к объекту или идее, которая является очень старой, в то время как вторая может быть применена к старому человеку.[3]</column>
       <column name="notes_zh_HK">{QI'tu':n:nolink}有兩個與年齡相關的習慣用法：{ngo'; QI'tu' rur@@ngo':v, QI'tu':n, rur:v}和{qan; QI'tu' rur@@qan:v:1, QI'tu':n, rur:v}。第一個可能適用於非常古老的對像或構想，而第二個可能適用於老年人。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existem dois idiomas associados ao {QI'tu':n:nolink}, ambos relacionados à sua idade: {ngo'; QI'tu' rur@@ngo':v, QI'tu':n, rur:v} e {qan; QI'tu' rur@@qan:v:1, QI'tu':n, rur:v}. O primeiro pode ser aplicado a um objeto ou idéia muito antigo, enquanto o segundo pode ser aplicado a uma pessoa idosa.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">{QI'tu':n:nolink}: een liittyy kaksi idiomia, jotka molemmat liittyvät sen ikään: {ngo'; QI'tu' rur@@ngo':v, QI'tu':n, rur:v} ja {qan; QI'tu' rur@@qan:v:1, QI'tu':n, rur:v}. Ensimmäistä voidaan soveltaa esineeseen tai ideaan, joka on hyvin vanha, kun taas toista voidaan soveltaa vanhaan ihmiseen.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5646,7 +5612,6 @@ Avtal uttrycks också av det idiomatiska uttrycket {wa' DoS wIqIp.:sen:idiom} [A
 {Qochbe':v:nolink} implica uma ausência de desacordo, enquanto {QochHa':v:nolink} implica que a discordância foi extraviada ou desfeita.[3]
 
 A concordância também é expressa pela expressão idiomática {wa' DoS wIqIp.:sen:idiom} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä on yksinkertaisesti verbi {Qoch:v} plus pääte {-be':v}.[2]
 
 {Qochbe':v:nolink} tarkoittaa erimielisyyksien puuttumista, kun taas {QochHa':v:nolink} tarkoittaa, että erimielisyydet on väärin sijoitettu tai kumottu.
@@ -6058,7 +6023,6 @@ Sopimus ilmaistaan ​​myös idiomaattisella ilmaisulla {wa' DoS wIqIp.:sen:id
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">儘管有其定義，但該動詞在語法上的使用方式是基於其字面意義，因此在形容詞上使用該形容詞是不合語法的。[1, p.163] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Apesar de sua definição, a forma como este verbo é usado gramaticalmente é baseada em seu sentido literal, e não é gramaticalmente usado de forma adjetiva.[1, p.163] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Määritelmästään huolimatta tapa, jolla tätä verbiä käytetään kieliopillisesti, perustuu sen kirjaimelliseen merkitykseen, ja tätä ei ole kieliopillisesti käyttää adjektiivisesti.[1, p.163] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6406,7 +6370,6 @@ Sopimus ilmaistaan ​​myös idiomaattisella ilmaisulla {wa' DoS wIqIp.:sen:id
       <column name="notes_ru">Обычно применяется к старому оружию, инструментам, механическим устройствам, и так далее.[2, стр.163]</column>
       <column name="notes_zh_HK">通常適用於舊武器，工具，機械設備等。[2, p.163] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso geralmente é aplicado a armas antigas, ferramentas, dispositivos mecânicos e assim por diante.[2, p.163] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä käytetään yleensä vanhoissa aseissa, työkaluissa, mekaanisissa laitteissa ja niin edelleen[2, p.163] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6544,8 +6507,6 @@ Detta avser all musik, vare sig vokal eller instrumental eller båda. [2] [AUTOT
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Klingons sanoo musiikin sanoille {jaqmoH:v}, {SeymoH:v}, {tungHa':v} tai {pIlmoH:v}.
 
 Tämä viittaa mihin tahansa musiikkiin, niin laulu-, instrumentaali- kuin molempiinkin[1][2] [AUTOTRANSLATED]</column>
@@ -6644,7 +6605,6 @@ Typer av Klingon-musikinstrument inkluderar: slagverk ({'In:n}), vind (ingen tot
       <column name="notes_pt">Isso pode ser encurtado para apenas {jan:n:2} se o contexto for claramente musical, mas isso raramente é feito.[1]
 
 Os tipos de instrumentos musicais Klingon incluem: percussão ({'In:n}), vento (sem termo geral), windbag ou fole ({SuSDeq:n}) e cordas ({HurDagh:n} e {ngItHel:n}). Os instrumentos de sopro incluem o {Dov'agh:n}, o {gheb:n} e o {meSchuS:n}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä voidaan lyhentää vain {jan:n:2}-muotoon, jos asiayhteys on selvästi musikaali, mutta näin tehdään harvoin.
 
 Klingonin soittimien tyyppejä ovat: lyömäsoittimet ({'In:n}), tuuli (ei yleistä termiä), tuulipussi tai palkeet ({SuSDeq:n}) ja joustavat ({HurDagh:n} ja {ngItHel:n}). Puhallinsoittimiin kuuluvat {Dov'agh:n}, {gheb:n} ja {meSchuS:n}.[1] [AUTOTRANSLATED]</column>
@@ -7004,7 +6964,6 @@ I Krotmag-regionen ersätter högtalarna {b:sen:nolink} med {m:sen:nolink} och {
       <column name="notes_pt">Esta região é nomeada após Krotmag ({Qotmagh:n:name}).
 
 Na região de Krotmag, os alto-falantes substituem {b:sen:nolink} por {m:sen:nolink} e {D:sen:nolink} por {N:sen:nolink}.[1, p.21] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä alue on nimetty Krotmagin ({Qotmagh:n:name}) mukaan.
 
 Krotmagin alueella kaiuttimet korvaavat {b:sen:nolink}: n {m:sen:nolink}: lla ja {D:sen:nolink}: n {N:sen:nolink}: lla.[1, p.21] [AUTOTRANSLATED]</column>
@@ -7138,7 +7097,6 @@ Krotmagin alueella kaiuttimet korvaavat {b:sen:nolink}: n {m:sen:nolink}: lla ja
       <column name="notes_ru">Это означает "слышать", а не просто "слушать". Слушатель должен воспринимать и понимать, что было сказано.[2, стр.31]</column>
       <column name="notes_zh_HK">這意味著“聽”，而不僅僅是“聽”。傾聽者必須真正理解並理解所講的內容.[2, p.31] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "ouvir" e não apenas "ouvir". O ouvinte deve realmente perceber e entender o que está sendo dito.[2, p.31] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa "kuule" eikä vain "kuuntele". Kuulijan on todella havaittava ja ymmärrettävä mitä sanotaan[2, p.31] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined only as "hear" in {TKD:src}. The "listen to" definition was added based on the explanation in {TKW:src}.</column>
       <column name="components"></column>
@@ -7650,7 +7608,6 @@ Slangbetydelsen av {chong:v:2,slang}, när den appliceras på en person, motsvar
       <column name="notes_pt">Este verbo pode ter {'e':n:pro} como seu objeto.[2]
 
 O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é equivalente a {Qubchu'} "pense claramente" .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä verbi voi ottaa objektiksi {'e':n:pro}.[2]
 
 {chong:v:2,slang}: n slangimerkitys, kun sitä sovelletaan henkilöön, vastaa {Qubchu'}: n "ajattele selkeästi".[3] [AUTOTRANSLATED]</column>
@@ -7784,7 +7741,6 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru">Это не в точности тоже самое, что и {'IQ:v}, с того, самого момента, как это значит изменение состояния с счастливого на несчастливое.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso não significa exatamente a mesma coisa que {'IQ:v}, pois implica uma mudança de ser feliz para não ser feliz.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä ei tarkoita tarkalleen samaa kuin {'IQ:v}, koska se merkitsee muutosta onnellisuudesta olemattomaksi.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Quch:v}, {-Ha':v}</column>
@@ -7871,7 +7827,6 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru">Это слово и {lot:n} в основном взаимозаменяемы. Чтобы сослаться на то, от чего, по всей вероятности, невозможно оправиться (например, потеря {pIraqSIS:n}), {lot:n:nolink} лучше.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞和{lot:n}通常可以互換。提到某種不可能恢復的東西（例如{pIraqSIS:n}的損失，{lot:n:nolink}更好）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä sana ja {lot:n} ovat enimmäkseen vaihdettavissa. {lot:n:nolink} on parempi viitata johonkin, josta todennäköisesti ei voi toipua (kuten {pIraqSIS:n}: n menetys).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8260,7 +8215,6 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru">Вне соединений, таких как {QumpIn:n}, {Qum:sen:nolink} это просто глагол. Это предполагает, что существительное {Qum:n:archaic} существовало некоторое время в прошлом.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Yhdisteiden, kuten {QumpIn:n}, ulkopuolella {Qum:sen:nolink} löytyy vain verbinä. Tämä viittaa siihen, että substantiivi {Qum:n:archaic} oli olemassa jonkin aikaa aiemmin.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8655,7 +8609,6 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Pouco se sabe sobre os deuses klingons, exceto que parece que eles agiram coletivamente, e nenhum indivíduo se destacou dentre eles. O {Qun'a':n:nolink} pode ou não ser uma tradução apropriada para a divindade suprema de uma religião monoteísta, uma vez que o {Qun'a':n:nolink} ainda seria um dentre muitos.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Klingonin jumalista tiedetään vähän, paitsi että näyttää siltä, ​​että he toimivat kollektiivisesti, eikä yksikään yksilö eronnut heidän joukostaan. {Qun'a':n:nolink} saattaa olla sopiva käännös monoteistisen uskonnon korkeimmalle jumaluudelle, koska {Qun'a':n:nolink} olisi silti yksi monien joukosta.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

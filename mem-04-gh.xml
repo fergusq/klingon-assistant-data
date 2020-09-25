@@ -63,7 +63,6 @@
       <column name="notes_ru">Данное "мясо" может иметь кости. В некоторых региональных диалектах, слово {ghab:n:nolink} не применяется к мясу, у которого отсутствуют кости. Для этого предпочтительней использовать {ghab tun:n}.[1, p.27]</column>
       <column name="notes_zh_HK">這可能有骨頭。在某些地區性方言中，{ghab:n:nolink}不適用於缺少骨骼的肉類，而是使用{ghab tun:n}。[1, p.27] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ter ossos. Em alguns dialetos regionais, {ghab:n:nolink} não é aplicado a carne sem ossos, mas em vez disso, {ghab tun:n} é usado.[1, p.27] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tässä voi olla luita. Joissakin alueellisissa murteissa {ghab:n:nolink} ei koske lihaa, josta puuttuu luita, vaan pikemminkin {ghab tun:n}: ta.[1, p.27] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A "gob" of meat.</column>
       <column name="components"></column>
@@ -150,7 +149,6 @@
       <column name="notes_ru">Общее слово для уничтожения - {HoH:v}. {ghab:v:nolink} означает «убить» в результате охоты (таким образом, охота была успешной) или когда убийство является результатом запланированного процесса.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">殺人的通用詞是{HoH:v}。 {ghab:v:nolink}的意思是狩獵導致的“殺戮”（因此狩獵是成功的一次），或者是由於計劃外的謀殺而導致的殺戮。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra geral para matar é {HoH:v}. {ghab:v:nolink} significa "matar" como resultado da caça (portanto, a caça foi bem-sucedida), ou quando a matança é o resultado de um processo planejado.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Yleinen sana tappaa on {HoH:v}. {ghab:v:nolink} tarkoittaa "tappamista" metsästyksen seurauksena (siten metsästys onnistui) tai kun tappaminen on suunnitellun prosessin tulos.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In hunting jargon, to "bag" an animal is to successfully hunt it.</column>
       <column name="components"></column>
@@ -194,7 +192,6 @@
       <column name="notes_ru">Это означает, что субъект скрыт, но представляет угрозу, такую ​​как готовность к засаде.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著該對象處於隱藏狀態，但構成威脅，例如準備伏擊。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa que o assunto está oculto, mas representa uma ameaça, como estar pronto para uma emboscada.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa, että kohde on piilotettu, mutta uhkaa, kuten on valmis väijytykseen.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2325,8 +2322,6 @@ In the list of vocabulary used in {KCD:src} which was given to the KLI in advanc
       <column name="definition_ru">Задайте (вопрос) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">發問（問題）</column>
       <column name="definition_pt">perguntar (fazer uma pergunta)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">kysyä (kysymys)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2338,7 +2333,6 @@ In the list of vocabulary used in {KCD:src} which was given to the KLI in advanc
       <column name="notes_ru">Этот глагол используется, чтобы задать вопрос, тогда как {tlhob:v} используется для выполнения запроса.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞用於提出問題，而{tlhob:v}用於提出請求。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é usado para fazer uma pergunta, enquanto {tlhob:v} é usado para fazer uma solicitação.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä verbiä käytetään kysymyksen esittämiseen, kun taas {tlhob:v} käytetään pyynnön tekemiseen.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's implied that {ghel:v:nolink} works in a similar manner to {tlhob:v:nolink}, but this isn't explicitly stated.[2]</column>
       <column name="components"></column>
@@ -2519,7 +2513,6 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Этот глагол выражает идею объединения мыслей в достаточно связную форму, чтобы их можно было передать кому-то другому. Он отличается от {qon:v} тем, что {gher:v:nolink} предполагает, что информация просто передается.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞表達了將思想匯聚成合理連貫的形式以便可以將其表達給其他人的想法。它與{qon:v}的不同之處在於{gher:v:nolink}表示僅在傳遞信息。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo expressa a ideia de reunir pensamentos em uma forma razoavelmente coerente para que possam ser expressos para outra pessoa. É diferente de {qon:v} porque {gher:v:nolink} sugere que as informações estão apenas sendo repassadas.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä verbi ilmaisee ajatuksen ajatusten yhdistämisestä kohtuullisen yhtenäiseen muotoon, jotta ne voidaan ilmaista jollekin muulle. Se eroaa {qon:v}: stä siinä, että {gher:v:nolink} viittaa siihen, että tietoja välitetään vain eteenpäin.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2620,7 +2613,6 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_pt">As palavras na definição em inglês podem ser interpretadas como singular ou plural, dependendo do contexto. Se for importante indicar pluralidade no Klingon, adicione {-mey:n:suff}. Se for importante indicar a singularidade, use {wa':n:num} com {neH:adv} (ou algo parecido) .[2]
 
 "Resultados" no sentido de "pontuação, contagem" é {mIvwa'mey:n@@mIvwa':n, -mey:n}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Sanat englanninkielisessä määritelmässä voidaan tulkita yksikkö- tai monikkomuodoksi kontekstista riippuen. Jos on tärkeää ilmoittaa moninaisuus Klingonissa, lisää {-mey:n:suff}. Jos on tärkeää ilmoittaa singulariteetti, käytä {wa':n:num} {neH:adv}: n kanssa (tai jotain näiden linjojen kanssa).
 
 "Tulokset" tarkoittaa "pisteet, yhteen" on {mIvwa'mey:n@@mIvwa':n, -mey:n}.[2] [AUTOTRANSLATED]</column>
@@ -4125,9 +4117,6 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Этот глагол можно использовать с {turmIq:n}, {qeQ:n} и {taQbang:n:2}. [2]. У клингонов нет эвфемизмов для обозначения посещения туалета, они просто говорят {taQbang ghIm:sen:nolink} и так далее. Сленговое выражение {qIvon belmoH:sen} время от времени используется, в основном, детьми или для детей.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo pode ser usado com {turmIq:n}, {qeQ:n} e {taQbang:n:2}.[2] Os klingons não têm eufemismos para ir ao banheiro e diriam apenas {taQbang ghIm:sen:nolink} e assim por diante. A expressão de gíria {qIvon belmoH:sen} é usada de vez em quando, principalmente por ou para crianças.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Tätä verbiä voidaan käyttää seuraavien kanssa: {turmIq:n}, {qeQ:n} ja {taQbang:n:2}. Slangilauseketta {qIvon belmoH:sen} käytetään aika ajoin, enimmäkseen lapset tai lapset.[2]{taQbang ghIm:sen:nolink}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4215,7 +4204,6 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Это относится к зданию или группе зданий, включая любые сопутствующие территории, такие как сады. Это не относится к группе людей, которые там живут, работают или учатся.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">指建築物或建築物群，包括任何附屬場地，例如花園。它不是指在那裡生活，工作或學習的人群。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um edifício ou grupo de edifícios, incluindo quaisquer terrenos que o acompanham, como jardins. Não se refere ao grupo de pessoas que vive, trabalha ou estuda lá.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa rakennusta tai rakennusten ryhmää, mukaan lukien kaikki siihen liittyvät tontit, kuten puutarhat. Se ei tarkoita ihmisryhmää, joka asuu, työskentelee tai opiskelee siellä[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Plymouth Gin is produced by The Black Friars Distillery, formerly a Dominican monastery in Plymouth, England.</column>
       <column name="components"></column>
@@ -5048,7 +5036,6 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Этот глагол используется, чтобы обозначить нанесение отметок на поверхности. Применяется не просто для "написания", но для любых видов нанесения отметок. Здесь идет речь, чтобы существлять физический процесс письма. Для создания композиций используйте {qon:v}.[2; 3] Другой глагол, {gher:v}, используется для создания списков и т.п[4]</column>
       <column name="notes_zh_HK">該動詞用於指示在表面上進行標記的過程。它不僅適用於書寫，而且適用於任何標記。從這個意義上說，“寫作”是指寫作的物理行為，而不是寫作的創作，而是使用{qon:v}。[2; 3]另一個動詞{gher:v}用於列表的彙編等。[4] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é usado para indicar a realização de marcações em uma superfície. Não se aplica apenas à escrita, mas a qualquer tipo de marcação. "Escrever", neste sentido, refere-se ao ato físico de escrever, e não à criação de composições, para as quais {qon:v} é usado em seu lugar.[2; 3] Outro verbo, {gher:v}, é usado para a compilação de listas e semelhantes.[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tätä verbiä käytetään osoittamaan merkintöjen tekeminen pinnalle. Se ei koske vain kirjoittamista, vaan kaikenlaista merkintää. "Kirjoittaminen" tarkoittaa tässä mielessä fyysistä kirjoittamista, ei sävellysten luomista, joihin käytetään sen sijaan {qon:v}. [2; 3] Toista verbiä, {gher:v}, käytetään luetteloiden ja vastaavien kokoamiseen.[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined in {TKD:src} as "write". In {KGT:src}, it was clarified that this meant "engrave, incise, mark (upon)", that is, the phyiscal act of making marks on a surface.
 
@@ -5196,7 +5183,6 @@ I {TNK:src} används {ghItlhwI':n:nolink} för "penna" och {ghojmeH ghItlhwI':n:
       <column name="notes_pt">Esta palavra é usada para qualquer instrumento de escrita, bem como para qualquer pessoa que escreve.[1]
 
 Em {TNK:src}, {ghItlhwI':n:nolink} é usado para "caneta" e {ghojmeH ghItlhwI':n:nolink} é usado para "lápis" .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä sanaa käytetään mihin tahansa kirjoitusvälineeseen sekä kenelle tahansa kirjoittavalle henkilölle.[1]
 
 {TNK:src}: ssa {ghItlhwI':n:nolink}: ta käytetään "kynään" ja {ghojmeH ghItlhwI':n:nolink}: tä "lyijykynään".[2] [AUTOTRANSLATED]</column>
@@ -5650,7 +5636,6 @@ Existem 243 {lawmey:n:nolink} em um {gho:n:nolink} ou 360 {lawrI'mey:n:nolink}. 
       <column name="notes_ru">Вероятно, что это обозначение слова, что является омофоном для глагола для осуществления битвы или ведения войны</column>
       <column name="notes_zh_HK">此詞與進行戰鬥或發動戰爭的動詞同音可能很重要（{ghob:v}）.[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">É provavelmente significativo que esta palavra seja homófona com o verbo para fazer batalha ou travar guerra ({ghob:v}) .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">On todennäköisesti merkittävää, että tämä sana on homofoninen taistelua tai sotaa käyvän verbin kanssa ({ghob:v}).[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5724,7 +5709,6 @@ I stigande graden av våldsamhet är de verb som används för att beskriva mili
 É provavelmente significativo que esta palavra seja homófona com a palavra para ética ou virtude ({ghob:n}) .[2]
 
 Em ordem crescente de ferocidade, os verbos usados ​​para descrever confrontos militares são: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä verbi viittaa konkreettiseen taisteluun. Katso sodan käymisen käsite {Qoj:v}.
 
 On luultavasti merkittävää, että tämä sana on homofoninen etiikkaa tai hyveitä koskevan sanan kanssa ({ghob:n}).
@@ -6741,7 +6725,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Этот глагол может использоваться как с глаголом, так и без него. Если есть объект, тогда субъект встречает объект. Если нет объекта, тогда субъекты собираются или встречаются друг с другом.[2]</column>
       <column name="notes_zh_HK">該動詞可以與或不與賓語一起使用。如果有一個對象，則表明該對象正在遇到該對象。如果沒有任何物體，則各主體彼此聚集或相遇。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo pode ser usado com ou sem um objeto. Se houver um objeto, o assunto está encontrando o objeto. Se não houver objeto, os sujeitos estão se reunindo ou se encontrando.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä verbiä voidaan käyttää objektin kanssa tai ilman. Jos objektia on, kohde tapaa objektin. Jos kohdetta ei ole, koehenkilöt kokoontuvat tai kohtaavat toisiaan[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7132,7 +7115,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Это относится к жестокому обращению или эксплуатации, но не относится к физическому насилию.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指虐待或剝削，但不是指身體虐待。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a abuso ou exploração, mas não se refere a abuso físico.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä viittaa väärinkäyttöön tai hyväksikäyttöön, mutta ei tarkoita fyysistä hyväksikäyttöä[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "abuse" in {TKD:src}, and expanded to include "exploit" at {qep'a' 26 (2019):src}.</column>
       <column name="components"></column>
@@ -7841,7 +7823,6 @@ Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta
       <column name="notes_ru">В {Hamlet:src} упоминается не ({ghorqan:n:name}), кто стремился заключить мир с Федерацией, а один из его предков</column>
       <column name="notes_zh_HK">{Hamlet:src}中的提法不是要尋求與聯邦和平的總理（{ghorqan:n:name}），而是他的一位傳奇祖先。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A referência em {Hamlet:src} não é para o Chanceler ({ghorqan:n:name}) que buscou a paz com a Federação, mas para um de seus ancestrais lendários.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">{Hamlet:src}-viite ei koske liittokanslerille ({ghorqan:n:name}), joka etsi rauhaa federaation kanssa, vaan yhteen hänen legendaarisista esi-isistään.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8018,7 +7999,6 @@ Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta
       <column name="notes_ru">Когда это слово употребляется во множественном числе, оно больше ориентируется на людей, составляющих группу. Таким образом, {ghotpu':n@@ghot:n, -pu':n}, вероятно, будет переведен как «люди» (а не «люди»), но это не является строгим правилом.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">當這個詞為複數形式時，它會更多地關注組成該群體的個人。因此，{ghotpu':n@@ghot:n, -pu':n}可能會翻譯為“人”（而不是“人”），但這不是嚴格的規則。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kun tämä sana on monikko, se keskittyy enemmän ryhmän muodostaviin yksilöihin. Joten {ghotpu':n@@ghot:n, -pu':n} käännetään todennäköisesti "henkilöiksi" (eikä "ihmisiksi"), mutta tämä ei ole tiukka sääntö.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -8121,7 +8101,6 @@ Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta
       <column name="notes_ru">Каждый {ghotI':n:nolink} является {bIQDep:n}, но не каждый {bIQDep:n:nolink} является {ghotI':n:nolink}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">每個{ghotI':n:nolink}都是{bIQDep:n}，但不是每個{bIQDep:n:nolink}都是{ghotI':n:nolink}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Todo {ghotI':n:nolink} é um {bIQDep:n}, mas nem todo {bIQDep:n:nolink} é um {ghotI':n:nolink}.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Jokainen {ghotI':n:nolink} on {bIQDep:n}, mutta jokainen {bIQDep:n:nolink} ei ole {ghotI':n:nolink}.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is based on a joke English spelling for "fish".</column>
       <column name="components"></column>
@@ -8308,8 +8287,6 @@ Detta ord är främmande ursprung. Anledningen till att Klingons använder ett f
       <column name="notes_pt">Este é um tipo de mancha ou inflamação da pele que afeta os Klingons no início da puberdade.[1; 2]
 
 Esta palavra tem origem estranha. A razão pela qual os Klingons usam uma palavra estranha para isso é para colocar alguma distância entre eles e algo considerado embaraçoso.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on eräänlainen ihon tahra tai tulehdus, joka vaikuttaa klingoneihin murrosiän aikana.
 
 Tämä sana on alkuperältään vieras. Syy siihen, miksi Klingonit käyttävät tähän ulkomaalaista sanaa, on asettaa jonkinlainen etäisyys itsensä ja kiusallisen välillä.[1; 2][3] [AUTOTRANSLATED]</column>
@@ -9306,7 +9283,6 @@ Katso myös loppuliitteet {-rup:v} ja {-beH:v} valmistelun tai valmiuden osoitta
       <column name="notes_ru">Этот глагол может использоваться для описания подготовки любого вида метательного оружия, например, оттягивания резинки рогатки. На звездолете он используется почти исключительно для обозначения торпед (см. {ghuS:v:1}).[1, p.64] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞可用於描述任何種類的射彈武器的準備情況，例如拉回彈弓的鬆緊帶。在星際飛船上，它幾乎專門用於指魚雷（請參閱{ghuS:v:1}）。[1, p.64] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse verbo pode ser usado para descrever a preparação de qualquer tipo de arma de projétil, como puxar o elástico de um estilingue. Em uma nave estelar, é usado quase exclusivamente para se referir a torpedos (consulte {ghuS:v:1}).[1, p.64] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä verbiä voidaan käyttää kuvaamaan kaikenlaisten ammuksen aseiden valmistelua, kuten ritsaen elastisen nauhan vetämistä takaisin. Tähtialuksella sitä käytetään melkein yksinomaan viittaamaan torpedoihin (katso {ghuS:v:1}).[1, p.64] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

@@ -366,7 +366,6 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2,nolink}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1802,7 +1801,6 @@
       <column name="notes_ru">Чтобы указать «столетия назад» или «столетия спустя», {ret:n} и {pIq:n} используются вместо {poH:n} соответственно.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">為了表示“幾個世紀以前”或“從現在開始幾個世紀”，分別使用{ret:n}和{pIq:n}代替{poH:n}。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para indicar "séculos atrás" ou "séculos a partir de agora", {ret:n} e {pIq:n} são usados ​​no lugar de {poH:n}, respectivamente.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Ilmaisemaan "vuosisatoja sitten" tai "vuosisatoja nyt" käytetään {ret:n} ja {pIq:n} vastaavasti {poH:n}: n sijasta.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The sentence from {SkyBox 15:src} has the {wa'DIch:n} in the wrong place. Also, the second occurrence of {vatlh DIS poH:n} is missing a space.</column>
       <column name="components">{vatlh:n:num}, {DIS:n:2}, {poH:n}</column>
@@ -2516,7 +2514,6 @@ Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Во множественном числе этого слова {veDDIrmey:n:nolink}, а не {veDDIrDu':n:nolink}.[1; 2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個單詞的複數是{veDDIrmey:n:nolink}而不是{veDDIrDu':n:nolink}.[1; 2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O plural desta palavra é {veDDIrmey:n:nolink} em vez de {veDDIrDu':n:nolink}.[1; 2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämän sanan monikko on {veDDIrmey:n:nolink} eikä {veDDIrDu':n:nolink}.[1; 2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{veD:n}, {DIr:n}</column>
@@ -2560,7 +2557,6 @@ Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот глагол означает только пройти через какое-то отверстие, а не «пройти» (в смысле «пройти» через лес) .[1] Объект - это вещь, через которую проходили. {-Daq:n:suff} не нужен.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞僅意味著經過某種開口，而不意味著“經過”（在“經過”森林的意義上）。[1]對像是正在經歷的事物。 {-Daq:n:suff}是不必要的。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo significa apenas passar por algum tipo de abertura, e não "atravessar" (no sentido de "atravessar" uma floresta) .[1] O objeto é a coisa que está sendo atravessada. {-Daq:n:suff} é desnecessário.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä verbi tarkoittaa vain käydä läpi jonkinlaisen aukon eikä "kulkea" (siinä mielessä, että "käydä läpi" metsän). {-Daq:n:suff} on tarpeeton.[2][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2701,7 +2697,6 @@ Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{SkyBox 99:src}: n teksti kuuluu:
 ▶ KÄÄNNÖT2{loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
@@ -3264,8 +3259,6 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Jotkut {Qo'noS:n}: n tunnetuista kaupungeista ovat:
 ▶ KÄÄNNÖT2
 ▶ KÄÄNTÄMINEN 3{veng wa'DIch:n}{ruq'e'vet:n} [AUTOTRANSLATED]</column>
@@ -4106,7 +4099,6 @@ Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'a
       <column name="notes_ru">Сравните это с {noH:n}, который относится к определенной войне. [1, p.47] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與此形成鮮明對比的是{noH:n}，後者是指一場特定的戰爭。[1, p.47] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Compare isso com {noH:n}, que se refere a uma guerra específica.[1, p.47] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kontrasti tämä kohdalla {noH:n}, joka viittaa tiettyyn sotaan[1, p.47] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5129,7 +5121,6 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">A sugestão foi feita em {qep'a' 16 (2009):src} de que um {vIlHom:n:nolink} poderia ser uma única crista em um {Quch:n}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Ehdotus tehtiin kohdassa {qep'a '16 (2009): src}, että {vIlHom:n:nolink} voisi olla yksi harjanne {Quch:n}: ssa.{qep'a' 16 (2009):src} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{vIl:v:1} or {vIl:n:2,hyp,nolink}, {Hom:n:1}</column>
@@ -5949,7 +5940,6 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="notes_ru">Это используется для вещей, которые измеримы или измеримы, но не обязательно исчисляются. Для счетных вещей обычно используется {law':v}, но {vItlh:v:nolink} будет использоваться, если число будет больше, чем обычно, или больше, чем раньше, или больше, чем ожидалось.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">用於可測量或可量化但不一定可計數的事物。對於可數事物，通常將使用{law':v}，但是如果該數字大於正常或大於之前或大於預期，則將使用{vItlh:v:nolink}。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para coisas que são mensuráveis ​​ou quantificáveis, mas não necessariamente contáveis. Para itens contáveis, {law':v} normalmente seria usado, mas {vItlh:v:nolink} seria usado se o número fosse maior que o normal ou maior que antes ou maior que o esperado.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä käytetään asioihin, jotka ovat mitattavissa tai mitattavissa, mutta eivät välttämättä laskettavissa. Laskettavissa oleviin asioihin käytettäisiin normaalisti {law':v}, mutta {vItlh:v:nolink} käytettäisiin, jos lukumäärä on normaalia suurempi tai suurempi kuin ennen tai suurempi kuin odotettiin.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6039,7 +6029,6 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="notes_ru">Ушная сера (см. {Serrum:n}), как говорят, делает это в ухе.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">據說耳垢（請參見{Serrum:n}）可以在耳朵中做到這一點。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Diz-se que a cera de ouvido (consulte {Serrum:n}) faz isso na orelha.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Korvanvahan (katso {Serrum:n}) sanotaan tekevän tämän korvalla.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6878,7 +6867,6 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="notes_ru">Этот жаргонный термин не используется применительно к играм, но применяется только к более серьезным вопросам. [1, p.165] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個語不用於遊戲，而僅用於更嚴重的事情。[1, p.165] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este termo de gíria não é usado em referência a jogos, mas é aplicado apenas a assuntos mais sérios.[1, p.165] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä slangitermiä ei käytetä pelien yhteydessä, vaan sitä käytetään vain vakavammissa asioissa.[1, p.165] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Note that in the example, the prefix {bI-:v} is used rather than {Da-:v}. This might indicate that the apparent {-lu':v} suffix is a fossilized form and isn't truly the suffix.</column>
       <column name="components">{von:v}, {-lu':v}</column>
@@ -7365,11 +7353,6 @@ This region has some vocabulary differences from {ta' Hol:n}. Terms which have a
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Tämä on alue lounaaseen {veng wa'DIch:n}: stä.
 
 Tällä alueella on sanastoeroja {ta' Hol:n}: sta. Termeillä, joilla on erilainen merkitys tällä alueella kuin {ta' Hol:n}: ssa, ovat:

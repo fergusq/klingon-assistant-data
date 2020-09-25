@@ -77,7 +77,6 @@ I en Klingon-bar ropar bartendern ({chom:n}) {'eb Qav:n} för "senaste samtal" .
       <column name="notes_pt">Diz-se que uma oportunidade foi capturada ({jon:v}), e se alguém perder uma oportunidade, diz-se que escapou ({nargh:v:2}) .[3] "matar o tempo" é {'ebmey jonHa':sen}.[5]
 
 Em um bar Klingon, o barman ({chom:n}) grita {'eb Qav:n} para "última chamada" .[4] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Mahdollisuuden sanotaan olevan kiinni ({jon:v}), ja jos joku menettää mahdollisuuden, sen sanotaan paenneen ({nargh:v:2}) .[3] "Aikaa tappaa" tarkoittaa {'ebmey jonHa':sen}.[5]
 
 Baarimikko ({chom:n}) huutaa Klingon-baarissa {'eb Qav:n} "viimeisestä puhelusta".[4] [AUTOTRANSLATED]</column>
@@ -575,7 +574,6 @@ Pelikorttipakan pukuja kutsutaan nimellä {Degh:n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n:nolink}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The third tone of the musical scale is "me", and {-'egh:v:suff} is the "self" suffix.</column>
       <column name="components"></column>
@@ -676,9 +674,6 @@ Vid anslutning av flera meningar behövs endast den slutliga konjunktionen. Se e
       <column name="notes_pt">A conjunção {'ej:conj} não tem quaisquer implicações temporais ou sequenciais.[2] Para expressar esses significados, use {ghIq:adv} ou {ngugh:adv}.
 
 Ao conectar várias frases, apenas a conjunção final é necessária. Veja o exemplo em {qoj:conj}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Yhdistelmällä {'ej:conj} ei ole ajallisia tai peräkkäisiä vaikutuksia.
 
 Kun yhdistetään useita lauseita, tarvitaan vain viimeinen yhdistelmä. Katso esimerkki kohdasta {qoj:conj}.[2]{ghIq:adv}{ngugh:adv} [AUTOTRANSLATED]</column>
@@ -767,7 +762,6 @@ Kun yhdistetään useita lauseita, tarvitaan vain viimeinen yhdistelmä. Katso e
       <column name="notes_ru">Скорее всего, {Do':n:archaic,hyp} - устаревшее слово для современного {Duj:n:1}.[1, p.20] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{Do':n:archaic,hyp}可能是現代{Duj:n:1}的古老單詞。[1, p.20] [AUTOTRANSLATED]</column>
       <column name="notes_pt">É provável que {Do':n:archaic,hyp} seja uma palavra arcaica para o moderno {Duj:n:1}.[1, p.20] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">On todennäköistä, että {Do':n:archaic,hyp} on arkaainen sana nykyajan {Duj:n:1}: lle.[1, p.20] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'ej:n:hyp}, {Do':n:hyp}</column>
@@ -1566,7 +1560,6 @@ Det tar suffixet {-Du':n} även om det används metaforiskt. [2] [AUTOTRANSLATED
       <column name="notes_pt">Isso se refere à anatomia, mas pode ser usado metaforicamente em outros contextos.
 
 Leva o sufixo {-Du':n} mesmo quando usado metaforicamente.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä viittaa anatomiaan, mutta sitä voidaan käyttää metaforisesti muissa yhteyksissä.
 
 Se vaatii loppuliitteen {-Du':n}, vaikka sitä käytettäisiin metaforisesti.[2] [AUTOTRANSLATED]</column>
@@ -1747,7 +1740,6 @@ It was clarified during the Q &amp; A session that this word and {Hergh:n:nolink
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä verbi viittaa toimintaan, joka on {Sop:v}: n ja {tlhutlh:v}: n välillä. Se viittaa erityisesti {chatlh:n:1}: n kulutukseen, joka sisältää vähemmän nestettä kuin mitä Terran voisi tunnistaa keittona.[1, p.206] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2932,7 +2924,6 @@ This was rumoured to have been revealed at {qep'a' 26 (2019):src}, and was offic
       <column name="notes_ru">Это используется для пищи, которая была приготовлена ​​плохо. [1, p.84] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這用於準備不好的食物。[1, p.84] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para alimentos que foram mal preparados.[1, p.84] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä käytetään elintarvikkeisiin, jotka on valmistettu huonosti[1, p.84] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'ey:v}, {-Ha':v}</column>

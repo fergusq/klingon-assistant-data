@@ -167,7 +167,6 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_ru">В клингоне, когда человек живет в каком-то месте, его или ее считают занятым или населяющим его. То есть, он или она не делают что-то в каком-то месте, а делают что-то с ним.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在克林崗，當一個人居住在一個地方時，他或她被認為是居住或居住於該地方。也就是說，他或她不被視為在某個位置做某事，而是在對該位置做某事。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em Klingon, quando se vive em um lugar, ele ou ela é considerado como ocupando ou habitando. Ou seja, ele ou ela não é visto como fazendo algo em um local, mas como fazendo algo a ele.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Kun joku asuu paikassa Klingonissa, hänen ajatellaan asuvan tai asuttavan sitä. Toisin sanoen hänen ei katsota tekevän jotain paikassa, vaan pikemminkin tekevänsä jotain sille.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -341,7 +340,6 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_ru">Это применяют к человеку, кто не сфокусирован на задании.[1, стр.149]</column>
       <column name="notes_zh_HK">這適用於不專注於手頭任務的人。[1, p.149] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se aplica a uma pessoa que não está focada na tarefa em questão.[1, p.149] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä koskee henkilöä, joka ei ole keskittynyt käsillä olevaan tehtävään[1, p.149] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -706,10 +704,6 @@ Como sujeito de uma frase, {jajvam:n:nolink} é mais comumente encontrado, embor
 {DaHjaj:n:nolink} também é usado com palavras que indicam uma hora do dia para se referir a essa parte do dia atual. Por exemplo, {DaHjaj ram:n}, literalmente "noite de hoje", significa "hoje à noite" .[2]
 
 Como um elemento de tempo, {DaHjaj:n} precede qualquer adverbial. [1, sec. 6.7] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #17. -->
-<!-- ERROR: Missing link #19. -->
 <column name="notes_fi">Vaikka sekä {DaHjaj:n:nolink} että {jajvam:n} tarkoittavat "tänään", ne eivät ole aivan keskenään vaihdettavissa. {DaHjaj:n:nolink}: ta (mutta ei {jajvam:n:nolink}) käytetään lauseen aikaelementtinä: {DaHjaj romuluSngan vIHoHpu':sen:nolink} "tänään tapoin romulanin".
 
 Lauseen aiheena {jajvam:n:nolink} löytyy tyypillisemmin, vaikka {DaHjaj:n:nolink} ei ole mahdotonta. Vertailla:
@@ -1604,7 +1598,6 @@ Ett godtagbart sätt att uttrycka denna efterfrågan som en fråga är {nuq DaDa
       <column name="notes_pt">Em Klingon, isso é mais uma ordem do que uma pergunta. Literalmente significa: "Identifique o lugar onde você mora!"[1]
 
 Uma maneira aceitável de expressar essa demanda como uma pergunta é {nuq DaDab?:sen:nolink} [1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Klingonissa tämä on pikemminkin komento kuin kysymys. Se tarkoittaa kirjaimellisesti: "Tunnista asuinpaikkasi!" [1]
 
 Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?: Sen: nolink} [1]{nuq DaDab?:sen:nolink} [AUTOTRANSLATED]</column>
@@ -3032,7 +3025,6 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Dav:v:2}.[1] [AUTOTR
       <column name="notes_ru">Кажется, когда-то существовал глагол {Degh:v:hyp,nolink} со значением «steer», который вышел из употребления.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">似乎曾經有一個動詞{Degh:v:hyp,nolink}，其含義為“轉向”，但已不再使用。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Parece ter havido um verbo {Degh:v:hyp,nolink} ao mesmo tempo com o significado de "direção" que ficou fora de uso.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Vaikuttaa siltä, ​​että kerralla on ollut verbi {Degh:v:hyp,nolink}, jonka merkitys on "ohjata" ja joka on pudonnut käytöstä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Degh:v:hyp,nolink}, {-wI':v}</column>
@@ -3337,7 +3329,6 @@ In {DSC - The Vulcan Hello:src}, the albino Voq's (see {voq:n:name}) skin colour
       <column name="notes_ru">Это также называется {DenIbya':n:nolink}, как правило, старшими ораторами.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">也稱為{DenIbya':n:nolink}，通常由年長的揚聲器使用。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também é chamado {DenIbya':n:nolink}, geralmente por falantes mais antigos.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä kutsutaan tyypillisesti vanhemmiksi puhujiksi {DenIbya':n:nolink}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "Denebia" in {TKD:src}, but it was later clarified that this was an error and the English name of this planet is actually "Deneb".[3]</column>
       <column name="components"></column>
@@ -4927,7 +4918,6 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Der:v:2}.[1] [AUTOTR
       <column name="notes_ru">Этот термин обычно используется только для довольно больших (или мощных) компьютеров.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該術語通常僅用於相當大（或功能強大）的計算機。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este termo é normalmente usado apenas para computadores razoavelmente grandes (ou poderosos).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä termiä käytetään normaalisti vain melko isoissa (tai tehokkaissa) tietokoneissa[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{De'wI':n}, {SoSbor'a':n}</column>
@@ -5407,7 +5397,6 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Der:v:2}.[1] [AUTOTR
       <column name="notes_ru">Его лист ({DIghna' por:n:nolink}) поджарен (см. {mIQ:v}) опытными поварами.[1, p.94] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它的葉子（{DIghna' por:n:nolink}）由經驗豐富的廚師烹製（請參閱{mIQ:v}）。[1, p.94] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Sua folha ({DIghna' por:n:nolink}) é frita (consulte {mIQ:v}) por cozinheiros experientes.[1, p.94] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Sen kokki kokit paistavat sen lehtiä ({DIghna' por:n:nolink}) (katso {mIQ:v}).[1, p.94] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5451,7 +5440,6 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Der:v:2}.[1] [AUTOTR
       <column name="notes_ru">Это во фритюре (см. {mIQ:v}) и съел.[1, p.94] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是油炸的（請參閱{mIQ:v}）並已吃掉。[1, p.94] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é frito (consulte {mIQ:v}) e comido.[1, p.94] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on paistettua (katso {mIQ:v}) ja syödään.[1, p.94] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{DIghna':n}, {por:n}</column>
@@ -5554,9 +5542,6 @@ Detta verb kan användas för att producera en visuell bild även om ingen färg
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #17. -->
 <column name="notes_fi">Tämän verbin kohde on asia, jota koskettaa {rItlh naQ:n}, esimerkiksi {nagh beQ:n}. Koska {DIj:v:2,nolink} on jo liitetty {nagh beQ:n:nolink}: ään, se voidaan jättää pois. Jos kuitenkin maalataan tai piirretään jollekin muulle kuin {nagh beQ:n:nolink}: lle, se on määriteltävä.
 
 Piirrettävän asian määrittämiseksi voidaan käyttää verbejä {cha':v} tai {nargh:v:0}. Jälkimmäinen tarkoittaa sekä "esiintymistä" että "paeta", ja samanlainen kuin {qon:v}: n käyttö musiikin säveltämisessä tai kirjoitusten kirjoittamisessa, sen käyttö viittaa siihen, että kuva on jo olemassa ja {DIjwI':n} jotenkin mahdollistaa sen paeta ja ilmestyä. Yleensä {nargh:v:0,nolink}: tä käytetään liitetiedoston {-moH:v} kanssa, mutta sitä on myös mahdollista käyttää ilman, vaikka tätä rakennetta kuullaan harvemmin. {cha':v:nolink}-versio on yleisempi epävirallisissa asetuksissa ja {nargh:v:nolink} (yleensä {narghmoH:v:nolink}) -versio on yleisempi kirjallisuudessa tai taiteesta käytävissä keskusteluissa.
@@ -5744,7 +5729,6 @@ Tätä verbiä voidaan käyttää visuaalisen kuvan tuottamiseen, vaikka siinä 
       <column name="notes_ru">Это один из трех ключевых ингредиентов, необходимых для приготовления {ngat:n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是製作{ngat:n:1}的三個關鍵成分之一。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um dos três principais ingredientes necessários para fazer {ngat:n:1}. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on yksi kolmesta avainkomponentista, joita tarvitaan DONUT TRANSLATE1: n valmistamiseen.{ngat:n:1} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In "Travels Through Spain" by Sir John Talbot Dillon, he describes various methods of making saltpeter.</column>
       <column name="components"></column>
@@ -5983,19 +5967,6 @@ Noun Type 5: Syntactic markers
 ▶ {-'e':n:suff}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #19. -->
-<!-- ERROR: Missing link #20. -->
-<!-- ERROR: Missing link #22. -->
-<!-- ERROR: Missing link #26. -->
 <column name="notes_fi">Klingonissa on viiden tyyppisiä substantiiviliitteitä.
 
 Substantiivityyppi 1: Augmentatiivinen / pienennettävä
@@ -6072,7 +6043,6 @@ Substantiivityyppi 5: Syntaktiset markkerit
       <column name="notes_ru">Это слово принимает суффикс {-Du':n:suff} когда оно относится к коже, что все еще на теле, и {-mey:n:suff} в остальных случаях.[2]</column>
       <column name="notes_zh_HK">當這個詞表示皮膚仍然在身體上時，它的後綴為{-Du':n:suff}，否則為{-mey:n:suff}。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra usa o sufixo {-Du':n:suff} quando se refere à pele ainda no corpo e {-mey:n:suff} em caso contrário.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana vie loppuliitteen {-Du':n:suff}, kun se viittaa vielä kehossa olevaan ihoon, ja {-mey:n:suff} muuten.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Deer" skin.</column>
       <column name="components"></column>
@@ -7904,7 +7874,6 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_ru">Это слово может относиться к людям или иным образом. Даже если речь идет только о существах, способных использовать язык, обычно говорят {Dojmey:n}, а не {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞可以指人或其他。即使僅指具有語言能力的人，通常也會說{Dojmey:n}而不是{Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra pode se referir a pessoas ou não. Mesmo se referindo apenas a seres capazes de usar a linguagem, normalmente se diria {Dojmey:n} em vez de {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana voi viitata ihmisiin tai muuten. Vaikka viitattaisiin vain olentoihin, jotka kykenevät käyttämään kieltä, sanotaan yleensä {Dojmey:n} eikä {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7948,7 +7917,6 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_ru">Это слово может относиться к людям или иным образом. Даже если речь идет только о существах, способных использовать язык, обычно говорят {Dojmey:n:nolink}, а не {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞可以指人或其他。即使僅指具有語言能力的人，通常也會說{Dojmey:n:nolink}而不是{Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra pode se referir a pessoas ou não. Mesmo se referindo apenas a seres capazes de usar a linguagem, normalmente se diria {Dojmey:n:nolink} em vez de {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä sana voi viitata ihmisiin tai muuten. Vaikka viitattaisiin vain olentoihin, jotka kykenevät käyttämään kieltä, sanotaan yleensä {Dojmey:n:nolink} eikä {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH}.</column>
       <column name="components">{Doj:n}, {-mey:n}</column>
@@ -8126,7 +8094,6 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_ru">Чтобы сказать, что две или более вещи являются параллельными, глагол используется с подлежащим во множественном числе.[2]</column>
       <column name="notes_zh_HK">要說兩個或多個事物是平行的，則該動詞用於復數主語。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para dizer que duas ou mais coisas são paralelas, esse verbo é usado com um assunto plural.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä verbiä sanotaan, että kaksi tai useampia asioita on rinnakkain monikkomuodon kanssa.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The "go parallel to" definition suggests that this verb can be used transitively. However, the noun {HeDon} also suggests that {Don} acts like a verb of quality.</column>
       <column name="components"></column>
@@ -8436,7 +8403,6 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_ru">Этот глагол также покрывает цвета, которые называются "корчиневый" (и его оттенками). Чтобы обозначить различие коричневого объекта, от другого объекта, который также может быть описан, используя {Doq:v:nolink}, используется фраза, такая как {Doq 'ej wovbe':sen@@Doq:v, 'ej:conj, wov:v, -be':v}.[2] Слово {Doqqu':v@@Doq:v, -qu':v} относится к цвету, более красному, чем оранжевый.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo também cobre cores que seriam chamadas de "marrom". Para diferenciar um objeto marrom de outro objeto que também pode ser descrito usando {Doq:v:nolink}, é usada uma frase como {Doq 'ej wovbe':sen@@Doq:v, 'ej:conj, wov:v, -be':v}.[2] A palavra {Doqqu':v@@Doq:v, -qu':v} refere-se a uma cor mais vermelha que laranja.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä verbi kattaa myös värit, joita kutsutaan "ruskeiksi". Ruskean objektin erottamiseksi toisesta objektista, joka voidaan kuvata myös {Doq:v:nolink}: llä, käytetään ilmausta kuten {Doq 'ej wovbe':sen@@Doq:v, 'ej:conj, wov:v, -be':v}. [2] Sana {Doqqu':v@@Doq:v, -qu':v} viittaa väreihin, jotka ovat enemmän punaisia ​​kuin oransseja.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">All natural languages found on Earth divide colours into "warm" and "cool" in the same way. Klingon distinguishes between {Doq:v:nolink} and {SuD:v:1}, but it groups "yellow" with the "cool" colours rather than with the "warm" colours.</column>
       <column name="components"></column>
@@ -8570,7 +8536,6 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
           <column name="notes_ru">Чтобы быть более точным в отношении оттенка коричневого, используется сравнение. Например, можно сказать {Doq 'ej Qaj wuS rur:sen} (губы крагеда имеют определенный оттенок коричневого) .[1] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">為了更具體地描述棕色的陰影，使用了比較。例如，可能會說{Doq 'ej Qaj wuS rur:sen}（邊緣邊緣是一種特殊的棕色陰影）。[1] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Para ser mais específico sobre o tom de marrom, é usada uma comparação. Por exemplo, pode-se dizer {Doq 'ej Qaj wuS rur:sen} (os lábios do kradge são um tom de marrom específico).[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Ruskean sävyn tarkentamiseksi käytetään vertailua. Esimerkiksi voidaan sanoa {Doq 'ej Qaj wuS rur:sen} (kradge-huulet ovat tietty ruskea sävy).[1] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components"></column>
@@ -10296,7 +10261,6 @@ Klingonin alusten tunnettuja luokkia ovat {neghvar:n}, {vorcha':n}, {qItI'nga':n
       <column name="notes_ru">Грамматически корректно рассматривать это слово в единственном числе(набор инстинктов) или во множественном (индивидуальные инстинкты)</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">É gramaticalmente correto tratar essa palavra como singular (um conjunto de instintos) ou plural (instintos individuais).[2, p.27] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Kieliopillisesti on oikein käsitellä tätä sanaa yksikkönä (vaistopaketti) tai monikkona (yksittäiset vaistot).[2, p.27] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10864,7 +10828,6 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="notes_ru">Это миска, используемая для поедания {chatlh:n:1}, который посетитель наливает в {Duq:n:nolink} из {maHpIn:n}.[1, p.99] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一個用來吃{chatlh:n:1}的碗，將晚餐從{maHpIn:n}倒入{Duq:n:nolink}。[1, p.99] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma tigela usada para comer {chatlh:n:1}, que um comensal derrama na {Duq:n:nolink} de uma {maHpIn:n}.[1, p.99] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä on kulho, jota käytetään {chatlh:n:1}: n syömiseen, jonka ruokala ruokaa {Duq:n:nolink}: een {maHpIn:n}: sta.[1, p.99] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Norm Duke is the name of a successful American professional bowler. Also, "duckpin bowling" is a variation of "ten-pin bowling" using a smaller ball.</column>
       <column name="components"></column>
@@ -11328,7 +11291,6 @@ Skillnaden mellan en {DuS:n:nolink} och en {chetvI':n:1} har att göra med hur p
       <column name="notes_pt">Isso é usado para iniciar um {peng:n}.
 
 A distinção entre um {DuS:n:nolink} e um {chetvI':n:1} tem a ver com como o projétil é carregado.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tätä käytetään {peng:n}: n käynnistämiseen.
 
 {DuS:n:nolink}: n ja {chetvI':n:1}: n välinen ero liittyy ammuksen lataamiseen.[2] [AUTOTRANSLATED]</column>

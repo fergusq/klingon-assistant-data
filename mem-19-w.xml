@@ -509,7 +509,6 @@ Förväxla inte detta med {mum:v}, vilket betyder "smak" i den meningen att man 
       <column name="notes_pt">Este é um significado especializado de {waH:v:1}. Significa experimentar a comida para ver se ela foi preparada corretamente ou para determinar se alguém gosta dela.[2]
 
 Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sabores. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on {waH:v:1}: n erityinen merkitys. Se tarkoittaa kokeilla ruokaa nähdäksesi, onko se valmistettu oikein, tai selvittää, pidetäänkö siitä.
 
 Älä sekoita tätä {mum:v}: een, joka tarkoittaa "makua" makujen havaitsemisessa.[2] [AUTOTRANSLATED]</column>
@@ -1287,7 +1286,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это относится к смазке в целом, а не к конкретному типу смазки. Глагол {lo':v} может использоваться для нанесения смазки или, в зависимости от того, как он применяется, могут использоваться {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} или, возможно, {QIn:v}. Слово {'onroS:n} также может быть включено.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這通常是指潤滑劑，而不是特定類型的潤滑劑。動詞{lo':v}可用於施加潤滑劑，或取決於其施加方式，可使用{lIch:v}，{ngoH:v:1}，{vev:v}，{ghay:v}或{QIn:v}。單詞{'onroS:n}也可能包括在內。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere ao lubrificante em geral, e não a um tipo específico de lubrificante. O verbo {lo':v} pode ser usado para aplicar lubrificante ou, dependendo de como ele é aplicado, {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} ou talvez {QIn:v} possa ser usado. A palavra {'onroS:n} também pode ser incluída.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">Tämä viittaa voiteluaineeseen yleensä eikä tiettyyn tyyppiseen voiteluaineeseen. Verbiä {lo':v} voidaan käyttää voiteluaineen levittämiseen tai sen käyttötavasta riippuen voidaan käyttää {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} tai ehkä {QIn:v}. Saatetaan myös sisällyttää sana {'onroS:n}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2205,7 +2203,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
           <column name="notes_ru">Мальц сказал, что если в школе ученик ответил на вопрос учителя, сказав это, ученик, вероятно, подвергнется дисциплине (если это не был правильный ответ). Он не уточнил дальше.[1] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">馬爾茨說，如果在學校裡學生通過這樣回答老師的問題，那麼學生很可能會受到紀律處分（除非這實際上是正確的答案）。他沒有進一步闡述。[1] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Maltz disse que se, na escola, um aluno responder à pergunta de um professor dizendo isso, é provável que ele seja disciplinado (a menos que essa seja realmente a resposta correta). Ele não deu mais detalhes.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Maltz sanoi, että jos opiskelija vastasi koulussa opettajan kysymykseen sanomalla tämän, opiskelija todennäköisesti kurinalainen (ellei se oikeastaan ​​ollut oikea vastaus). Hän ei tarkentanut asiaa tarkemmin[1] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components"></column>
@@ -2422,7 +2419,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">根據{The Klingon Art of War:src}，這是第一個克林崗神的名字。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">{The Klingon Art of War:src}: n mukaan tämä on ensimmäisen klingonijumalan nimi.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2552,7 +2548,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это еда, смешанная с {'atlhqam:n}, ферментированная и подаваемая.[1, p.92] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是與{'atlhqam:n}混合，發酵並食用的食物。[1, p.92] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um alimento misturado com {'atlhqam:n}, fermentado e servido.[1, p.92] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on ruoka, joka on sekoitettu {'atlhqam:n}: n kanssa, fermentoitu ja tarjoiltu[1, p.92] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2639,7 +2634,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это слово похоже на {yot:v}, но имеет оттенок неожиданности или скорости.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞就像{yot:v}，但是具有驚喜或速度的含義。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é como {yot:v}, mas com a conotação de surpresa ou velocidade.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana on kuin {yot:v}, mutta siinä on yllätyksen tai nopeuden merkitys.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word is listed among other militaristic terminology in the body of {KGT:src} on p.48.</column>
       <column name="components"></column>
@@ -3549,7 +3543,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это используется для выражения таких вещей, как «мы потеряли много солдат» или «он потерял много крови». Чтобы сказать, что кто-то умер, просто используйте {Hegh:v}. Например, «она потеряла мужа» будет просто {Heghpu' loDnalDaj:sen@@Hegh:v, -pu':v, loDnal:n, -Daj:n}. Для «мы потеряли много воинов» в том смысле, что они погибли, используйте {Heghpu' SuvwI'pu'ma':sen@@Hegh:v, -pu':v, SuvwI':n, -pu':n, -ma':n}. Можно сказать {SuvwI'pu' DIweSpu':sen@@SuvwI':n, -pu':n, DI-:v, weS:v, -pu':v}, но это подразумевает, что воины потеряны в том смысле, что они пропали или пропали без вести, или серьезно ранены и не ожидают возвращения (или возвращения в ближайшее время), но не обязательно мертвы.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這用於表達“我們失去了很多士兵”或“他失去了很多鮮血”之類的東西。要說有人死了，只需使用{Hegh:v}。例如，“她失去了丈夫”就是{Heghpu' loDnalDaj:sen@@Hegh:v, -pu':v, loDnal:n, -Daj:n}。對於“我們失去了很多勇士”，就用他們死亡，使用{Heghpu' SuvwI'pu'ma':sen@@Hegh:v, -pu':v, SuvwI':n, -pu':n, -ma':n}。可以說{SuvwI'pu' DIweSpu':sen@@SuvwI':n, -pu':n, DI-:v, weS:v, -pu':v}，但這意味著戰士在失去或失踪，受到嚴重傷害且無法返回（或希望很快返回）的意義上迷失了，但不一定死亡。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ele é usado para expressar coisas como "perdemos muitos soldados" ou "ele perdeu muito sangue". Para dizer que alguém morreu, basta usar {Hegh:v}. Por exemplo, "ela perdeu o marido" seria apenas {Heghpu' loDnalDaj:sen@@Hegh:v, -pu':v, loDnal:n, -Daj:n}. Para "perdemos muitos guerreiros" no sentido de que morreram, use {Heghpu' SuvwI'pu'ma':sen@@Hegh:v, -pu':v, SuvwI':n, -pu':n, -ma':n}. Pode-se dizer {SuvwI'pu' DIweSpu':sen@@SuvwI':n, -pu':n, DI-:v, weS:v, -pu':v}, mas isso implica que os guerreiros estão perdidos no sentido de que se foram ou estão desaparecidos, ou gravemente feridos e não se espera que retornem (ou retornem em breve), mas não necessariamente mortos.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tätä käytetään ilmaisemaan esimerkiksi "olemme menettäneet paljon sotilaita" tai "hän on menettänyt paljon verta". Käytä sanaa {Hegh:v} sanomalla, että joku on kuollut. Esimerkiksi "hän menetti miehensä" olisi vain {Heghpu' loDnalDaj:sen@@Hegh:v, -pu':v, loDnal:n, -Daj:n}. Sillä "olemme menettäneet paljon sotureita" siinä mielessä, että he kuolivat, käytä {Heghpu' SuvwI'pu'ma':sen@@Hegh:v, -pu':v, SuvwI':n, -pu':n, -ma':n}. Voidaan sanoa {SuvwI'pu' DIweSpu':sen@@SuvwI':n, -pu':n, DI-:v, weS:v, -pu':v}, mutta se tarkoittaa, että soturit ovat kadonneet siinä mielessä, että he ovat kadonneet tai kadonneita tai vakavasti loukkaantuneita eikä heidän odoteta palavan (tai palaavan pian milloin tahansa), mutta eivät välttämättä kuolleita.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3593,7 +3586,6 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это может использоваться для текстиля или ткани в одежде, простынях, полотенцах и т. Д., Но обычно не для ковров или ковриков (за исключением тонких).[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它可以用於衣物，床單，毛巾等中的紡織品或織物，但通常不適用於地毯或地毯（稀薄的地毯除外）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para tecidos ou tecidos em roupas, lençóis, toalhas e assim por diante, mas geralmente não para tapetes ou tapetes (exceto os finos).[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä voidaan käyttää vaatteiden tekstiileihin tai kankaisiin, lakanoihin, pyyhkeisiin ja niin edelleen, mutta yleensä ei mattoihin (paitsi ohuisiin).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4707,7 +4699,6 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_ru">Этот глагол также используется для нажатия на гиперссылку на компьютере.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此動詞也用於單擊計算機上的超鏈接。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo também é usado para clicar em um hiperlink em um computador.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä verbiä käytetään myös napsauttamalla hyperlinkkiä tietokoneessa[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5787,22 +5778,6 @@ See under {moHaq:n} for the verb prefixes.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
-<!-- ERROR: Missing link #7. -->
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #9. -->
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
-<!-- ERROR: Missing link #12. -->
-<!-- ERROR: Missing link #13. -->
-<!-- ERROR: Missing link #14. -->
-<!-- ERROR: Missing link #16. -->
-<!-- ERROR: Missing link #19. -->
-<!-- ERROR: Missing link #20. -->
-<!-- ERROR: Missing link #22. -->
-<!-- ERROR: Missing link #30. -->
 <column name="notes_fi">Klingonissa on yhdeksän tyyppisiä verbiliitteitä roverien ({lengwI':n}) lisäksi, joilla ei ole kiinteää sijaintia muihin lopputyyppeihin nähden.
 
 Verbityyppi 1: Itsensä / toisensa
@@ -5933,7 +5908,6 @@ Om ens ögon är "känsliga för ljus" kan de vara känsliga för {wovtaHghach:n
 Este verbo também é usado para descrever um dia ensolarado.[2]
 
 Se os olhos são "sensíveis à luz", eles podem ser sensíveis a {wovtaHghach:n@@wov:v, -taH:v, -ghach:v}.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">On idioomi {wov; ghI'boj Sech rur}.
 
 Tätä verbiä käytetään kuvaamaan myös aurinkoista päivää
@@ -6206,7 +6180,6 @@ Jos ihmisen silmät ovat "herkkiä valolle", ne voivat olla herkkiä {wovtaHghac
       <column name="notes_ru">{wo' tay':n:nolink} - более старое имя, чем {tuqjIjQa':n}. Клингоны, давшие стране такое название, возможно, думали о Британской империи.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{wo' tay':n:nolink}比{tuqjIjQa':n}更舊。給這個國家起名字的克林崗人可能在想大英帝國。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">{wo' tay':n:nolink} é um nome mais antigo que {tuqjIjQa':n}. Os Klingons que deram ao país esse nome podem ter pensado no Império Britânico.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">{wo' tay':n:nolink} on vanhempi nimi kuin {tuqjIjQa':n}. Klingonit, jotka antoivat maalle tämän nimen, saattoivat ajatella Britannian valtakuntaa[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{wo':n}, {tay':v}</column>

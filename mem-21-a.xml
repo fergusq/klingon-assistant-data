@@ -377,7 +377,6 @@ A German word for "vein" is "Ader".</column>
       <column name="notes_ru">Как {'aD:v:nolink}, так и {'ab:v} означают «иметь длину», но они используются немного по-разному. Для плоских объектов, таких как столешницы, {'aD:v:nolink} используется для одного измерения, а {juch:v} - для другого. Для длинных объектов и для высоты вместо этого используется {'ab:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{'aD:v:nolink}和{'ab:v}均表示“長度為”，但用法略有不同。對於諸如桌面之類的扁平物體，{'aD:v:nolink}用於一個尺寸，而{juch:v}用於另一尺寸。對於長物體和高度，將使用{'ab:v:nolink}代替。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ambos {'aD:v:nolink} e {'ab:v} significam "têm um comprimento de", mas são usados ​​de forma ligeiramente diferente. Para objetos planos, como tampos de mesa, {'aD:v:nolink} é usado para uma dimensão enquanto {juch:v} é usado para a outra. Para objetos longos e para altura, {'ab:v:nolink} é usado em seu lugar.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Sekä {'aD:v:nolink} että {'ab:v} tarkoittavat "on pituus", mutta niitä käytetään hieman eri tavalla. Litteille esineille, kuten pöytälevyille, {'aD:v:nolink} käytetään yhdessä ulottuvuudessa ja {juch:v} toisessa. Pitkille esineille ja korkeudelle käytetään sen sijaan {'ab:v:nolink}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In anatomy, abduction refers to moving away from a midline. In particular, abduction at the shoulder means raising the arms up, an action which is often done to measure the length of something. Its counterpart, adduction, refers to movement towards a midline.</column>
       <column name="components"></column>
@@ -684,8 +683,6 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">пряжка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">帶釦</column>
       <column name="definition_pt">fivela (de cinto)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">(vyön) solki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1008,8 +1005,6 @@ De flesta lexikografer från Klingon betraktar detta och {'an:v:2} som två homo
       <column name="notes_pt">Isso pode ser usado para quando alguém sacrifica forças por um determinado objetivo ou apenas desperdiça seus recursos.[1]
 
 A maioria dos lexicógrafos Klingon considera isso e {'an:v:2} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tätä voidaan käyttää, kun joku uhraa voimia tiettyyn tavoitteeseen tai vain tuhlaa resurssejaan.
 
 Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:2}: ta kahtena homofonisena sanana, mutta historiallisesti "olla tuhla" -merkitys syntynyt "olla kivettynyt" -merkinnästä, ehkä siksi, että jokin menettää alkuperäisen käyttötarkoituksensa, joka sillä voi olla, jos se muuttuu kiveksi .DONOTTRANSLATE 3[1][2] [AUTOTRANSLATED]</column>
@@ -2223,7 +2218,6 @@ Detta ord kan användas för att hänvisa till ett tak, men termerna {pa' beb:n}
       <column name="notes_pt">A outra face do {'aqroS:n:1,nolink} de um objeto é seu {yor:n}.[1]
 
 Esta palavra pode ser usada para se referir a um teto, embora os termos {pa' beb:n} e {rav'eq:n} (que dependem da existência de andares acima) sejam mais comuns.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Objektin {'aqroS:n:1,nolink} toinen puoli on sen {yor:n}.[1]
 
 Tätä sanaa voidaan käyttää viittaamaan kattoon, vaikka termit {pa' beb:n} ja {rav'eq:n} (jotka riippuvat siitä, onko sen yläpuolella kerroksia) ovat yleisempiä.[1] [AUTOTRANSLATED]</column>
@@ -2601,7 +2595,6 @@ Grammatiskt används ett flertalsprefix om det ifrågasatta substantivet kan var
       <column name="notes_pt">Esta palavra interrogativa segue o substantivo ao qual se refere, que nunca tem um sufixo de plural.[1]
 
 Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder ser singular ou plural e a tradução for "quantos?" Um prefixo singular é usado se o substantivo questionado for algo que não pode ser contado e a tradução for "quanto?" [2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä kysymyssana seuraa substantiivia, johon se viittaa, ja jolla ei koskaan ole monikon loppuliitettä.
 
 Kieliopillisesti monikon etuliitettä käytetään, jos kyseenalaistettu substantiivi voi olla yksikkö tai monikko ja käännös on "kuinka monta?" Yksittäistä etuliitettä käytetään, jos kyseenalaistettua substantiivia ei voida laskea ja käännös on "kuinka paljon?" [2][1] [AUTOTRANSLATED]</column>
@@ -2783,8 +2776,6 @@ The Federation's 24-hour system ({tera' poH:n}) is sometimes used in interplanet
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #1. -->
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä on yleisin monista tapoista kysyä aikaa Klingonissa. Voidaan myös kysyä, {'arlogh wab Qoylu'pu'?: Sen: nolink} tai {qen 'arlogh Qoylu'pu'?: Sen: nolink} Vastaus tähän kysymykseen on esimerkiksi {cha'logh Qoylu'pu':sen:nolink} "Se on kuultu kahdesti ", mikä tarkoittaa" kaksi ".
 
 Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettojen välisessä viestinnässä. Kun työskentelet tässä järjestelmässä, aika kysyä on antaa komento, {rep yIper!:sen:nolink} Vastaamalla tähän komentoon tunteja ei lasketa, vaan numeroidaan 1: stä 24. Esimerkiksi {tera' rep cha':sen:nolink} tai {rep cha':sen:nolink} on "kaksi o 'kello". Kun asiayhteys on selvä, {tera':n} voidaan jättää pois.{'arlogh wab Qoylu'pu'?:sen:nolink}{qen 'arlogh Qoylu'pu'?:sen:nolink} [AUTOTRANSLATED]</column>
@@ -2917,7 +2908,6 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="notes_ru">Обычно это встречается на ногах какого-то клингонского животного или на клингонских деревьях. В ненаучной повседневной речи это, по-видимому, служит общим термином «гриб».[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這通常在某種克林崗動物的腳上或克林貢樹上發現。在非科學的日常用語中，這似乎是“真菌”的總稱。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso geralmente é encontrado nos pés de algum tipo de animal Klingon ou em árvores Klingon. No discurso cotidiano não científico, isso parece funcionar como um termo geral para "fungo".[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä löytyy tyypillisesti jonkinlaisen klingonilaisen eläimen jaloista tai klingonipuista. Ei-tieteellisessä, jokapäiväisessä puheessa tämä näyttää toimivan yleisenä terminä "sieni".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Athlete's foot". Also "huitlacoche".</column>
       <column name="components"></column>
@@ -3186,7 +3176,6 @@ Detta ord hänvisar inte till en specifik drink, utan till en smal klass relater
       <column name="notes_pt">Este é um tipo de bebida feita a partir (entre outras coisas) da {melchoQ:n} de uma {teghbat:n}. Tem uma semelhança superficial com a cerveja de raiz terráquea.[1, p.95]
 
 Esta palavra não se refere a uma bebida específica, mas a uma classe restrita de bebidas relacionadas.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä on eräänlainen juoma, joka on valmistettu (muun muassa) {teghbat:n}: n {melchoQ:n}: stä. Sillä on pinnallinen samankaltaisuus Terran-juuren oluen kanssa.[1, p.95]
 
 Tämä sana ei tarkoita tiettyä juomaa, vaan suppeaa sukulaisjuomaryhmää[2] [AUTOTRANSLATED]</column>
@@ -3321,7 +3310,6 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="notes_ru">Это может быть использовано для любого вида строительных элементов, строительных деталей или даже деталей Lego.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它可以用於任何類型的建築元素，建築零件，甚至是樂高積木。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para qualquer tipo de elemento de construção, peça de construção ou mesmo peças de Lego.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tätä voidaan käyttää mihin tahansa rakennusosaan, rakennusosaan tai jopa Lego-kappaleisiin[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

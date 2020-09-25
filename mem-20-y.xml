@@ -626,8 +626,6 @@ Varje plats som specifikt är avsedd för utförande av en specifik uppgift elle
       <column name="notes_pt">Refere-se a qualquer lugar onde se trabalha, e não se limita ao uso militar.[2]
 
 Qualquer local designado especificamente para o desempenho de uma tarefa ou tarefas específicas é um {yaH:n:nolink}. Por exemplo, um palco é o {yaH:n:nolink} para a execução de peças ou música, um campo de futebol é o {yaH:n:nolink} para um jogo de futebol, um laboratório ({Qulpa':n}) é o {yaH:n:nolink} de um cientista. Se o contexto não for suficiente para esclarecer a que tipo de {yaH:n:nolink} alguém está se referindo, pode-se dizer coisas como {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, {tamlerQeD yaH:n@@tamlerQeD:n, yaH:n} e assim por diante.[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Tämä viittaa mihin tahansa paikkaan, jossa joku työskentelee, eikä rajoitu vain sotilaalliseen käyttöön
 
 Mikä tahansa paikka, joka on nimenomaisesti tarkoitettu tietyn tehtävän tai tehtävien suorittamiseen, on {yaH:n:nolink}. Esimerkiksi vaihe on {yaH:n:nolink} näytelmien tai musiikin esittämiselle, jalkapallokenttä on {yaH:n:nolink} jalkapallopelille, laboratorio ({Qulpa':n}) on tutkijan {yaH:n:nolink}. Jos asiayhteys ei riitä sen selvittämiseen, mihin {yaH:n:nolink}: ään viitataan, voidaan sanoa esimerkiksi {much yaH:n}, {QoQ yaH:n@@QoQ:n, yaH:n}, [2]0 ja niin edelleen.{tamlerQeD yaH:n@@tamlerQeD:n, yaH:n}[3] [AUTOTRANSLATED]</column>
@@ -806,7 +804,6 @@ Mikä tahansa paikka, joka on nimenomaisesti tarkoitettu tietyn tehtävän tai t
       <column name="notes_ru">Это в обрезанном клингоне. В стандартном клингоне "понимаешь?" (говорит с одним человеком) будет {bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是在修剪過的克林崗語中。在標準的克林貢語中，“您了解嗎？” （與一個人交談）將是{bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso está no Klingon cortado. No Klingon padrão, "você entende?" (falando com uma pessoa) seria {bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä on leikattu Klingon. Tavallisessa Klingon-muodossa "ymmärrätkö?" (puhuminen yhdelle henkilölle) olisi {bIyaj'a '?: sen: nolink}{bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yaj:v}, {-'a':v}</column>
@@ -850,7 +847,6 @@ Mikä tahansa paikka, joka on nimenomaisesti tarkoitettu tietyn tehtävän tai t
       <column name="notes_ru">Это можно сказать в ответ на {yaj'a'?:sen} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可能是對{yaj'a'?:sen}的回應 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser dito em resposta ao {yaj'a'?:sen} [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä voidaan sanoa vastauksena {yaj'a '?: Sen}{yaj'a'?:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yaj:v}, {-chu':v}</column>
@@ -2247,7 +2243,6 @@ Förväxla inte detta med ett samhälle i kulturell mening, som se {nugh:n}.[1] 
       <column name="notes_pt">Esta é uma organização dedicada a atividades escolares ou pesquisas. A distinção entre {yej'an:n:nolink} e {yejHaD:n} não é clara, mas {yejHaD:n:nolink} é geralmente usado para organizações maiores. Não se sabe se a primeira sílaba é a palavra {yej:n}, mas pode haver alguma conexão histórica.[1]
 
 Não confunda isso com uma sociedade no sentido cultural, para a qual veja {nugh:n}.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä on organisaatio, joka on omistautunut skolastisiin harrastuksiin tai tutkimukseen. {yej'an:n:nolink}: n ja {yejHaD:n}: n välinen ero ei ole selvä, mutta {yejHaD:n:nolink}: ta käytetään yleensä suuremmissa organisaatioissa. Ei tiedetä, onko ensimmäinen tavu sana {yej:n}, mutta historiallinen yhteys saattaa olla olemassa.
 
 Älä sekoita tätä yhteiskuntaan kulttuurisessa mielessä, josta ks.{nugh:n}.[1][1] [AUTOTRANSLATED]</column>
@@ -2707,7 +2702,6 @@ Generally, when a verb describing a state of being is used as an imperative, the
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #15. -->
 <column name="notes_fi">{SoH:n}: {pagh:n:1h} = {yI-:v:pref,nolink} (imp.)
 {SoH:n}: {ghaH:n} / {'oH:n} = {yI-:v:pref,nolink} (imp.)
 {tlhIH:n}: {ghaH:n} / {'oH:n} = {yI-:v:pref,nolink} (imp.)
@@ -5515,9 +5509,6 @@ Some of the known districts on {Qo'noS:n} are:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #3. -->
-<!-- ERROR: Missing link #5. -->
-<!-- ERROR: Missing link #6. -->
 <column name="notes_fi">Tämä on alue {Sep:n}: ssä, joka sisältää yleensä ainakin yhden tärkeän {veng:n}: n.
 
 Jotkut {Qo'noS:n}: n tunnetuista alueista ovat:
@@ -5999,8 +5990,6 @@ The first and second {yu:n:nolink} are not an octave apart, but rather a nonave 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
-<!-- ERROR: Missing link #11. -->
 <column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n:nolink}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT
 
 Ensimmäinen ja toinen {yu:n:nolink} eivät ole oktaavierot, vaan pikemminkin nonave-erotukset.[2] Katso {Savvanwer:n}.{yu:n:nolink}[1] [AUTOTRANSLATED]</column>
@@ -6869,7 +6858,6 @@ The tones of the Klingon musical scale are: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #10. -->
 <column name="notes_fi">Tämä on sana musiikilliselle asteikolle, mutta sitä voidaan käyttää myös muuntyyppisille alueille.
 
 Klingonin musiikkiasteikon sävyt ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, {yu:n:nolink}.DONOTTRANSLATE9.[1] [AUTOTRANSLATED]</column>

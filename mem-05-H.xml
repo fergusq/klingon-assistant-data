@@ -381,7 +381,6 @@
       <column name="notes_pt">O objeto é a coisa que está sendo encharcada ou encharcada.
 
 {HaH'egh:v@@HaH:v:1, -'egh:v} é usado para se referir a beber muito ou tomar banho.[1, p.91] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Kohde on liotettu tai kasteltu asia.
 
 {HaH'egh:v@@HaH:v:1, -'egh:v}: llä tarkoitetaan paljon juomista tai uimista.[1, p.91] [AUTOTRANSLATED]</column>
@@ -1375,7 +1374,6 @@ The request was for a musteloid (otter-like or wolverine-like animal).</column>
       <column name="notes_ru">Это доктор (см. {Qel:n:1h}), который проводит операцию (см. {Haq:v:1}).[2]</column>
       <column name="notes_zh_HK">這是一名進行手術（請參閱{Haq:v:1}）的醫生（請參閱{Qel:n:1h}）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um médico (consulte {Qel:n:1h}) que realiza cirurgia (consulte {Haq:v:1}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on lääkäri (ks.{Qel:n:1h}), joka suorittaa leikkauksen (ks.{Haq:v:1}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Haq:v:1}, {-wI':v}</column>
@@ -2195,7 +2193,6 @@ The request was for a musteloid (otter-like or wolverine-like animal).</column>
       <column name="notes_ru">Обычно это круглый (так что это может быть {'Ib rutlh:n@@'Ib:n, rutlh:v}) и переносимый (поэтому это не {qegh:n}) .[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它通常是圓形的（因此可能是{'Ib rutlh:n@@'Ib:n, rutlh:v}）並且是便攜式的（因此它不是{qegh:n}）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Geralmente, é redondo (portanto, pode ser um {'Ib rutlh:n@@'Ib:n, rutlh:v}) e portátil (portanto, não é um {qegh:n}).[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #3. -->
 <column name="notes_fi">Tämä on tyypillisesti pyöreä (joten se voi olla {'Ib rutlh:n@@'Ib:n, rutlh:v}) ja kannettava (joten se ei ole {qegh:n}).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Hyacinth Bucket is a character on the British sitcom "Keeping Up Appearances" (who insists that her surname is to be pronounced "bouquet").</column>
       <column name="components"></column>
@@ -2249,8 +2246,6 @@ För att gå med på duellen, säg {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Jag d
       <column name="notes_pt">Para desafiar alguém para um duelo, diga {qablIj HI'ang!:sen} (geralmente abreviado para {HI'ang!:sen:nolink}). Diz-se que a parte que lança o desafio {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "mostra sua cara". O ato de lançar o desafio é {poQ:v}, que é a abreviação de {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Ele exige ver um rosto". Bater no adversário com as costas da mão ({chap:n}) ao lançar o desafio é exigir um duelo até a morte ({Hay'chu':v}) .[2]
 
 Para concordar com o duelo, diga {vISo'be':sen@@vI-:v, So':v:1, -be':v} "Eu não escondo" (ou o mais longo {qabwIj vISo'be':sen} "Eu não escondo meu rosto"). A parte desafiada é então chamada de {'angchu':sen@@'ang:v, -chu':v} (abreviação de {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Aceita-se um desafio ({qab 'ang:sen@@qab:n, 'ang:v}) para provar sua honra ({quv tob:sen@@quv:n, tob:v}) .[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
-<!-- ERROR: Missing link #15. -->
 <column name="notes_fi">Haasta joku kaksintaisteluun sano {qablIj HI'ang!:sen} (tämä lyhennetään usein sanaan {HI'ang!:sen:nolink}) Haasteen antaneesta osapuolesta sanotaan, että {qabDaj 'ang:sen@@qab:n, -Daj:n, 'ang:v} "hän näyttää kasvonsa". Haasteen antaminen on {poQ:v}, joka on lyhenne sanoista {qab legh 'e' poQ:sen@@qab:n, legh:v, 'e':n, poQ:v} "Hän vaatii kasvojen näkymistä". Vastustajan lyöminen kädellä ({chap:n}) haasteen antamisen yhteydessä on vaatia kaksintaistelua kuolemaan ({Hay'chu':v}).
 
 Hyväksy kaksintaistelu sanomalla {vISo'be':sen@@vI-:v, So':v:1, -be':v} "En piilota sitä" (tai pidempi {qabwIj vISo'be':sen} "En piilota kasvoni"). Haasteteltava osapuoli sanotaan sitten {'angchu':sen@@'ang:v, -chu':v} (lyhenne sanoista {qab 'angchu':sen@@qab:n, 'ang:v, -chu':v}). Yksi hyväksyy haasteen ({qab 'ang:sen@@qab:n, 'ang:v}) osoittaakseen kunniansa ({quv tob:sen@@quv:n, tob:v}).[2][2] [AUTOTRANSLATED]</column>
@@ -2612,7 +2607,6 @@ För att använda en sådan enhet kan man {qIp:v}, {'uy:v} eller {ngaH:v} den, b
       <column name="notes_pt">O objeto de {vev:v} é {Ha'on:n}. Os papéis grampeados são o objeto de {rar:v}.[1]
 
 Para usar tal dispositivo, pode-se {qIp:v}, {'uy:v} ou {ngaH:v}, dependendo do dispositivo específico.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #8. -->
 <column name="notes_fi">{vev:v}: n kohde on {Ha'on:n}. Yhdistetyt paperit ovat {rar:v}.[1]-objektin kohteita
 
 Tällaisen laitteen käyttämiseksi voi {qIp:v}, {'uy:v} tai {ngaH:v} sen tietystä laitteesta riippuen.[1] [AUTOTRANSLATED]</column>
@@ -3711,7 +3705,6 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_ru">Это означает «опытный» в смысле вовлеченности, знакомства, знакомства или практической работы с определенной областью знаний или типом навыка.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著在參與，接觸，熟悉或親身處理給定的知識或技能類型方面具有“經驗”。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto significa "experiente" no sentido de envolvimento, exposição, familiaridade, ou lidar de forma prática com uma determinada área de conhecimento ou tipo de habilidade.[1]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa "kokenutta" siinä mielessä, että osallistuu tiettyyn osa-alueeseen tai taitotyyppiin, altistuu siihen, tuntee sen tai käyttää sitä käytännössä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4464,7 +4457,6 @@ Katso sormiin liittyvät verbit kohdasta {nItlh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Глагол обозначает сражение против своей собственной группы, а не с предполагаемым врагом.[1]</column>
       <column name="notes_zh_HK">該動詞表示與自己的團體作戰，而不是與所謂的敵人作戰。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo indica lutar contra o próprio grupo, e não o suposto inimigo.[1] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä verbi osoittaa taistelun omaa ryhmää vastaan ​​eikä oletettua vihollista vastaan[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This may have been a back-fit for a mispronunciation of {Hegh:v}.</column>
       <column name="components"></column>
@@ -6202,9 +6194,6 @@ Om {Hoch:n:nolink} följer ett substantiv betyder det "hela X" .[3; 4] Observera
       <column name="notes_pt">Se {Hoch:n:nolink} for seguido por um substantivo que é explicitamente plural, significa "todos os X", considerados coletivamente. Se o substantivo a seguir não estiver explicitamente no plural, significa "cada X", considerado individualmente.[2]
 
 Se {Hoch:n:nolink} segue um substantivo, significa "todos de X" .[3; 4] Observe que isso é diferente de {naQ:v} após um substantivo, que significa "um X completo". [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #4. -->
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Jos {Hoch:n:nolink}: n jälkeen on substantiivi, joka on nimenomaisesti monikko, se tarkoittaa "kaikkia X: itä" yhdessä otettuna. Jos seuraava substantiivi ei ole nimenomaisesti monikko, se tarkoittaa "kukin X" erikseen tarkasteltuna.
 
 Jos {Hoch:n:nolink} seuraa substantiivia, se tarkoittaa "kaikki X: tä".[2][3; 4]{naQ:v} [AUTOTRANSLATED]</column>
@@ -6597,7 +6586,6 @@ Jos {Hoch:n:nolink} seuraa substantiivia, se tarkoittaa "kaikki X: tä".[2][3; 4
       <column name="notes_ru">Это означает «использовать все возможности» (взятые вместе), а не «использовать каждую возможность» (рассматриваемую индивидуально) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著“捕獲所有機會”（集體獲得），而不是“捕獲每個機會”（單獨考慮）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "capturar todas as oportunidades" (coletivamente) e não "capturar cada oportunidade" (considerada individualmente).[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #1. -->
 <column name="notes_fi">Tämä tarkoittaa "vangitse kaikki mahdollisuudet" (otetaan yhdessä) eikä "vangita kaikkia mahdollisuuksia" (tarkastellaan erikseen).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6716,7 +6704,6 @@ If an alien calendar contains more than six days, additional days are numbered b
 Если инопланетный календарь состоит более чем из 6 дней, дополнительные дни нумеруются начиная с {wa':n:num}. Таким образом, "Воскресенье" будет {jaj wa':n}. Восьмой день недели {jaj cha':n:nolink}, и так далее.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #12. -->
 <column name="notes_fi">Klingon-viikolla on kuusi päivää, jotka ovat:
 ▶ {DaSjaj:n} "maanantai"
 ▶ {povjaj:n} "tiistai"
@@ -7084,7 +7071,6 @@ Identifieraren är vanligtvis ett land, region eller politisk enhet av något sl
       <column name="notes_pt">Em Klingon, os nomes das línguas são formados anexando {Hol:n:nolink} a um identificador para a língua. Por exemplo, "Klingon" (o idioma) é {tlhIngan Hol:n}, e {tlhIngan:n} por si só não se refere ao idioma, mas a uma pessoa ou pessoas.
 
 O identificador é geralmente um país, região ou unidade política de algum tipo. Por exemplo, o Federation Standard (ou seja, "Inglês") é {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} é na verdade uma forma abreviada de {tlhIngan wo' Hol:n:nolink}.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #7. -->
 <column name="notes_fi">Klingonissa kielten nimet muodostetaan liittämällä {Hol:n:nolink} kielen tunnisteeseen. Esimerkiksi "Klingon" (kieli) on {tlhIngan Hol:n}, ja {tlhIngan:n} ei itsessään viittaa kieleen, vaan henkilöön tai ihmisiin.
 
 Tunniste on yleensä maa, alue tai jonkinlainen poliittinen yksikkö. Esimerkiksi Federation Standard (eli "englanti") on {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} on oikeastaan ​​lyhennetty {tlhIngan wo' Hol:n:nolink}-muoto.[2] [AUTOTRANSLATED]</column>
@@ -7751,8 +7737,6 @@ I Klingon kallas "deep space" {logh Hop:n}, bokstavligen, "far space" .[3] [AUTO
       <column name="notes_pt">Este verbo é usado da mesma forma que {Sum:v} (envolve o conceito de dêixis) .[2]
 
 Em Klingon, "espaço profundo" é denominado {logh Hop:n}, literalmente, "espaço distante" .[3] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #2. -->
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tätä verbiä käytetään samalla tavalla kuin {Sum:v} (siihen liittyy deixiksen käsite).
 
 Klingonissa "syvä avaruus" on nimeltään {logh Hop:n}, kirjaimellisesti "kaukaa tilaa".[2][3] [AUTOTRANSLATED]</column>
@@ -9473,7 +9457,6 @@ Tätä verbiä käytetään myös tavallisille monikulmioille ja polyhedeille.[2
       <column name="notes_ru">Это слово следует грамматическим правилам, соответствующим его буквальному значению (см. {Ho':n:1}). Он принимает множественный суффикс {-Du':n:suff} и притяжательные суффиксы, такие как {-wIj:n:suff}, даже когда он относится к человеку или людям. [1, p.152] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞遵循適合其字面意思的語法規則（請參閱{Ho':n:1}）。即使是一個人或多個人，它也要使用複數後綴{-Du':n:suff}和所有格後綴，例如{-wIj:n:suff}。[1, p.152] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra segue as regras gramaticais apropriadas ao seu significado literal (consulte {Ho':n:1}). Leva o sufixo plural {-Du':n:suff} e sufixos possessivos, como {-wIj:n:suff}, mesmo quando se refere a uma pessoa ou pessoas.[1, p.152] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #4. -->
 <column name="notes_fi">Tämä sana noudattaa kieliopillisia sääntöjä, jotka sopivat sen kirjaimelliseen merkitykseen (katso {Ho':n:1}). Se vie monikon {-Du':n:suff} ja omistavien jälkiliitteiden kuten {-wIj:n:suff}, vaikka se viittaa henkilöön tai ihmisiin.[1, p.152] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined in the {KGT:src} word list only as "idol". The expanded definition above is from p.152.</column>
       <column name="components"></column>
@@ -9517,7 +9500,6 @@ Tätä verbiä käytetään myös tavallisille monikulmioille ja polyhedeille.[2
       <column name="notes_ru">Это слово принимает суффикс множественного числа {-Du':n:suff}, даже если это не часть тела.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">即使不是身體部位，該詞也帶有復數後綴{-Du':n:suff}。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tämä sana vie monikon {-Du':n:suff}, vaikka se ei olisikaan runko-osa.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -10555,7 +10537,6 @@ Tätä verbiä käytetään myös tavallisille monikulmioille ja polyhedeille.[2
       <column name="notes_ru">Это обычно используется для хранения вещей, в отличие от {raywal:n}, который предназначен для использования людьми, хотя между ними есть частичное совпадение.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它通常用於存儲事物，這與供人使用的{raywal:n}不同，儘管它們之間存在重疊。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<!-- ERROR: Missing link #2. -->
 <column name="notes_fi">Tätä käytetään tyypillisesti tavaroiden varastointiin, toisin kuin {raywal:n}, joka on tarkoitettu ihmisten käyttöön, vaikka niiden välillä onkin päällekkäisyyksiä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Radio Shack".</column>
       <column name="components"></column>
@@ -10821,8 +10802,6 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/tAK-hgXMH
       <column name="definition_ru">заряжать, производить зарядку</column>
       <column name="definition_zh_HK">充電） [AUTOTRANSLATED]</column>
       <column name="definition_pt">carregar (para cima)</column>
-<!-- ERROR: Mismatched brackets. -->
-<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">ladata (laite, ase tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -11250,7 +11229,6 @@ En {HurDagh:n:nolink} spelas vanligtvis inte med en båge, men en {ngItHel:n} ka
 Os tipos de {HurDagh:n:nolink} incluem o {Supghew:n} (pequeno), o {leSpal:n} (médio) e o {tIngDagh:n} (grande).
 
 Um {HurDagh:n:nolink} geralmente não é tocado com um arco, mas um {ngItHel:n} pode ser puxado, dedilhado ou curvado. [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Tämä on yleinen termi jousille tarkoitetulle soittimelle ({SIrgh:n}), jonka voi joko repiä ({pang:v}) tai lyödä ({yach:v:2}). Äänen vaihtelemiseksi yhdellä "sormella" ({Heng:v}) merkkijonoja (kosketa niitä eri kohdissa, kun kynsitään tai lyötään).
 
 {HurDagh:n:nolink}-tyypit sisältävät {Supghew:n} (pieni), {leSpal:n} (keskikoko) ja {tIngDagh:n} (suuri).
@@ -11384,7 +11362,6 @@ Um {HurDagh:n:nolink} geralmente não é tocado com um arco, mas um {ngItHel:n} 
           <column name="notes_ru">В империи клингонов есть корабли, которые могут летать и погружаться под воду. Относится ли это конкретно к подводной лодке или дирижаблю, зависит от контекста. Чтобы дифференцировать их, подводная лодка была бы {bIQ Hurgh Duj:n@@bIQ:n, Hurgh Duj:n}, а дирижабль был бы {muD Hurgh Duj:n@@muD:n:1, Hurgh Duj:n}.[1]. {Hurgh Duj:n:nolink}, как правило, имеет двигатель для тяги.[2] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt">O Império Klingon tem navios que podem voar e submergir debaixo d'água. Se isso se refere especificamente a um submarino ou a um dirigível depende do contexto. Para diferenciá-los, um submarino seria um {bIQ Hurgh Duj:n@@bIQ:n, Hurgh Duj:n} e um dirigível seria um {muD Hurgh Duj:n@@muD:n:1, Hurgh Duj:n}.[1] A {Hurgh Duj:n:nolink} normalmente possui um motor de propulsão.[2] [AUTOTRANSLATED]</column>
-<!-- ERROR: Missing link #5. -->
 <column name="notes_fi">Klingonin imperiumissa on aluksia, jotka voivat sekä lentää että upota veden alle. Tarkoittaako tämä nimenomaan sukellusvenettä vai välähdystä, riippuu asiayhteydestä. Niiden erottamiseksi sukellusvene olisi {bIQ Hurgh Duj:n@@bIQ:n, Hurgh Duj:n} ja välähdys olisi {muD Hurgh Duj:n@@muD:n:1, Hurgh Duj:n}.[1] {Hurgh Duj:n:nolink}: ssä on tyypillisesti moottori työntövoimaa varten.[2] [AUTOTRANSLATED]</column>
           <column name="hidden_notes">This word and information about it were revealed in conversation during the {qepHom:src}.</column>
           <column name="components"></column>
