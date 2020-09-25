@@ -1342,7 +1342,7 @@ On olemassa klingonin idioomi {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2] [AUTOTRA
       <column name="definition_ru">минимальный [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最低限度 [AUTOTRANSLATED]</column>
       <column name="definition_pt">mínimo</column>
-<column name="definition_fi">vähintään</column>
+<column name="definition_fi">vähintään, vähimmäismäärä, minimi</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'aqroS:n:2}</column>
       <column name="see_also">{rav ... 'aqroS ...:sen}</column>

@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {a:sen:nolink}</column>
       <column name="definition_zh_HK">元音{a:sen:nolink}</column>
       <column name="definition_pt">a vogal {a:sen:nolink}</column>
-<column name="definition_fi">vokaali {a: sen: nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">vokaali {a:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -95,7 +95,7 @@
       <column name="definition_ru">иметь длину / высоту [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">長度/高度為 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ter um comprimento/altura de</column>
-<column name="definition_fi">joiden pituus / korkeus on [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla pituudeltaan/korkeudeltaan jotain</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'uj:n}, {woch:v}, {tIq:v}, {jen:v}, {run:v}, {juch:v}, {Saw':v}, {juv:v}</column>
@@ -146,7 +146,7 @@
       <column name="definition_ru">но, а</column>
       <column name="definition_zh_HK">但是、儘管如此、然而、儘管如此 [AUTOTRANSLATED]</column>
       <column name="definition_pt">mas, no entanto, mesmo assim, enquanto</column>
-<column name="definition_fi">mutta silti silti kuitenkin, vaikka [AUTOTRANSLATED]</column>
+<column name="definition_fi">mutta, silti, kuitenkin, kun taas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
@@ -190,7 +190,7 @@
       <column name="definition_ru">недействительным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">虛空 [AUTOTRANSLATED]</column>
       <column name="definition_pt">vazio</column>
-<column name="definition_fi">mitätön [AUTOTRANSLATED]</column>
+<column name="definition_fi">tyhjiö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{logh:n}, {chIm:v}, {pagh:n:1}</column>
@@ -235,7 +235,7 @@ The example which came with the request is about outer space, so this seems to b
       <column name="definition_ru">затылок, загривок, задняя часть шеи [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">頸背頸背後頸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">nuca</column>
-<column name="definition_fi">niska, röyhkeä, niskan takaosa [AUTOTRANSLATED]</column>
+<column name="definition_fi">niska</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mong:n}, {mong'em:n}</column>
@@ -278,7 +278,7 @@ The example which came with the request is about outer space, so this seems to b
       <column name="definition_ru">вена, артерия, кровеносный сосуд</column>
       <column name="definition_zh_HK">靜脈、動脈、血管 [AUTOTRANSLATED]</column>
       <column name="definition_pt">veia, artéria, vaso sanguíneo</column>
-<column name="definition_fi">laskimo, valtimo, verisuoni [AUTOTRANSLATED]</column>
+<column name="definition_fi">verisuoni, laskimo, valtimo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mej'aD:n}, {paw'aD:n}, {'Iw:n}, {regh:v}</column>
@@ -323,7 +323,7 @@ A German word for "vein" is "Ader".</column>
           <column name="definition_ru">капиллярный [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">毛細血管 [AUTOTRANSLATED]</column>
           <column name="definition_pt">capilar</column>
-<column name="definition_fi">kapillaari [AUTOTRANSLATED]</column>
+<column name="definition_fi">hiussuoni, kapillaari</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -366,7 +366,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">иметь длину, меру [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">有一個長度、衡量 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ter um comprimento de, medir</column>
-<column name="definition_fi">on pituus, mittaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla pituudeltaan jotain</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'uj:n}, {juch:v}, {Saw':v}, {juv:v}, {men:v}</column>
@@ -411,7 +411,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">показать, продемонстрировать, отобразить [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">展示、表現</column>
       <column name="definition_pt">mostrar, demonstrar, apresentar</column>
-<column name="definition_fi">näyttää, osoittaa, näyttää [AUTOTRANSLATED]</column>
+<column name="definition_fi">osoittaa, näyttää, ilmentää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ang:v}, {chIw:v}</column>
@@ -467,7 +467,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">принадлежности</column>
       <column name="definition_zh_HK">用具 [AUTOTRANSLATED]</column>
       <column name="definition_pt">parafernália</column>
-<column name="definition_fi">paraphernalia [AUTOTRANSLATED]</column>
+<column name="definition_fi">varusteet, tarvikkeet</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hov leng:n}</column>
@@ -510,7 +510,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">опытный образец [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">原型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">protótipo</column>
-<column name="definition_fi">prototyyppi [AUTOTRANSLATED]</column>
+<column name="definition_fi">prototyyppi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -553,7 +553,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">адмирал</column>
       <column name="definition_zh_HK">上將</column>
       <column name="definition_pt">almirante</column>
-<column name="definition_fi">amiraali [AUTOTRANSLATED]</column>
+<column name="definition_fi">amiraali</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -596,7 +596,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">плавать (в / в воздухе) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">漂浮（氣體中／上）</column>
       <column name="definition_pt">flutuar (no ar)</column>
-<column name="definition_fi">kellua (ilmaan / ilmaan) [AUTOTRANSLATED]</column>
+<column name="definition_fi">leijua</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'oq:v}</column>
       <column name="see_also">{puv:v}, {'ay:v}</column>
@@ -639,7 +639,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">быть случайным (число) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">隨機（數字） [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser aleatório</column>
-<column name="definition_fi">olla satunnainen (luku) [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla satunnainen (luvusta)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI':n}</column>
@@ -686,7 +686,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_pt">fivela (de cinto)</column>
 <!-- ERROR: Mismatched brackets. -->
 <!-- ERROR: Mismatched brackets. -->
-<column name="definition_fi">(vyösolki [AUTOTRANSLATED]</column>
+<column name="definition_fi">(vyön) solki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qogh:n:1}</column>
@@ -729,7 +729,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">веснушка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">雀斑 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sardas</column>
-<column name="definition_fi">pisama [AUTOTRANSLATED]</column>
+<column name="definition_fi">pisama</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qab:n}</column>
@@ -772,7 +772,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">топор с шипом на конце [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">斧頭與穗末端 [AUTOTRANSLATED]</column>
       <column name="definition_pt">machado com ponta no fim</column>
-<column name="definition_fi">kirves, jossa on piikki [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ase; kirves, jonka päässä on piikki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'obmaQ:n}</column>
@@ -815,7 +815,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">стекло (материал) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">玻璃（材料） [AUTOTRANSLATED]</column>
       <column name="definition_pt">vidro (material)</column>
-<column name="definition_fi">lasi (materiaali) [AUTOTRANSLATED]</column>
+<column name="definition_fi">lasi (materiaali)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{baS:n}, {Sor Hap:n}, {mep:n}</column>
@@ -860,7 +860,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">остров [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">島</column>
       <column name="definition_pt">ilha</column>
-<column name="definition_fi">saari [AUTOTRANSLATED]</column>
+<column name="definition_fi">saari</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{puH:n}, {yuwey:n}</column>
@@ -903,7 +903,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">академия [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">學堂</column>
       <column name="definition_pt">academia</column>
-<column name="definition_fi">akatemia [AUTOTRANSLATED]</column>
+<column name="definition_fi">akatemia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yejHaD:n}, {yej'an:n}</column>
@@ -946,7 +946,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">балкон [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">陽台 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sacada</column>
-<column name="definition_fi">parveke [AUTOTRANSLATED]</column>
+<column name="definition_fi">parveke</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -989,7 +989,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_ru">быть тратой [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">嘥</column>
       <column name="definition_pt">ser um desperdício</column>
-<column name="definition_fi">olla tuhlausta [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla tuhlausta, haaskausta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1044,7 +1044,7 @@ Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:2}: ta kahtena ho
           <column name="definition_ru">приносить в жертву [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">犧</column>
           <column name="definition_pt">sacrifício</column>
-<column name="definition_fi">uhrata [AUTOTRANSLATED]</column>
+<column name="definition_fi">uhrata, tuhlata, haaskata</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{weS:v}</column>
@@ -1087,7 +1087,7 @@ Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:2}: ta kahtena ho
       <column name="definition_ru">окаменеть [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">被嚇呆了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser petrificado</column>
-<column name="definition_fi">be petrified [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla kivettynyt</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nagh:n}, {'an'or:n}</column>
@@ -1148,7 +1148,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">Андория [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">安多利星</column>
       <column name="definition_pt">Andoria</column>
-<column name="definition_fi">Andoria [AUTOTRANSLATED]</column>
+<column name="definition_fi">Andoria</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'anDorya'ngan:n}</column>
@@ -1277,7 +1277,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">андорианский [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">安多利人</column>
       <column name="definition_pt">Andoriano</column>
-<column name="definition_fi">Andorian [AUTOTRANSLATED]</column>
+<column name="definition_fi">andorialainen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'anDor:n}</column>
@@ -1320,7 +1320,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">аниций [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">anicium [AUTOTRANSLATED]</column>
       <column name="definition_pt">anicium</column>
-<column name="definition_fi">anicium [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs yhdiste, anicium</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1363,7 +1363,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">Антоний</column>
       <column name="definition_zh_HK">安東尼</column>
       <column name="definition_pt">Antony</column>
-<column name="definition_fi">Antony [AUTOTRANSLATED]</column>
+<column name="definition_fi">Antonius</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhI'yopatra':n:name}</column>
@@ -1406,7 +1406,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">лук [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">洋蔥</column>
       <column name="definition_pt">cebola</column>
-<column name="definition_fi">sipuli [AUTOTRANSLATED]</column>
+<column name="definition_fi">sipuli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oQqar:n}, {gharlIq 'oQqar:n}</column>
@@ -1449,7 +1449,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">ископаемое [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">化石 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fóssil</column>
-<column name="definition_fi">fossiilinen [AUTOTRANSLATED]</column>
+<column name="definition_fi">fossiili</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'orQeD:n}, {'an'ortej:n}, {'an:v:2}, {molHa':v}, {Hom:n:1}</column>
@@ -1492,7 +1492,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">палеонтология [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">古生物學 [AUTOTRANSLATED]</column>
       <column name="definition_pt">paleontologia</column>
-<column name="definition_fi">paleontologia [AUTOTRANSLATED]</column>
+<column name="definition_fi">paleontologia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'or:n}, {QeD:n}, {'an'ortej:n}</column>
@@ -1535,7 +1535,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">палеонтолог [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">古生物學家 [AUTOTRANSLATED]</column>
       <column name="definition_pt">paleontólogo</column>
-<column name="definition_fi">paleontologi [AUTOTRANSLATED]</column>
+<column name="definition_fi">paleontologi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'or:n}, {tej:n}, {'an'orQeD:n}</column>
@@ -1578,7 +1578,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">показать</column>
       <column name="definition_zh_HK">顯示、揭示 [AUTOTRANSLATED]</column>
       <column name="definition_pt">apresentar, revelar</column>
-<column name="definition_fi">näytä, paljasta [AUTOTRANSLATED]</column>
+<column name="definition_fi">näyttää, paljastaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'agh:v}, {cha':v}</column>
@@ -1623,7 +1623,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">Только враг без чести отказывается показывать себя в бою. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">只有沒有榮譽的敵人才會拒絕在戰鬥中展示自己。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Apenas um inimigo sem honra recusa se mostrar em batalha.</column>
-<column name="definition_fi">Vain vihollinen ilman kunniaa kieltäytyy näyttämästä itseään taistelussa. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Vain vihollinen, jolla ei ole kunniaa, kieltäytyy paljastamasta itseään taistelussa.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1666,7 +1666,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">музей [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">博物馆</column>
       <column name="definition_pt">museu</column>
-<column name="definition_fi">museo [AUTOTRANSLATED]</column>
+<column name="definition_fi">museo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1710,7 +1710,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">Кос'Карий (одиночка) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">科斯卡里（單一） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kos'Karii (singular)</column>
-<column name="definition_fi">Kos'Karii (single) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs eläin, kos'karii</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1753,7 +1753,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">быть помятым [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">被打敗了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser amolgado, amassado</column>
-<column name="definition_fi">olla lommottu [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla hammastettu, lovettu, kuhmuinen, kolhittu ?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{taw':v}</column>
       <column name="see_also">{retlaw:n}</column>
@@ -1796,7 +1796,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
           <column name="definition_ru">вмятина [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">凹痕 [AUTOTRANSLATED]</column>
           <column name="definition_pt">dente</column>
-<column name="definition_fi">lommo [AUTOTRANSLATED]</column>
+<column name="definition_fi">loveta, hammastaa, kolhia, lommottaa ?</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{retlaw:n}</column>
@@ -1839,7 +1839,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">гранула [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">丸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Pellet, grão, grânulos</column>
-<column name="definition_fi">pelletti [AUTOTRANSLATED]</column>
+<column name="definition_fi">pelletti, pieni pallo, kuula</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1926,7 +1926,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">кейс, контейнер [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">案例、容器 [AUTOTRANSLATED]</column>
       <column name="definition_pt">caso, recipiente</column>
-<column name="definition_fi">kotelo, kontti [AUTOTRANSLATED]</column>
+<column name="definition_fi">kotelo, rasia, lipas, säiliö, laatikko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngaSwI':n}, {vey:n}</column>
@@ -1969,7 +1969,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">кальций [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鈣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cálcio</column>
-<column name="definition_fi">kalsiumia [AUTOTRANSLATED]</column>
+<column name="definition_fi">kalsium</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'evtlhev:n}, {baS:n}, {tamler:n}</column>
@@ -2012,7 +2012,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">ястребиная птица [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一隻鷹般的鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">um pássaro parecido com um falcão</column>
-<column name="definition_fi">haukkamainen lintu [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs haukan kaltainen lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'Degh:n}</column>
@@ -2055,7 +2055,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="definition_ru">предсказывать, прогнозировать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">預測、預計</column>
       <column name="definition_pt">prever, prognóstico</column>
-<column name="definition_fi">predict, prognosticate [AUTOTRANSLATED]</column>
+<column name="definition_fi">ennustaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghut:v}, {qut:v}, {meq:v}</column>
@@ -2109,7 +2109,7 @@ Man beachte dass es bei der Wettervorhersage (siehe {muD Dotlh:n}) üblich ist {
       <column name="definition_ru">type of weapon (half ax, half bat'leth) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">武器類型（半斧、半蝙蝠） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de arma (meio machado, meio bat'leth)</column>
-<column name="definition_fi">aseen tyyppi (puolikirves, puoliksi lepakko) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ase (puoliksi kirves, puoliksi bat'leth)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qach:v}</column>
@@ -2152,7 +2152,7 @@ Man beachte dass es bei der Wettervorhersage (siehe {muD Dotlh:n}) üblich ist {
       <column name="definition_ru">type of knife (general purpose) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">刀型（通用型） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de faca (uso geral)</column>
-<column name="definition_fi">veitsen tyyppi (yleiskäyttöinen) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs yleiskäyttöinen veitsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2196,7 +2196,7 @@ Man beachte dass es bei der Wettervorhersage (siehe {muD Dotlh:n}) üblich ist {
       <column name="definition_ru">нижняя поверхность стола, потолок [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">桌子的底面、天花板 [AUTOTRANSLATED]</column>
       <column name="definition_pt">superfície inferior de uma mesa, teto</column>
-<column name="definition_fi">pöydän pohja, katto [AUTOTRANSLATED]</column>
+<column name="definition_fi">yläosan alaosa, pöydän alapinta, katon alapinta</column>
       <column name="synonyms"></column>
       <column name="antonyms">{bIS'ub:n}, {rav:n:1}</column>
       <column name="see_also">{Dung:n}, {rav'eq:n}, {pa' beb:n}, {raS:n}</column>
@@ -2254,7 +2254,7 @@ Esta palavra pode ser usada para se referir a um teto, embora os termos {pa' beb
       <column name="definition_ru">максимальная [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最大 [AUTOTRANSLATED]</column>
       <column name="definition_pt">máximo, valor mais alto</column>
-<column name="definition_fi">maksimi [AUTOTRANSLATED]</column>
+<column name="definition_fi">enintään, enimmäismäärä, maksimi</column>
       <column name="synonyms"></column>
       <column name="antonyms">{rav:n:2}</column>
       <column name="see_also">{vuS:v}, {rav ... 'aqroS ...:sen}</column>
@@ -2315,7 +2315,7 @@ Harkitse muissa yhteyksissä verbiliitteen {-qu':v} käyttöä. Esimerkiksi: {no
       <column name="definition_ru">максимальная крейсерская скорость [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最大巡航速度 [AUTOTRANSLATED]</column>
       <column name="definition_pt">velocidade máxima de cruzeiro</column>
-<column name="definition_fi">suurin matkanopeus [AUTOTRANSLATED]</column>
+<column name="definition_fi">suurin matkanopeus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2401,7 +2401,7 @@ Harkitse muissa yhteyksissä verbiliitteen {-qu':v} käyttöä. Esimerkiksi: {no
       <column name="definition_ru">Актух [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Aktuh [AUTOTRANSLATED]</column>
       <column name="definition_pt">Aktuh</column>
-<column name="definition_fi">Aktuh [AUTOTRANSLATED]</column>
+<column name="definition_fi">Aktuh</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mellota':n:name}, {ghe'naQ:n}</column>
@@ -2444,7 +2444,7 @@ Harkitse muissa yhteyksissä verbiliitteen {-qu':v} käyttöä. Esimerkiksi: {no
       <column name="definition_ru">тыква, тыква, тыква [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">葫蘆南瓜西葫蘆 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cabaça, abóbora</column>
-<column name="definition_fi">gourd, squash, pumpkin [AUTOTRANSLATED]</column>
+<column name="definition_fi">kurpitsa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naH:n}</column>
@@ -2489,7 +2489,7 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_ru">лоб [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">額頭</column>
       <column name="definition_pt">testa</column>
-<column name="definition_fi">otsa [AUTOTRANSLATED]</column>
+<column name="definition_fi">otsa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Quch:n}</column>
@@ -2532,7 +2532,7 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_ru">акт наблюдения за телом павшего воина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">看著墮落的戰士身體的行為 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ato de vigiar o corpo de um guerreiro caído</column>
-<column name="definition_fi">kaatuneen soturin ruumiin vartiointi [AUTOTRANSLATED]</column>
+<column name="definition_fi">kaatuneen soturin ruumiin vartiointi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nol:n}, {Heghtay:n}, {SonchIy:n}</column>
@@ -2575,7 +2575,7 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_ru">сколько?</column>
       <column name="definition_zh_HK">多少？多少？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">quantos?</column>
-<column name="definition_fi">how many? how much? [AUTOTRANSLATED]</column>
+<column name="definition_fi">kuinka monta? kuinka paljon?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'arlogh:ques}</column>
@@ -2633,7 +2633,7 @@ Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder
       <column name="definition_ru">плющоподобное растение [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">常春藤般的植物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">planta parecida com a ivy</column>
-<column name="definition_fi">muratti kaltainen kasvi [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs muratin kaltainen kasvi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2676,7 +2676,7 @@ Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder
       <column name="definition_ru">ухудшаться</column>
       <column name="definition_zh_HK">惡化 [AUTOTRANSLATED]</column>
       <column name="definition_pt">piorar</column>
-<column name="definition_fi">pahentaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">pahentua, huonontua</column>
       <column name="synonyms">{Sab:v}</column>
       <column name="antonyms">{Dub:v}, {rach:v}</column>
       <column name="see_also">{qab:v}</column>
@@ -2719,7 +2719,7 @@ Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder
       <column name="definition_ru">сколько раз? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">多少次？</column>
       <column name="definition_pt">Quantas vezes?</column>
-<column name="definition_fi">kuinka monta kertaa? [AUTOTRANSLATED]</column>
+<column name="definition_fi">kuinka monta kertaa?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2762,7 +2762,7 @@ Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder
       <column name="definition_ru">Который сейчас час? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">幾點了？</column>
       <column name="definition_pt">Que horas são?</column>
-<column name="definition_fi">Paljonko kello on? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Paljonko kello on?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghorgh:ques}</column>
@@ -2812,7 +2812,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">унаследуют [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">繼承 [AUTOTRANSLATED]</column>
       <column name="definition_pt">herdar</column>
-<column name="definition_fi">periä [AUTOTRANSLATED]</column>
+<column name="definition_fi">periä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2855,7 +2855,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">A'trom [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">A'trom [AUTOTRANSLATED]</column>
       <column name="definition_pt">A'trom</column>
-<column name="definition_fi">A'trom [AUTOTRANSLATED]</column>
+<column name="definition_fi">A'trom</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HuS:n:name}</column>
@@ -2898,7 +2898,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">тип гриба [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">真菌的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de fungo</column>
-<column name="definition_fi">sienen tyyppi [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs sieni</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wech:v}, {tera' yav 'atlhqam:n}</column>
@@ -2941,7 +2941,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">тип формы [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一種模具 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de fungo</column>
-<column name="definition_fi">eräänlainen muotti [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs homesieni</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2984,7 +2984,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">охранять</column>
       <column name="definition_zh_HK">守衛</column>
       <column name="definition_pt">guardar</column>
-<column name="definition_fi">vartija [AUTOTRANSLATED]</column>
+<column name="definition_fi">vartioida</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'avwI':n}</column>
@@ -3027,7 +3027,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">стража</column>
       <column name="definition_zh_HK">警衛</column>
       <column name="definition_pt">guarda</column>
-<column name="definition_fi">vartija [AUTOTRANSLATED]</column>
+<column name="definition_fi">vartija</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIghHa':n}, {qama':n}</column>
@@ -3070,7 +3070,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">Когда сбежавший заключенный ищет охранника, он всегда находит его. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">當逃脫的囚犯尋找警衛時，他總能找到一個。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Quando um prisioneiro escapado procura um guarda, ele sempre encontra um.</column>
-<column name="definition_fi">Kun pakeneva vanki etsii vartijaa, hän löytää sen aina. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kun paennut vanki etsii vartijaa, hän aina löytää sellaisen.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3113,7 +3113,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">пройти, пройти (материя) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">通過，通過 [AUTOTRANSLATED]</column>
       <column name="definition_pt">atravessar, passar (matéria)</column>
-<column name="definition_fi">käydä läpi, kulkea läpi (aine) [AUTOTRANSLATED]</column>
+<column name="definition_fi">käydä läpi (aineen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vegh:v}, {tol:v}</column>
@@ -3156,7 +3156,7 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="definition_ru">type of beverage (root beer) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">飲料類型（根汁汽水）</column>
       <column name="definition_pt">tipo de bebida (cerveja de raiz)</column>
-<column name="definition_fi">juomatyyppi (juuriolu) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs juurioluen kaltainen juoma</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qo'la' 'awje':n}</column>
@@ -3212,7 +3212,7 @@ Tämä sana ei tarkoita tiettyä juomaa, vaan suppeaa sukulaisjuomaryhmää[2] [
       <column name="definition_ru">жалить</column>
       <column name="definition_zh_HK">刺 [AUTOTRANSLATED]</column>
       <column name="definition_pt">picar</column>
-<column name="definition_fi">pisto [AUTOTRANSLATED]</column>
+<column name="definition_fi">pistää, kirvellä, kirpaista, polttaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oy':v}, {tlhar:v}</column>
@@ -3258,7 +3258,7 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="definition_ru">плавать (в / на жидкость) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">漂浮（液體中或上）</column>
       <column name="definition_pt">flutuador (em / no líquido)</column>
-<column name="definition_fi">kellua (nesteen sisään / päälle) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kellua, keijua</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'oq:v}</column>
       <column name="see_also">{'al:v:1}</column>
@@ -3301,7 +3301,7 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="definition_ru">часть</column>
       <column name="definition_zh_HK">部分</column>
       <column name="definition_pt">seção, parte, componente, peça</column>
-<column name="definition_fi">osa, osa, komponentti, pala [AUTOTRANSLATED]</column>
+<column name="definition_fi">osa, pala, komponentti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mutlh:v}, {baylaD:n}</column>
@@ -3344,7 +3344,7 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="definition_ru">магистр, профессор [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">老師、教授 [AUTOTRANSLATED]</column>
       <column name="definition_pt">professor mestre, professor</column>
-<column name="definition_fi">pääopettaja, professori [AUTOTRANSLATED]</column>
+<column name="definition_fi">mestari, professori</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghojmoHwI':n}</column>
@@ -3387,7 +3387,7 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="definition_ru">Ацетбур</column>
       <column name="definition_zh_HK">「阿澤特巴爾」</column>
       <column name="definition_pt">Azetbur</column>
-<column name="definition_fi">Azetbur [AUTOTRANSLATED]</column>
+<column name="definition_fi">Azetbur</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
