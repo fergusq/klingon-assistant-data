@@ -559,7 +559,10 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #6. -->
+<column name="notes_fi">{BoP:src}-julisteen mittausten perusteella yksi {'uj:n:nolink} on hyvin lähellä 34,83 ​​cm.
+
+Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {'uj:n:nolink} on noin 6'10 ".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In {KGT:src}, this unit is described as "about 35 cm". Also, Okrand has not been consistent in writing the plural of this in English, using "ujs" in earlier work but switching to "ujes" later.</column>
       <column name="components"></column>
       <column name="examples">

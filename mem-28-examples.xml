@@ -81,7 +81,9 @@ To answer in the negative, say {ghobe':excl} or {jItlhutlh vIneHbe'} "I don't wa
 Чтобы ответить отрицательно, скажите {ghobe':excl} "нет" или {jItlhutlh vIneHbe'} "Я не хочу пить."</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Vastaa myöntävästi sanomalla {HIja':excl} "kyllä" tai {jItlhutlh vIneH} "Haluan juoda".
+
+Jos haluat vastata kieltävästi, sano {ghobe':excl} tai {jItlhutlh vIneHbe'} "En halua juoda". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -859,7 +861,9 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Harkitse tyypin 7 verbiliitteen, kuten {-taH:v:suff} tai {-lI':v:suff}, käyttöä:
+▶ {tlhIngan Hol vIghojtaH.:sen:nolink} "Oppin klingonia (jatkuu)."
+▶ {tlhIngan Hol vIghojlI'.:sen:nolink} "Oppin klingonia (etenen kohti tunnettua tavoitetta)." [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tlhIngan:n}, {Hol:n}, {vI-:v}, {ghoj:v}</column>
       <column name="examples"></column>
@@ -1519,7 +1523,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="notes_ru">«Страхование от отмены рейса» было странным понятием для Мальца, а не термина или фразы, которые он слышал раньше, но он сказал, что {leng chach mab:n:nolink} «контракт на экстренную поездку» будет пониматься клингонами как означающее соглашение о том, кто за что отвечает, если что-то идет не так во время путешествия. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">“航程取消保險”對於馬爾茨來說是一個奇怪的概念，不是他以前聽過的術語或短語，但是他說，克林崗斯將{leng chach mab:n:nolink}的“航程緊急合同”理解為是關於誰對什麼負責的協議，如果在旅途中出了點問題。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">"Seguro de cancelamento de viagem" era um conceito estranho para Maltz, e não um termo ou frase que ele já ouvira antes, mas ele disse que Klingons "{leng chach mab:n:nolink}" contrato de emergência de viagem "seria entendido por Klingons como um acordo sobre quem é responsável por quê, se algo dá errado durante uma jornada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">"Matkan peruutusvakuutus" oli outo käsite Maltzille, eikä termi tai lause, jonka hän oli aiemmin kuullut, mutta hän sanoi, että {leng chach mab:n:nolink} "matkan hätäsopimus" ymmärretään Klingonsin mukaan sopimuksena siitä, kuka on vastuussa mistä, jos jokin menee pieleen matkan aikana. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{leng:n}, {chach:n}, {mab:n:1}</column>
       <column name="examples"></column>
@@ -2679,7 +2683,43 @@ The lyrics are as follows:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<!-- ERROR: Missing link #5. -->
+<!-- ERROR: Missing link #6. -->
+<!-- ERROR: Missing link #7. -->
+<!-- ERROR: Missing link #10. -->
+<!-- ERROR: Missing link #11. -->
+<!-- ERROR: Missing link #12. -->
+<!-- ERROR: Missing link #13. -->
+<!-- ERROR: Missing link #17. -->
+<!-- ERROR: Missing link #18. -->
+<!-- ERROR: Missing link #19. -->
+<!-- ERROR: Missing link #21. -->
+<column name="notes_fi">Tämä on {tlhIngan Hol yejHaD:n} (epävirallinen) hymni, joka on laulettu jokaisella {qep'a':n:nolink}: lla.
+
+Sanoitukset ovat seuraavat:
+▶ KÄÄNTÄMINEN 3
+   DONOTTRANSLATE 4
+   DONOTTRANSLATE 5
+   DONOTTRANSLATE 6
+
+   DONOTTRANSLATE 7
+   {bechjaj jaghma', Heghjaj chaH!:sen:nolink}
+   {wItoy'bej net Sov net Sov!:sen:nolink}
+   DONOTTRANSLATE 10
+   DONOTTRANSLATE 11
+   DONOTTRANSLATE 12
+   DONOTTRANSLATE 13
+
+   {maSopnISbe', matlhutlhnISbe', 'ej maDo'chugh, matlhuHnISbe'.:sen:nolink}
+   {Doch neH wIta'nISbogh 'oH tlhIngan wo''a' HoSghaj toy'ghach'e'.:sen:nolink}
+   {may''a'meyDaq, veS'a'meyDaq, 'ej reH 'ej reH yay'a'meyDaq:sen:nolink}
+   DONOTTRANSLATE 17
+   DONOTTRANSLATE 18
+   19
+   {vaj taHjaj wo', vaj taHjaj wo', 'u' HeHDaq tlhIngan juHqo'vo':sen:nolink}
+   DONOTTRANSLATE 21{taHjaj wo', 'ej taHjaj voDleHma'!:sen:nolink}{wItoy'mo', vaj nuquvmoHjaj ta'!:sen:nolink}{Dun wo'maj, 'ej Qochchugh vay':sen:nolink}{vaj DaSmeymaj bIngDaq chaH DIbeQmoHchu' jay'!:sen:nolink}{taHjaj wo', 'ej taHjaj maH!:sen:nolink}{val 'ej may voDleHma' pov!:sen:nolink}{Dun wo'vam, juHmaj, not Dej.:sen:nolink}{Qochchugh vay' vaj Doghqu'bej!:sen:nolink}{DaSmeymaj bIngDaq chaH DIbeQmoHchu' jay'!:sen:nolink}{Qapla' wIchav, 'ej batlh wISuq, 'ej tlhIngan wo' nIvghach wImaq.:sen:nolink}{matoy'rupchu', maSuvlaHchu', maHeghqangchu', 'utchugh 'utmo'.:sen:nolink}{'ach Heghmaj yIpIHQo', ghaytan wa'DIch jagh'e' wIHeghmoHmo'.:sen:nolink}{vaj taHjaj taHjaj taHjaj taHjaj taHjaj tlhIngan wo'!:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This song was composed by Rich Yampell, a.k.a. {HoD Qanqor:n:name,nolink}. Note that ordinarily, a rank such as {HoD:n} follows the name in Klingon, but {HoD Qanqor:n:name,nolink} comes from a region where one's rank precedes one's name.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2739,7 +2779,35 @@ Watch this song performed by Rachel Bloom: {YouTube video:url:http://youtu.be/Y3
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<!-- ERROR: Missing link #5. -->
+<!-- ERROR: Missing link #6. -->
+<!-- ERROR: Missing link #7. -->
+<!-- ERROR: Missing link #8. -->
+<!-- ERROR: Missing link #9. -->
+<!-- ERROR: Missing link #10. -->
+<!-- ERROR: Missing link #11. -->
+<!-- ERROR: Missing link #12. -->
+<!-- ERROR: Missing link #13. -->
+<column name="notes_fi">Tämä on kappale Terran-musikaalin "Rent" -elokuvasta. Tämän kappaleen Klingon-otsikko tarkoittaa kirjaimellisesti "525 600 minuuttia".
+
+▶ KÄÄNTÄMINEN 1
+   {lo'laHbogh vaghbIp cha'netlh vaghSaD poHmey,:sen@@lo'laH:v, -bogh:v, vagh:n:1, bIp:n, cha':n, netlh:n, vagh:n:1, SaD:n, poH:n, -mey:n}
+   DONOTTRANSLATE 3
+   {chay 'DIS DajuvlaH?: sen @@ chay': ques, DIS: n: 2, Da-: v, juv: v, -laH: v}
+
+   DONOTTRANSLATE 5
+   DONOTTRANSLATE 6
+   DONOTTRANSLATE 7
+   {chay 'wa' yIN DIS DajuvlaH?: sen @@ chay ': ques, wa': n, yIn: n, DIS: n: 2, Da-: v, juv: v, -laH: v}
+
+   {parmaq Dalo'laH'a '?: sen @@ parmaq: n, Da-: v, lo': v, -laH: v, -'a ': v}
+   {parmaq Dalo'laH'a '?: sen: nolink}
+   {parmaq Dalo'laH'a '?: sen: nolink}
+   DONOTTRANSLATE 12
+
+Katso tämä kappale, jonka on esittänyt Rachel Bloom: {vaghbIp cha'netlh vaghSaD javvatlh tup,:sen@@vagh:n:1, bIp:n, cha':n, netlh:n, vagh:n:1, SaD:n, jav:n:1, vatlh:n}3{vaghbIp cha'netlh vaghSaD javvatlh tup.:sen:nolink}{chay' DIS DajuvlaH?:sen@@chay':ques, DIS:n:2, Da-:v, juv:v, -laH:v}{bIjuvmeH pemmey, povmey, ramjepmey, qa'vIn HIvje'mey,:sen@@bI-:v, juv:v, -meH:v, pem:n, -mey:n, pov:n, -mey:n, ramjep:n:1, -mey:n, qa'vIn:n, HIvje':n, -mey:n}{'ujmey, qelI'qammey, naD, QeH ghap Dalo'laH.:sen@@'uj:n, -mey:n, qelI'qam:n, -mey:n, naD:n, QeH:n, ghap:conj, Da-:v, lo':v, -laH:v}{vaghbIp cha'netlh vaghSaD javvatlh tup Dalo'laH.:sen@@vagh:n:1, bIp:n, cha':n, netlh:n, vagh:n:1, SaD:n, jav:n:1, vatlh:n, Da-:v, lo':v, -laH:v}{chay' wa' yIn DIS DajuvlaH?:sen@@chay':ques, wa':n, yIn:n, DIS:n:2, Da-:v, juv:v, -laH:v}{parmaq Dalo'laH'a'?:sen@@parmaq:n, Da-:v, lo':v, -laH:v, -'a':v}{parmaq Dalo'laH'a'?:sen:nolink}{parmaq Dalo'laH'a'?:sen:nolink}{bIjuvmeH parmaq yIlo'.:sen@@bI-:v, juv:v, -meH:v, parmaq:n, yI-:v, lo':v}{YouTube video:url:http://youtu.be/Y3Q2HXXRlBM} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3248,7 +3316,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="notes_ru">Это буквально означает «я готов рискнуть». Эта фраза связана с популярной поисковой системой {Google:url:http://www.google.com/}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這字面意思是“我準備好機會了”。該短語與流行的搜索引擎{Google:url:http://www.google.com/}相關。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso literalmente significa "Estou pronto para arriscar". Esta frase está associada ao popular mecanismo de pesquisa {Google:url:http://www.google.com/}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "olen valmis ottamaan riskin". Tämä lause liittyy suosittuun hakukoneeseen {Google:url:http://www.google.com/}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{jI-:v}, {SuD:v:2}, {-rup:v}</column>
       <column name="examples"></column>
@@ -3558,7 +3626,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="notes_ru">Дословно это значит "Пусть ты насладишься твоим днём рождения!". Чтобы пожелать счастья множеству людей, скажитеsay {qoSraj botIvjaj!}</column>
       <column name="notes_zh_HK">這字面意思是“祝您生日快樂！”祝多人生日快樂，請說{qoSraj botIvjaj!} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa literalmente "você pode aproveitar seu aniversário!" Para desejar um feliz aniversário para várias pessoas, diga {qoSraj botIvjaj!} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "saatatko nauttia syntymäpäivästäsi!" Jos haluat toivottaa hyvää syntymäpäivää useille ihmisille, sano {qoSraj botIvjaj!} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3601,7 +3669,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="notes_ru">В {TKD:src} используется, как пример существительного со всеми пятью суффиксами.</column>
       <column name="notes_zh_HK">在{TKD:src}中使用它作為帶有所有五種後綴類型的名詞的示例。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado no {TKD:src} como um exemplo de um substantivo com todos os cinco tipos de sufixos. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään {TKD:src}: ssä esimerkkinä substantiivista, jolla on kaikki viisi päätetyyppiä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Qagh:n}, {-Hom:n}, {-mey:n}, {-Hey:n}, {-lIj:n}, {-mo':n}</column>
       <column name="examples"></column>

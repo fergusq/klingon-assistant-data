@@ -63,7 +63,7 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{jIH:n:1h}: {tlhIH:n} = {Sa-:v:pref,nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -861,7 +861,8 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Глагол {chenmoH:v} может использоваться с {San:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">動詞{chenmoH:v}可與{San:n}.[2]一起使用 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo {chenmoH:v} pode ser usado com {San:n}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Verbiä {chenmoH:v} voidaan käyttää {San:n}: n kanssa.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "fate" in {TKD:src}. It was explained in a {KLI mailing list:src} message that "destiny" is another possible translation.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1821,7 +1822,7 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это используется для ситуаций, таких как застревание на собрании или в пробке. Это также используется для кошки, застрявшей в дереве. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這用於遇到會議阻塞或交通阻塞的情況。它也用於卡在樹上的貓。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para situações como estar preso em uma reunião ou preso no trânsito. Também é usado para um gato preso em uma árvore. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään tilanteissa, kuten jumissa kokouksessa tai jumissa liikenteessä. Sitä käytetään myös kissaan, joka on jumissa puuhun. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "be stuck" with an explanation, along with a bunch of other words which can be translated into various senses of "be stuck" in English.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2937,7 +2938,7 @@ This word appears only in the body of {KGT:src} and not in the glossary.</column
           <column name="notes_ru">Маленькие дети или взрослые, разговаривающие с маленькими детьми или о них, используют {rIlwI':n}. [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">小孩或與小孩交談或談論小孩的成年人，請改用{rIlwI':n}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Crianças pequenas ou adultos conversando com ou sobre crianças pequenas usam o {rIlwI':n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Pienet lapset tai aikuiset, jotka puhuvat pienten lasten kanssa tai käyttävät niitä, käyttävät sen sijaan {rIlwI':n}-ohjelmaa. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{Sen:v:1}, {-wI':v}</column>
           <column name="examples"></column>
@@ -3023,7 +3024,7 @@ This word appears only in the body of {KGT:src} and not in the glossary.</column
       <column name="notes_ru">Не сленговый способ сказать это - {nguy:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這種說法的非way語方式是{nguy:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A maneira sem gíria de dizer isso é {nguy:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Ei-slangi tapa sanoa tämä on {nguy:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It was hypothesised during the Q &amp; A session that this might have originated as a gesture (see {Sen:v:1}), but MO wasn't sure.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3383,7 +3384,23 @@ Kohdassa {TNK:src} kategorian "Maat" otsikko käännettiin {Sepmey tlhab:n:nolin
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<!-- ERROR: Missing link #5. -->
+<!-- ERROR: Missing link #6. -->
+<!-- ERROR: Missing link #7. -->
+<!-- ERROR: Missing link #8. -->
+<column name="notes_fi">Paikkoja, joissa on merkittäviä alueellisia murteita, ovat:
+▶ KÄÄNTÄMINEN 1
+▶ KÄÄNNÖT2
+▶ KÄÄNTÄMINEN 3
+▶ KÄÄNTÖ 4
+▶ KÄÄNNÖTÖ 5
+▶ KÄÄNTÄMINEN 6
+▶ KÄÄNNÖT 7
+▶ KÄÄNTÄMINEN8{meqro'vaq Sep:n}{noHva'Dut Sep:n}{Qotmagh Sep:n}{ruq'e'vet:n}{Sa'Qej Sep:n}{taq'ev Sep:n}{voSpegh Sep:n}{mo'rISqa':n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Sep:n}, {Hol Sar:n}</column>
       <column name="examples"></column>
@@ -3987,7 +4004,7 @@ The existence of the homophonous noun {Sev:n} may suggest that Klingons view the
       <column name="notes_ru">Это может быть применено к музыке. [2, p.71] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可以應用於音樂。[2, p.71] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser aplicado à música.[2, p.71] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan soveltaa musiikkiin.[2, p.71] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Sey:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -4160,7 +4177,7 @@ The existence of the homophonous noun {Sev:n} may suggest that Klingons view the
       <column name="notes_ru">Это слово относится к публикации любого рода, печатной или нет. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞是指任何形式的出版物，無論是否印刷。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra se refere a uma publicação de qualquer tipo, impressa ou não. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana viittaa mihin tahansa julkaisuun, riippumatta siitä, onko se painettu vai ei. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4687,7 +4704,7 @@ The existence of the homophonous noun {Sev:n} may suggest that Klingons view the
       <column name="notes_ru">Когда используется в сленговом смысле, этот глагол не принимает объект. [1, p.164] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">當用於the語時，此動詞不帶賓語.[1, p.164] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Slangia käytettäessä tämä verbi ei vie objektia.[1, p.164] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5355,7 +5372,8 @@ Jos työvälinettä käytetään tyypillisesti sormen suorittamaan toimintaan, v
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是克林崗神話中的一種小人物，例如小精靈或侏儒。[1]它也可以用來翻譯人種神話中的“矮人”或“仙女”之類的生物，儘管它可能不適合翻譯“童話”一詞。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä on eräänlainen pieni henkilö Klingonin mytologiassa, kuten tonttu tai tonttu. termi "satu" .[2][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The information that it can also be used to translate "dwarf" or "fairy" was not directed posted to the mailing list, but was also revealed in the discussion about translating The Wizard of Oz.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6310,7 +6328,7 @@ Jos työvälinettä käytetään tyypillisesti sormen suorittamaan toimintaan, v
       <column name="notes_ru">Это 7-й ранг {yaS:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{yaS:n}的第七位。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o 7º ranking do {yaS:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {yaS:n}: n 7. sijoitus. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6781,7 +6799,7 @@ Tällä sanalla on idiomaattinen merkitys "asia, huoli, suhde", josta ks. {Soj:n
       <column name="notes_ru">Это обычно подается только в самых официальных случаях. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">通常僅在最正式的場合下提供此服務。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso geralmente é servido apenas nas ocasiões mais formais. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarjoillaan yleensä vain muodollisimmissa tilaisuuksissa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Soj:n:1}, {qub:v}</column>
       <column name="examples"></column>
@@ -8878,7 +8896,7 @@ Despite the English definition, it may be the case that the grammar follows {So'
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{tlhIH:n}: {pagh:n:1h} = {Su-:v:pref,nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9913,7 +9931,7 @@ Ilmaisulla {jISum:sen:nolink} on idiomaattinen filosofinen merkitys: "Olen yhtey
       <column name="notes_ru">Смотрите {KGT p.91:src}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">參見{KGT p.91:src}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Consulte {KGT p.91:src}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso {KGT p.91:src}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Suq:v}, {-qa':v}</column>
       <column name="examples"></column>
@@ -10612,7 +10630,7 @@ Tätä voidaan käyttää myös kynttilän puhaltamiseen ({weQ:n}). Toisin kuin 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Armeijan nousevassa järjestyksessä sotilaallisia yhteenottoja kuvaavia verbejä ovat: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -11089,7 +11107,8 @@ Tätä voidaan käyttää myös kynttilän puhaltamiseen ({weQ:n}). Toisin kuin 
       <column name="notes_ru">Называть кого-то {Suy':n:nolink} считается оскорбительным, сравнимым с тем, чтобы называть кого-то «свиньей» в стандарте Федерации. [1, p.196] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Chamar alguém de {Suy':n:nolink} é considerado um insulto, comparável a chamar alguém de "porco" no Federation Standard.[1, p.196] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Jonkun kutsuminen {Suy':n:nolink}: ksi katsotaan loukkaavaksi, mikä on verrattavissa jonkun kutsumiseen "sikaksi" Federation Standardissa.[1, p.196] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Sooey" is a sound used in calling pigs. The Hog Call, a traditional cheer at the University of Arkansas, goes "Woo, Pig! Sooey!"</column>
       <column name="components"></column>
       <column name="examples"></column>

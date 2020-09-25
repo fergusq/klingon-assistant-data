@@ -106,7 +106,7 @@
       <column name="notes_ru">Это слово также используется, когда клингоны говорят об учетной записи, на которую подписывают, чтобы использовать службу, такую ​​как учетные записи компьютера. Смотрите {mab:n:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">當Klingons談論一個要註冊使用某項服務的帳戶（例如計算機帳戶）時，也會使用此詞。參見{mab:n:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra também é usada quando os klingons falam sobre uma conta que se registra para usar um serviço, como contas de computador. Consulte {mab:n:2}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käytetään myös, kun klingonit puhuvat tilistä, johon käyttäjä kirjautuu käyttämään palvelua, kuten tietokonetilejä. Katso {mab:n:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined only as "treaty" in {TKD:src}. The additional definitions come from {Saarbrücken qepHom'a' 2016:src}.
 
 Possibly a reference to the fairy Queen Mab in Romeo and Juliet, who is known for making bargains with mortals.</column>
@@ -151,7 +151,7 @@ Possibly a reference to the fairy Queen Mab in Romeo and Juliet, who is known fo
       <column name="notes_ru">Это расширение {mab:n:1}, означающее учетную запись, на которую кто-то может подписаться для использования службы, такой как учетная запись компьютера. Глагол, чтобы зарегистрировать учетную запись - {qI':v:2}. Для входа в учетную запись - {ngaQHa'moH:v:2}, а для выхода - {ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{mab:n:1}的擴展，表示有人可以註冊以使用服務的帳戶，例如計算機帳戶。註冊帳戶的動詞是{qI':v:2}。登錄到帳戶是{ngaQHa'moH:v:2}，而註銷是{ngaQmoH:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma extensão do {mab:n:1} para significar uma conta na qual alguém pode se inscrever para usar um serviço, como uma conta de computador. O verbo para se inscrever em uma conta é {qI':v:2}. Para fazer login em uma conta é {ngaQHa'moH:v:2} e para fazer logoff é {ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {mab:n:1}: n laajennus, joka tarkoittaa tiliä, jolle joku voi rekisteröityä käyttämään palvelua, kuten tietokonetiliä. Verbi tilin rekisteröimiseksi on {qI':v:2}. Tilille kirjautuminen on {ngaQHa'moH:v:2} ja uloskirjautuminen {ngaQmoH:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was used in Netflix's Klingon language promotional material.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -333,7 +333,7 @@ René Magritte painted "La Trahison des images".</column>
       <column name="notes_ru">Речь идёт о человеке, который предаёт кого-то. Для лица, которое совершает измену смотрите {'urwI':n}.</column>
       <column name="notes_zh_HK">這是一個背叛某人的人。對於犯有叛國罪的人，請參閱{'urwI':n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma pessoa que trai alguém. Para uma pessoa que comete traição, consulte {'urwI':n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on henkilö, joka pettää jonkun. Katso maanpetoksesta syyllistyneen henkilön kohdasta {'urwI':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">René Magritte painted "La Trahison des images".</column>
       <column name="components">{magh:v}, {-wI':n}</column>
       <column name="examples"></column>
@@ -676,7 +676,8 @@ Pakollinen verbin etuliite, kun kohde on {maH:n:1h,nolink}, on {gho-:v:pref}. [A
       <column name="notes_ru">Это большая миска, используемая для подачи {chatlh:n:1}, который обедающий вливает в {Duq:n} чтобы есть.[1, стр.99]</column>
       <column name="notes_zh_HK">這是一個大碗，用來盛裝{chatlh:n:1}，食客倒入{Duq:n}中食用。[1, p.99] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma tigela grande, usada para servir {chatlh:n:1}, que os clientes despejam em um {Duq:n} para comer.[1, p.99] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä on iso kulho, jota käytetään {chatlh:n:1}: n tarjoilemiseen, jonka ruokalaiset kaatavat {Duq:n}: een syömään.[1, p.99] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Ten-pin bowling" is a popular game.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1041,7 +1042,8 @@ The writers who came up with this apparently looked up words for "good" and "nig
       <column name="notes_ru">Слово {mangpu':n@@mang:n, -pu':n} редко используется, и несет смысловую нагрузку, что есть люди, которые создают группу. Слово {negh:n} фокусируется на группе, как на подразделении. {QaS:n:1h} похож на {negh:n:nolink}, но исключает офицеров.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">單詞{mangpu':n@@mang:n, -pu':n}很少使用，帶有這樣的概念，即由個人組成該組。 {negh:n}將小組作為一個單元來關注。 {QaS:n:1h}與{negh:n:nolink}類似，但不包括人員。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra {mangpu':n@@mang:n, -pu':n} é raramente usada e carrega a noção de que há indivíduos que compõem o grupo. O {negh:n} foca o grupo como uma unidade. {QaS:n:1h} é semelhante ao {negh:n:nolink}, mas exclui oficiais.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Sanaa {mangpu':n@@mang:n, -pu':n} käytetään harvoin, ja siinä on käsitys, että ryhmän muodostavat yksilöt. {negh:n} keskittyy ryhmään yhtenä kokonaisuutena. {QaS:n:1h} on samanlainen kuin {negh:n:nolink}, mutta ei sisällä virkamiehiä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{negh:n}</column>
       <column name="examples"></column>
@@ -2581,7 +2583,7 @@ It's unclear what sense of "fair" is meant by this word.</column>
       <column name="notes_ru">Для «быть сверхпроводящим», скажем {maySon chIw:sen@@maySon:n, chIw:v} «выразить сверхпроводимость» или тому подобное. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{maySon chIw:sen@@maySon:n, chIw:v}表示“超導”或“表達超導”等。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para "seja supercondutor", diga {maySon chIw:sen@@maySon:n, chIw:v} "expresse supercondutividade" ou algo semelhante. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Sillä "ole suprajohtava", sano {maySon chIw:sen@@maySon:n, chIw:v} "ilmaise suprajohtavuutta" tai vastaavaa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2710,7 +2712,7 @@ It's unclear what sense of "fair" is meant by this word.</column>
           <column name="notes_ru">Буквальное значение этого идиоматического выражения - «петь другую боевую песню». [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這種慣用語的字面意思是“唱另一首戰歌”。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">O significado literal dessa expressão idiomática é "cantar uma canção de batalha diferente". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän idiomaattisen ilmaisun kirjaimellinen merkitys on "laulaa erilainen taistelulaulu". [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{may' bom:n}, {pIm:v}, {bom:v}</column>
           <column name="examples">
@@ -3358,7 +3360,7 @@ It's unclear what sense of "fair" is meant by this word.</column>
       <column name="notes_ru">Смертельный ритуал, который позволяет тому, кто потерял честь, умереть достойно и почить в Стовокорре, будучи убитым. Ритуал проводит член дома, в котором состоит Клингон, или кто-то достаточно близкий.</column>
       <column name="notes_zh_HK">一種死亡儀式，使失去榮譽的人能夠被死於室友或同等親密的人光榮殺死，從而死得很好，去了Sto-Vo-Kor。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um ritual de morte que permite que alguém que perdeu a honra morra bem e vá para Sto-Vo-Kor sendo honrosamente morto por um companheiro de casa ou alguém igualmente próximo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kuoleman rituaali, joka antaa kunnian menettäneelle mahdollisuuden kuolla hyvin ja mennä Sto-Vo-Koriin tappamalla kunnia-arvoinen kaveri tai joku yhtä läheinen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is written as {ma' to'vor:n:nolink} in the glossary to {Diplomatic Implausibility:src}, but the space appears to be a typo, as the word appears as {ma'to'vor:n:nolink} in the glossary to {A Good Day to Die:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4186,7 +4188,7 @@ Harkitse {lon:v}, jos haluat ilmaista henkilön tai esineen (eikä sijainnin) j�
       <column name="notes_ru">Это может быть использовано, чтобы упомянуть о теме разговора, обсуждения, разговора и т.д.</column>
       <column name="notes_zh_HK">這可以用來指代對話，故事等的主題，主題或主題。（也就是說，它描述了對話或故事的“原因”或“動機”。） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para se referir ao tópico, assunto ou tema de uma conversa, história etc. (isto é, descreve a "razão" ou "motivo" da conversa ou história). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää viittaamaan keskustelun, tarinan jne. Aiheeseen, aiheeseen tai teemaan (ts. Se kuvaa keskustelun tai tarinan "syytä" tai "motiivia".) [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined as "reason" in {TKD:src} and as "motive" in the word lists in {KGT:src}. It is also glossed as "logical thinking" (in the sense of "motive") in the body of {KGT:src} on p.154. At {qep'a' 25 (2018):src}, its definition was expanded to include "topic, subject, theme".
 
 This was also used for the "logic" menu (instructions about program flow control) in Klingon Blockly.[3]</column>
@@ -4275,7 +4277,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru">Это часть разбирательства или аппеляции, когда заслушано доказательство</column>
       <column name="notes_zh_HK">這是聽到證據的審判或上訴部分。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a parte de um julgamento ou recurso em que as evidências são ouvidas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on osa oikeudenkäyntiä tai muutoksenhakua, jossa todisteet kuullaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4863,7 +4865,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru">Это инструмент, который состоит из блокирующих трубок. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種由互鎖管組成的儀器。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um instrumento que consiste em tubos interligados. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on instrumentti, joka koostuu lukitusputkista. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A "noisy mess". Note that the words {meS:v:1h} and {meS:n} did not exist when this word was published.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5044,7 +5046,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_ru">Это то, что клингоны называют терранской сладкой кукурузой (кукурузой). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這就是克林崗人所說的人種甜玉米（玉米）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é o que os klingons chamariam de milho doce terráqueo (milho). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä Klingons kutsuisi Terran-sokerimaissiksi (maissi). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5446,7 +5448,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Утрата чести подразумевается этим глаголом, который используется как прилагательное для описания того, кто упал с благодати. Это не относится к кому-то, кого бы назвали {'utlh:n}, слово, которое подразумевает добровольный, почетный выход на пенсию. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個動詞暗示著失去榮譽，該動詞被用作形容形容從恩典中墮落的人的形容詞。它不適用於被稱為{'utlh:n}的人，這個詞表示自願，光榮的退休。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A perda de honra está implícita nesse verbo, que é usado como adjetivo para descrever alguém que caiu da graça. Não é aplicável a alguém que seria descrito como {'utlh:n}, uma palavra que implica uma aposentadoria voluntária e honrada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kunniamenetyksestä seuraa tämä verbi, jota käytetään adjektiivina kuvaamaan armosta kaatunutta. Sitä ei sovelleta henkilöön, jota kuvataan nimellä {'utlh:n}, sana, joka merkitsee vapaaehtoista, kunniallista eläkkeelle siirtymistä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to Richard "Mil"house Nixon.</column>
       <column name="components"></column>
       <column name="examples">
@@ -5495,7 +5497,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Это слово может использоваться для любого вида изображения, включая рисунки, фотографии, карикатуры, значки на компьютерах 21-го века и так далее. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞可以用於任何形式的描繪，包括繪圖，照片，卡通，21世紀計算機上的圖標等等。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra pode ser usada para qualquer tipo de representação, incluindo desenhos, fotografias, desenhos animados, ícones nos computadores do século XXI etc. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa voidaan käyttää kaikenlaiseen kuvaukseen, mukaan lukien piirustukset, valokuvat, sarjakuvia, kuvakkeet 2000-luvun tietokoneissa ja niin edelleen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a combination of the Latin word for "thousand" with the Greek word for "word".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5840,7 +5842,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Обратите внимание, что это слово в единственном числе, в отличие от английского слова «солнцезащитные очки». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">請注意，該單詞是單數形式，與英語單詞“ sunglasses”不同。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que essa palavra é singular, diferentemente da palavra em inglês "óculos de sol". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että tämä sana on yksikkö, toisin kuin englanninkielinen sunglasses. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mIn:n}, {Qan:v}, {-wI':v}, {nguv:v}</column>
       <column name="examples"></column>
@@ -6012,7 +6014,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Хотя у клингонов нет родного слова о капле слезы, они понимают, что этот термин означает каплю жидкости, исходящую из глаза. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">儘管克林崗人沒有流淚的母語，但他們會理解這個術語是指從眼中滴落的液體。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Embora os klingons não tenham uma palavra nativa para uma gota de lágrima, eles entenderiam esse termo para se referir a uma gota de líquido proveniente do olho. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Vaikka klingoneilla ei ole natiivisanaa pisaran kyyneleestä, he ymmärtäisivät tämän termin tarkoittavan silmästä tulevaa nestepisaraa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mIn:n}, {'onroS:n}</column>
       <column name="examples"></column>
@@ -6270,7 +6272,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Это может быть использовано, как метафора(см. {mIr:n:2}). Кроме того, если все ясно, его можно использовать как сленговый термин для обозначения {wIyqap:n} или {lanSoy:n} (хотя, вероятно, не {wev:n}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">也可以隱喻或像徵性地使用它（請參閱{mIr:n:2}）。同樣，如果情況清楚的話，它可以用作a語來表示{wIyqap:n}或{lanSoy:n}（儘管可能不是{wev:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää myös vertauskuvallisesti tai symbolisesti (katso {mIr:n:2}). Lisäksi, jos asiat ovat selvät, sitä voidaan käyttää slangiterminä tarkoittamaan {wIyqap:n} tai {lanSoy:n} (tosin todennäköisesti ei {wev:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6445,7 +6447,7 @@ Tämä sana voi viitata myös "timanttipukuun" pelikorttipakassa (katso {Degh:n:
       <column name="notes_ru">Шекспировская пьеса {paghmo' tIn mIS:sen:nolink}, дословно "Велико смущение из ничего", было переведено, как "Много шума из ничего" {tlhIngan Hol yejHaD:n}.</column>
       <column name="notes_zh_HK">莎士比亞的戲劇《 {paghmo' tIn mIS:sen:nolink}》的字面意思是“無所事事，這是巨大的困惑”，而{tlhIngan Hol yejHaD:n}已將其翻譯為英語，“無所事事”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Shakespearen näytelmä {paghmo' tIn mIS:sen:nolink}, kirjaimellisesti "Hämmennys on suuri ei mitään johtuen", on {tlhIngan Hol yejHaD:n} kääntänyt englanniksi nimellä "Much Ado About Nothing". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Mish" mash.
 
 This was clarified to mean "mental confusion" at {qep'a' 24 (2017):src}.</column>
@@ -6534,7 +6536,7 @@ This was clarified to mean "mental confusion" at {qep'a' 24 (2017):src}.</column
       <column name="notes_ru">Это относится к породе кристаллического известняка, часто метаморфизованной и имеющей полосатый или закрученный вид, используемой в качестве строительного или скульптурного материала. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指經常變質並具有條紋或漩渦狀外觀的結晶石灰岩岩石，用作建築或雕刻材料。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a rochas de calcário cristalino, muitas vezes metamorfoseadas e com aparência de listras ou turbilhão, usadas como material de construção ou escultura. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa kiteistä kalkkikiveä, joka on usein metamorfoitunut ja jolla on raidallinen tai pyörteinen ulkonäkö ja jota käytetään rakennus- tai veistosmateriaalina. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6910,7 +6912,7 @@ Tämän sanaston alkuperä on {HenrI' vagh:n:name}, {wIlyam SeQpIr:n:name}: n n�
       <column name="notes_ru">Это {bargh:n} из металла. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是由金屬製成的{bargh:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um {bargh:n} feito de metal. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on metallista valmistettu {bargh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7044,7 +7046,9 @@ A tally or score is kept by counting {mIvwa'mey:n@@mIvwa':n, -mey:n}. This is al
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on arpi, joka on seurausta haavasta (riippumatta haavan tapahtumisesta) .[1]
+
+Laskenta {mIvwa'mey:n@@mIvwa':n, -mey:n} lasketaan yhteen tai pisteet. Tätä käytetään myös "väestönlaskennassa" tai "henkilöstömäärässä" .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as just "scar", with an accompanying explanation of the kinds of scars.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7369,7 +7373,9 @@ Verbetet {'al:v:2} används för slumpmässiga nummer ({mI' 'al:n}). [AUTOTRANSL
           <column name="notes_pt">Em {Klingon Monopoly:src}, {mI' naghmey:n:nolink} se refere aos dados de jogo. O verbo {ronmoH:v@@ron:v:1, -moH:v} é usado para a ação de lançar ou rolar os dados.
 
 O verbo {'al:v:2} é usado para números aleatórios ({mI' 'al:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kohdassa {Klingon Monopoly:src} {mI' naghmey:n:nolink} viittaa pelaaviin noppiin. Verbiä {ronmoH:v@@ron:v:1, -moH:v} käytetään noppien heittämiseen tai heittämiseen.
+
+Verbiä {'al:v:2} käytetään satunnaislukuihin ({mI' 'al:n}). [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{mI':n}, {nagh:n}</column>
           <column name="examples">
@@ -8519,7 +8525,7 @@ Klingonissa on viiden tyyppisiä substantiiviliitteitä ja yhdeksän tyyppisiä 
       <column name="notes_ru">Это может быть использовано для кости или ископаемого. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可能用於骨骼或化石。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para um osso ou um fóssil. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää luuhun tai fossiiliin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mol:v}, {-Ha':v}</column>
       <column name="examples"></column>
@@ -8619,7 +8625,9 @@ Det finns ett formspråk, {mIgh; molor rur@@mIgh:v, molor:n, rur:v}. [AUTOTRANSL
       <column name="notes_pt">Este é o tirano maligno ({HI''a':n}) derrotado por {qeylIS'e' lIjlaHbe'bogh vay':n:name}, como recontado no {paq'batlh:n}.
 
 Existe um idioma, {mIgh; molor rur@@mIgh:v, molor:n, rur:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on paha tyranni ({HI''a':n}), jonka {qeylIS'e' lIjlaHbe'bogh vay':n:name} on voittanut, kuten {paq'batlh:n} kertoo.
+
+On idioomi, {mIgh; molor rur@@mIgh:v, molor:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8922,7 +8930,7 @@ This word is defined in {KGT:src} as "smile, grin, sneer".[1]  It is explained t
       <column name="notes_ru">Парирование, когда вы засовываете меч или другое острое оружие за шею, чтобы блокировать атаку сзади. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">一種格擋，在此格擋中，您將劍或其他有刃武器插入脖子後方，以阻止後方的攻擊。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um desvio em que você enfia uma espada ou outra arma afiada atrás do pescoço para bloquear um ataque pela retaguarda. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Parry, jossa työnnät miekan tai muun terävän aseen kaulasi taakse estääkseen hyökkäyksen takaa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mong:n}, {'em:n}</column>
       <column name="examples"></column>
@@ -9028,7 +9036,12 @@ Observera att verbet som används för ett hjärtslag är {joq:v}. [AUTOTRANSLAT
 Também é usado para bater {'In:n} (compare com {tlhaw':v} e {weq:v}) .[1, p.75]
 
 Observe que o verbo usado para uma pulsação é {joq:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Tätä käytetään ilmoittamaan kaksintaistelun alkamisesta.[1, p.68]
+
+Sitä käytetään myös {'In:n}: n voittamiseen (vertaa {tlhaw':v} ja {weq:v}).
+
+Huomaa, että sydämenlyönnissä käytetty verbi on {joq:v}.[1, p.75] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9361,6 +9374,7 @@ Observe que o verbo usado para uma pulsação é {joq:v}. [AUTOTRANSLATED]</colu
       <column name="definition_ru">единица площади (27 квадратных {'ujmey:n @@'uj:n, -mey:n}) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">面積單位（27平方{'ujmey:n@@'uj:n, -mey:n}） [AUTOTRANSLATED]</column>
       <column name="definition_pt">unidade de área (27 quadrados {'ujmey:n@@'uj:n, -mey:n})</column>
+<!-- ERROR: Mismatched brackets. -->
 <column name="definition_fi">eräs pinta-alan yksikkö (27 neliö-{'uj:n}:ia})</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -9905,7 +9919,12 @@ Den morskanska dialekten sätter inte suffixet {-'e':n:suff} på ämnet substant
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #9. -->
+<column name="notes_fi">Tämä on planeetta, josta on tullut osa Klingonin imperiumia. Tällä planeetalla klingonin murre on korvannut kaikki, paitsi alun perin puhutut kielet, [2, p.17]
+
+Morskanin murteessa {tlh:sen:nolink} tavun lopussa lausutaan kuten "ts" (kuten "kissoilla"), kun taas alussa se lausutaan kuten {ghl:sen:nolink}. {H:sen:nolink} tavujen alussa lausutaan kuten "h" (kuten "hattu"), kun taas sitä ei lausuta lainkaan tavujen päissä. Tavujen alussa oleva {Q:sen:nolink} lausutaan samalla tavoin kuin tavallinen {H:sen:nolink}.[2, p.22]
+
+Morskanin murre ei lisää loppuliitettä {-'e':n:suff} aiheen substantiiville lauseessa "olla". Kun se on läsnä, se palvelee tavallista tarkennustoimintoa[2, p.24] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Morskan dialect is featured in {Star Trek VI:src}, in a scene involving border guards on the way to {rura' pente':n}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10871,7 +10890,7 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_ru">Одна из наиболее заметных животных форм на {nural:n}.</column>
       <column name="notes_zh_HK">{nural:n}上最著名的原生動物形式之一。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Uma das formas mais notáveis ​​de animais nativos no {nural:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Yksi {nural:n}: n merkittävimmistä alkuperäisistä eläinmuodoista. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11130,7 +11149,8 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_ru">Не путайте это с {waH:v:2}, что означает «вкус» в том смысле, что вы пробуете пищу, чтобы увидеть, правильно ли она приготовлена, или определить, нравится ли она вам.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Älä sekoita tätä {waH:v:2}: een, mikä tarkoittaa "makua" siinä mielessä, että kokeilet ruokaa sen selvittämiseksi, onko se valmistettu oikein, tai sen selvittämiseksi, pidetäänkö siitä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11921,7 +11941,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
       <column name="notes_ru">Смотрите {qawmoH:v} для примера того, как использовать глагол, подобный этому.</column>
       <column name="notes_zh_HK">有關如何使用此類動詞的示例，請參見{qawmoH:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja {qawmoH:v} para um exemplo de como usar um verbo como este. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso {qawmoH:v}-esimerkki siitä, miten tämän kaltaista verbiä käytetään. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{muv:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -12139,7 +12159,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
       <column name="notes_ru">Именно так словарь, используемый старшими клингонами в повседневной речи, упоминается младшими клингонами. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這就是年輕的克林崗人如何引用老年人的克林崗人在日常講話中使用的詞彙。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É assim que o vocabulário usado pelos klingons mais velhos na fala cotidiana é referido pelos klingons mais jovens. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Näin nuoremmat klingonit viittaavat vanhempien klingonilaisten jokapäiväisessä puheessa käyttämään sanastoon. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mu':n}, {-mey:n}, {Doy':v}</column>
       <column name="examples"></column>
@@ -12225,7 +12245,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
       <column name="notes_ru">Те, кто не любит сленг, ссылаются на стандартные слова, используя это выражение. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">那些不喜歡語的人使用此表達式來引用標准單詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Aqueles que não gostam de gírias se referem a palavras comuns usando essa expressão. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Ne, jotka eivät pidä slangista, viittaavat tavanomaisiin sanoihin käyttämällä tätä ilmaisua. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{mu':n}, {-mey:n}, {qar:v}</column>
       <column name="examples"></column>

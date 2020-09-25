@@ -645,7 +645,7 @@ Katso {qach:n}-osat DONOTTRANSLATE14-osasta kohdasta {pa':n:1}.{qoD:n} [AUTOTRAN
       <column name="notes_ru">Согласно {A Burning House:src}, это возвышенная, огороженная платформа на площади, находящейся за пределами штаб-квартиры {tlhIngan Hubbeq:n}.</column>
       <column name="notes_zh_HK">根據{A Burning House:src}的說法，這是{tlhIngan Hubbeq:n}總部外部廣場中的高架圍欄平台。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">De acordo com {A Burning House:src}, esta é uma plataforma elevada e cercada na praça fora da sede da {tlhIngan Hubbeq:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{A Burning House:src}: n mukaan tämä on kohotettu, aidattu alusta aukioilla {tlhIngan Hubbeq:n}: n pääkonttorin ulkopuolella. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qaD:n}, {rav:n:1}</column>
       <column name="examples"></column>
@@ -731,7 +731,7 @@ Katso {qach:n}-osat DONOTTRANSLATE14-osasta kohdasta {pa':n:1}.{qoD:n} [AUTOTRAN
       <column name="notes_ru">Названия согласных состоят из звука, который следует за {ay:sen:nolink}, а названия гласных состоят из звука, который предшествует {':sen:nolink} и следует за {t:sen:nolink}. Гортанная смычка является исключением.</column>
       <column name="notes_zh_HK">輔音的名稱由{ay:sen:nolink}後面的聲音組成，元音的名稱由{':sen:nolink}之前的聲音和{t:sen:nolink}之後的聲音組成。聲門停止是一個例外。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os nomes das consoantes consistem no som seguido por {ay:sen:nolink}, e os nomes das vogais consistem no som precedido por {':sen:nolink} e seguido por {t:sen:nolink}. A parada glótica é uma exceção. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Konsonanttien nimet koostuvat äänestä, jota seuraa {ay:sen:nolink}, ja vokaalien nimet koostuvat äänestä, jota edeltää {':sen:nolink} ja jota seuraa {t:sen:nolink}. Glotal stop on poikkeus. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qagh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -1316,7 +1316,7 @@ On {KGT p.81:src}, it is claimed that there is no noun meaning "color", but this
       <column name="notes_ru">Части стопы включают в себя {bem:n} "подошву", {va'nuch:n} "пятку", {mov:n} "верх (стопы)", и {yaD:n:1} "большого пальца(цев)". Стопа прикреплена к {'uS:n} "ноге" через {ngIb:n:1} "лодыжку".</column>
       <column name="notes_zh_HK">腳的部分包括其“ {bem:n}”（鞋底），“ {va'nuch:n}”“鞋跟”，“ {mov:n}”“（腳頂）”和{yaD:n:1}“腳趾”。腳通過{ngIb:n:1}“腳踝”連接到{'uS:n}“腿”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">As partes de um pé incluem seus "{bem:n}" solado ", {va'nuch:n}" calcanhar ", {mov:n}" topo (do pé) "e {yaD:n:1}" dedo (s) ". O pé é preso à "perna" do {'uS:n} através do "tornozelo" do {ngIb:n:1}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jalan osiin kuuluu sen {bem:n} "pohja", {va'nuch:n} "kantapää", {mov:n} "yläosan (jalka)" ja {yaD:n:1} "varvas (t)". Jalka on kiinnitetty {'uS:n} "jalkaan" {ngIb:n:1} "nilkan" kautta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1589,7 +1589,8 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Идиоматический жест (из-за гомофонии с {qan:v:1}): указывать кому-то свой мизинец - значит комментировать, что вы считаете его старым. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">慣用的手勢（由於與{qan:v:1}的諧音）：將小指指向某人，就是說您認為他們已經老了。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um gesto idiomático (devido à homofonia com {qan:v:1}): apontar seu dedo mindinho para alguém é comentar que você acredita que ele é velho. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Idioomainen ele (johtuen homofoniasta DONOR TRANSLATE1: n kanssa): Jos osoitat vaaleanpunaisellesi jotakuta, on kommentoitava, että uskot hänen olevan vanha.{qan:v:1} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Canandaigua Lake.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2767,7 +2768,9 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">{qaSuj'a '?: sen: nolink} on tapa, jolla esität kysymyksen, jos puhut vain yhdelle henkilölle. Jos haluat kysyä ihmisryhmältä, häiritsetkö heitä, sano {SaSuj'a '?: Sen: nolink} "Häiritsenko sinua (monikko)?"{qaSuj'a'?:sen:nolink}{SaSuj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2897,7 +2900,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="notes_ru">Это просто Клингонское произношение вулканского слова.</column>
       <column name="notes_zh_HK">這只是沃爾肯單詞的克林崗語發音。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é apenas a pronúncia klingon de uma palavra vulcano. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on vain vulkaanisen sanan Klingon-ääntäminen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3166,7 +3169,9 @@ Someone who has an excellent memory may be said to have a {qaw pov:n@@qaw:n, pov
 Кто-то, у кого есть великолепная память, может иметь {qaw pov:n@@qaw:n, pov:v}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa "muistiin" kyvyssä muistaa tai muistamisen voimaan. Se ei tarkoita erityisiä muistoja tai muistelmia, joista ks. {wov'on:n}.
+
+Joku, jolla on erinomainen muisti, voidaan sanoa olevan {qaw pov:n@@qaw:n, pov:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3769,7 +3774,8 @@ Tämä verbi näyttää olevan johdettu {qa'meH:n}: stä, mahdollisesti tulkitse
       <column name="notes_ru">Это относится к некой жизненной силе внутри человека, которая убегает, когда тот умирает.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指一個人內的一種生命力，該生命力在該人死亡時會逃脫。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um tipo de força vital dentro de uma pessoa que escapa quando ela morre.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä viittaa eräänlaiseen ihmishenkeen, joka pakenee, kun henkilö kuolee[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is an acceptable word to use for "ghost", but there may be another (and better) unknown word for that concept.[2]</column>
       <column name="components"></column>
       <column name="examples">
@@ -4299,7 +4305,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="notes_ru">Идиома {vIHtaH gho:sen} происходит от этого занятия.</column>
       <column name="notes_zh_HK">成語{vIHtaH gho:sen}來自此活動。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O idioma {vIHtaH gho:sen} vem dessa atividade. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Idioomi {vIHtaH gho:sen} tulee tästä toiminnasta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It may just be a coincidence, but this sounds like {qa' vaQ:n:nolink} "aggressive spirit". See {qa':n} and {vaQ:v}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5094,7 +5100,7 @@ No {paq'batlh:src}, os {qempa'QeH:n:nolink} são os espíritos ancestrais enfure
       <column name="notes_ru">Беременной женщине сказано {qeng:v:nolink} об {puq:n}.[2] Смотрите {yatlh:v}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Raskaana olevan naisen sanotaan {qeng:v:nolink} a {puq:n}. [2] Katso {yatlh:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5785,7 +5791,7 @@ Kuuluisa kirjailija {Qa'taq:n:name} kirjoitti kommentin tähän teokseen. [AUTOT
       <column name="notes_ru">Этот соус приготовлен путём сгущения {chanDoq:n}.</column>
       <column name="notes_zh_HK">這是通過將{chanDoq:n}增稠而製備的調味料。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o molho preparado pelo espessante {chanDoq:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on kastike, joka on valmistettu sakeuttamalla {chanDoq:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is "ketchup".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6934,7 +6940,7 @@ Hänen paluunsa ennustetaan Lupauksen tarinassa, jossa todetaan seuraavaa:
       <column name="notes_ru">Этот глагол всегда принимает объект или суффикс {-chuq:v} при обычном использовании.[2]</column>
       <column name="notes_zh_HK">該動詞通常會使用正常使用的對像或{-chuq:v}。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä verbi vie aina objektin tai {-chuq:v} normaalikäytössä.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7366,7 +7372,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="notes_ru">Это инструмент, напоминающий серп. Это для сельского хозяйства, но, конечно, его можно использовать как оружие. Если у него длинная ручка, «коса» может быть лучшим переводом, хотя это не совсем один из них. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一個類似於鐮刀的工具。它用於農業，但是當然可以用作武器。如果處理時間較長，則“鐮刀”翻譯可能會更好，儘管兩者都不盡相同。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma ferramenta semelhante a uma foice. É para a agricultura, mas, é claro, poderia ser usado como arma. Se tiver uma alça longa, "foice" pode ser uma tradução melhor, embora não seja uma delas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on sirppiä muistuttava työkalu. Se on tarkoitettu maatalouteen, mutta tietysti sitä voidaan käyttää aseena. Jos sillä on pitkä kahva, "viikat" voi olla parempi käännös, vaikka se ei ole kumpikaan niistä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Knuts and sickles are both names of coins used by wizards in the Harry Potter universe.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7583,7 +7589,7 @@ This was used for "Cancel" (while {ruch:v} was used for "Ok") in Klingon Blockly
       <column name="notes_ru">Пока это слово известно только, как название класса корабля. Похоже, что оно также относится к птице или классу птиц (cf. {toQ:n}).</column>
       <column name="notes_zh_HK">雖然此詞僅被稱為船級的名稱，但它似乎也可能指的是鳥類或掠食性鳥類的類別（請參閱{toQ:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Embora essa palavra seja conhecida apenas como o nome de uma classe de navio, parece provável que também se refira a um pássaro ou a uma classe de aves predadoras (cf. {toQ:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Vaikka tämä sana tunnetaan vain alusluokan nimenä, näyttää todennäköiseltä, että se viittaa myös lintuun tai saalistajien lintuluokkaan (vrt. {toQ:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is "Jurassic" spelled backwards.
 
 In the {Haynes BoP Manual:src}, this ship class is referred to as {raptor:n:nolink} in Klingon, but this is likely a placeholder which was overlooked by mistake.</column>
@@ -7861,7 +7867,11 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
 Мальц неохотно разговаривает о том, что в точности это такое.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">{qor:n:name}: n vasen {qIvon:n:nolink} sattuisi aina, kun hänen aluksensa loimi loimi kahdeksan.
+
+Maltz näytti haluttomalta puhua mitä tämä oikein on[3][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">According to {The Star Trek Encyclopedia:src}, the writers of {DS9 - Blood Oath:src} intended this to be the word for "knee". It seems that they changed it slightly because they didn't like the sound of {qIv:n}. Perhaps it refers to a part of the knee, or is a dialectical or outmoded word for the knee.</column>
       <column name="components"></column>
       <column name="examples">
@@ -8045,7 +8055,7 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="notes_ru">Это расширение {qI':v:1}, означающее регистрацию учетной записи для использования службы. Типичный объект этого глагола - {mab:n:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{qI':v:1}的擴展，意味著註冊一個帳戶即可使用服務。該動詞的典型對像是{mab:n:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma extensão do {qI':v:1}, para significar a inscrição em uma conta para usar um serviço. O objeto típico desse verbo é {mab:n:2}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {qI':v:1}: n laajennus, joka tarkoittaa tilin rekisteröitymistä palvelua varten. Tämän verbin tyypillinen kohde on {mab:n:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -8359,7 +8369,10 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
 {qoghmey:n:nolink} в общем означает "пояса", но также может означать "уши, разбросанные повсюду", из-за того, что слово является омофоном к {qogh:n:2}. Данный омофон также является основой для сленгового выражения, {qogh tuQmoHHa':sen}.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä pitää molemmat yllä {yopwaH:n}: tä ja sitä käytetään ripustamaan aseita
+
+{qoghmey:n:nolink} tarkoittaa yleensä "vyöt", mutta se voi tarkoittaa myös "korvat, jotka ovat hajallaan", johtuen homofoniasta {qogh:n:2}: n kanssa. Tämä homofonia on myös slangilausekkeen {qogh tuQmoHHa':sen}.[3] perusta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8416,7 +8429,9 @@ Maltz verkade ovillig att prata om vad detta är exakt. [2] [AUTOTRANSLATED]</co
       <column name="notes_pt">Isso se refere ao retalho externo de pele, cartilagem ou qualquer outra coisa. O órgão interno da audição é denominado {teS:n}.
 
 {qoghDu':n:nolink} só pode significar "orelhas", enquanto {qoghmey:n:nolink} é geralmente o plural de {qogh:n:1} e significa "cintos". A homofonia entre essas duas palavras é a base de uma expressão de gíria, {qogh tuQmoHHa':sen}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa ihon, ruston tai muun ulkoiseen läppään. Sisäisen kuuloelimen nimi on {teS:n}.
+
+{qoghDu':n:nolink} voi tarkoittaa vain "korvia", kun taas {qoghmey:n:nolink} on yleensä monikko {qogh:n:1} ja tarkoittaa "vöitä". Näiden kahden sanan välinen homofonia on slangilausekkeen {qogh tuQmoHHa':sen}.[2] perusta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to the painter Vincent van Gogh, who cut off his ear.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8736,7 +8751,7 @@ On epäselvää, miksi lauseke käyttää {tuQmoHHa':v:nolink} eikä {tuQHa'moH:
       <column name="notes_ru">Является членом дома Кора ({qor tuq:n:name}).</column>
       <column name="notes_zh_HK">他是Kor之家（{qor tuq:n:name}）的成員。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ele é membro da Casa de Kor ({qor tuq:n:name}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Hän on Korin talon ({qor tuq:n:name}) jäsen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9114,7 +9129,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="notes_ru">Заметьте, что {qonwI':n:nolink} может также означать "записывающее устройство", как в {mIllogh qonwI':n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Observe que {qonwI':n:nolink} também pode significar um dispositivo de gravação, como em {mIllogh qonwI':n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että {qonwI':n:nolink} voi tarkoittaa myös tallennuslaitetta, kuten {mIllogh qonwI':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qon:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -9372,7 +9387,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="notes_ru">Это дом {qol:n:name} и конечно же {qor:n:name}.</column>
       <column name="notes_zh_HK">這是{qol:n:name}，當然是{qor:n:name}的房屋。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {qol:n:name}: n ja tietysti {qor:n:name}: n talo. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9652,7 +9667,7 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="notes_ru">Согласно легенде, это имя Клингона, кто совершил убийство, пока его жертва спала. Его имя является синонимом трусости.[1]</column>
       <column name="notes_zh_HK">據傳說，這是一個克林崗人的名字，他在受害者睡覺時犯了謀殺罪。他的名字是怯ward的代名詞。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Segundo a lenda, este é o nome de um Klingon que cometeu assassinato enquanto sua vítima estava dormindo. Seu nome é sinônimo de covardia.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Legendan mukaan tämä on Klingonin nimi, joka teki murhan uhrinsa nukkuessa. Hänen nimensä on synonyymi pelkuruudelle.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9825,7 +9840,10 @@ Sitä voidaan käyttää myös laitteeseen, jota jotkut ihmiset käyttävät vau
       <column name="notes_ru">Это слово относится к форме, а не функции.[2] Его можно рассматривать как плоскую версию {SIrgh:n}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞是指形式而不是功能。[2]可以認為是{SIrgh:n}的平面版本。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra se refere à forma, e não à função.[2] Pode ser considerada uma versão simples de {SIrgh:n}.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä sana viittaa muotoon eikä funktioon.[2]{SIrgh:n}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The clarifications were made because the only uses of this word in canon had been for ribbon-like recording media.[2; 3].</column>
       <column name="components"></column>
       <column name="examples">
@@ -10352,7 +10370,7 @@ Ricardo Montalbán (Khan Noonien Singh) appeared in a series of Chrysler commerc
       <column name="notes_ru">Используется для обозначения, к примеру, "марионеточного государства" или "марионеточного правительства".</column>
       <column name="notes_zh_HK">例如，這用於表示“偽國家”或“偽政府”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado, por exemplo, para denotar um "estado fantoche" ou "governo fantoche". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään esimerkiksi merkitsemään "nukketilaa" tai "nukketaloushallitusta". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "puppet". The word "politics" was added to distinguish this from {SIrgh raghghan:n}.
 
 "Korob" is the name of one of the antagonists in {TOS - Catspaw:src}, whose true form was portrayed using a puppet. A "cat's paw" is an English expression referring to a person used to serve the purposes of another.</column>
@@ -11153,7 +11171,7 @@ Voit ilmaista ajatuksen jostakin alueen pään välisestä pisteestä (ehkä tun
           <column name="notes_ru">Это название известной новеллы, написанной {Qa'taq:n:name}.</column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt">Este é o nome de um romance famoso escrito por {Qa'taq:n:name}. Observe que o Klingon é uma frase completa, pois {naj:v} é um verbo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {Qa'taq:n:name}: n kirjoittaman kuuluisan romaanin nimi. Huomaa, että Klingon on täydellinen lause, koska {naj:v} on verbi. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{qul:n}, {naj:v}</column>
           <column name="examples"></column>
@@ -12035,7 +12053,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="notes_ru">Субъектами являются события, случившиеся одновременно</column>
       <column name="notes_zh_HK">主題是同時發生的事件。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os assuntos são os eventos que acontecem simultaneamente.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Aiheet ovat samanaikaisesti tapahtuvia tapahtumia.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -12707,7 +12725,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="notes_ru">Церемония, в которой молодой Клингон в первый раз проливает кровь.[1, p.62]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta é uma cerimônia em que um jovem Klingon tira sangue pela primeira vez.[1, p.62] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on seremonia, jossa nuori klingon imee verta ensimmäistä kertaa.[1, p.62] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{qutluch:n}, {tay:n:2}</column>
       <column name="examples"></column>
@@ -12898,7 +12916,7 @@ Huomaa, että {ghaj:v}: ta ja {Hutlh:v}: ää voidaan käyttää tämän substan
           <column name="notes_ru">Клингонский язык имеет много специфичных слов, чтобы описать бесчестие, которое зависит от обстоятельств. Если оказанная честь является незаслуженной, используйте {HoQ:v}. Если бесчестие включает в себя обман о чьем-то социальном статусе, используйте {Qaq:v}. Если бесчестие включает в себя грешение, используйте {mIl:v}.</column>
           <column name="notes_zh_HK">克林崗語有更多具體的詞來描述不誠實，這取決於不誠實的情況。如果支付給某人的榮譽是不值得或不應得到的，請考慮{HoQ:v}。如果不誠實涉及欺騙某人的社會地位，請考慮{Qaq:v}。如果涉及從恩典中墮落，請考慮{mIl:v}。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Klingon tem palavras mais específicas para descrever desonra, que dependem das circunstâncias da desonra. Se a honra prestada a alguém não for merecida ou merecida, considere {HoQ:v}. Se a desonra envolver enganos sobre o status social de alguém, considere {Qaq:v}. Se envolver uma queda da graça, considere {mIl:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Klingonilla on tarkempia sanoja kuvaamaan häpeää, jotka riippuvat häpeän olosuhteista. Jos jollekin maksettu kunnia on ansaitsematon tai ansaitsematon, harkitse {HoQ:v}. Jos häpeään liittyy petos henkilön sosiaalisesta asemasta, ota huomioon {Qaq:v}. Jos siihen liittyy lankeaminen armosta, harkitse {mIl:v}. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{quv:v}, {-Ha':v}</column>
           <column name="examples"></column>
@@ -13381,7 +13399,11 @@ Två moderna slangord med samma betydelse är {Huv:v:2,slang} och {nong:v:2,slan
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Kun tätä verbiä sovelletaan henkilöön tai eläimeen, ei ole aina selvää, onko slangi vai kirjaimellinen merkitys (katso {qu':v:1}) tarkoitettu. Slangin merkitys on kuitenkin todennäköisempi, kun sitä käytetään johonkin muuhun kuin henkilöön tai eläimeen.
+
+Kaksi muodin ulkopuolista slangisanaa, joilla on sama merkitys, ovat {Huv:v:2,slang} ja {nong:v:2,slang}, joista jälkimmäinen saattaa palata takaisin.[1, p.159][1, p.161] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

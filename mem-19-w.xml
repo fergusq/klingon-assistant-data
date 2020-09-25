@@ -1287,7 +1287,8 @@ Não confunda isso com {mum:v}, que significa "gosto" no sentido de perceber sab
       <column name="notes_ru">Это относится к смазке в целом, а не к конкретному типу смазки. Глагол {lo':v} может использоваться для нанесения смазки или, в зависимости от того, как он применяется, могут использоваться {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} или, возможно, {QIn:v}. Слово {'onroS:n} также может быть включено.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這通常是指潤滑劑，而不是特定類型的潤滑劑。動詞{lo':v}可用於施加潤滑劑，或取決於其施加方式，可使用{lIch:v}，{ngoH:v:1}，{vev:v}，{ghay:v}或{QIn:v}。單詞{'onroS:n}也可能包括在內。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere ao lubrificante em geral, e não a um tipo específico de lubrificante. O verbo {lo':v} pode ser usado para aplicar lubrificante ou, dependendo de como ele é aplicado, {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} ou talvez {QIn:v} possa ser usado. A palavra {'onroS:n} também pode ser incluída.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #8. -->
+<column name="notes_fi">Tämä viittaa voiteluaineeseen yleensä eikä tiettyyn tyyppiseen voiteluaineeseen. Verbiä {lo':v} voidaan käyttää voiteluaineen levittämiseen tai sen käyttötavasta riippuen voidaan käyttää {lIch:v}, {ngoH:v:1}, {vev:v}, {ghay:v} tai ehkä {QIn:v}. Saatetaan myös sisällyttää sana {'onroS:n}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4185,7 +4186,7 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_ru">Существует идиома {wIH; Hur'Iqngan rur@@wIH:v, Hur'Iqngan:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語，{wIH; Hur'Iqngan rur@@wIH:v, Hur'Iqngan:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {wIH; Hur'Iqngan rur@@wIH:v, Hur'Iqngan:n, rur:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {wIH; Hur'Iqngan rur@@wIH:v, Hur'Iqngan:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Wick"ed.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4534,7 +4535,7 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_ru">Это имя известного клингонского драматурга. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是著名的克林崗劇作家的名字。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o nome de um famoso dramaturgo Klingon. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on kuuluisan Klingonin näytelmäkirjailijan nimi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

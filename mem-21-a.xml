@@ -1159,7 +1159,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="notes_ru">Планета в Федерации. Также называется {'anDorya':n:nolink}. Не путать со страной на Земле под названием {'anDo'ra':n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">聯邦中的一顆行星。也稱為{'anDorya':n:nolink}。不要與地球上叫做{'anDo'ra':n}的國家相混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Planeetta federaatiossa. Kutsutaan myös nimellä {'anDorya':n:nolink}. Ei pidä sekoittaa maanpäälliseen maahan nimeltä {'anDo'ra':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1331,7 +1331,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="notes_ru">Это химическое соединение, которое в сочетании с {yuryum:n} реагирует на взрыв. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種化學物質，與{yuryum:n}結合時會發生爆炸。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um composto químico que reage para criar uma explosão quando combinado com {yuryum:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on kemiallinen yhdiste, joka reagoi muodostaen räjähdyksen yhdistettynä {yuryum:n}: een. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1374,7 +1374,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是{wIlyam SeQpIr:n:name}的戲劇{'antonI' tlhI'yopatra' je:sen:nolink}的名字。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um nome da peça de {wIlyam SeQpIr:n:name} de {'antonI' tlhI'yopatra' je:sen:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on nimi {wIlyam SeQpIr:n:name}: n näytelmästä {'antonI' tlhI'yopatra' je:sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1417,7 +1417,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="notes_ru">Это то, что клингоны назвали бы терранским овощем. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這就是克林崗人所說的人族蔬菜。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é o que os klingons chamariam de vegetal terráqueo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä Klingons kutsuisi Terran-vihannekseksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2070,7 +2070,9 @@ Man beachte dass es bei der Wettervorhersage (siehe {muD Dotlh:n}) üblich ist {
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa ennustamiseen, joka perustuu deduktiiviseen päättelyyn, tutkimukseen tai tieteeseen.
+
+Huomaa, että sääennusteissa (katso {muD Dotlh:n}) käytetään yleensä {'e' -lu:sen@@'e':n, -lu':v}: ta {net:n}: n sijaan, mutta {net:n:nolink}: n käyttö ei olisi väärin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The word for "reason" or "intellect" in Arabic is "'aql".</column>
       <column name="components"></column>
       <column name="examples">
@@ -2221,7 +2223,10 @@ Detta ord kan användas för att hänvisa till ett tak, men termerna {pa' beb:n}
       <column name="notes_pt">A outra face do {'aqroS:n:1,nolink} de um objeto é seu {yor:n}.[1]
 
 Esta palavra pode ser usada para se referir a um teto, embora os termos {pa' beb:n} e {rav'eq:n} (que dependem da existência de andares acima) sejam mais comuns.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #6. -->
+<column name="notes_fi">Objektin {'aqroS:n:1,nolink} toinen puoli on sen {yor:n}.[1]
+
+Tätä sanaa voidaan käyttää viittaamaan kattoon, vaikka termit {pa' beb:n} ja {rav'eq:n} (jotka riippuvat siitä, onko sen yläpuolella kerroksia) ovat yleisempiä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Across".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2596,7 +2601,10 @@ Grammatiskt används ett flertalsprefix om det ifrågasatta substantivet kan var
       <column name="notes_pt">Esta palavra interrogativa segue o substantivo ao qual se refere, que nunca tem um sufixo de plural.[1]
 
 Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder ser singular ou plural e a tradução for "quantos?" Um prefixo singular é usado se o substantivo questionado for algo que não pode ser contado e a tradução for "quanto?" [2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä kysymyssana seuraa substantiivia, johon se viittaa, ja jolla ei koskaan ole monikon loppuliitettä.
+
+Kieliopillisesti monikon etuliitettä käytetään, jos kyseenalaistettu substantiivi voi olla yksikkö tai monikko ja käännös on "kuinka monta?" Yksittäistä etuliitettä käytetään, jos kyseenalaistettua substantiivia ei voida laskea ja käännös on "kuinka paljon?" [2][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2909,7 +2917,8 @@ Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettoje
       <column name="notes_ru">Обычно это встречается на ногах какого-то клингонского животного или на клингонских деревьях. В ненаучной повседневной речи это, по-видимому, служит общим термином «гриб».[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這通常在某種克林崗動物的腳上或克林貢樹上發現。在非科學的日常用語中，這似乎是“真菌”的總稱。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso geralmente é encontrado nos pés de algum tipo de animal Klingon ou em árvores Klingon. No discurso cotidiano não científico, isso parece funcionar como um termo geral para "fungo".[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä löytyy tyypillisesti jonkinlaisen klingonilaisen eläimen jaloista tai klingonipuista. Ei-tieteellisessä, jokapäiväisessä puheessa tämä näyttää toimivan yleisenä terminä "sieni".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Athlete's foot". Also "huitlacoche".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3312,7 +3321,8 @@ The example literally means "My eyes sting me", which shows that {'aw':v:nolink}
       <column name="notes_ru">Это может быть использовано для любого вида строительных элементов, строительных деталей или даже деталей Lego.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它可以用於任何類型的建築元素，建築零件，甚至是樂高積木。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para qualquer tipo de elemento de construção, peça de construção ou mesmo peças de Lego.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tätä voidaan käyttää mihin tahansa rakennusosaan, rakennusosaan tai jopa Lego-kappaleisiin[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

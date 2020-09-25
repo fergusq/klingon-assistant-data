@@ -106,7 +106,7 @@
       <column name="notes_ru">Это используется, чтобы сказать, что что-то неожиданное, удивительное или противоречивое, а не просто дополнительное. Для этого можно использовать {je:adv}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">過去常說某些事情是意料之外的，令人驚訝的或違反直覺的，而不僅僅是其他。為此，可以使用{je:adv}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para dizer que algo é inesperado, surpreendente ou contra-intuitivo, não apenas adicional. Para isso, usaria {je:adv}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään sanomaan, että jokin on odottamatonta, yllättävää tai vasta-intuitiivista, ei vain muuta. Tätä varten käytettäisiin {je:adv}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -366,7 +366,8 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #10. -->
+<column name="notes_fi">Klingonin musiikkiasteikon sävyt (katso {yutlhegh:n}) ovat: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}, {vagh:n:2,nolink}, {jav:n:2}, {Soch:n:2}, {chorgh:n:2}, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DONOTTRANSLATE9, DOT{yu:n:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1624,7 +1625,7 @@
       <column name="notes_ru">Это место правительства клингонов. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是克林崗政府的所在地。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a sede do governo Klingon. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on Klingonin hallituksen kotipaikka. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{vaS:n}, {-'a':n}</column>
       <column name="examples">
@@ -1671,7 +1672,7 @@
       <column name="notes_ru">Это относится к расстоянию из стороны в сторону и не имеет метафорического значения, такого как «широкая тема» или «широкий диапазон мнений», и при этом оно не используется для определения «в полной мере», такого как «широко раскрытые глаза». открыто". [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指左右距離，不具有“廣泛話題”或“廣泛觀點”之類的隱喻含義，也沒有用於“全貌”之類的含義。打開”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à distância de um lado para o outro e não possui significados metafóricos, como "tópico amplo" ou "ampla gama de opiniões", nem é usado para o sentido de "em toda a extensão", como "olhos arregalados" abrir". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa sivusuunnassa olevaan etäisyyteen, eikä sillä ole metaforisia merkityksiä, kuten "laaja aihe" tai "laaja mielipidevalikoima", eikä sitä käytetä "koko laajuuden" merkitykseen, kuten "silmät leveät". avata". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Vast".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2035,7 +2036,9 @@ Till skillnad från {pIl:v} avser detta självmotivering. [AUTOTRANSLATED]</colu
       <column name="notes_pt">Observe que isso pode se referir a uma pessoa ambiciosa, mas não a uma tarefa ambiciosa.
 
 Em contraste com {pIl:v}, isso se refere à automotivação. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että tämä voi viitata kunnianhimoiseen henkilöön, mutta ei kunnianhimoiseen tehtävään.
+
+Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A determined person is one who "vow"s to do something.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3214,7 +3217,9 @@ En vanligare term för detta är {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra descreve alguém que realmente gosta de alguma coisa (ou de várias coisas), que participa de atividades associadas a isso e o faz muito a sério.
 
 Um termo mais comum para isso é {qatru':n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana kuvaa henkilöä, joka on todella kiinnostunut jostakin (tai monista asioista), joka osallistuu siihen liittyvään toimintaan ja tekee niin hyvin vakavasti.
+
+Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ven:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -3998,7 +4003,7 @@ Um termo mais comum para isso é {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это относится к месту со структурой, к которой прикрепляют сосуд, например, к пирсу.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指具有將船隻連接到碼頭的結構的地方。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um local com uma estrutura para anexar uma embarcação, como um píer.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa paikkaan, jossa on rakenne, johon alus voidaan kiinnittää, kuten laituri.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined only as "dock" in {TKD:src}. The definition was expanded at {qep'a' 25 (2018):src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4189,7 +4194,7 @@ Em {Klingon Monopoly:src}, "Estacionamento gratuito" é traduzido como {vergh 'a
       <column name="notes_ru">От низшего к высшему эти ранги: {tay:n:3}, {Sutay:n}, {veStay:n:nolink}, {Santay:n}, {'Iptay:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">從最低到最高，這些排名是：{tay:n:3}、{Sutay:n}、{veStay:n:nolink}、{Santay:n}、{'Iptay:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Do menor para o mais alto, essas classificações são: {tay:n:3}, {Sutay:n}, {veStay:n:nolink}, {Santay:n}, {'Iptay:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Alimmasta korkeimpaan nämä rivit ovat: {tay:n:3}, {Sutay:n}, {veStay:n:nolink}, {Santay:n}, {'Iptay:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a rank from John M. Ford's 1984 novel "The Final Reflection". These ranks are used by many Klingon fan clubs, despite not appearing in canon (i.e., in any TV episode or movie).</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4864,7 +4869,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="notes_ru">Это идиоматическое выражение означает, что началась деятельность конечной (хотя, возможно, неопределенной) длины. Это происходит от {qa'vaQ:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這種慣用語表示已經開始進行有限（儘管可能不確定）長度的活動。它源自{qa'vaQ:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa expressão idiomática significa que uma atividade de comprimento finito (embora talvez indeterminado) foi iniciada. É originário de {qa'vaQ:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä idiomaattinen ilmaisu tarkoittaa, että rajallisen (vaikka ehkä määrittelemättömän) pituuden toiminta on alkanut. Se on peräisin {qa'vaQ:n}: stä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{vIH:v}, {-taH:v}, {gho:n}</column>
       <column name="examples">
@@ -5599,7 +5604,7 @@ Katso idioomaattinen ilmaisu, jota käytetään käskemään jotakuta liikkumaan
       <column name="notes_ru">Это означает, что кто-то / что-то лишается воздуха. Для «утопить», перед глаголом {bIQDaq:sen@@bIQ:n, -Daq:n} или тому подобное. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著使某人/某物沒有空氣。對於“淹沒”，在動詞前加上{bIQDaq:sen@@bIQ:n, -Daq:n}等。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa fazer com que alguém / algo seja privado de ar. Para "afogar-se", preceda o verbo com {bIQDaq:sen@@bIQ:n, -Daq:n} ou algo semelhante. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa, että joku / joku menettää ilman. Sana "hukkua" edeltää verbiä {bIQDaq:sen@@bIQ:n, -Daq:n} tai vastaavalla. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{vIQ:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -7267,7 +7272,7 @@ Suuri hämähäkki maan päällä olisi {tera' voDchuch:n@@tera':n, voDchuch:n},
       <column name="notes_ru">Можно также использовать {nungbogh:v@@nung:v, -bogh:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">一個人也可以使用{nungbogh:v@@nung:v, -bogh:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Pode-se também usar {nungbogh:v@@nung:v, -bogh:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Voidaan käyttää myös {nungbogh:v@@nung:v, -bogh:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

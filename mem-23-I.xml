@@ -408,7 +408,7 @@
       <column name="notes_ru">В {voSpegh Sep:n} это используется вместо {ghaw':n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在{voSpegh Sep:n}中，使用它代替{ghaw':n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em {voSpegh Sep:n}, isso é usado em vez de {ghaw':n:1}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{voSpegh Sep:n}: ssä tätä käytetään {ghaw':n:1}: n sijaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'IghvaH:n}, {chej:n}, {chatlh:n:1}</column>
       <column name="examples"></column>
@@ -712,7 +712,7 @@
       <column name="notes_ru">Это относится ко всей канализационной системе: туннели, трубопроводы, клапаны и т. Д. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這指的是整個下水道系統：隧道，管道，閥門等。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a todo o sistema de esgoto: túneis, conduítes, válvulas etc. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa koko viemärijärjestelmään: tunnelit, putket, venttiilit jne. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -798,7 +798,7 @@
       <column name="notes_ru">Определенный ударный инструмент можно ударить ладонью ({toch:n}; глагол - {weq:v}), кулаком ({ro':n}; глагол - {tlhaw':v}) или палкой ({mupwI'Hom:n}, если он напоминает маленький молоток, {naQHom:n}, если он напоминает палку; такое {moq:v}) .[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tietyn lyömäsoittimen voi lyödä kämmenellä ({toch:n}; verbi on {weq:v}), nyrkillä ({ro':n}; verbi on {tlhaw':v}) tai kepillä ({mupwI'Hom:n}, jos se muistuttaa pientä vasaraa, {naQHom:n}, jos tavallinen; on {moq:v}) .[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1057,7 +1057,7 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{'Ip:n}: n tekeminen on {'Ip:v} tai {lay':v}; sen pitäminen on {pab:v} the {'Ip:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2021,7 +2021,8 @@ Katso {rav:n:1} surullisuuteen liittyvästä idiomasta.[2] [AUTOTRANSLATED]</col
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是一種稍帶果的果實，在堅硬的外殼或皮膚上有刺突。內部比甜的更苦（與地球菠蘿不同，它可能被稱為{tera' 'IventoH:n@@tera':n, 'IventoH:n}）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä on suuri hedelmä, jossa on piikkisiä ulkonemia kohtuullisen kovassa kuoressa tai kuoressa. Sisäpuoli on enemmän katkera kuin makea (toisin kuin maan ananas, jota voidaan kutsua nimellä {tera' 'IventoH:n@@tera':n, 'IventoH:n}).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Lake Ivanhoe in Orlando was once the centre of the US pineapple industry.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2282,7 +2283,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">最好在{porgh Hat:n}.[1, p.94]上享用 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarjoillaan parhaiten osoitteessa {porgh Hat:n}.[1, p.94] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'Iw:n}, {HIq:n}</column>
       <column name="examples"></column>

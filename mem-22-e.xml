@@ -489,7 +489,7 @@ Pelikorttipakan pukuja kutsutaan nimellä {Degh:n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это относится к человеку, который {nguq:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這指的是{nguq:v}的人。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma pessoa que é {nguq:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa henkilöön, joka on {nguq:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Mister Ed is a famous horse from television, and {jen:v} means "high". An arrogant person is said to be sitting on a "high horse".</column>
       <column name="components">{'eD:n:hyp,nolink} or {'eD:v:1}, {jen:v:is}</column>
       <column name="examples"></column>
@@ -532,7 +532,7 @@ Pelikorttipakan pukuja kutsutaan nimellä {Degh:n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это слово во множественном числе. Его единственная форма неизвестна. По-видимому, он состоит из элементов {SeH:n:archaic,hyp} и {cha:n} (или их гомофона) и элемента, который является либо {'eD:v:1}, либо гомофоном, значение которого неизвестно. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞是複數的。其單數形式未知。它似乎由元素{SeH:n:archaic,hyp}和{cha:n}（或其同音詞）以及一個元素{'eD:v:1}或含義不明的同音詞組成。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é plural. Sua forma singular é desconhecida. Parece consistir nos elementos {SeH:n:archaic,hyp} e {cha:n} (ou um seu homofone) e um elemento que é {'eD:v:1} ou um homófono cujo significado é desconhecido. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana on monikko. Sen yksikkömuotoa ei tunneta. Se näyttää koostuvan elementeistä {SeH:n:archaic,hyp} ja {cha:n} (tai niiden homofonista) ja elementistä, joka on joko {'eD:v:1} tai homofonista, jonka merkitystä ei tunneta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Some information was revealed about {SeH:n:archaic,hyp,nolink} at {qep'a' 27 (2020):src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -724,7 +724,7 @@ Kun yhdistetään useita lauseita, tarvitaan vain viimeinen yhdistelmä. Katso e
       <column name="notes_ru">Это приходит в начале предложения. Это полная форма. В повседневной беседе {'ej:conj} и / или {De':n} (и даже {vI-:v:pref}) часто опускаются. Клингонские грамматики спорят о том, следует ли считать получившийся в результате {De'chel:adv} наречным по своей сути. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是在句子的開頭。這是完整表格。在日常對話中，通常會忽略{'ej:conj}和/或{De':n}（甚至{vI-:v:pref}）。克林崗語語法學家爭論是否應將產生的{De'chel:adv}本身視為副詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso vem no início de uma frase. Este é o formulário completo. Na conversa cotidiana, {'ej:conj} e / ou {De':n} (e até {vI-:v:pref}) são frequentemente omitidos. Os gramáticos de Klingon discutem se o {De'chel:adv} resultante deve ser considerado um adverbial por si só. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tulee lauseen alkuun. Tämä on koko lomake. Jokapäiväisessä keskustelussa {'ej:conj} ja / tai {De':n} (ja jopa {vI-:v:pref}) jätetään usein pois. Klingonin kielioppilaiset kiistävät, pitäisikö tuloksena olevaa {De'chel:adv}: tä pitää pitää itsenäisenä adverbiaalina. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1922,7 +1922,7 @@ It was clarified during the Q &amp; A session that this word and {Hergh:n:nolink
       <column name="notes_ru">Это слово не следует путать с {'eQway':n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此詞不應與{'eQway':n}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra não deve ser confundida com {'eQway':n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa ei pidä sekoittaa {'eQway':n}-sanaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Kyle XY" was an American TV show the title character of which lacks this body part.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2328,7 +2328,7 @@ This was rumoured to have been revealed at {qep'a' 26 (2019):src}, and was offic
       <column name="notes_ru">Это старое слово, относящееся к специализированной или ритуальной одежде (хотя и не униформе). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一個古老的詞，指的是專門的或儀式的服裝（儘管不是製服）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma palavra antiga que se refere a roupas especializadas ou rituais (embora não seja uniforme). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on vanha sana, joka viittaa erikoistuneisiin tai rituaalisiin vaatteisiin (vaikkakaan ei yhtenäiseen). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2932,7 +2932,8 @@ This was rumoured to have been revealed at {qep'a' 26 (2019):src}, and was offic
       <column name="notes_ru">Это используется для пищи, которая была приготовлена ​​плохо. [1, p.84] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這用於準備不好的食物。[1, p.84] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para alimentos que foram mal preparados.[1, p.84] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tätä käytetään elintarvikkeisiin, jotka on valmistettu huonosti[1, p.84] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'ey:v}, {-Ha':v}</column>
       <column name="examples"></column>
@@ -3003,7 +3004,11 @@ Förväxla inte detta pronomen med suffixet {-'e':n:suff}. [AUTOTRANSLATED]</col
 Normalmente, {net:n:pro} é usado quando o sujeito do verbo é indefinido (ou seja, {X net Y:sen:nolink} é usado em vez de {X 'e' Y-lu':sen:nolink}). No entanto, nem sempre é esse o caso. Veja {net:n:pro} para exemplos.
 
 Não confunda este pronome com o sufixo {-'e':n:suff}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä pronominia käytetään toisen lauseen objektina lause-esine-rakenteessa. Se viittaa edelliseen lauseeseen kokonaisuutena. Tällaisessa konstruktiossa toiseen lauseeseen ei koskaan sisälly aspektiin.
+
+Normaalisti {net:n:pro}: tä käytetään, kun verbin aihe on määrittelemätön (toisin sanoen {X net Y:sen:nolink}: ta käytetään {X 'e' Y-lu':sen:nolink}: n sijasta). Näin ei kuitenkaan aina ole. Katso esimerkkejä kohdasta {net:n:pro}.
+
+Älä sekoita tätä pronominia päätteeseen {-'e':n:suff}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The rule that the second sentence never takes an aspect suffix was due to the backfitting of {qama'pu' jonta' neH.:sen} This rule is violated by the text on {SkyBox 25:src} and {SkyBox 26:src}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -3048,7 +3053,7 @@ Não confunda este pronome com o sufixo {-'e':n:suff}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">При использовании в словосочетаниях с существительными {'e':n:pro} не требуется грамматически, но из-за общего использования конструкции {'e' qa':sen:nolink} он все равно иногда слышен. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">當在名詞短語上使用時，{'e':n:pro}在語法上是不需要的，但是由於{'e' qa':sen:nolink}構造的常用用法，無論如何有時都會聽到它。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando usado em sintagmas nominais, o {'e':n:pro} não é necessário gramaticalmente, mas devido ao uso comum da construção {'e' qa':sen:nolink}, às vezes é ouvido de qualquer maneira. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kun käytetään substantiivilausekkeita, {'e':n:pro}: tä ei tarvita kieliopillisesti, mutta {'e' qa':sen:nolink}-rakenteen yleisen käytön vuoksi se kuuluu joskus joka tapauksessa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'e':n:pro, qa':v}</column>
       <column name="examples">
@@ -3095,7 +3100,7 @@ Não confunda este pronome com o sufixo {-'e':n:suff}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">{'e'mam:n:nolink}的孩子是{lor:n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{'e'mam:n:nolink}: n lapsi on {lor:n:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to "Auntie Mame", a broadway play.</column>
       <column name="components"></column>
       <column name="examples"></column>

@@ -192,7 +192,7 @@
       <column name="notes_ru">Это 8-й ранг {yaS:n}.</column>
       <column name="notes_zh_HK">這是{yaS:n}的第8位。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o 8º ranking do {yaS:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {yaS:n}: n 8. sija. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1146,6 +1146,7 @@ In English slang, a "lat"rine is sometimes called a "shrine".</column>
 <!-- ERROR: Missing link #1. -->
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #3. -->
+<!-- ERROR: Mismatched brackets. -->
 <!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämän sanan monikon loppuliite riippuu siitä, käytetäänkö sitä viittaamaan olentoja, jotka osaavat kieltä (ks.{-pu':n:suff}{-Du':n:suff}{-mey:n:suff} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The English translation of the sentence from {Star Trek Constellations:src} does not appear in the book, but in the author's annotations which was a separate document. The {'e':n:pro} was probably a mistake, but can be rationalized as a typo for {-'e':n:suff}.</column>
@@ -2152,7 +2153,7 @@ The following example shows that the verb of quality can take a suffix:
       <column name="notes_ru">Это офицер на дежурстве в специальном подразделении внутри военных сил.</column>
       <column name="notes_zh_HK">這是負責軍隊中某些專門部門的軍官。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um oficial encarregado de certas unidades especializadas nas forças armadas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on upseeri, joka vastaa tietyistä armeijan erikoistuneista yksiköistä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{la':n}, {-'a':n}</column>
       <column name="examples"></column>
@@ -2929,7 +2930,7 @@ Tätä sanaa voidaan käyttää viittaamaan matkustamiseen erityistarkoituksessa
       <column name="notes_ru">Это может быть применено к любой пище, к примеру {leng megh:n:nolink} "дорожный обед" (смотрите {megh:n}). Смотрите {KGT p.103:src} для более полного объяснения.</column>
       <column name="notes_zh_HK">這可以應用於任何膳食，例如{leng megh:n:nolink}“航海午餐”（請參閱{megh:n}）。請參閱{KGT p.103:src}以獲取更完整的說明。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser aplicado a qualquer refeição, por exemplo, "almoço de viagem" {leng megh:n:nolink} (consulte {megh:n}). Consulte {KGT p.103:src} para obter uma explicação mais completa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan soveltaa mihin tahansa ateriaan, esim. {leng megh:n:nolink} "matkalounaaseen" (katso {megh:n}). Katso tarkempi selitys kohdasta {KGT p.103:src}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{leng:n}, {Soj:n:1}</column>
       <column name="examples"></column>
@@ -3606,7 +3607,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Лестница, ведущая к двери корабля, называется более конкретным словом, {choghvat:n:1}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">通向船門的樓梯用一個更具體的詞{choghvat:n:1}來指代。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A escada que leva à porta de um navio é referida por uma palavra mais específica, {choghvat:n:1}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Aluksen ovelle johtavaan portaikkoon viitataan tarkemmalla sanalla {choghvat:n:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4022,7 +4023,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{ghaH:n} / {'oH:n} / {chaH:n} / {bIH:n}: {tlhIH:n} = {lI-:v:pref,nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4152,7 +4153,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Объектом этого глагола является расстояние или диапазон движения. Он используется с глаголами движения, такими как {ron:v:1}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞的對像是運動的距離或範圍。它與動詞動詞（例如{ron:v:1}）一起使用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto desse verbo é a distância ou amplitude de movimento. É usado com verbos de movimento como {ron:v:1}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin kohde on liikkeen etäisyys tai alue. Sitä käytetään liikeverbeillä, kuten {ron:v:1}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4544,7 +4545,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Идея состоит в том, что субъект глагола выглядит или ведет себя как-то (или кто-то) еще или представляет что-то (или кого-то) еще. Как и {ghet:v}, он не имеет никакого смысла в мошенничестве или чем-то закулисном. Объект - это моделируемая вещь или человек, изображающий себя подражающим. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個想法是動詞的主語看起來或表現得像其他東西（或某人）或代表其他東西（或某人）。像{ghet:v}一樣，它沒有欺詐或任何卑鄙的含義。對像是被模擬的事物或被模仿的人。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">A idéia é que o sujeito do verbo se pareça ou se comporte com algo (ou alguém) ou represente algo (ou alguém). Como o {ghet:v}, ele não tem conotação de fraude ou qualquer coisa oculta. O objeto é a coisa que está sendo simulada ou a pessoa que está sendo representada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Ajatuksena on, että verbin aihe näyttää tai käyttäytyy kuin jotain (tai joku) tai edustaa jotain (tai jotakuta) muuta. Kuten {ghet:v}, sillä ei ole merkitystä petoksille eikä mitään aliarvioitua. Kohde on simuloitu asia tai toisena henkilönä esiintyminen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4589,7 +4590,7 @@ Tätä sanaa voidaan käyttää kuvaannollisesti. On idioomi {let mInDu'Daj; Sep
       <column name="notes_ru">Это что-то (или кто-то), которое выглядит или ведет себя как что-то (или кто-то) другое. {lIlwI':n:nolink} отличается от {lIw:n}, поскольку {lIw:n:nolink} подразумевает замену, тогда как {lIlwI':n:nolink} никого и ничего не заменяет. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是看起來（或行為類似）的東西（或某人）。 {lIlwI':n:nolink}與{lIw:n}不同，因為{lIw:n:nolink}表示替換，而{lIlwI':n:nolink}不替換任何人。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é algo (ou alguém) que se parece ou se comporta como outra coisa (ou alguém). Um {lIlwI':n:nolink} é diferente de um {lIw:n}, pois {lIw:n:nolink} implica substituição, enquanto um {lIlwI':n:nolink} não substitui ninguém nem nada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on jotain (tai joku), joka näyttää tai käyttäytyy kuin jokin (tai joku) muu. {lIlwI':n:nolink} eroaa {lIw:n}: sta, koska {lIw:n:nolink} merkitsee korvaamista, kun taas {lIlwI':n:nolink} ei korvaa ketään tai mitään. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{lIl:v}, {-wI':v}</column>
       <column name="examples">
@@ -5343,7 +5344,7 @@ Kun tietokone (tai tietokonejärjestelmä) on verkossa, sen sanotaan olevan "jak
       <column name="notes_ru">Это относится к группе магматических пород, состоящих в основном из полевого шпата и кварца. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指一組主要由長石和石英組成的火成岩。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a um grupo de rochas ígneas compostas principalmente de feldspato e quartzo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa magmakivikokonaisuuteen, joka koostuu pääasiassa maasälpästä ja kvartsista. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5386,7 +5387,7 @@ Kun tietokone (tai tietokonejärjestelmä) on verkossa, sen sanotaan olevan "jak
       <column name="notes_ru">Это относится к временной замене или замене. Чтобы обозначить постоянную замену, используйте {qa'meH:n}.[2]. Для обозначения чего-либо или кого-то, кто имитирует или исполняет что-то или кого-то другого, без замены, см. {lIlwI':n}.[4] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指臨時替代品或替代品。要表示永久替換，請使用{qa'meH:n}.[2]要引用未經模仿的模仿或模仿某物或某物的某物或某物，請參見{lIlwI':n}.[4] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um substituto temporário ou substituto. Para indicar uma substituição permanente, use {qa'meH:n}.[2] Para se referir a algo ou alguém que simula ou representa algo ou alguém, sem substituição, consulte {lIlwI':n}.[4] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa väliaikaiseen korvaamiseen tai stand-iniin. Jos haluat tarkoittaa pysyvää korvausta, käytä sanaa {qa'meH:n}.[2] Jos haluat viitata johonkin tai johonkin, joka simuloi tai esiintyy toisena tai jonkun toisena ilman korvaamista, katso {lIlwI':n}.[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a substitute in "lieu" of something.
 
 This was used to refer to "variables" (a memory location used for storing data in a computer program) in Klingon Blockly.[3]</column>
@@ -6070,7 +6071,7 @@ Tarvittaessa matemaattisessa keskustelussa etuliitettä ei käytetä, vaikka nim
       <column name="notes_ru">Шурин будет {loDnI' loDnal:n@@loDnI':n, loDnal:n} или {be'nI' loDnal:n@@be'nI':n, loDnal:n}.</column>
       <column name="notes_zh_HK">“ br子”是{loDnI' loDnal:n@@loDnI':n, loDnal:n}或{be'nI' loDnal:n@@be'nI':n, loDnal:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um "cunhado" é {loDnI' loDnal:n@@loDnI':n, loDnal:n} ou {be'nI' loDnal:n@@be'nI':n, loDnal:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">"Veli" on {loDnI' loDnal:n@@loDnI':n, loDnal:n} tai {be'nI' loDnal:n@@be'nI':n, loDnal:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6158,7 +6159,7 @@ Tarvittaessa matemaattisessa keskustelussa etuliitettä ei käytetä, vaikka nim
       <column name="notes_ru">Присоединяется к числу, чтобы сформировать обстоятельственное значение. К примеру, {wa'logh:adv} "единожды, один раз" из {wa':n:num} "один", {cha'logh:adv} "дважды, два раза" from {cha':n:num} "два", и так далее.</column>
       <column name="notes_zh_HK">這被附加到一個數字上，形成許多次狀語。例如，來自{wa':n:num}“一個”的{wa'logh:adv}“一次，一次”，來自{cha':n:num}“兩個”的{cha'logh:adv}“兩次，兩次”，依此類推。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é anexado a um número para formar um significado adverbial tantas vezes. Por exemplo, {wa'logh:adv} "uma vez, uma vez" de {wa':n:num} "um", {cha'logh:adv} "duas vezes, duas vezes" de {cha':n:num} "dois" e assim por diante. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä liitetään numeroon muodostaen adverbiaalisen merkityksen niin monta kertaa. Esimerkiksi {wa'logh:adv} "kerran, yksi kerta" {wa':n:num}: sta "yksi", {cha'logh:adv} "kahdesti, kaksi kertaa" {cha':n:num}: sta "kaksi" ja niin edelleen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7057,7 +7058,7 @@ Joillakin verbiliitteillä on tarkka merkitys käytettäessä tätä verbiä, ku
       <column name="notes_ru">Это относится к конкретной позиции боевых искусств, и не является общим термином для «позиции», для которой см. {tonSaw':n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指一種特定的武術立場，而不是“立場”的統稱，有關其詳細信息，請參見{tonSaw':n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa tiettyyn taistelulajien viritykseen, eikä se ole yleinen termi "viritys", jota varten katso {tonSaw':n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7619,7 +7620,7 @@ Joillakin verbiliitteillä on tarkka merkitys käytettäessä tätä verbiä, ku
       <column name="notes_ru">Это относится к ранее живым существам, а не, например, к вулканам.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這指的是以前的生物，而不是指火山。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a coisas vivas anteriormente, e não, por exemplo, a vulcões.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa aiemmin eläviin olentoihin, ei esimerkiksi tulivuoriin.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8571,7 +8572,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="notes_ru">Это предшествует существительному, которое оно изменяет. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它在它所修飾的名詞之前。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso precede o substantivo que ele modifica. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä edeltää substantiivia, jota se muuttaa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{lo':n}, {law':v}</column>
       <column name="examples">
@@ -8702,7 +8703,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="notes_ru">Смотрите {chetvI':n:1} для идиомы, связанной с никчемностью.</column>
       <column name="notes_zh_HK">有關不值錢的習語，請參見{chetvI':n:1}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Consulte {chetvI':n:1} para obter um idioma relacionado à inutilidade. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kohdasta {chetvI':n:1} on arvottomuuteen liittyvä idioomi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Despite appearing to be composed from {lo':v}, {-laH:v}, and {-be':v}, this word doesn't exactly have the same meaning as the composition of the parts. It means "he/she can't use it", which is what happens to one's hand when one's writer's cramp worsens.</column>
       <column name="components">{lo'laH:v}, {-be':v}</column>
       <column name="examples"></column>
@@ -8993,7 +8994,7 @@ Tämä etuliite pudotetaan joskus tuntemattomista syistä. Vaikka virhe onkin, t
       <column name="notes_ru">Существует идиома {lugh; Sor rur}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語，{lugh; Sor rur}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {lugh; Sor rur}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {lugh; Sor rur}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9294,7 +9295,7 @@ Tämä etuliite pudotetaan joskus tuntemattomista syistä. Vaikka virhe onkin, t
       <column name="notes_ru">В порядке возрастания жестокости глаголы, используемые для описания военных столкновений: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v:nolink}, {Hargh:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">按照兇猛的升序，用於描述軍事對抗的動詞是：{Qor:v}、{tlhaS:v}、{vay:v}、{lul:v:nolink}、{Hargh:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Em ordem crescente de ferocidade, os verbos usados ​​para descrever confrontos militares são: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v:nolink}, {Hargh:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Armeijan nousevassa järjestyksessä sotilaallisia yhteenottoja kuvaavia verbejä ovat: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v:nolink}, {Hargh:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9467,7 +9468,7 @@ Tämä etuliite pudotetaan joskus tuntemattomista syistä. Vaikka virhe onkin, t
       <column name="notes_ru">Хотя это термин анатомии, он может использоваться для других целей, таких как дерево, которое намокло. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">儘管這是一個解剖學術語，但它可以用於其他事物，例如變濕的木頭。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Embora este seja um termo de anatomia, ele pode ser usado para outras coisas, como madeira que ficou molhada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Vaikka tämä on anatomian termi, sitä voidaan käyttää muihin asioihin, kuten märään kastuneeseen puuhun. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10070,7 +10071,19 @@ As áreas ao redor de um objeto são {Dung:n} (área acima), {bIng:n} (área aba
 No Klingon padrão, os substantivos locativos seguem pronomes, por exemplo, {jIH tlhop:n:nolink} "na minha frente". Porém, no dialeto da região de Sakrej ({Sa'Qej Sep:n}), os substantivos locativos recebem sufixos possessivos pronominais, por exemplo, {tlhopwIj:n:nolink} "minha área na frente" .[2] No entanto, os substantivos direcionais são uma exceção a essa regra e usam sufixos possessivos em todos os dialetos conhecidos , por exemplo, {chanwIj:n:nolink} "leste de mim, para o leste". Se o pronome completo for usado com um substantivo direcional, o pronome será enfatizado, por exemplo, {jIH chan:n:nolink} "leste de ME, para MEU leste" .[4]
 
 Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos. Por exemplo, pode-se dizer que {nIHwIj ghop:n@@nIH:n, -wIj:n, ghop:n} se refere à mão direita.[5] Os pontos entre as três direções cardeais são {tIng chan:n:nolink}, {'ev chan:n:nolink} e {tIng 'ev:n:nolink} ou {'ev tIng:n:nolink}. O {chan:n:nolink} sempre fica em segundo lugar nesse tipo de composto.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #17. -->
+<!-- ERROR: Missing link #20. -->
+<!-- ERROR: Missing link #22. -->
+<!-- ERROR: Missing link #28. -->
+<column name="notes_fi">Klingonin kompassissa on kolme pistettä eikä neljä: {chan:n} (itään), {'ev:n} (luoteeseen) ja {tIng:n} (lounaaseen).
+
+Kohteen ympärillä olevat alueet ovat sen {Dung:n} (yläpuolella oleva alue), {bIng:n} (ala alapuolella), {retlh:n} (ala vieressä), {tlhop:n:1} (edessä) ja {'em:n} (takana). Jotain objektin {retlh:n:nolink}-tiedostossa voi olla sen {poS:n} (vasen) tai {nIH:n} (oikea) puolella. Kahden kohteen välinen alue on niiden {joj:n} (välinen alue). Kohteen takana oleva alue on sen {Hay:n:2h}.
+
+Tavallisessa Klingonissa paikannimet käyttävät substantiiveja, esim. {jIH tlhop:n:nolink} "edessäni". Mutta Sakrejin alueen murteessa ({Sa'Qej Sep:n}), paikallisnimet ottavat pronominalin omistavia loppuliitteitä, esim. {tlhopwIj:n:nolink} "minun alueeni edessä". esim. {chanwIj:n:nolink} "itään minusta, itään". Jos täyttä pronominia käytetään suuntasanoman kanssa, pronomini korostetaan, esim. {jIH chan:n:nolink} "MINUN itäpuolella, itään MINUN itään".
+
+Vasemmalle ja oikealle puolelle viitattaessa käytetään omistavia jälkiliitteitä. Esimerkiksi voidaan sanoa {nIHwIj ghop:n@@nIH:n, -wIj:n, ghop:n} viitaten heidän oikeaan käsiinsä.
+
+Kolmen pääsuunnan välissä olevat pisteet ovat {tIng chan:n:nolink}, {'ev chan:n:nolink} ja joko {tIng 'ev:n:nolink} tai {'ev tIng:n:nolink}. {chan:n:nolink} on aina toisessa tällaisessa yhdisteessä[2][4][5][3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -10389,7 +10402,7 @@ Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos.
       <column name="notes_ru">Иногда это связано с невнимательностью.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有時這與註意力不集中有關。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Às vezes, isso está associado à desatenção.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tähän liittyy joskus tarkkaamattomuus.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to the song "Daydream" by The Lovin' Spoonful.
 
 This was rumoured to have been revealed at {qep'a' 26 (2019):src}, and was confirmed at {qep'a' 27 (2020):src} during the Q &amp; A session.</column>

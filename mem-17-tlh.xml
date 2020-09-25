@@ -278,7 +278,7 @@
       <column name="notes_ru">Это использовалось во множественном числе ({tlhagh patat 'oQqar naQHommey:n:nolink}), чтобы перевести «картофель фри» (как в «картофель фри»). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">它用於復數形式（{tlhagh patat 'oQqar naQHommey:n:nolink}）來翻譯“炸薯條”（如“炸薯條”）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso foi usado no plural ({tlhagh patat 'oQqar naQHommey:n:nolink}) para traduzir "batatas fritas" (como em "batatas fritas"). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytettiin monikkomuodossa ({tlhagh patat 'oQqar naQHommey:n:nolink}) kääntämään "perunat" (kuten "ranskalaiset"). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tlhagh:n}, {patat 'oQqar:n}, {naQ:n:1}, {-Hom:n}</column>
       <column name="examples"></column>
@@ -623,7 +623,7 @@
       <column name="notes_ru">При использовании с суффиксом {-qa':v} результат имеет смысл «извлекать». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與後綴{-qa':v}一起使用時，結果具有“檢索”的感覺。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando usado com o sufixo {-qa':v}, o resultado tem o sentido de "recuperar". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kun sitä käytetään loppuliitteen {-qa':v} kanssa, tuloksella on tunne "noutaa". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1057,7 +1057,7 @@
       <column name="notes_ru">Это слово можно использовать для сетки на электронной таблице, а также для линий сетки на карте. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該詞可用於電子表格上的網格以及地圖上的網格線。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra pode ser usada para a grade em uma planilha e também para as linhas de grade em um mapa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa voidaan käyttää laskentataulukon ruudukkoon ja myös kartan ruudukkoihin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1187,7 +1187,9 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Uma expressão de gíria para pontuação é {ghewmey:n}. {tlhavqop:n:nolink} é inerentemente plural, mas pode-se dizer {tlhavqop ngutlh(mey):n@@tlhavqop:n, ngutlh:n, -mey:n} "sinais de pontuação".[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Välimerkkien slangilauseke on {ghewmey:n}. {tlhavqop:n:nolink} on luonnostaan ​​monikkomuoto, mutta voidaan sanoa {tlhavqop ngutlh (mey): n @@ tlhavqop: n, ngutlh: n, -mey: n} "välimerkit (merkit)".{tlhavqop ngutlh(mey):n@@tlhavqop:n, ngutlh:n, -mey:n}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1840,7 +1842,7 @@
       <column name="notes_ru">Это тип растения. В {paq'batlh:src} упоминается, что {ngeng HeH:n} {qul ngeng:n} внутри {QIStaq:n} имеет такую ​​среду, враждебную к жизни, что даже {tlheng'IQ:n:nolink} там не будет расти. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是植物的一種。在{paq'batlh:src}中，提到了{QIStaq:n}內部的{qul ngeng:n}的{ngeng HeH:n}具有對生活充滿敵意的環境，即使{tlheng'IQ:n:nolink}也不會在那裡生長。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um tipo de planta. No {paq'batlh:src}, é mencionado que o {ngeng HeH:n} do {qul ngeng:n} dentro do {QIStaq:n} possui um ambiente tão hostil à vida que nem mesmo o {tlheng'IQ:n:nolink} cresceria ali. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on eräänlainen kasvi. {paq'batlh:src}: ssä mainitaan, että {qul ngeng:n}: n {ngeng HeH:n}: lla {QIStaq:n}: ssä on ympäristö, joka on niin vihamielinen elämään, ettei edes {tlheng'IQ:n:nolink} kasvaisi siellä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">According to the novel {Kahless:src}, this plant flowers only every eight years.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2844,7 +2846,7 @@ In many languages, the endonym for its speakers means something like "our own pe
       <column name="notes_ru">Это стратегическая игра, которую сравнивают с шахматами. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種與國際象棋相比的戰略遊戲。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um jogo de estratégia que foi comparado ao xadrez. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on strategiapeli, jota on verrattu shakkiin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2992,7 +2994,7 @@ On idioomi, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</col
       <column name="notes_ru">Это сокращение от {tlhIngan wo' Hol:n:nolink}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{tlhIngan wo' Hol:n:nolink}.[3]的縮寫 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é abreviação de {tlhIngan wo' Hol:n:nolink}.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on lyhyt sanalle {tlhIngan wo' Hol:n:nolink}.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This term doesn't actually appear in the word lists in {TKD:src}, but is used in the list of useful expressions.</column>
       <column name="components">{tlhIngan:n}, {Hol:n}</column>
       <column name="examples"></column>
@@ -3210,7 +3212,7 @@ On idioomi, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</col
       <column name="notes_ru">Официальный {QI':n} империи клингонов, управляемый {ra'ghomquv:n}. Он подразделяется на {yo':n} и {nawlogh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗帝國的官方{QI':n}，由{ra'ghomquv:n}經營。它分為{yo':n}和{nawlogh:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O {QI':n} oficial do Império Klingon, dirigido pelo {ra'ghomquv:n}. Está subdividido em {yo':n} e {nawlogh:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Klingonin imperiumin virallinen {QI':n}, jota johtaa {ra'ghomquv:n}. Se on jaettu osiin {yo':n} ja {nawlogh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tlhIngan:n}, {Hub:n}, {beq:n}</column>
       <column name="examples"></column>
@@ -3597,7 +3599,7 @@ On idioomi, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}. [AUTOTRANSLATED]</col
       <column name="notes_ru">Если вы выплевываете жидкость, то {bItuy':sen:nolink}, а если вы выплевываете твердые частицы, то {bItlhIS:sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">如果吐出液體，則為{bItuy':sen:nolink}，但如果吐出固體，則為{bItlhIS:sen:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se você cuspir líquido, {bItuy':sen:nolink}, mas se cuspir sólidos, {bItlhIS:sen:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jos sylkette ulos nestettä, sitten {bItuy':sen:nolink}, mutta jos sylkette kiintoaineet, sitten {bItlhIS:sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4372,7 +4374,7 @@ Voidaan sanoa joko {B tlhogh A:sen:nolink} "{A:sen:nolink} naimisiin {B:sen:noli
       <column name="notes_ru">Для передней части объекта см. {'et:n:2h}. Смотрите также {lurgh:n} для других слов, связанных с пространственными направлениями. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關對象的前部，請參閱{'et:n:2h}。另請參見{lurgh:n}以獲取與空間方向有關的其他詞語。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para a seção frontal de um objeto, consulte {'et:n:2h}. Veja também {lurgh:n} para outras palavras relacionadas às direções espaciais. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso kohteen etuosa kohdasta {'et:n:2h}. Katso myös sanat {lurgh:n}, jotka liittyvät spatiaalisiin suuntiin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

@@ -367,7 +367,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">這是指將管道（無論是用於水還是用於其他任何東西）放入管道中的人。輸送水的管道有一個特殊的詞，{qatlhDa':n}，但將其放入水的人仍稱為{'och mutlhwI':n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma pessoa que coloca tubos (seja por água ou por qualquer outra coisa). Existe uma palavra especial para um cano que transporta água, {qatlhDa':n}, mas a pessoa que coloca isso ainda é chamada de {'och mutlhwI':n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa henkilöön, joka laittaa putkia (joko vettä tai muuta varten). Vettä kuljettavalle putkelle on erityinen sana {qatlhDa':n}, mutta tämän asettanutta kutsutaan silti {'och mutlhwI':n:nolink}: ksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'och:n}, {mutlh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -852,7 +852,10 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="notes_ru">Это может относиться к капле дождя или любой жидкости.[1] В частности, его можно использовать для капли {watrIn:n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode se referir a uma gota de chuva ou uma gota de qualquer líquido.[1] Em particular, pode ser usado para uma gota de {watrIn:n}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä voi viitata sadepisaraan tai pisaraan mitä tahansa nestettä.[1]{watrIn:n}[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">{mIn 'onroS:n}</column>
@@ -1655,7 +1658,9 @@ Detta ord är också skrivet {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column
       <column name="notes_pt">Observe que este é {'orghengan:n:nolink} e não {'orghenngan:n:nolink} (o {n:sen:nolink} no final de {'orghen:n:nolink} é descartado).
 
 Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että tämä on {'orghengan:n:nolink} eikä {'orghenngan:n:nolink} ({n:sen:nolink} {'orghen:n:nolink}: n lopussa hylätään).
+
+Tämä sana on myös kirjoitettu {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'orghen:n}, {ngan:n}</column>
       <column name="examples"></column>
@@ -2998,7 +3003,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="notes_ru">{'o' chuyDaH:n:nolink} находится рядом с {Hongghor:n}. Они перечислены вместе как {'o' chuyDaH Hongghor je:n:nolink} на плакате {BoP:src}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O {'o' chuyDaH:n:nolink} está localizado próximo ao {Hongghor:n}. Eles são listados juntos como {'o' chuyDaH Hongghor je:n:nolink} no pôster {BoP:src}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{'o' chuyDaH:n:nolink} sijaitsee lähellä {Hongghor:n}. Ne on lueteltu yhdessä {'o' chuyDaH Hongghor je:n:nolink}-julisteella {BoP:src}-julisteessa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'o':n}, {chuyDaH:n}</column>
       <column name="examples"></column>
@@ -3042,7 +3047,8 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä on rumpu, jonka iho on venytetty molempien päiden yli[1, p.75] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

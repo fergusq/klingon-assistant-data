@@ -151,7 +151,7 @@
       <column name="notes_ru">Это название книги рецептов, автором которой является J'puq.[1, стр.86]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on J'puqin keittokirjan nimi.[1, p.86] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The name "J'puq" is a reference to Julia Child ({puq:n}). It also alludes to "puke" and makes fun of the use of French in otherwise English-language cookbooks.
 
 The title of the book may be a reference to the Twilight Zone episode "To Serve Man".</column>
@@ -1147,7 +1147,7 @@ Katso "päivät sitten" ja "päivät nyt" kohdat {Hu':n} ja {leS:n}. [AUTOTRANSL
       <column name="notes_ru">Это сокращенная форма для {QoQ jan:n}, но этот термин редко сокращается.</column>
       <column name="notes_zh_HK">{QoQ jan:n}的縮寫，但該術語很少被縮寫。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é abreviação de {QoQ jan:n}, mas esse termo raramente é abreviado. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on lyhyt sanalle {QoQ jan:n}, mutta termiä lyhennetään harvoin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8590,7 +8590,7 @@ Jos käytetään {-Daq:n}, se tarkoittaa epäonnistumista: ilmaa puhallettiin ko
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{SoH:n}: {maH:n:1h} = {ju-:v:pref,nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

@@ -198,7 +198,9 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on harvoin käytetty loppuliite, jota käytetään osoittamaan mielihyvää. Se liitetään yleensä sukulaisen tai joskus eläimen, kuten lemmikin, sanaan.
+
+Epäillään, että {qaghwI':n} lisätään ennen tätä loppuliitettä, jos substantiivi päättyy vokaaliin, mutta esimerkkejä ei tunneta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This sounds like the Cantonese word for "love" (愛).</column>
       <column name="components"></column>
       <column name="examples">
@@ -431,7 +433,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="notes_ru">Этот суффикс указывает, что говорящий думает, что объект, на который ссылается существительное, точно описан им, но имеет некоторые сомнения. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該後綴表明說話者認為名詞所指的對像已被其準確地描述了，但存在一些疑問。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo indica que o falante acha que o objeto referido pelo substantivo é descrito com precisão por ele, mas tem algumas dúvidas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä loppuliite osoittaa, että puhuja ajattelee, että substantiivin viittaama kohde on kuvattu tarkasti, mutta hänellä on epäilyksiä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -519,7 +521,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="notes_ru">Считается унизительным использование этого суффикса в существительном, означающем существо, способное к языку. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在帶有語言能力的名詞上使用此後綴是貶義的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É considerado depreciativo usar esse sufixo em um substantivo referente a um ser capaz de linguagem. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän jälkiliitteen käyttämistä pidetään halveksivana substantiivissa, joka viittaa kielitaitoon. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1245,6 +1247,7 @@ Do not confuse this suffix with the pronoun {'e':n:pro}.</column>
 <!-- ERROR: Missing link #10. -->
 <!-- ERROR: Missing link #11. -->
 <!-- ERROR: Mismatched brackets. -->
+<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämä loppuliite korostaa, että substantiivi, johon se on liitetty lauseen aiheena. katso {-bogh:v}).
 
 Jos objektin substantiivi on merkitty {-'e':n:suff,nolink}: llä, se voi tulla ennen verbiä edeltäviä adverbeja.
@@ -1303,7 +1306,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Когда этот суффикс используется, префикс глагола должен указывать «нет объекта». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">使用此後綴時，動詞前綴必須指示“無對象”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Quando esse sufixo é usado, o prefixo do verbo deve indicar "nenhum objeto". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kun tätä pääteosaa käytetään, verbin etuliitteen on ilmoitettava "ei objektia". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Ego".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1346,7 +1349,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс используется только во множественном числе. Когда этот суффикс используется, префикс глагола должен указывать «нет объекта». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴僅適用於多個主題。使用此後綴時，動詞前綴必須指示“無對象”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo é usado apenas com assuntos do plural. Quando esse sufixo é usado, o prefixo do verbo deve indicar "nenhum objeto". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä päätettä käytetään vain monikkomuotojen kanssa. Kun tätä pääteosaa käytetään, verbin etuliitteen on ilmoitettava "ei objektia". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1648,7 +1651,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="notes_ru">Этот суффикс означает, что действие имело место, затем прекратилось, а затем началось снова. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此後綴表示該操作已發生，然後停止，然後再次開始。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse sufixo implica que a ação estava ocorrendo, depois parou e começou novamente. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä pääte tarkoittaa, että toiminta oli ollut käynnissä, sitten pysähtynyt ja sitten aloitettu uudelleen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2908,7 +2911,12 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #3. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Tämä loppuliite osoittaa, että jokin aiemmin tehdyistä on nyt kumottu tai että jotain on tehty väärin. Huolimatta siitä, että se luokitellaan kuljettajaksi, tämä pääte esiintyy välittömästi verbin jälkeen, ennen muita päätteitä.[1]
+
+Tätä loppuliitettä voidaan käyttää joihinkin adverbeihin, mutta ei kaikkiin.[2; 3]{Duj ngaDHa':n}[4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">While {-Ha':v:suff,nolink} can mean different things on different verbs, it appears to favour a fixed meaning for any particular verb, depending on whether the quality or action described by the verb has an opposite or a reversal. That meaning is determined by a greater degree of negativity than {-be':v:suff}. While this suffix is defined as "undo, do wrongly", most instances of this suffix actually denote an opposite rather than an undoing or an erroneous action. See {KLI mailing list 2019.03.22:src} for an analysis.</column>
       <column name="components"></column>
       <column name="examples">

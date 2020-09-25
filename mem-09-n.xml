@@ -63,7 +63,7 @@
       <column name="notes_ru">Это слово использовано для планирования события, стратегии боя, и т.д.,но не для планирования какого-то физического объекта. (Для этого, используйте слово {ren:v}.)</column>
       <column name="notes_zh_HK">該詞用於事件的計劃，戰鬥策略等，但不用於設計物理對象（該詞是{ren:v}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra é usada para o planejamento de um evento, uma estratégia de batalha etc., mas não para o design de um objeto físico (a palavra para isso é {ren:v}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käytetään tapahtuman, taistelustrategian jne. Suunnitteluun, mutta ei fyysisen objektin suunnitteluun (sana {ren:v}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -107,7 +107,7 @@
       <column name="notes_ru">Это слово относится к планированию события, а не физического объекта (например чертежа, для которого более подходящее слово {pu'jIn:n}).</column>
       <column name="notes_zh_HK">這個詞指的是事件的計劃，而不是指物理對象的計劃（即藍圖，可能是{pu'jIn:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra refere-se ao planejamento de um evento, e não ao plano de um objeto físico (isto é, um blueprint, que seria um {pu'jIn:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana viittaa tapahtuman suunnitteluun, ei fyysisen objektin (eli suunnitelman, joka olisi {pu'jIn:n}) suunnitelmaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1029,7 +1029,9 @@ Förväxla inte detta ord med {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra também é escrita {neHjej:n:nolink}.
 
 Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana on myös kirjoitettu {neHjej:n:nolink}.
+
+Älä sekoita tätä sanaa {naQjej:n}: een. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the body text of {KGT:src}, this word is spelled {naHjej:n:nolink}, with a note that it literally means "sharp fruit".[1, p.88] However, it is spelled {neHjej:n:nolink} in both the E-K and K-E word lists.</column>
       <column name="components">{naH:n}, {jej:v}</column>
       <column name="examples"></column>
@@ -1115,7 +1117,8 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Один обычно {choptaH:v} на гайке, затем {tlhIS:v} кусочки скорлупы. [1, p.87] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Yksi tyypillisesti {choptaH:v} mutterissa, sitten {tlhIS:v} palan kuori.[1, p.87] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{naHlet:n}, {yub:n}</column>
       <column name="examples"></column>
@@ -1245,7 +1248,10 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Этот глагол может принимать содержимое или объект мечтания в качестве объекта.[2] Он используется только для сновидений, происходящих во сне, но не для фантазий или надежд на что-то, ни для галлюцинаций (см. {'ergh:v}) .[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞可以將夢的內容或主題作為對象。[2]僅用於在睡眠中發生的夢，不用於幻想或希望某件事，也不用於幻覺（請參見{'ergh:v}）。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo pode tomar o conteúdo ou assunto de um sonho como um objeto.[2] É usado apenas para o sonho que ocorre durante o sono, e não para fantasiar ou esperar por algo, nem para alucinações (para as quais ver {'ergh:v}) .[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä verbi voi ottaa unelman sisällön tai aiheen esineeksi.[2]{'ergh:v}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">{qul naj:n}</column>
@@ -1331,7 +1337,7 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Кажется, что это слово состоит из {nal:n:hyp} (компонент, также найденный в {loDnal:n}, {be'nal:n} и {'Ipnal:n}) и {qaD:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">看來這個詞是由{nal:n:hyp}（也在{loDnal:n}，{be'nal:n}和{'Ipnal:n}中找到的組件）和{qaD:n}組成的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Parece que essa palavra é composta por {nal:n:hyp} (um componente encontrado também em {loDnal:n}, {be'nal:n} e {'Ipnal:n}) e {qaD:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Näyttää siltä, ​​että tämä sana koostuu {nal:n:hyp}: stä (komponentti löytyy myös {loDnal:n}, {be'nal:n} ja {'Ipnal:n}) ja {qaD:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{nal:n:hyp}, {qaD:n}</column>
       <column name="examples"></column>
@@ -1417,7 +1423,7 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Услышав только эту короткую часть начала песни, слушатель узнает мелодию. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">聽完歌曲開頭的這一小部分後，聽眾便會認出該樂曲。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Depois de ouvir apenas essa pequena parte do começo da música, o ouvinte reconhecerá a música. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kuultuaan vain tämän lyhyen osan kappaleen alusta kuuntelija tunnistaa kappaleen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Name that tune."</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1589,7 +1595,7 @@ Não confunda esta palavra com {naQjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">{HQ 10.2:src} говорит, что это относится к «особенно эффективному удару боевых искусств». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{HQ 10.2:src}說，這是指“一種特別有效的武術踢法”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">{HQ 10.2:src} diz que isso se refere a "um chute particularmente eficaz nas artes marciais". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{HQ 10.2:src} sanoo, että tämä viittaa "erityisen tehokkaaseen taistelulajien potkuun". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's not entirely clear whether this is a verb or a noun.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1775,7 +1781,9 @@ Observera att när {naQ:v:nolink} används adjektivt betyder det "ett komplett X
       <column name="notes_pt">O verbo {naQmoH:v@@naQ:v, -moH:v} é usado para preencher formulários (ver {yu'muD:n}).
 
 Observe que quando {naQ:v:nolink} é usado adjetivamente, significa "um X completo". Compare isso com {Hoch:n} após um substantivo, que significa "todos de X". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Verbiä {naQmoH:v@@naQ:v, -moH:v} käytetään lomakkeiden täyttämiseen (katso {yu'muD:n}).
+
+Huomaa, että kun {naQ:v:nolink}: ta käytetään adjektiivisesti, se tarkoittaa "täydellistä X". Vertaa tätä {Hoch:n}-substantiiviin, joka tarkoittaa "kaikki X". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1863,7 +1871,8 @@ Observe que quando {naQ:v:nolink} é usado adjetivamente, significa "um X comple
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Isso pode ter se originado com a pronúncia do dialeto {Qotmagh Sep:n} em {DaQ:n}.[1, p.154] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä on voinut syntyä {Qotmagh Sep:n}-murteen ääntämällä sanaa {DaQ:n}.[1, p.154] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2094,7 +2103,7 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это зеркальное отражение/обратное изображение в смысле «отражать»; сравнить {'et:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是“反射”的鏡像/反面感；比較{'et:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse é o sentido de imagem refletida/imagem reversa de "refletir"; compare {'et:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on peilikuvan / käänteiskuvan "heijastuksen" tunne; vertaa {'et:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The request was related to beams of light reflecting off of mirrors and beam-splitters.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2312,7 +2321,7 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это специальный термин для последнего элемента в списке, который можно использовать вместо, например, {mu' HochDIch:n@@mu':n, HochDIch:n} для списка слов. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是列表中最後一項的特殊術語，可以代替例如單詞列表的{mu' HochDIch:n@@mu':n, HochDIch:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse é um termo especial para o último item de uma lista, que pode ser usado no lugar de, por exemplo, {mu' HochDIch:n@@mu':n, HochDIch:n} para obter uma lista de palavras. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on erityinen termi luettelon viimeiselle kohteelle, jota voidaan käyttää sanan {mu' HochDIch:n@@mu':n, HochDIch:n} sijasta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Last, but "not least".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2398,7 +2407,7 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Slangi-merkityksessään tämä verbi ei ota objektia.[1, p.155] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3092,6 +3101,7 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
 <!-- ERROR: Missing link #2. -->
 <!-- ERROR: Missing link #3. -->
 <!-- ERROR: Mismatched brackets. -->
+<!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämä sana viittaa rakettien, letkujen jne. Suuttimiin ja vie monikon {-mey:n}, koska yhteys rungon osaan on kadonnut. kun niitä käytetään viittaamaan muihin asioihin, koska tämän sanan ei-ruumiinosa-merkitys on muuttunut leksikalisoituneeksi.[2])[1]{-Du':n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3221,7 +3231,8 @@ Não confunda esta palavra com {naHjej:n}. [AUTOTRANSLATED]</column>
       <column name="notes_ru">Значение данного слова очень похоже на {QaS:n:1h}, но включает в себя офицеров ({yaS:n}).[1]</column>
       <column name="notes_zh_HK">該詞的含義與{QaS:n:1h}相似，但其中包括官員（{yaS:n}）。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O significado desta palavra é semelhante ao de {QaS:n:1h}, mas inclui oficiais ({yaS:n}).[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämän sanan merkitys on samanlainen kuin sanalla {QaS:n:1h}, mutta se sisältää upseerit ({yaS:n}).[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This word is grammatically singular and the correct pronoun is {ghaH:n}. In the first edition of the {paq'batlh:src}, the pronoun {chaH:n} was incorrectly used and the word was erroneously treated as grammatically plural in some places.[2]</column>
       <column name="components">{mang:n}</column>
       <column name="examples"></column>
@@ -3398,7 +3409,10 @@ Se en lektion om detta ord: {YouTube video:url:http://youtu.be/JyeePTUXVa8} [AUT
 Смотрите урок по этому слову: {YouTube video:url:http://youtu.be/JyeePTUXVa8}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Kun tämä on verbi lauseobjektirakenteen toisessa virkkeessä, {'e':n:pro}- tai {net:n:pro}-sanoja ei käytetä.
+
+Katso oppitunti tästä sanasta: {YouTube video:url:http://youtu.be/JyeePTUXVa8}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The rule that {'e':n:pro} shouldn't be used has occasionally been violated in canon.</column>
       <column name="components"></column>
       <column name="examples">
@@ -4349,7 +4363,9 @@ Ibland används {'e':n:pro} med {-lu':v} istället för {net:n:pro,nolink}. Det 
       <column name="notes_pt">Este pronome é usado em uma construção de frase como objeto quando a segunda frase tem um sujeito de terceira pessoa indefinido (ou seja, "um" ou "alguém").
 
 Às vezes, {'e':n:pro} com {-lu':v} é usado em vez de {net:n:pro,nolink}. Não está claro por que no momento. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä pronominia käytetään lause-objektirakenteessa, kun toisessa lauseessa on määrittelemätön kolmannen persoonan aihe (ts. "Yksi" tai "joku").
+
+Joskus {'e':n:pro} ja {-lu':v} käytetään {net:n:pro,nolink}: n sijaan. Ei ole selvää miksi tällä hetkellä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4966,7 +4982,9 @@ Tätä verbiä käytetään ilmaisemaan käsite, että kahdella asialla on sama 
       <column name="notes_ru">При обращении к левой и правой сторонам используются притяжательные суффиксы.[2] См. Также {lurgh:n} для других слов, связанных с пространственными направлениями. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Ao se referir aos lados esquerdo e direito, são utilizados sufixos possessivos.[2] Consulte também {lurgh:n} para outras palavras relacionadas às direções espaciais. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Vasemmalle ja oikealle puolelle viitattaessa käytetään omistavia jälkiliitteitä.[2]{lurgh:n} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5572,7 +5590,8 @@ A line which was cut from {Star Trek Into Darkness:src} reveals that the person 
       <column name="notes_ru">Для использования такого устройства можно использовать {qIp:v}, {'uy:v} или {ngaH:v}, в зависимости от конкретного устройства. Перфоратор {ghID:v} бумага (или другой материал). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">要使用這樣的設備，取決於特定的設備，可以是{qIp:v}，{'uy:v}或{ngaH:v}。打孔器將對紙張（或其他材料）進行{ghID:v}處理。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Tällaisen laitteen käyttämiseksi voi {qIp:v}, {'uy:v} tai {ngaH:v} sen, tietystä laitteesta riippuen. Rei'itin lävistää4 paperin (tai muun materiaalin).{ghID:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Reverse of "bodkin".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6328,7 +6347,13 @@ O klingon tem cinco verbos correspondentes a cada um dos {nItlh:n:nolink}: {Sen:
 Correspondentemente, os dedos são denominados {SenwI':n} ({rIlwI':n} se pertencer a uma criança), {SIqwI':n}, {qaywI':n}, {qewwI':n} e {qanwI':n}.
 
 Consulte {SIq:v} para obter uma explicação sobre o uso desses verbos de dedo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana viittaa mihin tahansa käden numeroon, peukalo mukaan lukien.
+
+Klingonilla on viisi verbiä, jotka vastaavat kutakin {nItlh:n:nolink}: {Sen:v:1}, {SIq:v}, {qay:v}, {qew:v} ja {qan:v:2}. Kun viitataan lapsen peukaloon, käytetään lisäksi {rIl:v:1} {Sen:v:1,nolink}: n sijaan.
+
+Vastaavasti sormia kutsutaan {SenwI':n} ({rIlwI':n}, jos se kuuluu lapselle), {SIqwI':n}, {qaywI':n}, {qewwI':n} ja {qanwI':n}.
+
+Katso selitys näiden sormiverbien käytöstä kohdasta {SIq:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The verbs for the fingers come from names of the Finger Lakes in New York State.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6629,7 +6654,7 @@ Consulte {SIq:v} para obter uma explicação sobre o uso desses verbos de dedo. 
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Monikko on {nItlhpachDu':n@@nItlhpach:n:2,-Du':n:suff}.[1, p.80] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6802,7 +6827,7 @@ Consulte {SIq:v} para obter uma explicação sobre o uso desses verbos de dedo. 
       <column name="notes_ru">не путайте это слово с {tIq:v}.</column>
       <column name="notes_zh_HK">不要將此詞與{tIq:v}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Não confunda esta palavra com {tIq:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Älä sekoita tätä sanaa sanaan {tIq:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It says on {TKD p.50:src} that a verb expressing a state or quality can be used "immediately following a noun". The {paq'batlh:src} excerpt is an example of two adjectives on a noun ("long and dangerous battle"), where one of the Klingon verbs uses {-bogh:v:suff}, which suggests two verbs used adjectivally cannot follow one noun.</column>
       <column name="components"></column>
       <column name="examples">
@@ -8761,7 +8786,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
           <column name="notes_ru">Это относится к периоду в палеонтологии, более позднему, чем {bov tIQ:n}. [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這是指比{bov tIQ:n}最近的古生物學時期。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Isso se refere a um período em paleontologia mais recente que o {bov tIQ:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa paleontologian ajanjaksoon, joka on uudempi kuin {bov tIQ:n}. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{no':n}, {bov:n}</column>
           <column name="examples"></column>
@@ -9366,7 +9391,8 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_ru">Не путать с обществом в научном смысле, для которого есть слово {yej'an:n}.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Não confunda isso com uma sociedade no sentido acadêmico, chamado {yej'an:n}.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Älä sekoita tätä tieteellisessä mielessä yhteiskuntaan, jota kutsutaan {yej'an:n}.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10020,7 +10046,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_ru">Чтобы упомянуть предшествующий день, месяц, или год, используются {Hu':n}, {wen:n}, и {ben:n:1}, соответственно.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Para se referir ao dia, mês ou ano anterior, considere usar {Hu':n}, {wen:n} e {ben:n:1}, respectivamente. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jos haluat viitata edelliseen päivään, kuukauteen tai vuoteen, harkitse {Hu':n}-, {wen:n}- ja {ben:n:1}-vastaavien käyttöä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">While {nungbogh:v:nolink} precedes a noun, {veb:v:nolink} comes after one.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10510,7 +10536,8 @@ Huomaa myös, että "Mitkä ovat tilauksesi?" ilmaistaan ​​Klingonissa nimel
       <column name="notes_ru">Является укороченным вариантом фразы {nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v}</column>
       <column name="notes_zh_HK">這是在修剪過的克林崗語中。問“你說了什麼？”的語法方式會是{nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso está no Klingon cortado. A maneira gramatical de perguntar "O que você disse?" seria {nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä on leikattu Klingon. Kieliopillinen tapa kysyä "Mitä sanoit?" olisi {nuq Dajatlh?: sen @@ nuq: ques, Da-: v, jatlh: v}{nuq Dajatlh?:sen@@nuq:ques, Da-:v, jatlh:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -10565,7 +10592,15 @@ Watch a lesson on this word: {YouTube video:url:http://youtu.be/auqS6FR_RDE}</co
 Смотрите урок по этому слову: {YouTube video:url:http://youtu.be/auqS6FR_RDE}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä huutomerkki ei vastaa "hei". Tervehdytetyn osapuolen odotetaan yksinkertaisesti aloittavan puhumisen eikä palauttavan tervehdyksen
+
+Huomaa, että tämä huutomerkki on leikattu klingon. Kieliopillinen tapa kysyä "Mitä haluat?" olisi {nuq DaneH?: sen @@ nuq: ques, Da-: v, neH: v} [2]
+
+Katso Gowronin sanovan tämä: {YouTube video:url:http://youtu.be/s10kg0C_hSM}
+
+Katso oppitunti tästä sanasta: {YouTube video:url:http://youtu.be/auqS6FR_RDE}[2; 3]{nuq DaneH?:sen@@nuq:ques, Da-:v, neH:v} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

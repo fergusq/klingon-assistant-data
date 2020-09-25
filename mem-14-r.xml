@@ -1761,7 +1761,7 @@ Tämän sanan ensimmäinen osa on {rav:n:1} "lattia", mutta toinen osa ei liity 
       <column name="notes_ru">Это предназначено для использования людьми, в то время как {HuDyar:n} обычно используется для хранения вещей, хотя между ними есть дублирование. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是供人使用的，而{HuDyar:n}通常用於存儲事物，儘管它們之間有重疊。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se destina ao uso por pessoas, enquanto um {HuDyar:n} é normalmente usado para armazenar coisas, embora haja sobreposição entre elas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on tarkoitettu ihmisten käyttöön, kun taas {HuDyar:n}: tä käytetään tyypillisesti tavaroiden varastointiin, vaikka niiden välillä onkin päällekkäisyyksiä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The groundskeeper at Starfleet Academy, Boothby, was portrayed by Ray Walston.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2378,7 +2378,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{maH:n:1h}: {tlhIH:n} = {re-:v:pref,nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2680,7 +2680,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="notes_ru">Планета в составе Ромуланской звездной империи.</column>
       <column name="notes_zh_HK">羅慕蘭星空帝國中的一顆行星。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um planeta no Império Estelar Romulano. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Planeetta Romulan-tähtien imperiumissa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2852,7 +2852,7 @@ Muille monikulmioille, joilla on yhtäläiset sivut / kulmat, {HoS:v}: ää käy
       <column name="notes_ru">Иногда может быть подходящим использование {-taH:v:suff} (без {reH:adv}) чтобы перевести "всегда". Для примера смотрите {Duj tIvoqtaH.:sen}</column>
       <column name="notes_zh_HK">有時，使用{-taH:v:suff}（不帶{reH:adv}）翻譯“總是”可能是適當的。例如，請參閱{Duj tIvoqtaH.:sen} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Às vezes, pode ser apropriado usar {-taH:v:suff} (sem {reH:adv}) para traduzir "sempre". Por exemplo, consulte {Duj tIvoqtaH.:sen} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Joskus voi olla tarkoituksenmukaista käyttää {-taH:v:suff} (ilman {reH:adv}) kääntämään "aina". Katso esimerkiksi {Duj tIvoqtaH.:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3679,7 +3679,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="notes_ru">Он был последователем {tIquvma:n:name}, кому была отдана роль {Sech qengwI':n}. Он был братом {'or'eq:n:name}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">他是{tIquvma:n:name}的追隨者，而他被任命為{Sech qengwI':n}。他是{'or'eq:n:name}的兄弟。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ele era um seguidor de {tIquvma:n:name}, que recebeu o papel de {Sech qengwI':n}. Ele era o irmão de {'or'eq:n:name}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Hän oli {tIquvma:n:name}-seuraaja, jolle annettiin {Sech qengwI':n}-rooli. Hän oli {'or'eq:n:name}: n veli. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4025,7 +4025,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Slangitapa sanoa tämä on {ghaw':n:3}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4111,7 +4111,7 @@ o      <column name="definition_sv">Det är alltid de modiga som dör.</column>
       <column name="notes_ru">Можно сказать или {tlheH reS@@tlheH:n, reS:v} или просто {reS:sen:nolink} для "он / она читает заклинание". Неясно, может ли что-либо кроме {tlheH:n} быть объектом {reS:v:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">可以說{tlheH reS@@tlheH:n, reS:v}或{reS:sen:nolink}都是“他/她施了咒語”。不清楚{reS:v:nolink}的對像是否可以是{tlheH:n}以外的其他對象。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Pode-se dizer {tlheH reS@@tlheH:n, reS:v} ou apenas {reS:sen:nolink} para "ele / ela lança um feitiço". Não está claro se algo diferente de {tlheH:n} pode ser o objeto de {reS:v:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Voidaan sanoa joko {tlheH reS@@tlheH:n, reS:v} tai vain {reS:sen:nolink} sanoille "hän loitsee". On epäselvää, voiko jokin muu kuin {tlheH:n} olla {reS:v:nolink}: n kohde. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4288,7 +4288,7 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="notes_ru">Это то же слово, что и существительное {ret:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是與名詞{ret:n}相同的詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a mesma palavra que o substantivo {ret:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on sama sana kuin substantiivi {ret:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5173,7 +5173,7 @@ Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys a
       <column name="notes_ru">Это слово используется маленькими детьми или взрослыми, разговаривающими с маленькими детьми или о них. Взрослые обычно используют {SenwI':n} вместо этого. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞由小孩使用，或與小孩聊天或談論小孩的成年人使用。成人通常使用{SenwI':n}代替。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra é usada por crianças pequenas ou por adultos conversando com ou sobre crianças pequenas. Os adultos normalmente usam {SenwI':n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käyttävät pienet lapset tai aikuiset, jotka puhuvat pienille lapsille tai puhuvat niistä. Aikuiset käyttävät yleensä {SenwI':n}: ää. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{rIl:v:1}, {-wI':v}</column>
       <column name="examples"></column>
@@ -5634,7 +5634,10 @@ Detta avser även bläck, som för en gummistämpel ({toqwIn:n}) .[2] [AUTOTRANS
       <column name="notes_pt">Não há substantivo em Klingon que significa "cor" .[1, p.81]
 
 Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Klingonissa ei ole substantiivia, joka tarkoittaa "väri" .[1, p.81]
+
+Tämä viittaa myös musteeseen, kuten kumileimasimeen ({toqwIn:n}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Ritz" is a brand of paint or dye.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6193,7 +6196,7 @@ Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .
       <column name="notes_ru">Это относится к воображаемой линии, вокруг которой объект вращается или симметрично расположен. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指對象圍繞其旋轉或對稱排列的假想線。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a uma linha imaginária em torno da qual um objeto gira ou é simetricamente disposto. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa kuvitteelliseen viivaan, jonka ympäri esine pyöri tai on järjestetty symmetrisesti. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6451,7 +6454,7 @@ Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .
       <column name="notes_ru">Смотрите {KGT p.91:src}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">參見{KGT p.91:src}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Consulte {KGT p.91:src}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso {KGT p.91:src}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{rogh:v}, {-moH:v}</column>
       <column name="examples"></column>
@@ -7057,7 +7060,7 @@ Isso também se refere à tinta, como para um carimbo de borracha ({toqwIn:n}) .
       <column name="notes_ru">Также назван {HoHwI':n} для краткости.</column>
       <column name="notes_zh_HK">這也簡稱為{HoHwI':n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também é chamado de {HoHwI':n}, para abreviar. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä kutsutaan myös lyhyeksi nimeksi {HoHwI':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{romuluSngan:n}, {Sam:v}, {-bogh:v}, {'ej:conj}, {HoH:v}, {-bogh:v}, {nejwI':n}</column>
       <column name="examples"></column>
@@ -7177,7 +7180,7 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANS
       <column name="notes_ru">Это просто глагол {ron:v:1}, применяемый к самолету. Для пилота управлять самолетом будет {ronmoH:v:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這只是應用於飛機的動詞{ron:v:1}。對於飛行員來說，登上飛機是{ronmoH:v:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é apenas o verbo {ron:v:1} aplicado à aeronave. Para um piloto rolar uma aeronave seria {ronmoH:v:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on vain verbi {ron:v:1}, jota sovelletaan lentokoneisiin. Luotsille lentää ilmaa olisi {ronmoH:v:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The aile"ron"s control the roll on an airplane.</column>
       <column name="components"></column>
       <column name="examples">
@@ -7264,7 +7267,7 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {ron:v:2}. [AUTOTRANS
       <column name="notes_ru">Болезни упоминаются путем наименования болезни, за которым следует {rop:n:nolink}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">As doenças são referidas pelo nome da doença seguido por {rop:n:nolink}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Sairauksiin viitataan taudin nimellä, jota seuraa {rop:n:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -7622,7 +7625,10 @@ En "fet bok" skulle vara en {paq qargh:n@@paq:n:1, qargh:v}, såvida inte boken 
       <column name="notes_pt">Isso implica volume devido à gordura corporal ou algo semelhante, enquanto {pI':v} não tem essa conotação. Ambos podem ser usados ​​para expressar "não magro", mas {ror:v:nolink} é mais apropriado para expressar "não magro". Quando este verbo é usado para descrever um objeto inanimado, geralmente ocorre um pouco de antropomorfização, comparando o objeto a uma pessoa ou a um animal.[2]
 
 Um "livro gordo" seria um {paq qargh:n@@paq:n:1, qargh:v}, a menos que o livro ganhe vida como um personagem de desenho animado ou algo parecido. (Nesse caso, o sufixo plural {-pu':n:suff} também pode ser esperado.) [2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä merkitsee suurta määrää kehon rasvasta tai vastaavasta, kun taas {pI':v}: llä ei ole tätä merkitystä. Molempia voidaan käyttää ilmaisemaan "ei ohut", mutta {ror:v:nolink} on tarkoituksenmukaisempi ilmaisemaan "ei laiha". Kun tätä verbiä käytetään kuvaamaan elottomia esineitä, tapahtuu yleensä vähän antropomorfisointia, kohteen vertaamista henkilöön tai eläimeen.
+
+"Rasva kirja" olisi {paq qargh:n@@paq:n:1, qargh:v}, ellei kirja herää eloon sarjakuvahahmona tai vastaavalla tavalla. (Tällöin voidaan odottaa myös monikon pääte {-pu':n:suff}.) [2][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as just "be fat" in {TKD:src}. The clarification was added at {Saarbrücken qepHom'a' 2019:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8200,7 +8206,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_ru">Данное идиоматическое выражение очень похоже на "ответь за свои слова" или "перейти от слов к делу".</column>
       <column name="notes_zh_HK">這種慣用語是用來挑戰某人採取與他或她剛才所說的相一致的方式採取行動的。 （這類似於英語表達“把錢放在嘴裡”。） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa expressão idiomática é usada para desafiar alguém a agir de maneira consistente com algo que ele ou ela acabou de dizer. (É semelhante à expressão em inglês "coloque seu dinheiro onde está sua boca".) [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä idiomaattista ilmaisua käytetään haastamaan joku toimimaan tavalla, joka on sopusoinnussa sen kanssa, jonka hän juuri sanoi. (Se on samanlainen kuin englanninkielinen ilmaisu "laittaa rahasi sinne, missä suusi on".) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ro':n}, {-lIj:n}, {HI-:v}, {'ang:v}</column>
       <column name="examples"></column>
@@ -8988,7 +8994,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="notes_ru">Клингонская каторжная колония, планета преимущественно покрытая льдом. Заключенные посланы туда, чтобы там работать {tlhIlHalmey:n@@tlhIlHal:n, -mey:n}.</column>
       <column name="notes_zh_HK">這是克林崗半島的一個殖民地，這個星球大部分被冰覆蓋。囚犯被派往其{tlhIlHalmey:n@@tlhIlHal:n, -mey:n}工作。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma colônia penal de Klingon, um planeta coberto principalmente de gelo. Os presos são enviados para trabalhar em seu {tlhIlHalmey:n@@tlhIlHal:n, -mey:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on Klingonin rangaistuslautakunta, planeetta, jota peittää enimmäkseen jää. Vangit lähetetään töihin sen {tlhIlHalmey:n@@tlhIlHal:n, -mey:n}-kielellä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The name is based on Rorapandi, the penal colony island in the Disney movie "20,000 Leagues Under the Sea".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9571,7 +9577,7 @@ This was used for "Ok" (while {qIl:v} was used for "Cancel") in Klingon Blockly.
       <column name="notes_ru">Это слово высшего класса для описания пищи, которую следует употреблять в живую. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一個上流社會的詞，用來描述應該現場食用的食物。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma palavra da classe alta para descrever alimentos que devem ser consumidos vivos. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on ylemmän luokan sana kuvaamaan ruokaa, joka tulisi syödä suorana. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

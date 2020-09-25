@@ -149,7 +149,7 @@
       <column name="notes_ru">Это слово относится к физической стабильности. Чтобы упомянуть о нестабильном человеке, используйте {ngIj:v}.[1, стр.150]</column>
       <column name="notes_zh_HK">這是指物理穩定性。要引用不穩定的人，請使用{ngIj:v}.[1, p.150] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à estabilidade física. Para se referir a uma pessoa instável, use {ngIj:v}.[1, p.150] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa fyysiseen vakauteen. Jos haluat viitata epävakaaseen henkilöön, käytä {ngIj:v}.[1, p.150] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -375,7 +375,7 @@ Käsite "neitsyt" voidaan ilmaista sanalla kirjaimellisesti sanomalla, mikä nei
       <column name="notes_ru">Не путайте это слово с {run:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">不要將此詞與{run:v}混淆。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Não confunda esta palavra com {run:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Älä sekoita tätä sanaa sanaan {run:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1141,7 +1141,7 @@ Voidaan sanoa {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} ja niin edelleen, mutta t�
       <column name="notes_ru">Объектом является вещь, которая содержится внутри. {-Daq:n:suff} необязателен.[2]</column>
       <column name="notes_zh_HK">對像是被包含的東西。 {-Daq:n:suff}是不必要的。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto é a coisa que está sendo contida. {-Daq:n:suff} é desnecessário.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kohde on asia, jota pidetään. {-Daq:n:suff} on tarpeeton.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1227,7 +1227,7 @@ Voidaan sanoa {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} ja niin edelleen, mutta t�
       <column name="notes_ru">Для этого необходимы три ключевых ингредиента: {DIl'on:n}, {ghav:n} и {no'negh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Os três principais ingredientes necessários para fazer isso são {DIl'on:n}, {ghav:n} e {no'negh:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kolme avainkomponenttia, joita tarvitaan tämän tekemiseen, ovat {DIl'on:n}, {ghav:n} ja {no'negh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Gunpowder was discovered in China during the Tang dynasty.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1270,7 +1270,8 @@ Voidaan sanoa {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} ja niin edelleen, mutta t�
       <column name="notes_ru">Это смешивается с {tIr:n} и используется для еды {pID:v:1}. [1, p.89] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">將其與{tIr:n}混合併用於{pID:v:1}食物。[1, p.89] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é misturado com {tIr:n} e usado para {pID:v:1}.[1, p.89] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä sekoitetaan {tIr:n}: n kanssa ja sitä käytetään {pID:v:1}-ruoan kanssa.[1, p.89] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Japanese word "karaage" (唐揚げ), referring to food prepared this way, has Tang (as in the Chinese dynasty) as its first character.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3175,7 +3176,7 @@ Kohdassa {TNK:src} "Missä kauppa on?" käännetään nimellä {nuqDaq ghaH ngev
       <column name="notes_ru">Это тип смазки, используемой в пушках-разрушителях.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是用於破壞性加農炮的一種潤滑劑。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um tipo de lubrificante usado em canhões de disruptor.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on eräänlainen voiteluaine, jota käytetään häiritsevissä tykeissä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The fact that this is used on disruptor cannons comes from the glossary to {Honor Bound:src}.
 
 For a very long time, this was an unofficial word, but it was confirmed by Okrand for a translation of The Wizard of Oz.[2]</column>
@@ -4856,7 +4857,7 @@ Huomaa, että "silloin" tarkoittaa "myöhemmin" on {ghIq:adv}.[1][1] [AUTOTRANSL
       <column name="notes_ru">Это относится к человеку, который дает показания в суде. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指在法庭上作證的人。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma pessoa que testemunha em tribunal. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa henkilöön, joka todistaa oikeudessa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{nguH:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -5071,7 +5072,7 @@ Huomaa, että "silloin" tarkoittaa "myöhemmin" on {ghIq:adv}.[1][1] [AUTOTRANSL
       <column name="notes_ru">Относится к фракции, что контроллирует большую часть Гамма Квадранта.</column>
       <column name="notes_zh_HK">這是指控制大多數伽瑪象限的派系。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se à facção que controla a maior parte do quadrante gama. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa ryhmään, joka hallitsee suurinta osaa Gamma-kvadrantista. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ngup:n:2}, {-'a':n}</column>
       <column name="examples"></column>
@@ -5200,7 +5201,8 @@ Huomaa, että "silloin" tarkoittaa "myöhemmin" on {ghIq:adv}.[1][1] [AUTOTRANSL
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">克林崗語寫作系統中沒有“大寫”或“小寫”。 {ngutlh tIn:n@@ngutlh:n, tIn:v}和{ngutlh mach:n@@ngutlh:n, mach:v}可以分別用於這些。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Klingonin kirjoitusjärjestelmässä ei ole "isoja kirjaimia" tai "pieniä kirjaimia". Näihin voidaan käyttää vastaavasti {ngutlh tIn:n@@ngutlh:n, tIn:v} ja {ngutlh mach:n@@ngutlh:n, mach:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "letter, written character". The additional definition "glyph" comes from {jItuj'ep ngutlh:n:nolink}.</column>
       <column name="components"></column>
       <column name="examples">{jItuj'ep ngutlh:n}</column>

@@ -268,7 +268,7 @@ Annetun lupauksen tai lupauksen yhteydessä (katso {'Ip:v} ja {lay':v}) {pab:v:n
       <column name="notes_ru">Смотрите {jej:v} и {jejHa':v} для двух идиоматических выражений, в которых участвуют {pach:n:nolink}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Consulte {jej:v} e {jejHa':v} para obter duas expressões idiomáticas envolvendo {pach:n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso {jej:v} ja {jejHa':v} kahdesta idiomaattisesta lausekkeesta, joihin liittyy {pach:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -505,7 +505,7 @@ Pakollinen verbi-etuliite, kun kohde on {pagh:n:1h,nolink}, on {yI-:v:pref}, jos
       <column name="notes_ru">Это более выразительная альтернатива для {not:adv}.</column>
       <column name="notes_zh_HK">這是{not:adv}的重要替代方案。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma alternativa enfática ao {not:adv}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on painava vaihtoehto {not:adv}: lle. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{pagh:n:2}, {-logh:n:num,suff}</column>
       <column name="examples">
@@ -1542,7 +1542,7 @@ Katso myös hypoteettinen samanlainen kieliopillinen rakenne kohdasta {tIq'ghob:
           <column name="notes_ru">Это слово редко используется в прямом обращении. Вместо этого пары называют друг друга {bang pong:n}.[1, p.199] [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這個詞很少在直接地址中使用。而是由{bang pong:n}.[1, p.199]互相呼叫 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Essa palavra raramente é usada em endereço direto. Em vez disso, os casais se chamam por {bang pong:n}.[1, p.199] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käytetään harvoin suorassa osoitteessa. Sen sijaan pariskunnat soittavat toisilleen {bang pong:n}.[1, p.199] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components"></column>
           <column name="examples"></column>
@@ -2235,7 +2235,10 @@ Förväxla inte detta med {paw:v}. [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo {paw':v:nolink} sempre leva um sujeito no plural, a saber, as coisas em movimento que colidem. Quando o assunto é pessoas, o verbo é geralmente interpretado com o significado da gíria de "cabeçadas" (ver {paw':v:2,slang}). Para descrever a colisão de algo se movendo com algo parado, use {ngeQ:v} em vez disso.[2; 3]
 
 Não confunda isso com {paw:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Verbi {paw':v:nolink} ottaa aina monikkomuodon, nimittäin törmäävät liikkeessä olevat asiat. Kun aihe on ihminen, verbi tulkitaan yleensä slang-merkityksellä "puskupäät" (katso {paw':v:2,slang}). Käytä sen sijaan {ngeQ:v}: n kuvaamista törmäyksestä, joka liikkuu jonkin paikallaan olevan kanssa.
+
+Älä sekoita tätä {paw:v}: een.[2; 3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's what it sounds like.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2281,6 +2284,7 @@ Não confunda isso com {paw:v}. [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
 <!-- ERROR: Missing link #1. -->
 <!-- ERROR: Missing link #4. -->
+<!-- ERROR: Mismatched brackets. -->
 <!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Kuten tämän verbin kirjaimellisessa käytössä (ks. Jos sanotaan, että kaksi ihmistä törmää toisiinsa tarkoittamatta, että he ovat takapäätä, {ngeQ:v}: ta voidaan käyttää yhdessä {-chuq:v:suff}: n kanssa.{paw':v:1}[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's what it sounds like.</column>
@@ -4273,7 +4277,9 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/GonhyphPQPU} [AUTOTRAN
       <column name="notes_pt">Este é um dos epítetos Klingon mais comuns.
 
 Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/GonhyphPQPU} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on yksi yleisimmistä klingonin epiteeteistä.
+
+Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/GonhyphPQPU} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">There's an explanation of the origin of this word on {paq'batlh p.70:src}.
 
 The sentence {nItlhejbogh petaQmey tInuD:sen:nolink} occurs on {paq'batlh p.143:src}, but it's not clear if the suffix {-mey:n:suff} is always used with this word.</column>
@@ -4318,7 +4324,7 @@ The sentence {nItlhejbogh petaQmey tInuD:sen:nolink} occurs on {paq'batlh p.143:
       <column name="notes_ru">Это устройство или вещество, используемое {HaqwI':n} для соединения сломанных костей на месте. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{HaqwI':n}用來將折斷的骨頭粘合到位的裝置或物質。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um dispositivo ou substância usada pelo {HaqwI':n} para colar ossos quebrados no lugar. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on laite tai aine, jota {HaqwI':n} käyttää rikkoutuneiden luiden kiinnittämiseen paikoilleen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This seems to refer to a device similar to one used by the Federation called a bone-knitting laser (knitter for short), bone regenerator, or osteo-regenerator.
 
 "Duck tape". Possibly related to {pet:v}.</column>
@@ -4377,7 +4383,9 @@ Se Gowron säga detta: {YouTube video:url:http://youtu.be/QAd6OugYyxw} [AUTOTRAN
       <column name="notes_pt">Isso é usado ao se dirigir a várias pessoas. Para se dirigir a uma única pessoa, diga {yIvang!:sen@@yI-:v, vang:v}
 
 Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/QAd6OugYyxw} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään puhuttaessa useille ihmisille. Jos haluat puhua yksittäiselle henkilölle, sano {yIvang!:sen@@yI-:v, vang:v}
+
+Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{pe-:v}, {vang:v}</column>
       <column name="examples"></column>
@@ -4507,7 +4515,7 @@ Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/QAd6OugYyxw} [A
       <column name="notes_ru">Относится к инструменту, а не к оружию.</column>
       <column name="notes_zh_HK">這是指工具刀，而不是武器刀。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma faca de ferramenta, em oposição a uma faca de arma. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa työkaluterään, toisin kuin aseveitsiin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{pe':v}, {-meH:v}, {taj:n}</column>
       <column name="examples"></column>
@@ -5046,7 +5054,7 @@ Verbi {roS:v:2} tarkoittaa "kolmannen kärjen käyttämistä". Se on myös homof
       <column name="notes_ru">Заметьте, что {ghaj:v} используется с этим существительным, чтобы обозначить вину или проступок.</column>
       <column name="notes_zh_HK">請注意，{ghaj:v}與該名詞一起使用來表示過錯或非議。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que {ghaj:v} é usado com este substantivo para indicar falha ou culpa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että tätä substantiivia käytetään {ghaj:v}: llä osoittamaan vikaa tai syyllisyyttä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5395,7 +5403,8 @@ Verbi {roS:v:2} tarkoittaa "kolmannen kärjen käyttämistä". Se on myös homof
       <column name="notes_ru">Другой способ выразить это, если он решителен, это перифрастически: {V 'ej V-qa' ('ej V-qa'...):sen:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">強調的另一種表達方式是近距表達：{V 'ej V-qa' ('ej V-qa'...):sen:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Outra maneira de expressar isso, se for enfática, é perifricamente: {V 'ej V-qa' ('ej V-qa'...):sen:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Toinen tapa ilmaista tämä, jos se on korostettava, on etenevästi: {V 'ej V-qa' ('ej V-qa' ...): sen: nolink}.{V 'ej V-qa' ('ej V-qa'...):sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5570,7 +5579,7 @@ Verbi {roS:v:2} tarkoittaa "kolmannen kärjen käyttämistä". Se on myös homof
       <column name="notes_ru">Это относится к мотивации со стороны внешнего источника, в отличие от {vaw:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與{vaw:v}相比，這是指外部來源的動力。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à motivação de uma fonte externa, em contraste com o {vaw:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa ulkoisen lähteen motivaatioon, toisin kuin {vaw:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Someone needs to take a "pill".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6263,7 +6272,12 @@ For other units of time, {pIq:n:nolink} is used.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Erikoissanaa käytetään osoittamaan tulevaisuuden aika seuraaville yksiköille:
+▶ {jaj:n} "päivä" - {leS:n} "päivää nyt"
+▶ {jar:n} "kuukausi" - {waQ:n} "kuukausi nyt"
+▶ {DIS:n:2} "vuosi" - {nem:n} "vuosi sitten"
+
+Muita aikayksikköjä käytetään {pIq:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6698,7 +6712,7 @@ In the promotional posters and videos for {DSC:src}, as well as in the backgroun
       <column name="notes_ru">Относится к нижней части объекта, а не к нижней части изнутри (для которой смотрите {bIS'ub:n}).</column>
       <column name="notes_zh_HK">這是指對象的底面，而不是其內部底部（即其{bIS'ub:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se à parte inferior de um objeto, e não à parte inferior interna (que é o {bIS'ub:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa kohteen alaosaan eikä sen sisäpohjaan (joka on sen {bIS'ub:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a reference to Pyramus, a character played by Nick Bottom in the play-within-a-play in Shakespeare's "A Midsummer Night's Dream".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7179,7 +7193,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/4gCJJiBXa
       <column name="notes_ru">Это особый, довольно острый клингонский напиток. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種特殊的辛辣克林崗飲料。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma bebida Klingon especial e bastante picante. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on erityinen, melko pistävä Klingon-juoma. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8489,7 +8503,8 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Это слово может также относиться к масти «сердца» в колоде игральных карт (см. {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此單詞還可以指一副撲克牌中的“心臟”套裝（請參閱{Degh:n:1}）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra também pode se referir ao naipe "coração" em um baralho de cartas (consulte {Degh:n:1}) .[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä sana voi viitata myös "sydänpukuun" pelikorttipakassa (katso {Degh:n:1}).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A leaf has lots of "pore"s.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8706,7 +8721,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Клингоны не так много говорят о функциях организма как о группе, но они, безусловно, говорят о конкретных функциях организма (см. {porgh mIw:n}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">Klingons並沒有過多地討論作為一個整體的身體功能，但是他們確實在談論特定的身體功能（請參閱{porgh mIw:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os klingons não falam muito sobre funções corporais como um grupo, mas certamente falam sobre funções corporais específicas (consulte {porgh mIw:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Klingonit eivät puhu niin paljon ruumiillisista toiminnoista ryhmänä, mutta he puhuvat varmasti erityisistä ruumiillisista toiminnoista (ks.{porgh mIw:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">A person who studies this would presumably be a {porghtej:n@@porgh:n, tej:n}, but this word has never appeared in canon.</column>
       <column name="components">{porgh:n}, {QeD:n}</column>
       <column name="examples"></column>
@@ -9929,7 +9944,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_ru">Этот глагол также используется для разносторонних треугольников.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此動詞也用於斜角三角形。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo também é usado para triângulos escalenos.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä verbiä käytetään myös skaalakolmioihin.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It is unclear what this means when applied to polygons and polyhedra.</column>
       <column name="components"></column>
       <column name="examples"></column>

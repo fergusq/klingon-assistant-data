@@ -107,7 +107,7 @@
       <column name="notes_ru">В стандартном диалекте, это может быть выражено, используя фразу {Hom Hutlhbogh ghab@@Hom:n:1, Hutlh:v, -bogh:v, ghab:n}.[1, p.27]</column>
       <column name="notes_zh_HK">在標準方言中，將使用短語{Hom Hutlhbogh ghab@@Hom:n:1, Hutlh:v, -bogh:v, ghab:n}來表達。[1, p.27] [AUTOTRANSLATED]</column>
       <column name="notes_pt">No dialeto padrão, isso seria expresso usando a frase {Hom Hutlhbogh ghab@@Hom:n:1, Hutlh:v, -bogh:v, ghab:n}.[1, p.27] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tavallisessa murteessa tämä ilmaistaan ​​sanalla {Hom Hutlhbogh ghab@@Hom:n:1, Hutlh:v, -bogh:v, ghab:n}.[1, p.27] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ghab:n}, {tun:v}</column>
       <column name="examples"></column>
@@ -150,7 +150,8 @@
       <column name="notes_ru">Общее слово для уничтожения - {HoH:v}. {ghab:v:nolink} означает «убить» в результате охоты (таким образом, охота была успешной) или когда убийство является результатом запланированного процесса.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">殺人的通用詞是{HoH:v}。 {ghab:v:nolink}的意思是狩獵導致的“殺戮”（因此狩獵是成功的一次），或者是由於計劃外的謀殺而導致的殺戮。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A palavra geral para matar é {HoH:v}. {ghab:v:nolink} significa "matar" como resultado da caça (portanto, a caça foi bem-sucedida), ou quando a matança é o resultado de um processo planejado.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Yleinen sana tappaa on {HoH:v}. {ghab:v:nolink} tarkoittaa "tappamista" metsästyksen seurauksena (siten metsästys onnistui) tai kun tappaminen on suunnitellun prosessin tulos.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In hunting jargon, to "bag" an animal is to successfully hunt it.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -193,7 +194,8 @@
       <column name="notes_ru">Это означает, что субъект скрыт, но представляет угрозу, такую ​​как готовность к засаде.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這意味著該對象處於隱藏狀態，但構成威脅，例如準備伏擊。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa que o assunto está oculto, mas representa uma ameaça, como estar pronto para uma emboscada.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä tarkoittaa, että kohde on piilotettu, mutta uhkaa, kuten on valmis väijytykseen.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -313,7 +315,25 @@ The imperative verb prefix when {ghaH:n:nolink} is the object is {yI-:v:pref}.</
 Глагольный префикс повелительного наклонения, когда {ghaH:n:nolink} является объектом, {yI-:v:pref}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän pronominin monikko on {chaH:n:pro}.
+
+Verbien etuliitteet, kun aihe {ghaH:n:nolink} on:
+▶ {ghaH:n:nolink}: {pagh:n:1h} = {0:v:pref}
+▶ {ghaH:n:nolink}: {jIH:n:1h} = {mu-:v:pref}
+▶ {ghaH:n:nolink}: {maH:n:1h} = {nu-:v:pref}
+▶ {ghaH:n:nolink}: {SoH:n} = {Du-:v:pref}
+▶ {ghaH:n:nolink}: {tlhIH:n} = {lI-:v:pref}
+▶ {ghaH:n:nolink}: {ghaH:n:nolink} / {'oH:n} / {chaH:n} / {bIH:n} = {0:v:pref}
+
+Verbien etuliitteet, kun {ghaH:n:nolink} on objekti:
+▶ {jIH:n:1h}: {ghaH:n:nolink} = {vI-:v:pref}
+▶ {maH:n:1h}: {ghaH:n:nolink} = {wI-:v:pref}
+▶ {SoH:n}: {ghaH:n:nolink} = {Da-:v:pref}
+▶ {tlhIH:n}: {ghaH:n:nolink} = {bo-:v:pref}
+▶ {ghaH:n:nolink} / {'oH:n}: {ghaH:n:nolink} = {0:v:pref}
+▶ {chaH:n} / {bIH:n}: {ghaH:n:nolink} = {lu-:v:pref}
+
+Pakollinen verbin etuliite, kun kohde on {ghaH:n:nolink}, on {yI-:v:pref}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -454,7 +474,7 @@ The imperative verb prefix when {ghaH:n:nolink} is the object is {yI-:v:pref}.</
       <column name="notes_ru">Обратите внимание, что клингонские представления о законной собственности могут не совпадать с понятиями Федерации. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">請注意，法定所有權的克林崗概念可能與聯邦的概念不同。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que as noções klingon de propriedade legal podem não ser as mesmas da Federação. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että Klingonin oikeudellisen omistuksen käsitteet eivät välttämättä ole samat kuin federaation. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Throughout {Klingon Monopoly:src}, {ghaj:v} is translated as "own", but this may be because possession is the closest concept in Klingon culture to ownership.</column>
       <column name="components">{ghaj:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -497,7 +517,7 @@ The imperative verb prefix when {ghaH:n:nolink} is the object is {yI-:v:pref}.</
       <column name="notes_ru">Ревность также выражается идиомой {SuD veqlargh mInDu'.:sen} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">嫉妒也由成語{SuD veqlargh mInDu'.:sen}表達 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O ciúme também é expresso pelo idioma {SuD veqlargh mInDu'.:sen} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Kateutta ilmaisee myös idioomi {SuD veqlargh mInDu'.:sen} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The word {ghal:v:nolink} was mistakenly used as a noun meaning "envoy" in the Dramatis Personae on {paq'batlh p.40-41:src} in the first edition.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -540,7 +560,7 @@ The imperative verb prefix when {ghaH:n:nolink} is the object is {yI-:v:pref}.</
       <column name="notes_ru">Это животная версия {ghIv:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{ghIv:n}的動物版本。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é a versão animal do {ghIv:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {ghIv:n}-eläinversio. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">There is a slang word "gam" in English which means "leg".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -972,7 +992,7 @@ This is the "cornerstone" ({qor:sen:nolink}-{nagh:n}) of something.</column>
       <column name="notes_ru">Субъект этого глагола - лицо, вызывающее преждевременное завершение события. Объект - это законченное событие. Если завершение события не было преждевременным, используйте вместо этого {van:v:2}. Чтобы описать окончание периода времени, используйте вместо этого {Dor:v:2}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此動詞的主題是導致事件過早結束的人。對像是結束的事件。如果事件的結束不是不成熟的，請改用{van:v:2}。要描述一段時間的結束，請改用{Dor:v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O sujeito deste verbo é a pessoa que causa o término prematuro de um evento. O objeto é o evento que terminou. Se o término do evento não foi prematuro, use {van:v:2}. Para descrever o final de um período de tempo, use {Dor:v:2}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin aihe on henkilö, joka aiheuttaa tapahtuman ennenaikaisen päättymisen. Kohde on tapahtuma, joka on päättynyt. Jos tapahtuman loppu ei ollut ennenaikainen, käytä sen sijaan {van:v:2}. Käytä ajanjakson päättymistä kuvaamalla {Dor:v:2}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Quite often, the hitting of a "gong" brings an event to a premature end.</column>
       <column name="components"></column>
       <column name="examples">
@@ -1059,7 +1079,7 @@ This is the "cornerstone" ({qor:sen:nolink}-{nagh:n}) of something.</column>
       <column name="notes_ru">Это следует за последним существительным.</column>
       <column name="notes_zh_HK">這是最後一個名詞。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto segue o substantivo final. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä seuraa lopullista substantiivia. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1664,7 +1684,7 @@ This is the "cornerstone" ({qor:sen:nolink}-{nagh:n}) of something.</column>
       <column name="notes_ru">Это слово избегается в {voSpegh Sep:n}, где вместо него используется {'IghvaH chej chatlh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在{voSpegh Sep:n}中避免使用此詞，而在其中使用{'IghvaH chej chatlh:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa palavra é evitada em {voSpegh Sep:n}, onde {'IghvaH chej chatlh:n} é usado. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa vältetään {voSpegh Sep:n}: ssä, jossa sen sijaan käytetään {'IghvaH chej chatlh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1793,7 +1813,7 @@ This is the "cornerstone" ({qor:sen:nolink}-{nagh:n}) of something.</column>
       <column name="notes_ru">Это один из возможных глаголов для использования с {watrIn:n}.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是與{watrIn:n}.[3]一起使用的可能動詞 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um verbo possível para usar com {watrIn:n}.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on yksi mahdollinen verbi, jota voidaan käyttää {watrIn:n}.[3]: n kanssa [AUTOTRANSLATED]</column>
       <column name="hidden_notes">An English definition has never been given for this word. Its meaning is inferred from the examples of its usage.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2318,7 +2338,8 @@ In the list of vocabulary used in {KCD:src} which was given to the KLI in advanc
       <column name="notes_ru">Этот глагол используется, чтобы задать вопрос, тогда как {tlhob:v} используется для выполнения запроса.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞用於提出問題，而{tlhob:v}用於提出請求。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é usado para fazer uma pergunta, enquanto {tlhob:v} é usado para fazer uma solicitação.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tätä verbiä käytetään kysymyksen esittämiseen, kun taas {tlhob:v} käytetään pyynnön tekemiseen.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It's implied that {ghel:v:nolink} works in a similar manner to {tlhob:v:nolink}, but this isn't explicitly stated.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2498,7 +2519,8 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Этот глагол выражает идею объединения мыслей в достаточно связную форму, чтобы их можно было передать кому-то другому. Он отличается от {qon:v} тем, что {gher:v:nolink} предполагает, что информация просто передается.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞表達了將思想匯聚成合理連貫的形式以便可以將其表達給其他人的想法。它與{qon:v}的不同之處在於{gher:v:nolink}表示僅在傳遞信息。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo expressa a ideia de reunir pensamentos em uma forma razoavelmente coerente para que possam ser expressos para outra pessoa. É diferente de {qon:v} porque {gher:v:nolink} sugere que as informações estão apenas sendo repassadas.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä verbi ilmaisee ajatuksen ajatusten yhdistämisestä kohtuullisen yhtenäiseen muotoon, jotta ne voidaan ilmaista jollekin muulle. Se eroaa {qon:v}: stä siinä, että {gher:v:nolink} viittaa siihen, että tietoja välitetään vain eteenpäin.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2733,7 +2755,7 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Использование этого слова не подразумевает никакого обмана. Это просто указывает на ролевую игру.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">使用該詞並不意味著任何欺騙。它只是表示角色扮演。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Nenhum engano é implícito pelo uso desta palavra. Simplesmente indica role-playing.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän sanan käyttö ei merkitse petosta. Se tarkoittaa yksinkertaisesti roolipeliä.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"The Great Pretender".</column>
       <column name="components">{ghet:v}, {-wI':v}</column>
       <column name="examples">
@@ -3083,7 +3105,7 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Это короткий способ обозначить энергетическое поле, которое вызывает терраформирование. Более длинный способ обратиться к этой концепции будет {ghe'moHbogh HoSchem:n@@ghe':v, -moH:v, -bogh:v, HoSchem:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是引用導致地形發生的某種能量場的簡短方法。 {ghe'moHbogh HoSchem:n@@ghe':v, -moH:v, -bogh:v, HoSchem:n}是提及此概念的一種較長方法。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma maneira curta de se referir a um campo de energia de algum tipo que causa a terraformação. Uma maneira mais longa de se referir a esse conceito seria {ghe'moHbogh HoSchem:n@@ghe':v, -moH:v, -bogh:v, HoSchem:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on lyhyt tapa viitata jonkinlaiseen energiakenttään, joka saa aikaan terraformingin. Pidempi tapa viitata tähän käsitteeseen olisi {ghe'moHbogh HoSchem:n@@ghe':v, -moH:v, -bogh:v, HoSchem:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ghe':v}, {chem:n:hyp}</column>
       <column name="examples"></column>
@@ -3126,7 +3148,7 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Пример клингонской оперы - «Актух и Мелота» (см. {'aqtu':n:name} и {mellota':n:name}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗歌劇的一個例子是“阿克圖和梅洛塔”（見{'aqtu':n:name}和{mellota':n:name}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um exemplo de ópera Klingon é "Aktuh e Melota" (ver {'aqtu':n:name} e {mellota':n:name}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Esimerkki Klingonin oopperasta on "Aktuh and Melota" (katso {'aqtu':n:name} ja {mellota':n:name}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3168,7 +3190,7 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Это {ghe'naQ:n}, следующий традиционной форме, предпочитаемой пуристами. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是遵循純粹主義者偏愛的傳統形式的{ghe'naQ:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um {ghe'naQ:n} seguindo a forma tradicional preferida pelos puristas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on {ghe'naQ:n}, joka seuraa puristien suosimaa perinteistä muotoa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ghe'naQ:n}, {nIt:v}</column>
       <column name="examples"></column>
@@ -3211,7 +3233,7 @@ Yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) on {QoQ ghom:
       <column name="notes_ru">Также это может быть написано {ghe''or:n:place,nolink}.</column>
       <column name="notes_zh_HK">這也寫成{ghe''or:n:place,nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também está escrito {ghe''or:n:place,nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on myös kirjoitettu {ghe''or:n:place,nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">It is written {ghe''or:n:place,nolink} in {TKDA:src} and pronounced that way in {PK:src}, but is consistently written {ghe'tor:n:place,nolink} in later sources.</column>
       <column name="components"></column>
       <column name="examples">
@@ -3539,7 +3561,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Эта идиома используется для обозначения: «Не пытайтесь ввести меня в заблуждение, если вы цените свою жизнь». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個習慣用語的意思是“如果珍惜生命，請不要誤導我”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse idioma é usado para significar "Não tente me enganar se você valoriza sua vida". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käytetään tarkoittamaan "Älä yritä johtaa minua harhaan, jos arvotat elämääsi". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4103,7 +4125,10 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Этот глагол можно использовать с {turmIq:n}, {qeQ:n} и {taQbang:n:2}. [2]. У клингонов нет эвфемизмов для обозначения посещения туалета, они просто говорят {taQbang ghIm:sen:nolink} и так далее. Сленговое выражение {qIvon belmoH:sen} время от времени используется, в основном, детьми или для детей.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo pode ser usado com {turmIq:n}, {qeQ:n} e {taQbang:n:2}.[2] Os klingons não têm eufemismos para ir ao banheiro e diriam apenas {taQbang ghIm:sen:nolink} e assim por diante. A expressão de gíria {qIvon belmoH:sen} é usada de vez em quando, principalmente por ou para crianças.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #4. -->
+<!-- ERROR: Missing link #5. -->
+<!-- ERROR: Missing link #7. -->
+<column name="notes_fi">Tätä verbiä voidaan käyttää seuraavien kanssa: {turmIq:n}, {qeQ:n} ja {taQbang:n:2}. Slangilauseketta {qIvon belmoH:sen} käytetään aika ajoin, enimmäkseen lapset tai lapset.[2]{taQbang ghIm:sen:nolink}[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -4190,7 +4215,8 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Это относится к зданию или группе зданий, включая любые сопутствующие территории, такие как сады. Это не относится к группе людей, которые там живут, работают или учатся.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">指建築物或建築物群，包括任何附屬場地，例如花園。它不是指在那裡生活，工作或學習的人群。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um edifício ou grupo de edifícios, incluindo quaisquer terrenos que o acompanham, como jardins. Não se refere ao grupo de pessoas que vive, trabalha ou estuda lá.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä tarkoittaa rakennusta tai rakennusten ryhmää, mukaan lukien kaikki siihen liittyvät tontit, kuten puutarhat. Se ei tarkoita ihmisryhmää, joka asuu, työskentelee tai opiskelee siellä[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Plymouth Gin is produced by The Black Friars Distillery, formerly a Dominican monastery in Plymouth, England.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4364,7 +4390,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Объектом этого глагола является лицо, обвиняемое и подлежащее судебному разбирательству (или фактически судимое) военным трибуналом. Субъект тот, кто предъявил обвинение.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">該動詞的對像是被軍事法庭起訴並受到審判（或實際審判）的人。提出起訴的人為對象。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto desse verbo é a pessoa acusada e sujeita a julgamento (ou realmente julgado) por um tribunal militar. O sujeito é quem trouxe a acusação.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin kohde on henkilö, jonka sotilastuomioistuin on syyttänyt häntä ja joka on oikeudenkäynnin kohteena (tai tosiasiallisesti oikeudenkäynnissä). Aihe on kuka on nostanut syytteen.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4579,7 +4605,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Это слово не используется для сортировки.[3] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此詞不用於排序。[3] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra não é usada para ordem de classificação.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">When descending, you need to drop your landing "gear".</column>
       <column name="components"></column>
       <column name="examples">
@@ -4677,7 +4703,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Это может быть использовано для описания хорошей чаши {qagh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可以用來形容一碗美味的{qagh:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode ser usado para descrever uma boa tigela de {qagh:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää kuvaamaan hyvää kulhoa {qagh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4806,7 +4832,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Есть идиома {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語{yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Someone with writer's cramp might not be able to use his hand to form this.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4849,7 +4875,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="notes_ru">Есть идиома {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語{yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {yuDHa'; ghIt rur@@yuDHa':v, ghIt:n:0, rur:v}.[1, p.131] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5170,7 +5196,10 @@ I {TNK:src} används {ghItlhwI':n:nolink} för "penna" och {ghojmeH ghItlhwI':n:
       <column name="notes_pt">Esta palavra é usada para qualquer instrumento de escrita, bem como para qualquer pessoa que escreve.[1]
 
 Em {TNK:src}, {ghItlhwI':n:nolink} é usado para "caneta" e {ghojmeH ghItlhwI':n:nolink} é usado para "lápis" .[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Tätä sanaa käytetään mihin tahansa kirjoitusvälineeseen sekä kenelle tahansa kirjoittavalle henkilölle.[1]
+
+{TNK:src}: ssa {ghItlhwI':n:nolink}: ta käytetään "kynään" ja {ghojmeH ghItlhwI':n:nolink}: tä "lyijykynään".[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The instrument/agent confusion is similar to that for the English word "printer", which can refer either to a device or to a person. This word takes the suffix {-mey:n:suff} when it refers to a device and {-pu':n:suff} when it refers to a person.</column>
       <column name="components">{ghItlh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -5359,7 +5388,9 @@ Det finns 243 {lawmey:n:nolink} i en {gho:n:nolink} eller 360 {lawrI'mey:n:nolin
       <column name="notes_pt">Existe um idioma, {vIHtaH gho:sen}.
 
 Existem 243 {lawmey:n:nolink} em um {gho:n:nolink} ou 360 {lawrI'mey:n:nolink}. (Consulte {law:n} e {lawrI':n}.) [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {vIHtaH gho:sen}.
+
+{gho:n:nolink}: ssa on 243 {lawmey:n:nolink}: ta tai 360 {lawrI'mey:n:nolink}: ssä. (Katso {law:n} ja {lawrI':n}.) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -5533,7 +5564,7 @@ Existem 243 {lawmey:n:nolink} em um {gho:n:nolink} ou 360 {lawrI'mey:n:nolink}. 
           <column name="notes_ru">Это слово относится к геометрической фигуре. [AUTOTRANSLATED]</column>
           <column name="notes_zh_HK">這個詞指的是幾何圖形。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Esta palavra se refere à figura geométrica. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana viittaa geometriseen kuvioon. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{gho:n}, {tut:n:2}</column>
           <column name="examples"></column>
@@ -5693,7 +5724,12 @@ I stigande graden av våldsamhet är de verb som används för att beskriva mili
 É provavelmente significativo que esta palavra seja homófona com a palavra para ética ou virtude ({ghob:n}) .[2]
 
 Em ordem crescente de ferocidade, os verbos usados ​​para descrever confrontos militares são: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä verbi viittaa konkreettiseen taisteluun. Katso sodan käymisen käsite {Qoj:v}.
+
+On luultavasti merkittävää, että tämä sana on homofoninen etiikkaa tai hyveitä koskevan sanan kanssa ({ghob:n}).
+
+Armeijan nousevassa järjestyksessä sotilaallisia yhteenottoja kuvaavia verbejä ovat: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6011,7 +6047,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Используется, чтобы описать, как вещи помещаются внутрь рюкзака или мешка, но с незаканчивающимся свободным местом, которое могло бы {qorgh:v}.</column>
       <column name="notes_zh_HK">這用於將東西放入背包或枕頭袋中，但不阻止開口，這將是{qorgh:v}.[2]。它也不適用於動物標本剝制術或毛絨動物，請參見{tlhut:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">É usado para colocar coisas dentro de uma mochila ou almofada, mas não obstruindo uma abertura, que seria {qorgh:v}.[2] Também não é usado para taxidermia ou bichos de pelúcia, para os quais ver {tlhut:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä käytetään tavaroiden asettamiseen reppuun tai tyynypussiin, mutta ei pysäyttämällä aukkoa, mikä olisi {qorgh:v}.[2]. Sitä ei myöskään käytetä taksidermiaan tai pehmoleluihin, joista ks. {tlhut:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6185,7 +6221,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Идиома {jop 'ej way':sen:idiom} выражает похожую мысль.[2]</column>
       <column name="notes_zh_HK">成語{jop 'ej way':sen:idiom}表示類似的想法。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O idioma {jop 'ej way':sen:idiom} expressa uma ideia semelhante.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Idioomi {jop 'ej way':sen:idiom} ilmaisee samanlaisen idean.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7096,7 +7132,8 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Это относится к жестокому обращению или эксплуатации, но не относится к физическому насилию.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指虐待或剝削，但不是指身體虐待。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a abuso ou exploração, mas não se refere a abuso físico.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä viittaa väärinkäyttöön tai hyväksikäyttöön, mutta ei tarkoita fyysistä hyväksikäyttöä[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This was defined as "abuse" in {TKD:src}, and expanded to include "exploit" at {qep'a' 26 (2019):src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7355,7 +7392,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7_rXiSTQm
       <column name="notes_ru">Это также относится к словам (см. {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這也適用於單詞（請參閱{mu'mey ghoQ:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também é aplicado a palavras (consulte {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sovelletaan myös sanoihin (katso {mu'mey ghoQ:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7804,7 +7841,8 @@ Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta
       <column name="notes_ru">В {Hamlet:src} упоминается не ({ghorqan:n:name}), кто стремился заключить мир с Федерацией, а один из его предков</column>
       <column name="notes_zh_HK">{Hamlet:src}中的提法不是要尋求與聯邦和平的總理（{ghorqan:n:name}），而是他的一位傳奇祖先。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">A referência em {Hamlet:src} não é para o Chanceler ({ghorqan:n:name}) que buscou a paz com a Federação, mas para um de seus ancestrais lendários.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">{Hamlet:src}-viite ei koske liittokanslerille ({ghorqan:n:name}), joka etsi rauhaa federaation kanssa, vaan yhteen hänen legendaarisista esi-isistään.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8040,7 +8078,7 @@ Yksi hänen legendaarisista edeltäjistään nimettiin myös "Gorkoniksi", mutta
       <column name="notes_ru">Предполагается, что один личный файл будет {ghot ta:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">一個人事檔案大概是一個{ghot ta:n:nolink}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Um único arquivo pessoal provavelmente seria um {ghot ta:n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Yksi henkilöstötiedosto olisi oletettavasti {ghot ta:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ghot:n}, {-pu':n}, {ta:n}, {-mey:n}</column>
       <column name="examples"></column>
@@ -8270,7 +8308,11 @@ Detta ord är främmande ursprung. Anledningen till att Klingons använder ett f
       <column name="notes_pt">Este é um tipo de mancha ou inflamação da pele que afeta os Klingons no início da puberdade.[1; 2]
 
 Esta palavra tem origem estranha. A razão pela qual os Klingons usam uma palavra estranha para isso é para colocar alguma distância entre eles e algo considerado embaraçoso.[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Tämä on eräänlainen ihon tahra tai tulehdus, joka vaikuttaa klingoneihin murrosiän aikana.
+
+Tämä sana on alkuperältään vieras. Syy siihen, miksi Klingonit käyttävät tähän ulkomaalaista sanaa, on asettaa jonkinlainen etäisyys itsensä ja kiusallisen välillä.[1; 2][3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8530,7 +8572,7 @@ Esta palavra tem origem estranha. A razão pela qual os Klingons usam uma palavr
       <column name="notes_ru">Это относится к звуку, издаваемому животным, но не к речи. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指動物發出的聲音，而不是語音。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se ao som emitido por um animal, mas não à fala. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa eläimen lähettämään ääniin, mutta ei puheeseen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9308,7 +9350,7 @@ Katso myös loppuliitteet {-rup:v} ja {-beH:v} valmistelun tai valmiuden osoitta
       <column name="notes_ru">Это относится к прогнозированию на основе своих чувств или просто дикой догадки. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指根據一個人的感覺進行預測或只是一個瘋狂的猜測。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à previsão com base nos sentimentos de alguém ou apenas em um palpite. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa ennustamiseen tunteiden tai vain villin arvauksen perusteella. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The term "gut feeling" refers to one's intuition.</column>
       <column name="components"></column>
       <column name="examples"></column>

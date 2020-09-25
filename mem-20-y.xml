@@ -806,7 +806,8 @@ Mikä tahansa paikka, joka on nimenomaisesti tarkoitettu tietyn tehtävän tai t
       <column name="notes_ru">Это в обрезанном клингоне. В стандартном клингоне "понимаешь?" (говорит с одним человеком) будет {bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是在修剪過的克林崗語中。在標準的克林貢語中，“您了解嗎？” （與一個人交談）將是{bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso está no Klingon cortado. No Klingon padrão, "você entende?" (falando com uma pessoa) seria {bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä on leikattu Klingon. Tavallisessa Klingon-muodossa "ymmärrätkö?" (puhuminen yhdelle henkilölle) olisi {bIyaj'a '?: sen: nolink}{bIyaj'a'?:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yaj:v}, {-'a':v}</column>
       <column name="examples"></column>
@@ -1493,7 +1494,7 @@ Korkein armeijan upseeri, {ra'ghomquv:n}: n päällikkö, on {la'quv:n}. Joku, j
       <column name="notes_ru">Это серая (иногда белая) птица, которая может путешествовать особенно на большие расстояния без остановки. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一隻灰色（有時是白色）的鳥，可以不停地走很長的距離。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um pássaro cinzento (às vezes branco) que pode viajar longas distâncias sem fazer uma pausa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on harmaa (joskus valkoinen) lintu, joka voi kulkea erityisen pitkiä matkoja pysähtymättä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Yacht Cup". The Swallow is a type of keelboat.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1887,7 +1888,7 @@ Maltz thought there must have been, historically, a connection between this word
       <column name="notes_ru">Для глагола "повторить", см. {'et:v} "отскок". [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">對於動詞“ to echo”，請參見{'et:v}“ rebound”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para o verbo "ecoar", consulte {'et:v} "rebote". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Verbi "kaikua", katso {'et:v} "rebound". [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Toyota Yaris was also sold under the name Toyota Echo.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2380,7 +2381,7 @@ Não confunda isso com uma sociedade no sentido cultural, para a qual veja {nugh
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">{ruq'e'vet:n}-murreessa {ghIH:v:2} tarkoittaa {yepHa':v:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yep:v}, {-Ha':v}</column>
       <column name="examples"></column>
@@ -3704,7 +3705,7 @@ An earlier translation of this phrase appears in UPN's Star Trek 25th Anniversar
       <column name="notes_ru">Посмотрите, как Говрон говорит: {YouTube video:url:http://youtu.be/sKHEvMGdaxE} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">觀看Gowron這樣說：{YouTube video:url:http://youtu.be/sKHEvMGdaxE} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Assista Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/sKHEvMGdaxE} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/sKHEvMGdaxE} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Toral, son of Duras ({DuraS:n:name}), calls Gowron this in the episode {TNG - Redemption:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5424,7 +5425,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="notes_ru">Это слово не используется для съемной верхней части, которая была бы «крышкой» {yuvtlhe':n}. Другая сторона объекта {yor:n:nolink} называется его {'aqroS:n:1}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta palavra não é usada para uma parte superior removível, que seria uma "tampa" de {yuvtlhe':n}. A outra face do {yor:n:nolink} de um objeto é chamada de {'aqroS:n:1}.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa ei käytetä irrotettavaan yläosaan, joka olisi {yuvtlhe':n}-kansi. Objektin {yor:n:nolink} toista kasvoa kutsutaan sen {'aqroS:n:1}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"You're the Top" is a song by Cole Porter.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5467,7 +5468,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="notes_ru">Это общий термин для фиксированной или нефиксированной полки. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是固定或非固定架子的總稱。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o termo geral para uma prateleira fixa ou não fixa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on yleinen termi kiinteälle tai kiinteälle hyllylle. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5909,7 +5910,7 @@ Jotkut {Qo'noS:n}: n tunnetuista alueista ovat:
       <column name="notes_ru">Этот термин относится к концепции, которая появляется в верованиях клингонов о загробной жизни. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個術語是指在克林崗人關於來世的信仰中出現的一個概念。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este termo refere-se a um conceito que aparece nas crenças de Klingon sobre a vida após a morte. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä termi viittaa käsitteeseen, joka esiintyy Klingonin uskomuksissa tuonpuoleisesta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{yo':n}, {qIj:v}</column>
       <column name="examples"></column>
@@ -6088,7 +6089,7 @@ Ensimmäinen ja toinen {yu:n:nolink} eivät ole oktaavierot, vaan pikemminkin no
       <column name="notes_ru">Люди едят {yuch ngoghmey:n:nolink}, который Мальц считает странным. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">人類吃了{yuch ngoghmey:n:nolink}，Maltz發現它很奇怪。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Os humanos comem {yuch ngoghmey:n:nolink}, o que Maltz acha estranho. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Ihmiset syövät {yuch ngoghmey:n:nolink}-aineistoa, jonka Maltz pitää outona. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -6823,7 +6824,7 @@ Ensimmäinen ja toinen {yu:n:nolink} eivät ole oktaavierot, vaan pikemminkin no
       <column name="notes_ru">Объект этого глагола (когда он есть) - это человек или группа людей (обычно) отвлекающихся. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個動詞的對象（如果有）是分散注意力的一個人或一群人。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O objeto desse verbo (quando existe um) é a pessoa ou grupo de pessoas (geralmente) que está sendo distraído. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin kohde (kun sellainen on) on henkilö tai ihmisryhmä (yleensä) hämmentynyt. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

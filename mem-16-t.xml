@@ -364,7 +364,7 @@ Canon violations of this rule include:
       <column name="notes_ru">Название покрытой льдом колониальной планеты в империи клингонов. Его название буквально означает «замороженный» ({taD:v}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">克林崗帝國冰封殖民地星球的名稱。它的名字字面意思是“凍結”（{taD:v}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O nome de um planeta de colônia coberta de gelo no Império Klingon. Seu nome significa literalmente "congelado" ({taD:v}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jääpeitteisen siirtomaa-planeetan nimi Klingonin valtakunnassa. Sen nimi tarkoittaa kirjaimellisesti "jäädytettyä" ({taD:v}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -478,7 +478,11 @@ Istället för att använda verbet {tagh:v:nolink}, överväga att använda verb
 Se o iniciador do processo for desconhecido, obscuro ou indefinido, o processo se torna o sujeito do verbo (nesse caso, não leva objeto): {taghbej mu'qaD veS:sen:nolink} "A guerra de maldições começou definitivamente." [3]
 
 Em vez de usar o verbo {tagh:v:nolink}, considere usar o sufixo verbal {-choH:v:suff}. Por exemplo, um aluno que é iniciante pode ser descrito como {ghojchoHwI'} (aquele que está começando a aprender) ou como {ghojchoH} (começando a aprender). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin aihe on henkilö tai asia, joka aloittaa prosessin, ja esine on prosessi. Esimerkiksi: {Qu' DataghDI' 'aqtu' mellota' je tIqaw.:sen} "Kun aloitat tehtävän, muista Aktuh ja Melota." [2]
+
+Jos prosessin käynnistin on tuntematon, epäselvä tai määrittelemätön, prosessista tulee verbin aihe (jolloin se ei vie mitään objektia): {taghbej mu'qaD veS:sen:nolink} "Kiroussota on varmasti alkanut." [3]
+
+Harkitse verbiliitteen {-choH:v:suff} sijaan, että käytät verbiä {tagh:v:nolink}. Esimerkiksi opiskelija, joka on aloittelija, voidaan kuvata {ghojchoHwI'}: ksi (joka alkaa oppia) tai sanoa {ghojchoH} (alkaa oppia). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -612,7 +616,8 @@ Em vez de usar o verbo {tagh:v:nolink}, considere usar o sufixo verbal {-choH:v:
       <column name="notes_ru">Это относится к кораблю в космосе, который повернул нос вниз. Поворот на отрицательный угол в 90 градусов означал бы, что нос корабля был направлен вниз относительно его предыдущей ориентации.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指太空中的船頭向下旋轉的船隻。旋轉90度的負角將意味著船頭相對於先前的方向筆直指向下方。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma nave espacial que girou o nariz para baixo. Uma rotação em um ângulo negativo de 90 graus significaria que o nariz do navio estava apontado diretamente para baixo em relação à sua orientação anterior.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä viittaa avaruudessa olevaan alukseen, joka on pyörittänyt nenäänsä alaspäin. 90 asteen negatiivisen kulman kiertäminen tarkoittaisi, että aluksen nenä osoitti suoraan alaspäin edelliseen suuntaan nähden.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1942,7 +1947,7 @@ The English translation of the sentence from {Star Trek Constellations:src} does
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on kirsikkaa muistuttava hedelmä. Kun tarvitaan selvennystä, maan hedelmää edeltää {tera':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3534,7 +3539,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="notes_ru">Это сокращение от {ta' tlhIngan Hol:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是{ta' tlhIngan Hol:n}的縮寫。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é abreviação de {ta' tlhIngan Hol:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on lyhyt sanalle {ta' tlhIngan Hol:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{ta':n:2}, {Hol:n}</column>
       <column name="examples"></column>
@@ -4807,7 +4812,16 @@ Earth is a major planet in the Federation ({DIvI':n}) and the third planet in th
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on ihmisen kotimaailman nimi. Katso "maa" tarkoittaa "lika", katso {lam:n}.
+
+Maa on suuri planeetta federaatiossa ({DIvI':n}) ja kolmas planeetta {Sol:n}-tähtijärjestelmässä. Maanosat ovat:
+▶ {'amerI'qa' tIng chan tIng:n} "Etelä-Amerikka"
+▶ {'amerI'qa' 'ev chan 'ev:n} "Pohjois-Amerikka"
+▶ {'antartIq:n} "Etelämanner"
+▶ {'aSralya':n} "Australia"
+▶ {'aSya':n} "Aasia"
+▶ {'avrI'qa':n} "Afrikka"
+▶ {'ewrop:n} "Eurooppa" [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4864,7 +4878,9 @@ Observera att en människa ({Human:n}) är medlem av de viktigaste inhemska spr�
       <column name="notes_pt">Existe um idioma, {Hoj; tera'ngan rur@@Hoj:v, tera'ngan:n, rur:v}.
 
 Observe que um humano ({Human:n}) é um membro das principais espécies da Terra com capacidade de linguagem indígena ({tera':n:place}), enquanto o Terran ({tera'ngan:n:nolink}) se refere a qualquer habitante do planeta. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {Hoj; tera'ngan rur@@Hoj:v, tera'ngan:n, rur:v}.
+
+Huomaa, että ihminen ({Human:n}) on tärkeimpien maan alkuperäiskielen kykenevien lajien ({tera':n:place}) jäsen, kun taas Terran ({tera'ngan:n:nolink}) viittaa mihin tahansa planeetan asukkaaseen. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tera':n}, {ngan:n}</column>
       <column name="examples"></column>
@@ -5036,7 +5052,7 @@ Observe que um humano ({Human:n}) é um membro das principais espécies da Terra
       <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tera':n}, {na'ran:n}</column>
       <column name="examples"></column>
@@ -5122,7 +5138,7 @@ Observe que um humano ({Human:n}) é um membro das principais espécies da Terra
       <column name="notes_ru">Это то, что клингоны назвали бы фруктами терранов. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這就是克林崗人所說的人族水果。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isto é o que os klingons chamariam de fruto terráqueo. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä Klingons kutsuisi Terran-hedelmäksi. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tera':n}, {na'ran:n}, {wIb:v}</column>
       <column name="examples"></column>
@@ -5600,7 +5616,7 @@ Terran-kuukaudet ovat:
       <column name="notes_ru">Это относится к любому виду искусственного покрытия, а не только к эмали. Это не относится к зубам. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指任何種類的人造塗層，而不僅僅是搪瓷。它不適用於牙齒。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere a qualquer tipo de revestimento artificial, não apenas ao esmalte. Não se aplica aos dentes. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä viittaa mihin tahansa keinotekoiseen pinnoitteeseen, ei vain emaliin. Se ei koske hampaita. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5910,7 +5926,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_ru">Это означает «файл» в смысле пилочки для ногтей и тому подобного, а не файл данных (см. {ta:n}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">在指甲銼之類的意義上，這意味著“文件”，而不是數據文件（有關此信息，請參見{ta:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "arquivo" no sentido de uma lixa de unhas e similares, não um arquivo de dados (para o qual consulte {ta:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa "tiedostoa" kynsitiedoston ja vastaavien merkityksessä, ei datatiedostoa (josta ks. {ta:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined as "file" in {KGT:src}. The "tool" part was added for clarification.</column>
       <column name="components">{tey:v:1}, {-wI':v}</column>
       <column name="examples"></column>
@@ -6952,7 +6968,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_ru">Глагол, используемый для «удара» (как в сердцебиении) - {joq:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">用於“跳動”（如心跳）的動詞是{joq:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">O verbo usado para "batida" (como em um batimento cardíaco) é {joq:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">"Sykkeelle" käytetty verbi (kuten sydämenlyönnissä) on {joq:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Tick tock, the sound of a heart beat. The heart is also colloquially called the "ticker".</column>
       <column name="components"></column>
       <column name="examples">
@@ -7125,7 +7141,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_ru">Острое оружие, похожее на длинный меч Земли. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">一種有刃武器，類似於地球長劍。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Uma arma afiada, semelhante a uma espada longa da Terra. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Teräinen ase, samanlainen kuin maapallomiekka. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7211,7 +7227,7 @@ This word was used for the "list" variable type in Klingon Blockly.[4]</column>
       <column name="notes_ru">Ткнаг - опасный хищник, родом из клингонской планеты Таганика.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">tknag是克林崗星球塔甘尼卡（Taganika）原生的危險食肉動物。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">O tknag é um perigoso carnívoro nativo do planeta Klingon Taganika.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tknag on vaarallinen lihansyöjä, joka on kotoisin Taglingan Klingon-planeetalta.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7399,7 +7415,7 @@ Hänen kannattajansa ovat {lIr'el:n:name} ja {voq:n:name}. Hänen lippulaivansa 
       <column name="notes_ru">Этот глагол также используется для равносторонних треугольников (см. {ra'Duch tIQ:n}). [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">此動詞也用於等邊三角形（請參閱{ra'Duch tIQ:n}）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo também é usado para triângulos equilaterais (consulte {ra'Duch tIQ:n}). [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä verbiä käytetään myös tasasivuisiin kolmioihin (katso {ra'Duch tIQ:n}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Antique".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7818,7 +7834,8 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="notes_ru">В отличие от {rach:v}, этот глагол, как правило, не применяется к существам и предлагает только восстановление предыдущего состояния (и не обязательно улучшение) .[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與{rach:v}不同，此動詞通常不應用於存在者，它僅建議恢復到先前的狀態（不一定是改善）。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ao contrário de {rach:v}, esse verbo geralmente não é aplicado aos seres e sugere apenas a restauração para um estado anterior (e não necessariamente para melhoria).[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #2. -->
+<column name="notes_fi">Toisin kuin {rach:v}, tätä verbiä ei tyypillisesti sovelleta olentoihin, ja se ehdottaa vain palauttamista edelliseen tilaan (eikä välttämättä parannusta).[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7947,7 +7964,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="notes_ru">Существует идиома {bIt; tI'qa' vIghro' rur@@bIt:v, tI'qa' vIghro':n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語，{bIt; tI'qa' vIghro' rur@@bIt:v, tI'qa' vIghro':n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {bIt; tI'qa' vIghro' rur@@bIt:v, tI'qa' vIghro':n, rur:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {bIt; tI'qa' vIghro' rur@@bIt:v, tI'qa' vIghro':n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">{bIt:v:nolink} is actually written incorrectly as {tIb:v:nolink} on {KGT p.132:src}, in the statement of the idiom.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8509,7 +8526,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="notes_ru">Это примерно как английское "Ага!" ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這大致類似於英語中的“啊哈！” （{TKD 5.5:src}） [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é mais ou menos como o inglês "Aha!" ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on suunnilleen kuin englantilainen "Aha!" ({TKD 5.5:src}) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8553,7 +8570,7 @@ Tätä verbiä voidaan käyttää refleksiivisesti tarkoittamaan "nauti", "pidä
       <column name="notes_ru">Если обман связан с честью или социальным статусом, см. {Qaq:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">如果欺騙涉及榮譽或社會地位，請參閱{Qaq:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se o engano envolver honra ou status social, consulte {Qaq:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jos petokseen liittyy kunnia tai sosiaalinen asema, katso {Qaq:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -8781,7 +8798,11 @@ Det används också för att namnge kampsportställningar. För att beordra någ
       <column name="notes_pt">Refere-se a uma única técnica executada em uma luta ou, por extensão, a uma única manobra jogada em um jogo.[3]
 
 Também é usado para nomear posturas de artes marciais. Para comandar alguém a assumir uma postura ou pose, o verbo {much:v:3} é usado. A palavra {tonSaw':n:nolink} pode ser deixada de fora do nome se o contexto for claro.[4] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Tämä viittaa yhteen taistelussa suoritettuun tekniikkaan tai jatkossa yhteen pelin pelaamiseen.
+
+Sitä käytetään myös taistelulajien kantojen nimeämiseen. Käsketään joku lyödä asenne tai poseeraa, käytetään verbiä {much:v:3}. Sana {tonSaw':n:nolink} voidaan jättää nimen ulkopuolelle, jos asiayhteys on selkeä.[3][4] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">To translate "The Final Reflection", where "reflection" is a maneuver in a game (see {tlhInja:n}), Maltz suggested {tonSaw' Qav:n:nolink} or {neSlo' tonSaw' Qav:n:nolink}.[3]</column>
       <column name="components"></column>
       <column name="examples">
@@ -8925,7 +8946,7 @@ Também é usado para nomear posturas de artes marciais. Para comandar alguém a
       <column name="notes_ru">Это редкий минерал, который добывается. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是一種稀有的礦物質。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um mineral raro que é extraído. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on harvinainen mineraali, jota louhitaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8968,7 +8989,7 @@ Também é usado para nomear posturas de artes marciais. Para comandar alguém a
       <column name="notes_ru">Существует идиома {tlhIb; toppa' rur}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有一個成語，{tlhIb; toppa' rur}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {tlhIb; toppa' rur}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">On idioomi {tlhIb; toppa' rur}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -9474,7 +9495,8 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Com base no seu uso no {paq'batlh:src}, o objeto escalado é o objeto, o destino é marcado com {-Daq:n} e o ponto de partida é marcado com {-vo':n}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #4. -->
+<column name="notes_fi">Perustuen sen käyttöön {paq'batlh:src}: ssä, kiipeilevä asia on objekti, kohde on merkitty {-Daq:n}: lla ja aloituspiste on merkitty {-vo':n}: lla.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <!-- These need page numbers and proofreading. -->
@@ -10011,7 +10033,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_ru">Это идиоматическое выражение буквально означает «жевать связку». [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這種慣用語的字面意思是“咀嚼韌帶”。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Essa expressão idiomática significa literalmente "mastigar ligamento". [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä idiomaattinen ilmaisu tarkoittaa kirjaimellisesti "pureskella nivelsiteitä". [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -10231,7 +10253,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="notes_ru">Для клингонов пророчество - это как-то «вызвать» будущее. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">對於克林崗人而言，預言就是能夠以某種方式“召喚”未來。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Para os klingons, profetizar é ser capaz de "convocar" o futuro de alguma forma. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Klingonsille ennustaminen tarkoittaa kykyä "kutsua" tulevaisuus jotenkin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In {TOS - Mirror, Mirror:src}, Mirror Spock says to Kirk: "One man cannot summon the future."</column>
       <column name="components">{tuch:n}, {rIt:v}</column>
       <column name="examples"></column>
@@ -11338,7 +11360,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
       <column name="notes_ru">Смотрите в {tuq:n} объяснение, как выразить членство в палате. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">有關如何表達眾議院成員身份的說明，請參見{tuq:n}下的內容。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Veja em {tuq:n} para obter uma explicação de como expressar associação em uma Casa. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso kohdasta {tuq:n} selitys siitä, miten ilmaista jäsenyys talossa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -11654,7 +11676,7 @@ Slangilauseke {qogh tuQmoHHa':sen}, kirjaimellisesti "ottaa pois vyönsä", tark
       <column name="notes_ru">Если контекст не ясен, будет использоваться {De'wI' turwI':n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">如果上下文不清楚，將使用{De'wI' turwI':n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se o contexto não estiver claro, {De'wI' turwI':n} seria usado. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Jos konteksti ei ole selkeä, käytetään {De'wI' turwI':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{tur:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -12251,7 +12273,7 @@ Kolmen puolen pohjalla oleva prisma on {ra'Duch tut:n@@ra'Duch:n, tut:n:2} ja ni
       <column name="notes_ru">Посмотрите, как Говрон говорит: {YouTube video:url:http://youtu.be/dhcRzrNc_P0} [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">觀看Gowron這樣說：{YouTube video:url:http://youtu.be/dhcRzrNc_P0} [AUTOTRANSLATED]</column>
       <column name="notes_pt">Assista Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/dhcRzrNc_P0} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/dhcRzrNc_P0} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the episode {DS9 - Blood Oath:src}, Kor asks Kang (regarding Jadzia Dax): "Why do you dismiss her like some useless t'ooho'mIrah?" This was adapted by Okrand in {KGT:src} and used in {KCD:src} (see the example sentence).[3]
 
 The KLI got a list of vocabulary used in {KCD:src} in advance, which was printed in {HQ 5.1:src}. As this list was just a preview containing no additional information (many of the words would subsequently officially appear in {KGT:src}), {HQ 5.1:src} has been left out of the list of sources for these words. There are two minor differences with {KGT:src}, one of which was that {tu'HomI'raH:n:nolink} was simply transliterated as "T'oohomIrah" (spelled that way, but not otherwise defined or explained).[4] (See {gha'tlhIq:n} for the other one.)</column>
@@ -12343,6 +12365,7 @@ The KLI got a list of vocabulary used in {KCD:src} in advance, which was printed
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
 <!-- ERROR: Missing link #3. -->
+<!-- ERROR: Mismatched brackets. -->
 <!-- ERROR: Mismatched brackets. -->
 <column name="notes_fi">Tämä on verbi {tu':v}, jonka pääte on {-lu':v}, jonka yhdistelmä käännetään usein englanniksi "on" -toimintona. {lu-:v:pref}, eli {lutu'lu':sen:nolink}) .[1; 3; 4][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
@@ -12437,7 +12460,7 @@ The KLI got a list of vocabulary used in {KCD:src} in advance, which was printed
       <column name="notes_ru">Это также может быть использовано для «темы» применительно к приложению.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這也可以用於應用到應用程序的“主題”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também pode ser usado para um "tema", conforme aplicado a um aplicativo.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää myös "teemaan" sovelluksena sovellettuna.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">{ngutlh tu'qom:n}</column>

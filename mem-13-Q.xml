@@ -106,7 +106,7 @@
       <column name="notes_ru"></column>
       <column name="notes_zh_HK">此動詞用於揮舞或揮動斧頭，棍棒等。[1, p.64]也可以應用於{betleH:n}[2]或whip[3]。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo é usado para empunhar ou balançar um machado, uma clava ou algo semelhante.[1, p.64] Também pode ser aplicado a um {betleH:n}[2] ou whip[3]. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä verbiä käytetään kirvesen, keppiä tai vastaavien heiluttamiseen tai heiluttamiseen.[1, p.64] Sitä voidaan käyttää myös {betleH:n}[2]- tai whip[3]-piikkeihin. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Crutch".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -192,7 +192,7 @@
       <column name="notes_ru">Это чувство {QaD:v:2,nolink} происходит от его сходства с {Qan:v}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">{QaD:v:2,nolink}的這種感覺來自與{Qan:v}的相似之處。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este sentido de {QaD:v:2,nolink} vem de sua semelhança com {Qan:v}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tunne {QaD:v:2,nolink} tulee sen samankaltaisuudesta {Qan:v}: n kanssa. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -278,7 +278,7 @@
       <column name="notes_ru">Это также может использоваться, чтобы упомянуть о баге(ошибке в программе)[2]</column>
       <column name="notes_zh_HK">這也可以用來指代軟件“錯誤”。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também pode ser usado para se referir a um "bug" do software.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää myös viittaamaan ohjelmistovirheeseen .[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -810,7 +810,7 @@ Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column
       <column name="notes_ru">Титул правителя Клингонской империи, когда ей перестал править Император.</column>
       <column name="notes_zh_HK">這是克林崗帝國領導人的頭銜，當時它不是由皇帝統治的。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é o título do líder do Império Klingon, quando não é governado por um imperador. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on Klingonin imperiumin johtajan titteli, kun sitä ei hallitse keisari. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">{Qang yIQan!:sen}</column>
@@ -1074,7 +1074,7 @@ Não confunda isso com o {qa'raj:n} de nome semelhante. [AUTOTRANSLATED]</column
       <column name="notes_ru">Это слово использовано в качестве ритуала приветствия!. Смотрите {Qapla'!:sen}.</column>
       <column name="notes_zh_HK">這個詞用作禮節問候。參見{Qapla'!:sen}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra é usada como uma saudação ritual. Consulte {Qapla'!:sen}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä sanaa käytetään rituaalisena tervehdyksenä. Katso {Qapla'!:sen}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1146,7 +1146,11 @@ Se en lektion om detta ord: {YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUT
 Veja Gowron dizer o seguinte: {YouTube video:url:http://youtu.be/ZdNqwDxEyiU}
 
 Assista a uma lição sobre esta palavra: {YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on yksi Klingonin yleisimmin käytettyjä huutomerkkejä, jonka tunnistaa myös monet ei-puhuvat. Ole varovainen oikeinkirjoituksen suhteen, koska muut kuin klingonit sekoittavat sen usein.
+
+Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/ZdNqwDxEyiU}
+
+Katso oppitunti tästä sanasta: {YouTube video:url:http://youtu.be/auqS6FR_RDE} [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The Klingon version of this sentence has no exclamation mark as printed on {TKD p.171:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1189,7 +1193,7 @@ Assista a uma lição sobre esta palavra: {YouTube video:url:http://youtu.be/auq
       <column name="notes_ru">Это относится к устройству, вокруг которого наматывается нить или провод. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指在其上纏繞線或線的設備。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um dispositivo em torno do qual fio ou fio é enrolado. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa laitetta, jonka ympärille kierre tai lanka kierretään. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1232,7 +1236,7 @@ Assista a uma lição sobre esta palavra: {YouTube video:url:http://youtu.be/auq
       <column name="notes_ru">Обман подразумевается использованием этого глагола. Однако он отличается от {toj:v} тем, что обман каким-то образом связан с честью или социальным статусом. Например, этот глагол может использоваться для кого-то, кто утверждал, что имел ранг, которого он не достиг, или был членом дома или семьи, к которой он не принадлежал. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">使用此動詞暗含欺騙。但是，它與{toj:v}的不同之處在於，欺騙在某種程度上涉及榮譽或社會地位。例如，該動詞可以用於聲稱自己沒有達到的等級的人，或者是他不屬於的房屋或家庭的成員。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Decepção está implícita no uso deste verbo. No entanto, difere de {toj:v}, pois o engano envolve honra ou status social de alguma maneira. Por exemplo, esse verbo pode ser usado para alguém que afirma ter uma classificação que ele não havia atingido ou ser membro de uma casa ou família à qual não pertencia. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän verbin käyttö merkitsee petosta. Se eroaa kuitenkin {toj:v}: stä siinä, että petokseen liittyy jollain tavalla kunnia tai sosiaalinen asema. Esimerkiksi tätä verbiä voidaan käyttää sellaisen henkilön kohdalla, joka väitti olevansa arvoltaan, jota hän ei ollut saavuttanut, tai olevan sellaisen talon tai perheen jäsen, johon hän ei kuulunut. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Crock".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1569,7 +1573,7 @@ Kohdassa {Klingon Monopoly:src} {tlhIngan QaS:n:nolink} on pelissä käytetty ra
       <column name="notes_ru">Для слова "твердый" смотрите {let:v}. Смотрите также {ngem Sarghmey tlha':sen:idiom} для идиомы, которая отнесена к сложности или запутанности.</column>
       <column name="notes_zh_HK">有關“硬（非軟）”的信息，請參閱{let:v}。另請參閱{ngem Sarghmey tlha':sen:idiom}了解與難度或複雜性有關的成語。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Katso "kova (ei pehmeä)" kohdasta {let:v}. Katso myös {ngem Sarghmey tlha':sen:idiom} vaikeuksiin tai monimutkaisuuteen liittyvästä idiomasta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1969,7 +1973,7 @@ Kohdassa {Klingon Monopoly:src} {tlhIngan QaS:n:nolink} on pelissä käytetty ra
       <column name="notes_ru">Более конкретно, данное животное называется {jajlo' Qa':n}.[2]</column>
       <column name="notes_zh_HK">更具體地說，此動物稱為{jajlo' Qa':n}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Mais especificamente, este animal é chamado de {jajlo' Qa':n}.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tarkemmin sanottuna tätä eläintä kutsutaan nimellä {jajlo' Qa':n}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2013,7 +2017,7 @@ Kohdassa {Klingon Monopoly:src} {tlhIngan QaS:n:nolink} on pelissä käytetty ra
       <column name="notes_ru">Ноги Крада являются популярным Клингонским блюдом. Делается из конечностей Крада.</column>
       <column name="notes_zh_HK">Krada腿是由Krada的末端製成的一種受歡迎的Klingon食品。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">As pernas de Krada são um alimento Klingon popular feito das extremidades de uma krada. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Krada-jalat ovat suosittu klingoniruoka, joka on valmistettu kradan ääripäistä. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2859,7 +2863,7 @@ This word was awarded to {janSIy:n:name,nolink} as a Friend of Maltz.</column>
       <column name="notes_ru">Может быть использовано для дыры в поверхности земли, пустоте в дереве, и так далее. Разница между {QemjIq:n:nolink} и {qung:n} в том, что первый может быть заполнен ({teb:v}).[1] (т.е {QemjIq:n:nolink} впадина или углубление, в то время как {qung:n:nolink} это прокол или пробой.)</column>
       <column name="notes_zh_HK">它可以用於地面上的孔，樹上的空洞等。 {QemjIq:n:nolink}和{qung:n}之間的區別在於前者可以填充（{teb:v}）.[1]（即{QemjIq:n:nolink}是空腔或凹陷，而{qung:n:nolink}是穿孔或穿孔）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tätä voidaan käyttää reikään maahan, onttoon puuhun ja niin edelleen. Ero {QemjIq:n:nolink}: n ja {qung:n}: n välillä on se, että edellinen voidaan täyttää ({teb:v}) .[1] (Toisin sanoen {QemjIq:n:nolink} on ontelo tai syvennys, kun taas {qung:n:nolink} on puhkaisu tai reikä.) [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In the Beatles song "A Day in The Life", a line goes "Four thousand holes in Blackburn, Lancashire".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2945,7 +2949,7 @@ This word was awarded to {janSIy:n:name,nolink} as a Friend of Maltz.</column>
       <column name="notes_ru">Это относится к сухому заварке чая, включая растения или части животных. Для напитка, сделанного из этого, см. {Dargh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這是指包括植物或動物部分的干茶沖泡物。對於由此製成的飲料，請參見{Dargh:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se à fermentação do chá seco, incluindo plantas ou partes de animais. Para a bebida feita com isso, consulte {Dargh:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä tarkoittaa kuivattua teetä, joka sisältää kasveja tai eläinosia. Katso tästä valmistettu juoma kohdasta {Dargh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3868,7 +3872,7 @@ Klingonin konsonanttien nimet koostuvat äänestä, jota seuraa {ay:sen:nolink},
       <column name="notes_ru">"Региональный акцент" будет {Sep QIch wab Ho'DoS:n:nolink} или {Sep QIch wab Sar:n:nolink} или {Sep QIch wab Ho'DoS Sar:n:nolink}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Um "sotaque regional" seria {Sep QIch wab Ho'DoS:n:nolink} ou {Sep QIch wab Sar:n:nolink} ou {Sep QIch wab Ho'DoS Sar:n:nolink}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">"Alueellinen aksentti" olisi {Sep QIch wab Ho'DoS:n:nolink}, {Sep QIch wab Sar:n:nolink} tai {Sep QIch wab Ho'DoS Sar:n:nolink}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{QIch wab Ho'DoS:n}, {Sar:n}</column>
       <column name="examples"></column>
@@ -4315,7 +4319,8 @@ Tätä sanaa ei käytetä tarkoittavan "haluaa, kaipaa, kaipaa sitä, sitä tode
       <column name="notes_ru">Это может принимать в качестве объекта {watrIn:n} или {'onroS:n}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這可以將{watrIn:n}或{'onroS:n}作為其對象。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso pode levar {watrIn:n} ou {'onroS:n} como seu objeto.[1] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #3. -->
+<column name="notes_fi">Tämä voi ottaa kohteeksi {watrIn:n} tai {'onroS:n}.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4801,7 +4806,7 @@ Sitä käytetään viittaamaan (geometrisen) tähden pisteeseen ({DujtlhuQ:n}).[
       <column name="notes_ru">Это слово не ограничивается оружием. Например, его можно использовать для снятия инструмента с ремня инструмента. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">這個詞不僅限於武器。例如，它可用於從工具帶上取下工具。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra não se limita a armas. Por exemplo, ele pode ser usado para remover uma ferramenta de um cinto de ferramentas. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana ei rajoitu aseisiin. Sitä voidaan käyttää esimerkiksi työkalun poistamiseen työkaluhihnasta. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Quick". In gun duels, the winner is often the one with the faster draw. Also, "quick" has an archaic sense of "the living", as in "the quick and the dead".
 
 This word was awarded to {janSIy:n:name,nolink} as a Friend of Maltz.</column>
@@ -5572,7 +5577,9 @@ This verb can take {'e':n:pro} as its object.[2]</column>
       <column name="notes_pt">A discordância também é expressa pela expressão idiomática {cha' DoSmey DIqIp.:sen:idiom}
 
 Este verbo pode ter {'e':n:pro} como seu objeto.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Erimielisyydet ilmaistaan ​​myös idiomaattisella ilmaisulla {cha' DoSmey DIqIp.:sen:idiom}
+
+Tämä verbi voi ottaa objektiksi {'e':n:pro}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">At {Saarbrücken qepHom'a' 2011:src}, MO accepted {maQoch 'e' wIQochbe':sen:nolink} as a way of expressing "we agree to disagree" in Klingon, though he did not compose the sentence.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5774,7 +5781,7 @@ Sopimus ilmaistaan ​​myös idiomaattisella ilmaisulla {wa' DoS wIqIp.:sen:id
       <column name="notes_ru">Слово относится к органу. Для контекста "разум", смотрите слово {yab:n}.</column>
       <column name="notes_zh_HK">這個詞是指器官。有關“意識”的含義，請參閱{yab:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra refere-se ao órgão. Para o sentido de "mente", consulte {yab:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana viittaa urkuun. Katso mielen merkitys kohdasta {yab:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">From Latin "cogito", meaning "to think".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -6584,7 +6591,7 @@ Tämä viittaa mihin tahansa musiikkiin, niin laulu-, instrumentaali- kuin molem
       <column name="notes_ru">Это более общий термин для группы (любого размера), исполняющей музыку, по сравнению с {ghenraq:n}. [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK">與{ghenraq:n}相比，這是一個更廣泛的術語，用於表示一組（任何大小）的音樂。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um termo mais geral para um grupo (de qualquer tamanho) tocando música, em comparação com {ghenraq:n}. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä on yleisempi termi musiikkia soittavalle ryhmälle (kaikenkokoisille) verrattuna {ghenraq:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{QoQ:n}, {ghom:n}</column>
       <column name="examples"></column>
@@ -7131,7 +7138,8 @@ Krotmagin alueella kaiuttimet korvaavat {b:sen:nolink}: n {m:sen:nolink}: lla ja
       <column name="notes_ru">Это означает "слышать", а не просто "слушать". Слушатель должен воспринимать и понимать, что было сказано.[2, стр.31]</column>
       <column name="notes_zh_HK">這意味著“聽”，而不僅僅是“聽”。傾聽者必須真正理解並理解所講的內容.[2, p.31] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa "ouvir" e não apenas "ouvir". O ouvinte deve realmente perceber e entender o que está sendo dito.[2, p.31] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #1. -->
+<column name="notes_fi">Tämä tarkoittaa "kuule" eikä vain "kuuntele". Kuulijan on todella havaittava ja ymmärrettävä mitä sanotaan[2, p.31] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is defined only as "hear" in {TKD:src}. The "listen to" definition was added based on the explanation in {TKW:src}.</column>
       <column name="components"></column>
       <column name="examples">
@@ -7642,7 +7650,10 @@ Slangbetydelsen av {chong:v:2,slang}, när den appliceras på en person, motsvar
       <column name="notes_pt">Este verbo pode ter {'e':n:pro} como seu objeto.[2]
 
 O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é equivalente a {Qubchu'} "pense claramente" .[3] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<!-- ERROR: Missing link #5. -->
+<column name="notes_fi">Tämä verbi voi ottaa objektiksi {'e':n:pro}.[2]
+
+{chong:v:2,slang}: n slangimerkitys, kun sitä sovelletaan henkilöön, vastaa {Qubchu'}: n "ajattele selkeästi".[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -7687,7 +7698,7 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru">Заметьте, что идиома "счастливого праздника" (где праздник может быть заменен на какое-то конкретное название) не имеет смысла, когда дословно переводится на Клингонский. Чтобы перевести такое выражение, предполагается использовать {tIv:v}. (Смотрите {qoSlIj DatIvjaj!:sen} для примера.)</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Observe que o idioma inglês "(tenha um) feriado feliz" (onde "feriado" pode ser substituído pelo nome real de um feriado) não faz sentido quando traduzido literalmente para o klingon. Para traduzir essa expressão, considere usar {tIv:v}. (Veja {qoSlIj DatIvjaj!:sen} para um exemplo.) [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Huomaa, että englanninkielisellä ilmaisulla "(pidä a) hyvää lomaa" (jossa loma voi korvata loman todellisen nimen) ei ole järkeä, kun se kirjaimellisesti käännetään klingoniksi. Käännä tällainen lauseke harkitsemalla sen sijaan {tIv:v}. (Katso esimerkki {qoSlIj DatIvjaj!:sen}.) [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8033,7 +8044,7 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
           <column name="notes_ru">Сферический объект для игры</column>
           <column name="notes_zh_HK">這個詞在玩球的意義上是“球”。 [AUTOTRANSLATED]</column>
           <column name="notes_pt">Esta palavra significa "bola" no sentido de um objeto esférico para jogar. [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämä sana tarkoittaa "palloa" pallomaisen esineen merkityksessä. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{Quj:v}, {-meH:v}, {moQ:n}</column>
           <column name="examples"></column>
@@ -8468,7 +8479,7 @@ O significado da gíria de {chong:v:2,slang}, quando aplicado a uma pessoa, é e
       <column name="notes_ru">Первая часть этого слова, {Qum:sen:nolink}, встречается в другом месте только как глагол. Это говорит о том, что существительное {Qum:n:archaic} существовало в прошлом.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">A primeira parte desta palavra, {Qum:sen:nolink}, é encontrada em outro lugar apenas como um verbo. Isso sugere que um substantivo {Qum:n:archaic} existia no passado.[2] [AUTOTRANSLATED]</column>
-<column name="notes_fi">TRANSLATE</column>
+<column name="notes_fi">Tämän sanan ensimmäinen osa, {Qum:sen:nolink}, löytyy muualla vain verbinä. Tämä viittaa siihen, että substantiivi {Qum:n:archaic} oli olemassa aikaisemmin.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{Qum:v}, {pIn:n:1}</column>
       <column name="examples"></column>
