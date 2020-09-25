@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {o:sen:nolink}</column>
       <column name="definition_zh_HK">元音{o:sen:nolink}</column>
       <column name="definition_pt">a vogal {o:sen:nolink}</column>
-<column name="definition_fi">vokaali {o: sen: nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">vokaali {o:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -52,7 +52,7 @@
       <column name="definition_ru">O [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">啊</column>
       <column name="definition_pt">Oh</column>
-<column name="definition_fi">O [AUTOTRANSLATED]</column>
+<column name="definition_fi">oi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -96,7 +96,7 @@
       <column name="definition_ru">О для муза огня [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">O為火繆斯 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Oh! para uma musa de fogo</column>
-<column name="definition_fi">O for a Muse of fire [AUTOTRANSLATED]</column>
+<column name="definition_fi">Oi Tuulen muusa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -139,7 +139,7 @@
       <column name="definition_ru">быть изогнутым, изогнутым [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">彎曲，弧形 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser curvado, arqueado</column>
-<column name="definition_fi">be curved, arced [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla käyrä, kaareva, kaartuva</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wan:v}</column>
       <column name="see_also">{SIH:v}, {rutlh:v}</column>
@@ -182,7 +182,7 @@
       <column name="definition_ru">заказ, группа официально признана правительством [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">勳章（政府正式承認的嘉獎）</column>
       <column name="definition_pt">ordem, grupo oficialmente reconhecido pelo governo</column>
-<column name="definition_fi">order, group officially recognized by government [AUTOTRANSLATED]</column>
+<column name="definition_fi">ritarikunta?, hallituksen virallisesti tunnustama ryhmä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -225,7 +225,7 @@
       <column name="definition_ru">топор [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">斧頭</column>
       <column name="definition_pt">machado</column>
-<column name="definition_fi">ax [AUTOTRANSLATED]</column>
+<column name="definition_fi">kirves</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jey'naS:n}, {'alngegh:n}, {Qach:v}</column>
@@ -268,7 +268,7 @@
       <column name="definition_ru">скорпионоподобное существо [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">蝎子般的生物</column>
       <column name="definition_pt">criatura parecida com um escorpião</column>
-<column name="definition_fi">scorpion-like creature [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs skorpionin kaltainen eläin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -313,7 +313,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">тоннель, трубопровод</column>
       <column name="definition_zh_HK">隧道、管路</column>
       <column name="definition_pt">túnel, conduto</column>
-<column name="definition_fi">tunnel, conduit [AUTOTRANSLATED]</column>
+<column name="definition_fi">tunneli, putki</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chob:n}, {vegh:v}, {DIn:n}, {qa'rI':n}, {qatlhDa':n}, {qung:n}, {ghImwI':n}</column>
@@ -356,7 +356,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">сантехник, трубоукладчик [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">水管工、管道工</column>
       <column name="definition_pt">canalizador, camada de tubo</column>
-<column name="definition_fi">plumber, pipe layer [AUTOTRANSLATED]</column>
+<column name="definition_fi">putkimies, putkiasentaja</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qatlhDa':n}</column>
@@ -399,7 +399,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">посредничать</column>
       <column name="definition_zh_HK">仲裁、調解、公斷</column>
       <column name="definition_pt">arbitrar, mediar</column>
-<column name="definition_fi">arbitrate, mediate [AUTOTRANSLATED]</column>
+<column name="definition_fi">sovitella, välittää, toimia välimiehenä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{noH:v}, {'oDwI':n}</column>
@@ -442,7 +442,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">арбитр [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">仲裁人、公斷人</column>
       <column name="definition_pt">árbitro</column>
-<column name="definition_fi">arbitrator [AUTOTRANSLATED]</column>
+<column name="definition_fi">sovittelija, välittäjä, välimies</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -485,7 +485,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">пятна, пятна, пятна, пятна [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">斑點、污點</column>
       <column name="definition_pt">ponto, mancha</column>
-<column name="definition_fi">spot, splotch, blemish, blotch [AUTOTRANSLATED]</column>
+<column name="definition_fi">täplä, läikkä, läiskä, laikku, tahra</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yegh:v}</column>
@@ -528,7 +528,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">изобретать</column>
       <column name="definition_zh_HK">發明、設計</column>
       <column name="definition_pt">inventar, conceber</column>
-<column name="definition_fi">keksi, keksi [AUTOTRANSLATED]</column>
+<column name="definition_fi">keksiä, laatia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rIq:v}</column>
@@ -571,7 +571,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_ru">он, она, оно, его, её (для вещей, не способных использовать речь)</column>
       <column name="definition_zh_HK">它、牠</column>
       <column name="definition_pt">ele/ela (objetos, seres não capazes de linguagem)</column>
-<column name="definition_fi">se [AUTOTRANSLATED]</column>
+<column name="definition_fi">se</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghaH:n:pro}, {-Daj:n}</column>
@@ -650,7 +650,7 @@ Pakollinen verbin etuliite, kun kohde on {'oH:n:nolink}, on {yI-:v:pref}. [AUTOT
       <column name="definition_ru">испытывать жажду</column>
       <column name="definition_zh_HK">口渴</column>
       <column name="definition_pt">ter sede</column>
-<column name="definition_fi">be thirsty [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla janoinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghung:v}, {tlhutlh:v}, {bomwI':n}</column>
@@ -696,7 +696,7 @@ The sentence {wI'oj:sen@@wI-:v, 'oj:v} appears on {KGT p.101:src}, but this is b
       <column name="definition_ru">проверить</column>
       <column name="definition_zh_HK">驗證、檢查（某事）是否為真、確保（某事）是真的 [AUTOTRANSLATED]</column>
       <column name="definition_pt">verificar, checar se (algo) é verdadeiro, verifique se (algo) é verdadeiro</column>
-<column name="definition_fi">verify, check if (something) is true, make sure that (something) is true [AUTOTRANSLATED]</column>
+<column name="definition_fi">tarkistaa, varmistaa, todentaa (jonkin totuudenmukaisuus)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{teH:v}, {ngeb:v}, {tob:v}, {Daj:v:2}, {waH:v:1}, {nuD:v}, {poj:v}</column>
@@ -739,7 +739,7 @@ The sentence {wI'oj:sen@@wI-:v, 'oj:v} appears on {KGT p.101:src}, but this is b
       <column name="definition_ru">разрыв [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">間隙</column>
       <column name="definition_pt">lacuna</column>
-<column name="definition_fi">gap [AUTOTRANSLATED]</column>
+<column name="definition_fi">rako, väli, tila</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qoch:v}</column>
@@ -798,7 +798,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">сопротивляться, отбиваться [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">抵抗、抵擋</column>
       <column name="definition_pt">resistir, afastar</column>
-<column name="definition_fi">resist, fend off [AUTOTRANSLATED]</column>
+<column name="definition_fi">vastustaa, torjua</column>
       <column name="synonyms"></column>
       <column name="antonyms">{HeQ:v}</column>
       <column name="see_also">{Hub:v}</column>
@@ -841,7 +841,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">капля (жидкости) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">掉落（液體） [AUTOTRANSLATED]</column>
       <column name="definition_pt">gota (de líquido)</column>
-<column name="definition_fi">drop (of liquid) [AUTOTRANSLATED]</column>
+<column name="definition_fi">pisara</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIS:v}, {De'lor:n}</column>
@@ -884,7 +884,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">быть хитрым</column>
       <column name="definition_zh_HK">狡猾</column>
       <column name="definition_pt">ser astuto, manhoso</column>
-<column name="definition_fi">be cunning, sly [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla ovela, viekas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pIQHa':v}</column>
@@ -927,7 +927,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">некоторое, неизвестное или неуказанное количество [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一些（未知或未指定的數量）</column>
       <column name="definition_pt">alguma quantidade desconhecida ou não especificada</column>
-<column name="definition_fi">some, an unknown or unspecified quantity [AUTOTRANSLATED]</column>
+<column name="definition_fi">(laskettaville sanoille:) jotkut; (ainesanoille:) vähän, jonkin verran</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hoch:n}, {HochHom:n}, {ngIq:n}</column>
@@ -974,7 +974,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">однажды, однажды [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">有一日、有一天</column>
       <column name="definition_pt">um dia, algum dia</column>
-<column name="definition_fi">one day, some day [AUTOTRANSLATED]</column>
+<column name="definition_fi">jonain päivänä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1023,7 +1023,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">девушка легкого поведения [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">妓女 [AUTOTRANSLATED]</column>
       <column name="definition_pt">prostituta</column>
-<column name="definition_fi">prostitute [AUTOTRANSLATED]</column>
+<column name="definition_fi">prostituoitu</column>
       <column name="synonyms">{qItoy:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1066,7 +1066,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">раковина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">沉沒、下沉</column>
       <column name="definition_pt">pia</column>
-<column name="definition_fi">sink [AUTOTRANSLATED]</column>
+<column name="definition_fi">upota, vajota</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'al:v:1}, {'ay:v}</column>
       <column name="see_also">{luS:v}, {Qal:v}</column>
@@ -1109,7 +1109,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Погрузитесь [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">淹沒</column>
       <column name="definition_pt">submergir</column>
-<column name="definition_fi">submerge [AUTOTRANSLATED]</column>
+<column name="definition_fi">upottaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1152,7 +1152,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">коралловый [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">珊瑚 [AUTOTRANSLATED]</column>
       <column name="definition_pt">coral</column>
-<column name="definition_fi">coral [AUTOTRANSLATED]</column>
+<column name="definition_fi">koralli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlher'aq:n}</column>
@@ -1195,7 +1195,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">корень, клубень [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">根、塊莖</column>
       <column name="definition_pt">raiz, tubérculo</column>
-<column name="definition_fi">root, tuber [AUTOTRANSLATED]</column>
+<column name="definition_fi">juuri, mukula</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naH:n}, {qurgh:n}</column>
@@ -1242,7 +1242,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">пилот, управляй (самолет) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">駕駛（飛機、船）</column>
       <column name="definition_pt">pilotar, operar (uma aeronave)</column>
-<column name="definition_fi">pilot, operate (an aircraft) [AUTOTRANSLATED]</column>
+<column name="definition_fi">lentää, ohjata (lentokonetta)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SeD:v}, {puv:v}, {muD Duj:n}, {'orwI':n}, {chIj:v}, {raQ:v}</column>
@@ -1285,7 +1285,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Orion (planet) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">獵戶座（行星） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Órion (planeta)</column>
-<column name="definition_fi">Orion (planeetta) [AUTOTRANSLATED]</column>
+<column name="definition_fi">Orion</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'orayngan:n}</column>
@@ -1371,7 +1371,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Орион (человек) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">獵戶座（人） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Orion (pessoa)</column>
-<column name="definition_fi">Orion (person) [AUTOTRANSLATED]</column>
+<column name="definition_fi">orionlainen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oray:n}</column>
@@ -1457,7 +1457,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Оргения</column>
       <column name="definition_zh_HK">「歐加尼安」星</column>
       <column name="definition_pt">Organia</column>
-<column name="definition_fi">Organia [AUTOTRANSLATED]</column>
+<column name="definition_fi">Organia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'orghengan:n}</column>
@@ -1544,7 +1544,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Оргенский мирный догоров</column>
       <column name="definition_zh_HK">「歐加尼安」和平協議</column>
       <column name="definition_pt">Tratado de Paz Organiano</column>
-<column name="definition_fi">Organian Peace Treaty [AUTOTRANSLATED]</column>
+<column name="definition_fi">Organian rauhansopimus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1630,7 +1630,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="definition_ru">Оргенский (человек из Органии)</column>
       <column name="definition_zh_HK">歐加尼安人</column>
       <column name="definition_pt">Organiano</column>
-<column name="definition_fi">Organi [AUTOTRANSLATED]</column>
+<column name="definition_fi">organialainen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'orghen:n}</column>
@@ -1730,7 +1730,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">pilot, one who operates (an aircraft) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">飛機師</column>
       <column name="definition_pt">piloto, aquele que opera (uma aeronave)</column>
-<column name="definition_fi">pilot, one who operates (an aircraft) [AUTOTRANSLATED]</column>
+<column name="definition_fi">pilotti, (lentokoneen) ohjaaja</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Degh:n:2}, {'or:v}, {raQpo':n}</column>
@@ -1773,7 +1773,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Or'Eq</column>
       <column name="definition_zh_HK">Or'Eq</column>
       <column name="definition_pt">Or'Eq</column>
-<column name="definition_fi">Tai'Eq [AUTOTRANSLATED]</column>
+<column name="definition_fi">Or'Eq</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1816,7 +1816,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">представлять</column>
       <column name="definition_zh_HK">代表</column>
       <column name="definition_pt">representar</column>
-<column name="definition_fi">represent [AUTOTRANSLATED]</column>
+<column name="definition_fi">edustaa jotakuta; merkitä, symboloida; (sanasta) tarkoittaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oSwI':n}, {Degh:n:1}</column>
@@ -1862,7 +1862,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
           <column name="definition_ru">эмиссар</column>
           <column name="definition_zh_HK">使者</column>
           <column name="definition_pt">emissário</column>
-<column name="definition_fi">lähettiläs [AUTOTRANSLATED]</column>
+<column name="definition_fi">lähettiläs</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{Duy'a':n}, {Duy:n}</column>
@@ -1905,7 +1905,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">селезенка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">脾 [AUTOTRANSLATED]</column>
       <column name="definition_pt">baço</column>
-<column name="definition_fi">spleen [AUTOTRANSLATED]</column>
+<column name="definition_fi">perna</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1948,7 +1948,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Осрик [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">空間Osric [AUTOTRANSLATED]</column>
       <column name="definition_pt">Osric</column>
-<column name="definition_fi">Osric [AUTOTRANSLATED]</column>
+<column name="definition_fi">Osric</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hamlet:n:name}</column>
@@ -1991,7 +1991,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">удерживать (информация) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">扣留（資料） [AUTOTRANSLATED]</column>
       <column name="definition_pt">reter (informação)</column>
-<column name="definition_fi">pidättää (tiedot) [AUTOTRANSLATED]</column>
+<column name="definition_fi">salata, kieltäytyä antamasta tietoja</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'otHa':v}</column>
       <column name="see_also">{pegh:v:1}</column>
@@ -2034,7 +2034,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">раскрывать, разглашать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">披露、洩露 [AUTOTRANSLATED]</column>
       <column name="definition_pt">divulgar, revelar</column>
-<column name="definition_fi">paljastaa, paljastaa [AUTOTRANSLATED]</column>
+<column name="definition_fi">paljastaa, tuoda julki (tietoja)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'ot:v}</column>
       <column name="see_also">{ja':v}</column>
@@ -2077,7 +2077,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">док [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">碼頭 [AUTOTRANSLATED]</column>
       <column name="definition_pt">doca</column>
-<column name="definition_fi">telakka [AUTOTRANSLATED]</column>
+<column name="definition_fi">telakka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vergh:n}, {rIj:v}</column>
@@ -2120,7 +2120,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">фотон</column>
       <column name="definition_zh_HK">光子</column>
       <column name="definition_pt">fóton</column>
-<column name="definition_fi">photon [AUTOTRANSLATED]</column>
+<column name="definition_fi">fotoni</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wov:v}, {'uD:n}, {tamghay:n}, {rob'agh:n}, {namchIl:n}</column>
@@ -2163,7 +2163,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">фотонная торпеда [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">光子魚雷</column>
       <column name="definition_pt">torpedo de fóton</column>
-<column name="definition_fi">fotonitorpedo [AUTOTRANSLATED]</column>
+<column name="definition_fi">fotonitorpedo</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2206,7 +2206,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">фотон торпедоносец [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">光子魚雷發射器</column>
       <column name="definition_pt">lançador de torpedo de fóton</column>
-<column name="definition_fi">photon torpedo launcher [AUTOTRANSLATED]</column>
+<column name="definition_fi">fotonitorpedonheitin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2249,7 +2249,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Планковское время [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">普朗克時間</column>
       <column name="definition_pt">Tempo de Planck</column>
-<column name="definition_fi">Planck time [AUTOTRANSLATED]</column>
+<column name="definition_fi">Planckin aika</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2292,7 +2292,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">квантовая теория, квантовая механика, квантовая физика [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">量子理論、量子力學、量子物理</column>
       <column name="definition_pt">teoria quântica, mecânica quântica, física quântica</column>
-<column name="definition_fi">quantum theory, quantum mechanics, quantum physics [AUTOTRANSLATED]</column>
+<column name="definition_fi">kvanttiteoria, kvanttimekaniikka, kvanttifysiikka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'otlh:n}, {HapQeD:n}, {'otlhtej:n}, {QeD:n}, {SuyDar:n}</column>
@@ -2335,7 +2335,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">квантовый физик [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">量子物理學家</column>
       <column name="definition_pt">físico quântico</column>
-<column name="definition_fi">quantum physicist [AUTOTRANSLATED]</column>
+<column name="definition_fi">kvanttifyysikko</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'otlh:n}, {'otlhQeD:n}, {tej:n}, {Haptej:n}</column>
@@ -2378,7 +2378,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">конкурировать</column>
       <column name="definition_zh_HK">競爭</column>
       <column name="definition_pt">competir</column>
-<column name="definition_fi">compete [AUTOTRANSLATED]</column>
+<column name="definition_fi">kilpailla</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qap:v:1}, {luj:v}, {qaD:n}, {Do qaD:n}</column>
@@ -2421,7 +2421,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
         <column name="definition_ru">конкурент, игрок [AUTOTRANSLATED]</column>
         <column name="definition_zh_HK">選手，選手 [AUTOTRANSLATED]</column>
         <column name="definition_pt">concorrente, jogador</column>
-<column name="definition_fi">competitor, player [AUTOTRANSLATED]</column>
+<column name="definition_fi">kilpailija, pelaaja</column>
         <column name="synonyms"></column>
         <column name="antonyms"></column>
         <column name="see_also"></column>
@@ -2465,7 +2465,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Офелия [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">「歐菲」</column>
       <column name="definition_pt">Ophelia</column>
-<column name="definition_fi">Ophelia [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ofelia</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hamlet:n:name}</column>
@@ -2508,7 +2508,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">прямой объект [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">直接賓語 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Objeto direto</column>
-<column name="definition_fi">Suora objekti [AUTOTRANSLATED]</column>
+<column name="definition_fi">suora objekti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vI'Hop:n}, {SeSor:n}</column>
@@ -2551,7 +2551,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">неуточненная плоть (животного) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">肉（動物）</column>
       <column name="definition_pt">carne não especificada (de um animal)</column>
-<column name="definition_fi">unspecified flesh (of an animal) [AUTOTRANSLATED]</column>
+<column name="definition_fi">(eläimen) liha</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Ha'DIbaH:n:1}, {Qenno':n}</column>
@@ -2594,7 +2594,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">болеть</column>
       <column name="definition_zh_HK">疼痛</column>
       <column name="definition_pt">ter dor, machucar, estar dolorido</column>
-<column name="definition_fi">ache, hurt, be sore [AUTOTRANSLATED]</column>
+<column name="definition_fi">särkeä, sattua, olla kipeä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'aw':v}, {'oy':n}</column>
@@ -2637,7 +2637,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">боль</column>
       <column name="definition_zh_HK">痛</column>
       <column name="definition_pt">dor</column>
-<column name="definition_fi">kipu, kipu, kipeä [AUTOTRANSLATED]</column>
+<column name="definition_fi">särky, kipu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bep:n}, {'oy':v}</column>
@@ -2680,7 +2680,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Под лежачий камень вода на течет. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一分耕耘一分收穫。</column>
       <column name="definition_pt">Sem dor sem ganho.</column>
-<column name="definition_fi">No pain, no gain. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ei kipua ei hyötyä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2723,7 +2723,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">палка причиняющая боль</column>
       <column name="definition_zh_HK">痛苦棒</column>
       <column name="definition_pt">palito</column>
-<column name="definition_fi">painstick [AUTOTRANSLATED]</column>
+<column name="definition_fi">kipukeppi ?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SonchIy:n}</column>
@@ -2771,7 +2771,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Если вы не используете болеутоляющее средство, ребенок никогда не будет отмечать свою эпоху вознесения. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">如果你不使用painstik，孩子將永遠不會慶祝他的提升時代。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Se você não usar o bastão agonizador, a criança nunca celebrará sua Era de Ascensão.</column>
-<column name="definition_fi">If you don't use the painstik, the child will never celebrate his Age of Ascension. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Jos ei käytä kipukeppiä (?), lapsi ei koskaan pääse juhlimaan aikuistumistaan (?).</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2814,7 +2814,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Я очень зол. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我非常生氣。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Estou extremamente zangado.</column>
-<column name="definition_fi">I'm extremely angry. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olen hyvin vihainen.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2857,7 +2857,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Будет ли это больно? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">它會引起疼痛嗎？</column>
       <column name="definition_pt">Vai doer?</column>
-<column name="definition_fi">Will it hurt? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Sattuuko se?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2900,7 +2900,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">Можешь терпеть боль! [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">願你忍受痛苦！</column>
       <column name="definition_pt">Que você possa suportar a dor!</column>
-<column name="definition_fi">Kestääkö tuskaa! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Toivon, että kestät kipua!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2944,7 +2944,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">корма</column>
       <column name="definition_zh_HK">船尾 [AUTOTRANSLATED]</column>
       <column name="definition_pt">à popa</column>
-<column name="definition_fi">perässä [AUTOTRANSLATED]</column>
+<column name="definition_fi">perä, takaosa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'et:n:2h}</column>
       <column name="see_also">{poS:n}, {nIH:n}, {'em:n}, {Sa'Hut:n}</column>
@@ -2987,7 +2987,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">кормовые подруливающие устройства [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">船尾火箭推進器（眾數）</column>
       <column name="definition_pt">propulsores à popa</column>
-<column name="definition_fi">peräpotkurit [AUTOTRANSLATED]</column>
+<column name="definition_fi">perämoottorit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3031,7 +3031,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">тип барабана [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鼓類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de tambor</column>
-<column name="definition_fi">rummun tyyppi [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs rumputyyppi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIr 'In:n}</column>
@@ -3074,7 +3074,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">O'mat Gri T'M pffiots [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">奧馬特·格里（O'mat Gri） [AUTOTRANSLATED]</column>
       <column name="definition_pt">O'mat Gri T'M pffiots</column>
-<column name="definition_fi">O'mat Gri T'M pffiots [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ateria, O'mat Gri T'M pffiots</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3117,7 +3117,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">О'Мат Гри [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">奧馬特·格里 [AUTOTRANSLATED]</column>
       <column name="definition_pt">O'mat Gri</column>
-<column name="definition_fi">O'mat Gri [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs ruokalaji, O'mat Gri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'o'mat ghIrI', tI'Im, pIvyoch:n}</column>
@@ -3160,7 +3160,7 @@ Esta palavra também é escrita {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</col
       <column name="definition_ru">end (of a song) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">結尾（一首歌） [AUTOTRANSLATED]</column>
       <column name="definition_pt">fim (de uma canção)</column>
-<column name="definition_fi">(kappaleen loppu) [AUTOTRANSLATED]</column>
+<column name="definition_fi">(laulun, kappaleen) loppu</column>
       <column name="synonyms"></column>
       <column name="antonyms">{namtun:n}</column>
       <column name="see_also">{bertlham:n}, {Dor:v:2}, {ghang:v}, {rIn:v}, {van:v:2}</column>
@@ -3219,7 +3219,7 @@ Kaikilla Klingonin kappaleilla on {'o'meghmey:n:nolink}. Jos kappale haihtuu kun
       <column name="definition_ru">пена, пена [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">泡沫，泡沫 [AUTOTRANSLATED]</column>
       <column name="definition_pt">espuma</column>
-<column name="definition_fi">foam, froth [AUTOTRANSLATED]</column>
+<column name="definition_fi">vaahto, kuohu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ba'Suq:n}, {yu'egh:n}</column>
@@ -3262,7 +3262,7 @@ Kaikilla Klingonin kappaleilla on {'o'meghmey:n:nolink}. Jos kappale haihtuu kun
       <column name="definition_ru">мелки [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">堊粉</column>
       <column name="definition_pt">giz</column>
-<column name="definition_fi">chalk [AUTOTRANSLATED]</column>
+<column name="definition_fi">liitu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3305,7 +3305,7 @@ Kaikilla Klingonin kappaleilla on {'o'meghmey:n:nolink}. Jos kappale haihtuu kun
       <column name="definition_ru">молекула [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">分子</column>
       <column name="definition_pt">molécula</column>
-<column name="definition_fi">molekyyli [AUTOTRANSLATED]</column>
+<column name="definition_fi">molekyyli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HeySel:n}, {tamler:n}, {yugh:v}, {pay'an:n}</column>
@@ -3348,7 +3348,7 @@ Kaikilla Klingonin kappaleilla on {'o'meghmey:n:nolink}. Jos kappale haihtuu kun
       <column name="definition_ru">кто-то (или что-то) с неоднозначным статусом [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">某人（或某事）具有模棱兩可的地位 [AUTOTRANSLATED]</column>
       <column name="definition_pt">alguém (ou algo) de status ambíguo</column>
-<column name="definition_fi">joku (tai jotain), joka on epäselvä [AUTOTRANSLATED]</column>
+<column name="definition_fi">joku tai jokin, jonka asema on epäselvä; kaksoisagentti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jey'naS ghoqwI':n}</column>
