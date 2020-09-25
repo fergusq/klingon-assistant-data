@@ -1155,7 +1155,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">поставить в известность [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">通知</column>
       <column name="definition_pt">informar</column>
-<column name="definition_fi">inform [AUTOTRANSLATED]</column>
+<column name="definition_fi">antaa tietoa, tiedottaa, ilmoittaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ja':v}</column>
@@ -1198,7 +1198,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">увеличить [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">放大 [AUTOTRANSLATED]</column>
       <column name="definition_pt">aumentar, ampliar</column>
-<column name="definition_fi">enlarge [AUTOTRANSLATED]</column>
+<column name="definition_fi">suurentaa</column>
       <column name="synonyms"></column>
       <column name="antonyms">{machmoH:v}</column>
       <column name="see_also">{Sach:v:1}</column>
@@ -1241,7 +1241,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">нагреть [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">熱（某事）起來 [AUTOTRANSLATED]</column>
       <column name="definition_pt">aquecer (algo)</column>
-<column name="definition_fi">lämmittää jotain [AUTOTRANSLATED]</column>
+<column name="definition_fi">lämmittää</column>
       <column name="synonyms"></column>
       <column name="antonyms">{bIrmoH:v}</column>
       <column name="see_also"></column>
@@ -1334,7 +1334,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">сегодня ночью [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">今晚</column>
       <column name="definition_pt">esta noite</column>
-<column name="definition_fi">tonight [AUTOTRANSLATED]</column>
+<column name="definition_fi">tänä yönä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DaHjaj:n}</column>
@@ -1377,7 +1377,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">спидометр</column>
       <column name="definition_zh_HK">速度計</column>
       <column name="definition_pt">velocímetro</column>
-<column name="definition_fi">nopeusmittari [AUTOTRANSLATED]</column>
+<column name="definition_fi">nopeusmittari</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'Iv juvwI':n}</column>
@@ -1420,7 +1420,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">мгновенное сообщение [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">即時消息 [AUTOTRANSLATED]</column>
       <column name="definition_pt">mensagem instantânea</column>
-<column name="definition_fi">instant message [AUTOTRANSLATED]</column>
+<column name="definition_fi">pikaviesti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1463,7 +1463,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">минимальная классификация безопасности [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最低安全等級 [AUTOTRANSLATED]</column>
       <column name="definition_pt">classificação mínima de segurança [AUTOTRANSLATED]</column>
-<column name="definition_fi">minimum security classification [AUTOTRANSLATED]</column>
+<column name="definition_fi">vähimmäisturvaluokitus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1508,7 +1508,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">страхование от отмены рейса [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">航程取消保險 [AUTOTRANSLATED]</column>
       <column name="definition_pt">seguro de cancelamento de viagem</column>
-<column name="definition_fi">voyage cancellation insurance [AUTOTRANSLATED]</column>
+<column name="definition_fi">matkanperuutusvakuutus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1551,7 +1551,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">десяток, десятилетие</column>
       <column name="definition_zh_HK">年代</column>
       <column name="definition_pt">década</column>
-<column name="definition_fi">decade [AUTOTRANSLATED]</column>
+<column name="definition_fi">vuosikymmen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1594,7 +1594,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">коронавирус [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">新冠病毒 [AUTOTRANSLATED]</column>
       <column name="definition_pt">coronavírus [AUTOTRANSLATED]</column>
-<column name="definition_fi">coronavirus [AUTOTRANSLATED]</column>
+<column name="definition_fi">koronavirus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1637,7 +1637,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">палач</column>
       <column name="definition_zh_HK">劊子手</column>
       <column name="definition_pt">carrasco</column>
-<column name="definition_fi">pyöveli [AUTOTRANSLATED]</column>
+<column name="definition_fi">pyöveli, teloittaja</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1680,7 +1680,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">минимальный возраст [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最低年齡 [AUTOTRANSLATED]</column>
       <column name="definition_pt">idade minima [AUTOTRANSLATED]</column>
-<column name="definition_fi">vähimmäisikä [AUTOTRANSLATED]</column>
+<column name="definition_fi">vähimmäisikä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1724,7 +1724,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Следующее поколение</column>
       <column name="definition_zh_HK">下一代</column>
       <column name="definition_pt">A próxima geração</column>
-<column name="definition_fi">The Next Generation [AUTOTRANSLATED]</column>
+<column name="definition_fi">Uusi sukupolvi (TNG)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hov leng:n}</column>
@@ -1767,7 +1767,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Сверхновая звезда</column>
       <column name="definition_zh_HK">超新星 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Super Nova</column>
-<column name="definition_fi">supernova [AUTOTRANSLATED]</column>
+<column name="definition_fi">supernova</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1810,7 +1810,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">затычка для ушей</column>
       <column name="definition_zh_HK">耳塞 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tampão para os ouvidos</column>
-<column name="definition_fi">earplug [AUTOTRANSLATED]</column>
+<column name="definition_fi">korvatulppa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1853,7 +1853,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">андроид [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">安卓 [AUTOTRANSLATED]</column>
       <column name="definition_pt">andróide</column>
-<column name="definition_fi">android [AUTOTRANSLATED]</column>
+<column name="definition_fi">androidi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghogh HablI':n}</column>
@@ -1896,7 +1896,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">щетка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">刷子</column>
       <column name="definition_pt">escova</column>
-<column name="definition_fi">brush [AUTOTRANSLATED]</column>
+<column name="definition_fi">harja</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{teywI':n}</column>
@@ -1939,7 +1939,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">ноготь на пальце ноги [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">腳指甲</column>
       <column name="definition_pt">unha do dedo do pé</column>
-<column name="definition_fi">varpaankynsi [AUTOTRANSLATED]</column>
+<column name="definition_fi">varpaankynsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nItlhpach:n:1}</column>
@@ -1982,7 +1982,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">высотомер [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">高度表</column>
       <column name="definition_pt">altímetro</column>
-<column name="definition_fi">korkeusmittari [AUTOTRANSLATED]</column>
+<column name="definition_fi">korkeusmittari</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Do juvwI':n}</column>
@@ -2029,7 +2029,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">значительно, много? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">相當多、很多？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">consideravelmente, muito?</column>
-<column name="definition_fi">huomattavasti, paljon? [AUTOTRANSLATED]</column>
+<column name="definition_fi">huomattavasti, paljon?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{loQ:adv}</column>
       <column name="see_also">{tlhoy:adv}, {tlhoS:adv}, {-law':v:suff}, {-Ha':v:suff}</column>
@@ -2072,7 +2072,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">необычно, нетипично, не так, как ожидалось [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">出奇、異常、非典型、不如預期</column>
       <column name="definition_pt">invulgarmente, atipicamente, não como o esperado</column>
-<column name="definition_fi">epätavallisen, epätyypillisesti, ei odotetulla tavalla [AUTOTRANSLATED]</column>
+<column name="definition_fi">epätavallisesti, epätyypillisesti, ei odotetulla tavalla</column>
       <column name="synonyms"></column>
       <column name="antonyms">{motlh:adv}</column>
       <column name="see_also">{-Ha':v:suff}</column>
@@ -2115,7 +2115,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">постепенно, понемногу, исподволь, мало-помалу</column>
       <column name="definition_zh_HK">逐漸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">gradualmente</column>
-<column name="definition_fi">vähitellen [AUTOTRANSLATED]</column>
+<column name="definition_fi">vähitellen</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pay':adv}</column>
       <column name="see_also">{-Ha':v:suff}</column>
@@ -2158,7 +2158,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">давным-давно, давным-давно? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">前一段時間、很久以前？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">há algum tempo atrás, há muito tempo?</column>
-<column name="definition_fi">jonkin aikaa sitten, kauan sitten? [AUTOTRANSLATED]</column>
+<column name="definition_fi">jonkin aikaa sitten, kauan sitten?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{qen:adv}</column>
       <column name="see_also">{-Ha':v:suff}</column>
@@ -2201,7 +2201,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">earlier than expected, initially, at first? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">最初比起預期更早、最初？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">mais cedo do que o esperado, inicialmente, a princípio?</column>
-<column name="definition_fi">earlier than expected, initially, at first? [AUTOTRANSLATED]</column>
+<column name="definition_fi">odotettua aikaisemmin, aluksi, ensin?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tagha':adv}</column>
       <column name="see_also">{-Ha':v:suff}, {wejHa':adv:hyp}</column>
@@ -2244,7 +2244,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">точно, правда, совсем? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">確切地、真的、相當？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">exatamente, sério?</column>
-<column name="definition_fi">exactly, really, quite? [AUTOTRANSLATED]</column>
+<column name="definition_fi">tarkalleen, aivan</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tlhoS:adv}</column>
       <column name="see_also">{-Ha':v:suff}</column>
@@ -2287,7 +2287,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">неадекватно, недостаточно, слишком мало? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">不充分、不充分、太少？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">insuficientemente, inadequadamente, muito pouco?</column>
-<column name="definition_fi">puutteellisesti, riittämättömästi, liian vähän? [AUTOTRANSLATED]</column>
+<column name="definition_fi">puutteellisesti, riittämättömästi, liian vähän?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tlhoy:adv}</column>
       <column name="see_also">{-Ha':v:suff}</column>
@@ -2330,7 +2330,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">already, yet? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">已經、但是？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">já ainda?</column>
-<column name="definition_fi">already, yet? [AUTOTRANSLATED]</column>
+<column name="definition_fi">jo, vielä?</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wej:adv}</column>
       <column name="see_also">{-Ha':v:suff}, {tagha'Ha':adv:hyp}</column>
@@ -2375,7 +2375,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Я требую кровь врага. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我要求敵人的鮮血。</column>
       <column name="definition_pt">Eu exijo o sangue do inimigo</column>
-<column name="definition_fi">Vaadin vihollisen verta. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Vaadin vihollisen verta.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2418,7 +2418,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Эта битва моя битва. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">這場戰鬥是我的戰鬥。</column>
       <column name="definition_pt">Esta batalha é minha batalha.</column>
-<column name="definition_fi">This battle is my battle. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tämä taistelu on minun taisteluni.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2461,7 +2461,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Тело мёртвого врага лежит перед моими ногами</column>
       <column name="definition_zh_HK">死敵的屍體就在我的腳前。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">O corpo do inimigo morto está na frente dos meus pés.</column>
-<column name="definition_fi">The body of the dead enemy lies in front of my feet. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kuolleen vihollisen ruumis on jalkojeni edessä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2506,7 +2506,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Укуси меня! (Песня) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">咬我！ （歌曲） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Morde-me! (canção)</column>
-<column name="definition_fi">Bite Me! (song) [AUTOTRANSLATED]</column>
+<column name="definition_fi">Suutele minua! (laulu)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2645,7 +2645,7 @@ Osta koko Warrior Woman -albumi: {Google Play Kauppa: url: https: //play.google.
       <column name="definition_ru">Имперский Гимн [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">帝國國歌 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Um Hino Imperial</column>
-<column name="definition_fi">Keisarillinen hymni [AUTOTRANSLATED]</column>
+<column name="definition_fi">Eläköön keisarikunta (Keisarillinen hymni)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{van bom:n}, {Qoy qeylIS puqloD:sen:lyr}</column>
@@ -2711,7 +2711,7 @@ The lyrics are as follows:
       <column name="definition_ru">Сезоны любви (песня) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">愛的季節（歌）</column>
       <column name="definition_pt">Estações do amor (canção)</column>
-<column name="definition_fi">Rakkauden vuodet (laulu) [AUTOTRANSLATED]</column>
+<column name="definition_fi">Seasons of Love (laulu)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2771,7 +2771,7 @@ Watch this song performed by Rachel Bloom: {YouTube video:url:http://youtu.be/Y3
       <column name="definition_ru">Песня Tribble [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Tribble Song [AUTOTRANSLATED]</column>
       <column name="definition_pt">A música Tribble</column>
-<column name="definition_fi">Tribble-kappale [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tribble-laulu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2848,7 +2848,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Ты моя любовь(возлюбленный(ая)).</column>
       <column name="definition_zh_HK">你是我的愛。</column>
       <column name="definition_pt">Você é meu amado (ente pessoas que se amam).</column>
-<column name="definition_fi">You are my love (loved one). [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olet kultani.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
@@ -2893,7 +2893,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Я принял запись экипажа о битве.</column>
       <column name="definition_zh_HK">我已經接受了船員的戰鬥記錄。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Aceitei o registro de batalha da tripulação. [AUTOTRANSLATED]</column>
-<column name="definition_fi">I have accepted the crew's record of battle. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olen hyväksynyt miehistön taistelutiedot.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DaH yaS wa'DIch vIgheS.:sen}</column>
@@ -2936,7 +2936,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Ничего не значащая фраза</column>
       <column name="definition_zh_HK">無意義的口頭短語 [AUTOTRANSLATED]</column>
       <column name="definition_pt">frase verbal sem sentido</column>
-<column name="definition_fi">meaningless verbal phrase [AUTOTRANSLATED]</column>
+<column name="definition_fi">merkityksetön taivutettu verbi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wot:n}, {mojaq:n}, {QaghHommeyHeylIjmo':n}</column>
@@ -2979,7 +2979,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Ты очень красивый(ая).</column>
       <column name="definition_zh_HK">你真漂亮。</column>
       <column name="definition_pt">Você é muito bonita.</column>
-<column name="definition_fi">Olet hyvin kaunis. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olet hyvin kaunis.</column>
       <column name="synonyms">Du bist wunderschön.</column>
       <column name="antonyms"></column>
       <column name="see_also">{bImoHqu'.:sen}</column>
@@ -3022,7 +3022,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Теперь я занимаю свое место первого офицера. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我現在擔任副駕駛。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Eu agora tomo meu lugar como primeiro oficial. [AUTOTRANSLATED]</column>
-<column name="definition_fi">Otan nyt paikkani ensimmäisenä upseerina. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Otan nyt paikkani yliperämiehenä.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{beq may' ta vIlajpu'.:sen}</column>
@@ -3065,7 +3065,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Уволен! [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">解散！ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Demitido! [AUTOTRANSLATED]</column>
-<column name="definition_fi">Hylätty! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Poistukaa!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghomHa':v}</column>
@@ -3108,7 +3108,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Я прнимаю ваши жизни в свои руки.</column>
       <column name="definition_zh_HK">我接受你的生命。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Eu aceito suas vidas em minhas mãos. [AUTOTRANSLATED]</column>
-<column name="definition_fi">I accept your lives into my hands. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Hyväksyn elämänne minun käsiini.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3151,7 +3151,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Какой твой любимый месяц?</column>
       <column name="definition_zh_HK">您最喜歡哪個月份？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Qual é o seu mês favorito? [AUTOTRANSLATED]</column>
-<column name="definition_fi">Mikä on suosikkikuusi? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Mikä on suosikkikuukautesi?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3194,7 +3194,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Я прошу вас повести нас, как командир этого корабля.</column>
       <column name="definition_zh_HK">我請你帶領我們擔任這艘船的指揮官。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Peço-lhe para nos liderar como comandante deste navio. [AUTOTRANSLATED]</column>
-<column name="definition_fi">Pyydän sinua johtamaan meitä tämän aluksen komentajana. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Pyydän sinua johtamaan meitä tämän aluksen komentajana.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3237,7 +3237,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Я чувствую удачу. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我感覺我是幸運的。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Estou me sentindo com sorte.</column>
-<column name="definition_fi">Tunnen itseni onnekkaaksi. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olen valmis ottamaan riskin.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3281,7 +3281,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Мне 40 лет.</column>
       <column name="definition_zh_HK">我今年40歲。</column>
       <column name="definition_pt">Tenho 40 anos de idade. [AUTOTRANSLATED]</column>
-<column name="definition_fi">Olen 40-vuotias. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olen 40-vuotias.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3324,7 +3324,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Мое судно на воздушной подушке полно угрей. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我的氣墊船上到處都是鰻魚。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Meu hovercraft está cheio de enguias.</column>
-<column name="definition_fi">My hovercraft is full of eels. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Sukkulani on täynnä matoja.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3367,7 +3367,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Какое оружие тебе нужно?</column>
       <column name="definition_zh_HK">您要哪種武器？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Qual arma você quer? [AUTOTRANSLATED]</column>
-<column name="definition_fi">Minkä aseen haluat? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Minkä aseen haluat?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3410,7 +3410,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Они не прикончили нас.</column>
       <column name="definition_zh_HK">他們還沒有結束我們。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Eles não acabaram conosco. [AUTOTRANSLATED]</column>
-<column name="definition_fi">He eivät ole lopettaneet meitä. [AUTOTRANSLATED]</column>
+<column name="definition_fi">He eivät ole tuhonneet meitä kokonaan.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3453,7 +3453,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Ты моя любовь, ты мой возлюленный</column>
       <column name="definition_zh_HK">你是我的愛（浪漫伴侶）。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Você é meu amor (companheiro romântico).</column>
-<column name="definition_fi">You are my love (romantic companion). [AUTOTRANSLATED]</column>
+<column name="definition_fi">Olet rakkaani.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
@@ -3498,7 +3498,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_ru">Я люблю тебя</column>
       <column name="definition_zh_HK">我愛你。</column>
       <column name="definition_pt">Eu te amo.</column>
-<column name="definition_fi">I love you. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Rakastan sinua.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
@@ -3547,7 +3547,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="definition_ru">С днём рождения</column>
       <column name="definition_zh_HK">生日快樂！</column>
       <column name="definition_pt">Feliz Aniversário!</column>
-<column name="definition_fi">Happy birthday! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Hyvää syntymäpäivää!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3590,7 +3590,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="definition_ru">из-за твоих очевидных незначительных ошибок</column>
       <column name="definition_zh_HK">由於你明顯的小錯誤 [AUTOTRANSLATED]</column>
       <column name="definition_pt">devido a seus aparentes erros menores</column>
-<column name="definition_fi">ilmeisten pienten virheidesi vuoksi [AUTOTRANSLATED]</column>
+<column name="definition_fi">ilmeisten pienten virheidesi vuoksi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIp:n}, {mojaq:n}, {bIQong'eghqangchoHmoHlaHchu'pu'neSchugh:v}</column>
@@ -3633,7 +3633,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="definition_ru">мой 10-летний брат [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我十歲的哥哥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">meu irmão de 10 anos [AUTOTRANSLATED]</column>
-<column name="definition_fi">10-vuotias veljeni [AUTOTRANSLATED]</column>
+<column name="definition_fi">10-vuotias veljeni</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3676,7 +3676,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
       <column name="definition_ru">Не будь глупой! [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">別傻了！ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Não seja bobo!</column>
-<column name="definition_fi">Älä ole typerä! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Älä ole typerä!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
