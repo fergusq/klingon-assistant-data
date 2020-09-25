@@ -17,7 +17,7 @@
       <column name="definition_ru">Ты голоден? Вы голодны?</column>
       <column name="definition_zh_HK">你餓嗎？</column>
       <column name="definition_pt">Você está com fome?</column>
-<column name="definition_fi">Are you hungry? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Oletko nälkäinen?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bI'oj'a'?:sen}</column>
@@ -66,7 +66,7 @@ Jos haluat vastata kieltävästi, sano {ghobe':excl} tai {jISop vIneHbe'} "En ha
       <column name="definition_ru">Хочешь пить?</column>
       <column name="definition_zh_HK">你口渴嗎？</column>
       <column name="definition_pt">Você está com sede?</column>
-<column name="definition_fi">Are you thirsty? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Oletko janoinen?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIghung'a'?:sen}</column>
@@ -113,7 +113,7 @@ To answer in the negative, say {ghobe':excl} or {jItlhutlh vIneHbe'} "I don't wa
       <column name="definition_ru">Ты чтишь меня. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">你尊敬我 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Você me honra.</column>
-<column name="definition_fi">Sinä kunnioitat minua. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Sinä kunnioitat minua.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -160,7 +160,7 @@ Jos puhumasi henkilö on esimiehesi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Ты понимаешь меня? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">你明白我嗎？你明白我說的嗎？</column>
       <column name="definition_pt">Você me entende?</column>
-<column name="definition_fi">Do you understand me? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ymmärrätkö minua?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
@@ -206,7 +206,7 @@ Jos puhumasi henkilö on esimiehesi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Я провожу тебя до ... .</column>
       <column name="definition_zh_HK">我送你去……。</column>
       <column name="definition_pt">Eu escoltarei você para ....</column>
-<column name="definition_fi">I will escort you to ... . [AUTOTRANSLATED]</column>
+<column name="definition_fi">Saatan sinut ...:lle.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dor:v:1}</column>
@@ -257,7 +257,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Это ... .</column>
       <column name="definition_zh_HK">這是……。</column>
       <column name="definition_pt">Isto é um ... .</column>
-<column name="definition_fi">Tämä on ... . [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tämä on ... .</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Dochvam nuq?:sen}</column>
@@ -300,7 +300,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Давайте, пойдём в/на/к ... !</column>
       <column name="definition_zh_HK">來吧，我們去……！</column>
       <column name="definition_pt">vamos lá, vamos para ... !</column>
-<column name="definition_fi">Tule, mennään ...! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tule, mennään ...:lle.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jaH:v}</column>
@@ -358,7 +358,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Какие языки ты знаешь?</column>
       <column name="definition_zh_HK">你講邊啲語言㗎？ </column>
       <column name="definition_pt">Quais idiomas você fala?</column>
-<column name="definition_fi">Which languages do you speak? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Mitä kieliä puhut?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -401,7 +401,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Тебе понравилась твоя поездка?</column>
       <column name="definition_zh_HK">你喜歡旅行嗎？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">Você gostou da sua viagem?</column>
-<column name="definition_fi">Did you enjoy your trip? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Nautitko matkastasi?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -445,7 +445,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Где ... ?</column>
       <column name="definition_zh_HK">……在哪裡？</column>
       <column name="definition_pt">Onde é o/a ...?</column>
-<column name="definition_fi">Where is a/the ...? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Missä ... on?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -497,7 +497,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Where do you live? Where is your home? [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">你住在哪裡？你家在哪裡？</column>
       <column name="definition_pt">Onde você mora? Onde fica sua casa?</column>
-<column name="definition_fi">Where do you live? Where is your home? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Missä asut? Missä kotisi on?</column>
       <column name="synonyms">
 ▶ {Daq DaDabbogh yIngu'!:sen}</column>
       <column name="antonyms"></column>
@@ -541,7 +541,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Как тебя зовут?</column>
       <column name="definition_zh_HK">你叫什麼名字？</column>
       <column name="definition_pt">Qual é seu nome?</column>
-<column name="definition_fi">Mikä sinun nimesi on? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Mikä sinun nimesi on?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{... 'oH pongwIj'e'.:sen}, {SoH 'Iv?:sen}</column>
@@ -584,7 +584,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Я почтен встретиться с тобой.</column>
       <column name="definition_zh_HK">很榮幸同您見面。</column>
       <column name="definition_pt">Sinto-me honrado em conhecê-lo.</column>
-<column name="definition_fi">I am honored to meet you. [AUTOTRANSLATED]</column>
+<column name="definition_fi">On kunnia tavata sinut.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -627,7 +627,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Что происходит?</column>
       <column name="definition_zh_HK">發生了什麼事？</column>
       <column name="definition_pt">O que está acontecendo? O que está acontecendo?</column>
-<column name="definition_fi">What's happening? What's up? [AUTOTRANSLATED]</column>
+<column name="definition_fi">Mitä tapahtuu? Miten menee?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -670,7 +670,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Я приветствую тебя!</column>
       <column name="definition_zh_HK">我向你致敬！</column>
       <column name="definition_pt">Eu te saúdo!</column>
-<column name="definition_fi">I salute you! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tervehdin sinua!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -713,7 +713,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Говори(те) медленно!</column>
       <column name="definition_zh_HK">慢慢地說！</column>
       <column name="definition_pt">Falar devagar!</column>
-<column name="definition_fi">Speak slowly! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Puhu hitaasti!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jIyajbe'.:sen}</column>
@@ -756,7 +756,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Я приветствую вас, я приветствую вас всех! [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">我向你們致敬！</column>
       <column name="definition_pt">Eu vos saúdo, eu vos saúdo a todos!</column>
-<column name="definition_fi">I salute you, I salute you all! [AUTOTRANSLATED]</column>
+<column name="definition_fi">Tervehdin teitä!</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -799,7 +799,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn". [AUTOTRANSL
       <column name="definition_ru">Вы уважаете меня, вы все уважаете меня. [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">你尊重我，你們都尊重我。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Você me honra, todos vocês me honram.</column>
-<column name="definition_fi">Kunnioitat minua, kaikki kunnioitat minua. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Te kunnioitatte minua.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -846,7 +846,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Я учу клингонский язык.</column>
       <column name="definition_zh_HK">我學克林崗語。</column>
       <column name="definition_pt">Eu aprendo Klingon.</column>
-<column name="definition_fi">I learn Klingon. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Opin klingonia.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhIngan Hol Dajatlh'a'?:sen}</column>
@@ -891,7 +891,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Запиши(те) это.</column>
       <column name="definition_zh_HK">寫下來。</column>
       <column name="definition_pt">Escreva, anote</column>
-<column name="definition_fi">Write it down. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Kirjoita se ylös.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -940,7 +940,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">расплющить, раздавить</column>
       <column name="definition_zh_HK">鏟平、弄平</column>
       <column name="definition_pt">aplainar</column>
-<column name="definition_fi">flatten [AUTOTRANSLATED]</column>
+<column name="definition_fi">tasoittaa, litistää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{gho':v}, {tap:v}</column>
@@ -983,7 +983,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">Охлаждать(что-либо)</column>
       <column name="definition_zh_HK">很酷（某事） [AUTOTRANSLATED]</column>
       <column name="definition_pt">esfriar (algo)</column>
-<column name="definition_fi">chill, viileä (jotain) alas [AUTOTRANSLATED]</column>
+<column name="definition_fi">viilentää, jäähdyttää</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tujmoH:v}</column>
       <column name="see_also"></column>
@@ -1026,7 +1026,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">укреплять [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">加強</column>
       <column name="definition_pt">fortalecer</column>
-<column name="definition_fi">strengthen [AUTOTRANSLATED]</column>
+<column name="definition_fi">vahvistaa, voimistaa</column>
       <column name="synonyms">{rach:v}</column>
       <column name="antonyms">{pujmoH:v}</column>
       <column name="see_also"></column>
@@ -1069,7 +1069,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">уменьшать что-то в размерах</column>
       <column name="definition_zh_HK">縮小、縮細</column>
       <column name="definition_pt">encolher (algo)</column>
-<column name="definition_fi">shrink (something) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kutistaa, pienentää</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tInmoH:v}</column>
       <column name="see_also"></column>
@@ -1112,7 +1112,7 @@ Jos puhut ihmiset ovat esimiehiäsi, harkitse {-neS:v:suff}: n lisäämistä. [A
       <column name="definition_ru">уволить [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">解僱、默默無聞 [AUTOTRANSLATED]</column>
       <column name="definition_pt">demitir</column>
-<column name="definition_fi">irtisanoa, kutsu [AUTOTRANSLATED]</column>
+<column name="definition_fi">lähettää pois</column>
       <column name="synonyms"></column>
       <column name="antonyms">{rIt:v}</column>
       <column name="see_also">{ghomHa':v}</column>
