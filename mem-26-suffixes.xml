@@ -2445,7 +2445,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">пока, в то время как (глагол тип 9)</column>
       <column name="definition_zh_HK">當中（第九類動詞後綴）</column>
       <column name="definition_pt">enquanto (verbal tipo 9)</column>
-<column name="definition_fi">kun (verbipääte 9)</column>
+<column name="definition_fi">kun, -en, -essa (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>

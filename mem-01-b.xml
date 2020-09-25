@@ -803,7 +803,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYM
       <column name="definition_ru">любовь, тот, кого любят</column>
       <column name="definition_zh_HK">情人</column>
       <column name="definition_pt">amado, amada, quem é amado</column>
-<column name="definition_fi">rakas</column>
+<column name="definition_fi">rakas, kulta</column>
       <column name="synonyms">{parmaqqay:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3451,7 +3451,7 @@ Sanoa "kun olin X-vuotias", rakennus on esimerkiksi {qaStaHvIS DISwIj javDIch...
       <column name="definition_ru">экипаж, член экипажа</column>
       <column name="definition_zh_HK">船員</column>
       <column name="definition_pt">tripulação</column>
-<column name="definition_fi">matruusi, miehistön jäsen</column>
+<column name="definition_fi">miehistö; matruusi, miehistön jäsen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
