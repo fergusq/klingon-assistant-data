@@ -9,7 +9,7 @@
       <column name="definition_ru">он/она/оно-нет, он/она/оно-он/она/оно, он/она/оно-они, они-нет, они-они</column>
       <column name="definition_zh_HK">他、它：無、他、它、他們、它們；他們、它們：無、他們、它們</column>
       <column name="definition_pt">ele/ela-nenhum, ele/ela-ele/ela, ele/ela-eles, eles-nenhum, eles-eles</column>
-<column name="definition_fi">hän / se / ei kukaan, hän / se / hän / hän / se, hän / se / he-he, he-ei kukaan, he-he [AUTOTRANSLATED]</column>
+<column name="definition_fi">hän/se-ei mitään, hän/se-häntä/sitä/heitä/niitä, he/ne-ei mitään, he/ne-heitä/niitä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lu-:v:pref}</column>
@@ -60,7 +60,7 @@ Note that the prefix for "they-him/her/it" is {lu-:v:pref}.</column>
       <column name="definition_ru">увеличение (сущ. тип 1)</column>
       <column name="definition_zh_HK">增補（第一類名詞後綴）</column>
       <column name="definition_pt">aumentativo (substantivo tipo 1)</column>
-<column name="definition_fi">lisäys (substantiivityyppi 1) [AUTOTRANSLATED]</column>
+<column name="definition_fi">augmentatiivi (substantiiviliite 1)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-Hom:n}</column>
       <column name="see_also"></column>
@@ -127,7 +127,7 @@ Huomaa, että {-'a':n:suff,nolink}-substantiivin ei tarvitse olla kaikin tavoin 
       <column name="definition_ru">уменьшение (сущ. тип 1)</column>
       <column name="definition_zh_HK">減小（第一類名詞後綴）</column>
       <column name="definition_pt">diminutivo (substantivo tipo 1)</column>
-<column name="definition_fi">vähäinen (substantiivityyppi 1) [AUTOTRANSLATED]</column>
+<column name="definition_fi">vähättelevä diminutiivi (substantiiviliite 1)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-'a':n}</column>
       <column name="see_also"></column>
@@ -185,7 +185,7 @@ Huomaa, että {-'a':n:suff,nolink}-substantiivin ei tarvitse olla kaikin tavoin 
       <column name="definition_ru">привязанность (сущ. тип 1)</column>
       <column name="definition_zh_HK">愛稱（第一類名詞後綴）</column>
       <column name="definition_pt">carinho (substantivo tipo 1)</column>
-<column name="definition_fi">hellyys (substantiivityyppi 1) [AUTOTRANSLATED]</column>
+<column name="definition_fi">hellittelevä diminutiivi (substantiiviliite 1)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -232,7 +232,7 @@ It is suspected that a {qaghwI':n} is inserted before this suffix if the noun en
       <column name="definition_ru">множественное число (для существ, способных использовать речь) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數、們（能用語言）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (seres capazes de usar a linguagem) (substantivo tipo 2)</column>
-<column name="definition_fi">monikko (olennot, jotka pystyvät käyttämään kieltä) (substantiivi tyyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">monikko (henkilöt, kielenkäyttäjät) (substantiiviliite 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-mey:n}</column>
@@ -281,7 +281,7 @@ Huomaa, että {-pu':n:suff,nolink}: n käyttö on substantiivi, eikä välttäm�
       <column name="definition_ru">множественное число (для частей тела) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數（身體部分）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (parte do corpo) (substantivo tipo 2)</column>
-<column name="definition_fi">monikko (ruumiinosa) (substantiivityyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">monikko (ruumiinosat) (substantiiviliite 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-mey:n}</column>
@@ -325,7 +325,7 @@ Huomaa, että {-pu':n:suff,nolink}: n käyttö on substantiivi, eikä välttäm�
       <column name="definition_ru">множественное число (в общем) (сущ. тип 2)</column>
       <column name="definition_zh_HK">複數（一般）（第二類名詞後綴）</column>
       <column name="definition_pt">plural (geral) (substantivo tipo 2)</column>
-<column name="definition_fi">monikko (yleinen) (substantiivityyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">monikko (yleinen) (substantiiviliite 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-pu':n}, {-Du':n}</column>
@@ -376,7 +376,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">так называемый (сущ. тип 3)</column>
       <column name="definition_zh_HK">所謂（第三類名詞後綴）</column>
       <column name="definition_pt">assim chamado (substantivo tipo 3)</column>
-<column name="definition_fi">ns (substantiivityyppi 3) [AUTOTRANSLATED]</column>
+<column name="definition_fi">niin sanottu (substantiiviliite 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -420,7 +420,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">по-видимому (сущ. тип 3)</column>
       <column name="definition_zh_HK">似乎（第三類名詞後綴）</column>
       <column name="definition_pt">aparente (substantivo tipo 3)</column>
-<column name="definition_fi">apparent (noun type 3) [AUTOTRANSLATED]</column>
+<column name="definition_fi">ilmeisesti (substantiiviliite 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -464,7 +464,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">определенно (сущ. тип 3)</column>
       <column name="definition_zh_HK">確定（第三類名詞後綴）</column>
       <column name="definition_pt">definitivo (substantivo tipo 3)</column>
-<column name="definition_fi">määrätty (substantiivityyppi 3) [AUTOTRANSLATED]</column>
+<column name="definition_fi">selvästi (substantiiviliite 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -508,7 +508,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">мой, мои (сущ. тип 4)</column>
       <column name="definition_zh_HK">我的（第四類名詞後綴）</column>
       <column name="definition_pt">meu (substantivo tipo 4)</column>
-<column name="definition_fi">my (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">minun, -ni (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-wI':n}, {jIH:n:1,pro}</column>
@@ -551,7 +551,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">мой, мои (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">我的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">meu (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
-<column name="definition_fi">my (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">minun, -ni (henkilöstä, kielenkäyttäjästä) (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-wIj:n}, {jIH:n:1,pro}</column>
@@ -594,7 +594,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">наш, наши (сущ. тип 4)</column>
       <column name="definition_zh_HK">我們（第四類名詞後綴）</column>
       <column name="definition_pt">nosso (substantivo type 4)</column>
-<column name="definition_fi">our (noun type 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">meidän, -mme (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-ma':n}, {maH:n:1h,pro}</column>
@@ -637,7 +637,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">наш, наши (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">我們（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">nosso (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
-<column name="definition_fi">meidän (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">meidän, -mme (henkilöstä, kielenkäyttäjästä) (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-maj:n}, {maH:n:1h,pro}</column>
@@ -680,7 +680,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">твой, твои (сущ. тип 4)</column>
       <column name="definition_zh_HK">你的（第四類名詞後綴）</column>
       <column name="definition_pt">seu/teu (substantivo tipo 4)</column>
-<column name="definition_fi">sinun (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sinun, -si (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-lI':n}, {SoH:n}</column>
@@ -723,7 +723,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">твой, твои (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">你的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">seu/teu (substantivo capaz de usar a linguagem) (substantivo tipo 4)</column>
-<column name="definition_fi">sinun (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">sinun, -si (henkilöstä, kielenkäyttäjästä) (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-lIj:n}, {SoH:n}</column>
@@ -766,7 +766,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">ваш, ваши (сущ. тип 4)</column>
       <column name="definition_zh_HK">你們的（第四類名詞後綴）</column>
       <column name="definition_pt">seus/vosso (plural) (substantivo tipo 4)</column>
-<column name="definition_fi">sinun (monikko) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">teidän, -nne (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-ra':n}, {tlhIH:n}</column>
@@ -809,7 +809,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">ваш, ваши (для существ, способных использовать речь) (сущ. тип 4)</column>
       <column name="definition_zh_HK">你們的（能用語言）（第四類名詞後綴）</column>
       <column name="definition_pt">seus/vosso (plural) (substantivo capaz de usar o idioma) (substantivo tipo 4)</column>
-<column name="definition_fi">sinun (monikko) (substantiivi, joka pystyy käyttämään kieltä) (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">teidän, -nne (henkilöstä, kielenkäyttäjästä) (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-raj:n}, {tlhIH:n}</column>
@@ -852,7 +852,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">его, ее (сущ. тип 4)</column>
       <column name="definition_zh_HK">他的、她的、它的（第四類名詞後綴）</column>
       <column name="definition_pt">dele, dela (substantivo tipo 4)</column>
-<column name="definition_fi">hänen, hänen, sen (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">hänen, sen, -nsa/-nsä (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oH:n}, {ghaH:n}</column>
@@ -895,7 +895,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">их (сущ. тип 4)</column>
       <column name="definition_zh_HK">他們的、她們的、它們的（第四類名詞後綴）</column>
       <column name="definition_pt">deles / delas (substantivo tipo 4)</column>
-<column name="definition_fi">niiden (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">heidän, -nsa/-nsä (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIH:n}, {chaH:n}</column>
@@ -938,7 +938,7 @@ Jotkut substantiivit ovat luonnostaan ​​monikkomerkityksisiä, ja yksikkömu
       <column name="definition_ru">этот (сущ. тип 4)</column>
       <column name="definition_zh_HK">這（第四類名詞後綴）</column>
       <column name="definition_pt">esse (substantivo tipo 4)</column>
-<column name="definition_fi">tämä (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">tämä, nämä (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vetlh:n}</column>
@@ -986,7 +986,7 @@ Suurimmalle osalle kiinteää ajanjaksoa osoittavista sanoista tämä pääte os
       <column name="definition_ru">тот (сущ. тип 4)</column>
       <column name="definition_zh_HK">那（第四類名詞後綴）</column>
       <column name="definition_pt">aquele (substantivo tipo 4)</column>
-<column name="definition_fi">että (substantiivityyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">tuo, nuo (substantiiviliite 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vam:n}</column>
@@ -1029,7 +1029,7 @@ Suurimmalle osalle kiinteää ajanjaksoa osoittavista sanoista tämä pääte os
       <column name="definition_ru">местоположение (сущ. тип 5)</column>
       <column name="definition_zh_HK">在地方（第五類名詞後綴）</column>
       <column name="definition_pt">locativo (substantivo tipo 5)</column>
-<column name="definition_fi">paikallinen (substantiivityyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">lokatiivi, -ssa/-ssä, -:n (substantiiviliite 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-vo':n:suff}</column>
       <column name="see_also">{Daq:n}, {naDev:n}, {pa':n:2}, {Dat:n}, {chegh:v}</column>
@@ -1082,7 +1082,7 @@ Kun verbiä käytetään adjektiivisesti, tämä pääte ja muut tyypin 5 substa
       <column name="definition_ru">из (сущ. тип 5)</column>
       <column name="definition_zh_HK">從、來自（第五類名詞後綴）</column>
       <column name="definition_pt">de (substantivo tipo 5)</column>
-<column name="definition_fi">alkaen (substantiivityyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">elatiivi, -sta/-stä (substantiiviliite 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{-Daq:n:suff}</column>
       <column name="see_also">{chegh:v}</column>
@@ -1127,7 +1127,7 @@ Kun verbiä käytetään adjektiivisesti, tämä pääte ja muut tyypin 5 substa
       <column name="definition_ru">из-за, потому что, благодаря (сущ. тип 5)</column>
       <column name="definition_zh_HK">因為（第五類名詞後綴）</column>
       <column name="definition_pt">porque, devido a (substantivo tipo 5)</column>
-<column name="definition_fi">koska (substantiivityyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kausatiivi, koska, vuoksi (substantiiviliite 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1170,7 +1170,7 @@ Kun verbiä käytetään adjektiivisesti, tämä pääte ja muut tyypin 5 substa
       <column name="definition_ru">для (сущ. тип 5)</column>
       <column name="definition_zh_HK">為、對（第五類名詞後綴）</column>
       <column name="definition_pt">para (substantivo tipo 5)</column>
-<column name="definition_fi">varten (substantiivityyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">datiivi, -lle (substantiiviliite 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vI'Hop:n}</column>
@@ -1221,7 +1221,7 @@ Kohdasta {qawmoH:v} on selitys siitä, miten tätä päätettä käytetään ver
       <column name="definition_ru">тема (сущ. тип 5)</column>
       <column name="definition_zh_HK">主題（第五類名詞後綴）</column>
       <column name="definition_pt">tópico (substantivo tipo 5)</column>
-<column name="definition_fi">aihe (substantiivityyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">aiheellistin (substantiiviliite 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1292,7 +1292,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">сам себя (глагол тип 1)</column>
       <column name="definition_zh_HK">自己（第一類動詞後綴）</column>
       <column name="definition_pt">si mesmo (verbal tipo 1)</column>
-<column name="definition_fi">itse (verbi tyyppi 1) [AUTOTRANSLATED]</column>
+<column name="definition_fi">itseään (verbipääte 1)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1335,7 +1335,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">один другого, друг друга (глагол тип 1)</column>
       <column name="definition_zh_HK">彼此（第一類動詞後綴）</column>
       <column name="definition_pt">um ao outro (verbal tipo 1)</column>
-<column name="definition_fi">toisiaan, toisiaan (verbi tyyppi 1) [AUTOTRANSLATED]</column>
+<column name="definition_fi">toisiaan (verbipääte 1)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1378,7 +1378,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">нужно (глагол тип 2)</column>
       <column name="definition_zh_HK">需要（第二類動詞後綴）</column>
       <column name="definition_pt">necessidade (verbal tipo 2)</column>
-<column name="definition_fi">need (verb type 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">tarve (verbipääte 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1421,7 +1421,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">добровольно готов (глагол тип 2)</column>
       <column name="definition_zh_HK">願意（第二類動詞後綴）</column>
       <column name="definition_pt">querendo (verbal tipo 2)</column>
-<column name="definition_fi">halukas (verbi tyyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">halukas (verbipääte 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1464,7 +1464,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">готов (для существ) (глагол тип 2)</column>
       <column name="definition_zh_HK">準備好（生物）（第二類動詞後綴）</column>
       <column name="definition_pt">pronto, preparado (referente aos seres) (verbal tipo 2)</column>
-<column name="definition_fi">valmis, valmistautunut (viittaa olentoihin) (verbi tyyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">valmis (henkilöstä) (verbipääte 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1507,7 +1507,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">готов (для устройств) (глагол тип 2)</column>
       <column name="definition_zh_HK">準備好、設置好（設備）（第二類動詞後綴）</column>
       <column name="definition_pt">pronto, preparado (referindo a dispositivos) (verbal tipo 2)</column>
-<column name="definition_fi">valmis, asetettu (viitaten laitteisiin) (verbi tyyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">valmis (asiasta) (verbipääte 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1551,7 +1551,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">бояться (глагол тип 2)</column>
       <column name="definition_zh_HK">害怕（第二類動詞後綴）</column>
       <column name="definition_pt">com medo (verbal tipo 2)</column>
-<column name="definition_fi">pelkää (verbi tyyppi 2) [AUTOTRANSLATED]</column>
+<column name="definition_fi">pelokas (verbipääte 2)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1594,7 +1594,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">изменение в состоянии, изменение в направлении (глагол тип 3)</column>
       <column name="definition_zh_HK">改變狀態、改變方向（第三類動詞後綴）</column>
       <column name="definition_pt">mudança de estado, mudança de direção (verbal tipo 3)</column>
-<column name="definition_fi">tilanmuutos, suunnanmuutos (verbi tyyppi 3) [AUTOTRANSLATED]</column>
+<column name="definition_fi">alkaa tehdä, muuttua (tilassa, suunnassa) (verbipääte 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{choH:v}</column>
@@ -1637,7 +1637,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">продолжать, возобновлять (глагол тип 3)</column>
       <column name="definition_zh_HK">恢復、重複、再做（第三類動詞後綴）</column>
       <column name="definition_pt">resumir, fazer novamente (verbal tipo 3)</column>
-<column name="definition_fi">jatka, tee uudelleen (verbi tyyppi 3) [AUTOTRANSLATED]</column>
+<column name="definition_fi">jatkaa, tehdä uudestaan (verrbipääte 3)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1680,7 +1680,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">причинять, быть причиной (глагол тип 4)</column>
       <column name="definition_zh_HK">引起、導致（第四類動詞後綴）</column>
       <column name="definition_pt">causa (verbal tipo 4)</column>
-<column name="definition_fi">syy (verbi tyyppi 4) [AUTOTRANSLATED]</column>
+<column name="definition_fi">aiheuttaa, -taa (verbipääte 4)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1730,7 +1730,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">неопределенное дополнение (глагол тип 5)</column>
       <column name="definition_zh_HK">不定主語（第五類動詞後綴）</column>
       <column name="definition_pt">sujeito indefinido (verbal tipo 5)</column>
-<column name="definition_fi">määrittelemätön aihe (verbi tyyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">määrittelemätön tekijä (verbipääte 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tu'lu':v}, {vay':n}</column>
@@ -1774,7 +1774,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">мочь, быть способным (глагол тип 5)</column>
       <column name="definition_zh_HK">可以、有能力、有本事（第五類動詞後綴）</column>
       <column name="definition_pt">capaz, poder (verbal tipo 5)</column>
-<column name="definition_fi">voi, pystyy (verbi tyyppi 5) [AUTOTRANSLATED]</column>
+<column name="definition_fi">voida, osata (verbipääte 5)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{laH:n}</column>
@@ -1817,7 +1817,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">можно (глагол типа 5 - неграмотно) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一罐（動詞類型5-不合語法） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pode-se (verbal tipo 5 - não gramatical)</column>
-<column name="definition_fi">voi (verbi tyyppi 5 - kielioppi) [AUTOTRANSLATED]</column>
+<column name="definition_fi">osataan, voidaan (verbipääte 5, kieliopin vastainen)</column>
       <column name="synonyms">{-la':v}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1860,7 +1860,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">можно (глагол типа 5 - неграмотно) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">一罐（動詞類型5-不合語法） [AUTOTRANSLATED]</column>
       <column name="definition_pt">pode-se (verbal tipo 5 - não gramatical)</column>
-<column name="definition_fi">voi (verbi tyyppi 5 - kielioppi) [AUTOTRANSLATED]</column>
+<column name="definition_fi">osataan, voidaan (verbipääte 5, kieliopin vastainen)</column>
       <column name="synonyms">{-luH:v}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1903,7 +1903,7 @@ In {HQ 4.2:src}, this suffix is also described as a focus marker.[4]</column>
       <column name="definition_ru">идеально, совершенно (глагол тип 6)</column>
       <column name="definition_zh_HK">完美、無瑕（第六類動詞後綴）</column>
       <column name="definition_pt">claramente, perfeitamente (verbal tipo 6)</column>
-<column name="definition_fi">selvästi, täydellisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
+<column name="definition_fi">täydellisesti (verbipääte 6)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1954,7 +1954,7 @@ Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keih�
       <column name="definition_ru">определенно, без сомнений (глагол тип 6)</column>
       <column name="definition_zh_HK">當然、一定（第六類動詞後綴）</column>
       <column name="definition_pt">certamente, sem dúvida (verbal tipo 6)</column>
-<column name="definition_fi">varmasti, epäilemättä (verbi tyyppi 6) [AUTOTRANSLATED]</column>
+<column name="definition_fi">varmasti, kiistatta (verbipääte 6)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1997,7 +1997,7 @@ Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keih�
       <column name="definition_ru">очевидно (глагол тип 6)</column>
       <column name="definition_zh_HK">顯然（第六類動詞後綴）</column>
       <column name="definition_pt">obviamente (verbal tipo 6)</column>
-<column name="definition_fi">ilmeisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
+<column name="definition_fi">selvästi (verbipääte 6)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2040,7 +2040,7 @@ Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keih�
       <column name="definition_ru">по-видимому (глагол тип 6)</column>
       <column name="definition_zh_HK">似乎、貌似（第六類動詞後綴）</column>
       <column name="definition_pt">aparentemente (verbal tipo 6)</column>
-<column name="definition_fi">näennäisesti, ilmeisesti (verbi tyyppi 6) [AUTOTRANSLATED]</column>
+<column name="definition_fi">ilmeisesti (verbipääte 6)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2083,7 +2083,7 @@ Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keih�
       <column name="definition_ru">законченность действия (глагол тип 7)</column>
       <column name="definition_zh_HK">完成（第七類動詞後綴）</column>
       <column name="definition_pt">perfeito (verbal tipo 7)</column>
-<column name="definition_fi">täydellinen (verbi tyyppi 7) [AUTOTRANSLATED]</column>
+<column name="definition_fi">perfektiivi (verbipääte 7)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2126,7 +2126,7 @@ Kun sitä käytetään {chuH:v:1}: n kanssa, se tarkoittaa, että heitetty keih�
       <column name="definition_ru">выполнено, готово (глагол тип 7)</column>
       <column name="definition_zh_HK">故意完成（第7類動詞後綴）</column>
       <column name="definition_pt">concluído, feito (verbal tipo 7)</column>
-<column name="definition_fi">suoritettu, tehty (verbi tyyppi 7) [AUTOTRANSLATED]</column>
+<column name="definition_fi">suoritettu, tehty (teelinen perfektiivi) (verbipääte 7)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2173,7 +2173,7 @@ On olemassa erityinen sanallinen rakenne, {rIntaH:v}, joka merkitsee samanlaista
       <column name="definition_ru">длительность действия (глагол тип 7)</column>
       <column name="definition_zh_HK">連續（第七類動詞後綴）</column>
       <column name="definition_pt">contínuo (verbal tipo 7)</column>
-<column name="definition_fi">jatkuva (verbi tyyppi 7) [AUTOTRANSLATED]</column>
+<column name="definition_fi">imperfektiivi, jatkuva tekeminen (verbipääte 7)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-vIS:v:suff}</column>
@@ -2222,7 +2222,7 @@ Kun pronominia käytetään olemaan "olemaan" -rakenne jonkin sijainnin tunnista
       <column name="definition_ru">прогресс (глагол тип 7)</column>
       <column name="definition_zh_HK">進行（第七類動詞後綴）</column>
       <column name="definition_pt">progresso (verbal tipo 7)</column>
-<column name="definition_fi">edistyminen (verbi tyyppi 7) [AUTOTRANSLATED]</column>
+<column name="definition_fi">teelinen imperfektiivi, edistyminen (verbipääte 7)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2265,7 +2265,7 @@ Kun pronominia käytetään olemaan "olemaan" -rakenne jonkin sijainnin tunnista
       <column name="definition_ru">выражение почтения (глагол тип 8)</column>
       <column name="definition_zh_HK">敬意（第八類動詞後綴）</column>
       <column name="definition_pt">honorífico (verbal tipo 8)</column>
-<column name="definition_fi">kunnianosoitus (verbi tyyppi 8) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kunnioitus (verbipääte 8)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yI':v}</column>
@@ -2315,7 +2315,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">когда, как только (глагол тип 9)</column>
       <column name="definition_zh_HK">一經、就（第九類動詞後綴）</column>
       <column name="definition_pt">quando, assim que (verbal tipo 9)</column>
-<column name="definition_fi">milloin heti (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">heti kun (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2358,7 +2358,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">если (глагол тип 9)</column>
       <column name="definition_zh_HK">如果（第九類動詞後綴）</column>
       <column name="definition_pt">se (verbal tipo 9)</column>
-<column name="definition_fi">jos (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">jos (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2401,7 +2401,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">до, прежде (глагол тип 9)</column>
       <column name="definition_zh_HK">之前（第九類動詞後綴）</column>
       <column name="definition_pt">antes de (verbal tipo 9)</column>
-<column name="definition_fi">ennen (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">ennen kun (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2445,7 +2445,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">пока, в то время как (глагол тип 9)</column>
       <column name="definition_zh_HK">當中（第九類動詞後綴）</column>
       <column name="definition_pt">enquanto (verbal tipo 9)</column>
-<column name="definition_fi">while (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kun (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2488,7 +2488,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">из-за, потому что, благодаря (глагол тип 9)</column>
       <column name="definition_zh_HK">因為（第九類動詞後綴）</column>
       <column name="definition_pt">devido a, por causa de (verbal tipo 9)</column>
-<column name="definition_fi">johtuu, johtuen (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">koska (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2531,7 +2531,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">который (глагол тип 9)</column>
       <column name="definition_zh_HK">嘅（第九類動詞後綴）</column>
       <column name="definition_pt">o qual (verbal tipo 9)</column>
-<column name="definition_fi">mikä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">joka (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2574,7 +2574,7 @@ Tätä loppuliitettä käytetään myös joidenkin taisteluverbien kanssa osoitt
       <column name="definition_ru">для (глагол тип 9)</column>
       <column name="definition_zh_HK">為了（第九類動詞後綴）</column>
       <column name="definition_pt">para, com a finalidade de, a fim de (verbal tipo 9)</column>
-<column name="definition_fi">for, for the purpose of, in order to (verb type 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">jotta, -ksi (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2622,7 +2622,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="definition_ru">вопрос (глагол тип 9)</column>
       <column name="definition_zh_HK">疑問句（第九類動詞後綴）</column>
       <column name="definition_pt">interrogativo (verbal tipo 9)</column>
-<column name="definition_fi">kysävä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">interrogatiivi (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIja':excl}, {HISlaH:excl}, {ghobe':excl}</column>
@@ -2665,7 +2665,7 @@ There is an article in {HQ 7.3:src} which examines {-meH:v:suff,nolink} clauses 
       <column name="definition_ru">да будет (глагол тип 9)</column>
       <column name="definition_zh_HK">願、祝（第九類動詞後綴）</column>
       <column name="definition_pt">que (desejo) (verbal tipo 9)</column>
-<column name="definition_fi">voi, anna (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">jussiivi, -koon/-koot (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jIn:v}</column>
@@ -2716,7 +2716,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="definition_ru">тот, кто делает /то, которое делает (глагол тип 9)</column>
       <column name="definition_zh_HK">者、器；做或是的人或事物（第九類動詞後綴）</column>
       <column name="definition_pt">quem faz, coisa que faz (verbal tipo 9)</column>
-<column name="definition_fi">joka tekee / on, asia joka tekee / on (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">joka tekee, -ja/-jä (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2759,7 +2759,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="definition_ru">существительное (глагол тип 9)</column>
       <column name="definition_zh_HK">名詞化器（第九類動詞後綴）</column>
       <column name="definition_pt">nominalizador (verbal tipo 9)</column>
-<column name="definition_fi">nimittäjä (verbi tyyppi 9) [AUTOTRANSLATED]</column>
+<column name="definition_fi">substantivisoija, -uus/-yys (verbipääte 9)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2808,7 +2808,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="definition_ru">не (глагол тип R)</column>
       <column name="definition_zh_HK">不、沒（動詞流浪後綴）</column>
       <column name="definition_pt">não (verbal tipo R)</column>
-<column name="definition_fi">ei (verbityyppi R) [AUTOTRANSLATED]</column>
+<column name="definition_fi">ei (seikkailija)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-Qo':v:suff}</column>
@@ -2852,7 +2852,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="definition_ru">не буду! (глагол тип R)</column>
       <column name="definition_zh_HK">不要！、不會！（動詞流浪後綴）</column>
       <column name="definition_pt">não !, não vou! (verbal tipo R)</column>
-<column name="definition_fi">älä !, ei! (verbityyppi R) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kieltäytyminen (seikkailija)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{-be':v:suff}, {Qo':excl}</column>
@@ -2895,7 +2895,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="definition_ru">отменить, сделать неправильно (глагол тип R)</column>
       <column name="definition_zh_HK">撤消、做錯（動詞流浪後綴）</column>
       <column name="definition_pt">desfazer, fazer de forma incorreta (verbal type R)</column>
-<column name="definition_fi">kumoaa, tee väärin (verbityyppi R) [AUTOTRANSLATED]</column>
+<column name="definition_fi">vastakohta, tehdä väärin (seikkailija)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2941,7 +2941,7 @@ This suffix can be applied to some adverbials, but not to all of them.[2; 3] The
       <column name="definition_ru">очень (глагол тип R)</column>
       <column name="definition_zh_HK">強調（動詞流浪後綴）</column>
       <column name="definition_pt">enfático (verbal tipo R)</column>
-<column name="definition_fi">korostuva (verbityyppi R) [AUTOTRANSLATED]</column>
+<column name="definition_fi">erittäin, hyvin, korostaja (seikkailija)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
