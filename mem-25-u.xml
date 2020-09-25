@@ -9,7 +9,7 @@
       <column name="definition_ru">буква {u:sen:nolink}</column>
       <column name="definition_zh_HK">元音{u:sen:nolink}</column>
       <column name="definition_pt">a vogal {u:sen:nolink}</column>
-<column name="definition_fi">the vowel {u:sen:nolink} [AUTOTRANSLATED]</column>
+<column name="definition_fi">vokaali {u:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -52,7 +52,7 @@
       <column name="definition_ru">быть одиноким [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">孤獨 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser sozinho</column>
-<column name="definition_fi">be lonely [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla yksinäinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'IQ:v}, {'It:v}, {mob:v:1}</column>
@@ -95,7 +95,7 @@
       <column name="definition_ru">держать, хватать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">抓</column>
       <column name="definition_pt">segurar, agarrar</column>
-<column name="definition_fi">pidä kiinni [AUTOTRANSLATED]</column>
+<column name="definition_fi">pitää kiinni, pidellä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'uchHa':v}</column>
       <column name="see_also"></column>
@@ -153,7 +153,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_ru">заблокировать (цель) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鎖定（目標） [AUTOTRANSLATED]</column>
       <column name="definition_pt">bloquear (um alvo)</column>
-<column name="definition_fi">lukita (kohde) [AUTOTRANSLATED]</column>
+<column name="definition_fi">lukittua kohteeseen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DoS:n}, {buS:v}</column>
@@ -197,7 +197,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_ru">включать, состоять из, состоять из [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">包括、由...組成 [AUTOTRANSLATED]</column>
       <column name="definition_pt">incluir, consistir em, ser composto de</column>
-<column name="definition_fi">sisältävät, koostuvat, koostuvat [AUTOTRANSLATED]</column>
+<column name="definition_fi">sisältää, koostua jostakin</column>
       <column name="synonyms">{yugh:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{tamlerQeD:n}</column>
@@ -240,7 +240,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="definition_ru">отпустить [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">放手</column>
           <column name="definition_pt">soltar de</column>
-<column name="definition_fi">let go of [AUTOTRANSLATED]</column>
+<column name="definition_fi">päästää irti, hellittää ote jostain</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'uch:v:1}</column>
           <column name="see_also"></column>
@@ -283,7 +283,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_ru">РНК [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">核糖核酸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">RNA</column>
-<column name="definition_fi">RNA [AUTOTRANSLATED]</column>
+<column name="definition_fi">RNA</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{roSghaH:n}</column>
@@ -326,7 +326,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_ru">лазер [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">激光</column>
       <column name="definition_pt">laser</column>
-<column name="definition_fi">laser [AUTOTRANSLATED]</column>
+<column name="definition_fi">laser</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'otlh:n}</column>
@@ -371,7 +371,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_ru">лазерный скальпель [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">激光手術刀</column>
       <column name="definition_pt">bisturi a laser</column>
-<column name="definition_fi">laser scalpel [AUTOTRANSLATED]</column>
+<column name="definition_fi">laserveitsi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HaqwI':n}</column>
@@ -414,7 +414,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_ru">быть тяжелым</column>
       <column name="definition_zh_HK">重</column>
       <column name="definition_pt">ser pesado</column>
-<column name="definition_fi">olla raskas [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla raskas, painava</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tIS:v}</column>
       <column name="see_also">{cheb:n}, {ngI':v}</column>
@@ -458,7 +458,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_ru">гусеница [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">毛蟲</column>
       <column name="definition_pt">lagarta</column>
-<column name="definition_fi">toukka [AUTOTRANSLATED]</column>
+<column name="definition_fi">toukka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghargh:n}</column>
@@ -501,7 +501,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_ru">иметь похмелье</column>
       <column name="definition_zh_HK">宿醉、宿酒</column>
       <column name="definition_pt">ter uma ressaca, estar de ressaca</column>
-<column name="definition_fi">on krapula, ripustetaan [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla krapulassa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chech:v}, {HIq:n}, {wuQ:v}, {nuch Hergh:n}</column>
@@ -544,7 +544,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_ru">uj (единица измерения линейной длины, 34,83 ​​см) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">uj（線性測量單位、34.83 cm） [AUTOTRANSLATED]</column>
       <column name="definition_pt">uj (unidade de medida linear, 34,83 ​​cm)</column>
-<column name="definition_fi">uj (unit of linear measure, 34.83 cm) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs pituuden yksikkö, uj (n. 34,83 cm)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ab:v}, {'aD:v}, {juch:v}, {Saw':v}, {woch:v}, {juv:v}, {'uj'a':n}, {morgh:n}, {lID:v}</column>
@@ -602,7 +602,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">единица длины (313,47 см) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">長度單位（313.47厘米） [AUTOTRANSLATED]</column>
       <column name="definition_pt">unidade de comprimento (313.47 cm)</column>
-<column name="definition_fi">pituuden yksikkö (313,47 cm) [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs pituuden yksikkö, iso uj (n. 313,47 cm)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -646,7 +646,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">Уджилли [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">Ujilli [AUTOTRANSLATED]</column>
       <column name="definition_pt">Ujilli</column>
-<column name="definition_fi">Ujilli [AUTOTRANSLATED]</column>
+<column name="definition_fi">Ujilli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -689,7 +689,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">электричество [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">電、電力</column>
       <column name="definition_pt">eletricidade</column>
-<column name="definition_fi">electricity [AUTOTRANSLATED]</column>
+<column name="definition_fi">sähkö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{peQ:n}</column>
@@ -732,7 +732,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">схема [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電路 [AUTOTRANSLATED]</column>
           <column name="definition_pt">circuito</column>
-<column name="definition_fi">piiri [AUTOTRANSLATED]</column>
+<column name="definition_fi">virtapiiri</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -775,7 +775,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">электрик [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電工</column>
           <column name="definition_pt">eletricista</column>
-<column name="definition_fi">sähköasentaja [AUTOTRANSLATED]</column>
+<column name="definition_fi">sähköasentaja</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'ul:n}</column>
@@ -818,7 +818,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">электрическая вилка [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電源插頭</column>
           <column name="definition_pt">Tomada</column>
-<column name="definition_fi">pistoke [AUTOTRANSLATED]</column>
+<column name="definition_fi">pistoke</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -861,7 +861,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">фонарик [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電筒</column>
           <column name="definition_pt">lanterna</column>
-<column name="definition_fi">flashlight [AUTOTRANSLATED]</column>
+<column name="definition_fi">taskulamppu</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -905,7 +905,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">батарея, электрохимическая ячейка [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電心、電池</column>
           <column name="definition_pt">bateria, célula eletroquímica</column>
-<column name="definition_fi">akku, sähkökemiallinen kenno [AUTOTRANSLATED]</column>
+<column name="definition_fi">akku, paristo, sähkökemiallinen kenno</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{HoSHal:n}, {Huj:v:2}</column>
@@ -948,7 +948,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">быть компетентным</column>
       <column name="definition_zh_HK">有資格</column>
       <column name="definition_pt">ser qualificado</column>
-<column name="definition_fi">be qualified [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla pätevä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'umHa':v}</column>
       <column name="see_also">{po':v}, {Han:v}, {Hen:v}</column>
@@ -991,7 +991,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">быть неквалифицированным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">冇資格、不合格</column>
       <column name="definition_pt">ser desqualificado</column>
-<column name="definition_fi">olla pätemätön [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla epäpätevä</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'um:v}</column>
       <column name="see_also"></column>
@@ -1040,7 +1040,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">лепесток [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">花瓣</column>
       <column name="definition_pt">pétala</column>
-<column name="definition_fi">terälehti [AUTOTRANSLATED]</column>
+<column name="definition_fi">terälehti</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'InSong:n}</column>
@@ -1083,7 +1083,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">экосистема, окружающая среда [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">生態系統，環境 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ecossistema, meio ambiente</column>
-<column name="definition_fi">ekosysteemi, ympäristö [AUTOTRANSLATED]</column>
+<column name="definition_fi">ekosysteemi, ympäristö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{but:v}, {qo':n}, {yIn:n}</column>
@@ -1126,7 +1126,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">pot (for food preparation) (general term) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鍋（用於食物準備）（總稱） [AUTOTRANSLATED]</column>
       <column name="definition_pt">panela (para preparação de alimentos) (termo geral)</column>
-<column name="definition_fi">pot (for food preparation) (general term) [AUTOTRANSLATED]</column>
+<column name="definition_fi">pata, kattila (ruoanvalmistusta varten)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuDwI':n}, {'un naQ:n}, {bo'Dagh:n}</column>
@@ -1169,7 +1169,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">палочка для перемешивания, палочка для перемешивания [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">攪拌棒</column>
       <column name="definition_pt">bastão de agitação, bastão misturador</column>
-<column name="definition_fi">stirring stick, mixing stick [AUTOTRANSLATED]</column>
+<column name="definition_fi">sekoituspuikko (käytetään ruoanvalmistuksessa)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuDwI':n}, {ngawDeq:n}</column>
@@ -1212,7 +1212,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">artificially produced [qud] [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">人工製作的《qud》</column>
       <column name="definition_pt">produzido artificialmente [qud]</column>
-<column name="definition_fi">keinotekoisesti tuotettu [qud] [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs elintarvike, keinotekoisesti tuotettu [qud]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{quD:n}, {burgh quD:n}</column>
@@ -1255,7 +1255,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">корзина [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">籃</column>
       <column name="definition_pt">cesta</column>
-<column name="definition_fi">kori [AUTOTRANSLATED]</column>
+<column name="definition_fi">kori</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1300,7 +1300,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_pt">agachamento (para baixo)</column>
 <!-- ERROR: Mismatched brackets. -->
 <!-- ERROR: Mismatched brackets. -->
-<column name="definition_fi">kyykistyä) [AUTOTRANSLATED]</column>
+<column name="definition_fi">kyykistyä, istua kyykyssä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ba':v}, {joD:v}, {tor:v:1}</column>
@@ -1343,7 +1343,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">быть неприятным, отвратительным, отвратительным, отвратительным, непристойным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">是令人討厭的、令人作嘔的、令人厭惡的、令人厭惡的、icky的 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser repugnante, nojento, revoltante</column>
-<column name="definition_fi">olla epämiellyttävä, inhottava, vastenmielinen, inhottava, ikävä [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla epämiellyttävä, inhottava, vastenmielinen, ällö</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'eyHa':v}, {yIH:n}, {ngIm:v}, {natlh:v:2}</column>
@@ -1386,7 +1386,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">свисток [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">吹哨</column>
       <column name="definition_pt">apitar, assobiar</column>
-<column name="definition_fi">whistle [AUTOTRANSLATED]</column>
+<column name="definition_fi">viheltää</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bom:v}, {bo'Degh:n}, {Huy:v:1}</column>
@@ -1429,7 +1429,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">ужин</column>
       <column name="definition_zh_HK">晚餐</column>
       <column name="definition_pt">jantar</column>
-<column name="definition_fi">dinner [AUTOTRANSLATED]</column>
+<column name="definition_fi">illallinen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ram:n}, {nay':n}, {ghem:n}, {megh:n}, {nIQ:n}</column>
@@ -1473,7 +1473,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">банкет, пир</column>
       <column name="definition_zh_HK">宴會、饗宴</column>
       <column name="definition_pt">banquete, festa</column>
-<column name="definition_fi">banquet, feast [AUTOTRANSLATED]</column>
+<column name="definition_fi">juhla-ateria, pidot, kestit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1516,7 +1516,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">столовая, столовая [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">飯廳</column>
       <column name="definition_pt">sala de jantar</column>
-<column name="definition_fi">dinner room, dining room [AUTOTRANSLATED]</column>
+<column name="definition_fi">ruokasali</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SopmeH pa':n}</column>
@@ -1559,7 +1559,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">совершать измену</column>
       <column name="definition_zh_HK">賣國</column>
       <column name="definition_pt">trair, cometer traição</column>
-<column name="definition_fi">maanpetos, tee maanpetos [AUTOTRANSLATED]</column>
+<column name="definition_fi">tehdä maanpetos</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{magh:v}, {bolwI':n}, {'urmang:n}</column>
@@ -1602,7 +1602,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">изменник</column>
       <column name="definition_zh_HK">賣國賊</column>
       <column name="definition_pt">traidor</column>
-<column name="definition_fi">petturi [AUTOTRANSLATED]</column>
+<column name="definition_fi">maanpetturi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bolwI':n}, {maghwI':n}</column>
@@ -1645,7 +1645,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">тыкать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">篤、戳</column>
       <column name="definition_pt">espetar</column>
-<column name="definition_fi">jakk, säkki [AUTOTRANSLATED]</column>
+<column name="definition_fi">pistää, tökätä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuQ:v:1}, {'urghwI':n}</column>
@@ -1688,7 +1688,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">Покер (карточная игра) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">撲克（紙牌遊戲）</column>
       <column name="definition_pt">Poker (jogo de cartas)</column>
-<column name="definition_fi">Pokeri (korttipeli) [AUTOTRANSLATED]</column>
+<column name="definition_fi">pokeri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Degh:n:1}, {'echletHom:n}, {SuD:v:2}</column>
@@ -1731,7 +1731,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">измена</column>
       <column name="definition_zh_HK">叛國罪</column>
       <column name="definition_pt">traição</column>
-<column name="definition_fi">maanpetos [AUTOTRANSLATED]</column>
+<column name="definition_fi">maanpetos</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ur:v}, {Daw':n}, {QuS:n}</column>
@@ -1774,7 +1774,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">нога</column>
       <column name="definition_zh_HK">腿</column>
       <column name="definition_pt">perna</column>
-<column name="definition_fi">jalka [AUTOTRANSLATED]</column>
+<column name="definition_fi">jalka</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qam:n}, {ghIv:n}, {qIv:n}, {to'waQ:n}, {ngIb:n:1}</column>
@@ -1817,7 +1817,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">своего рода птица, петух [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">公雞</column>
       <column name="definition_pt">uma espécie de pássaro, galo</column>
-<column name="definition_fi">eräänlainen lintu, kukko [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kukon kaltainen lintu</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'Degh:n}, {jajlo' Qa':n}</column>
@@ -1860,7 +1860,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">железо (элемент) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鐵（元素）</column>
       <column name="definition_pt">ferro (elemento)</column>
-<column name="definition_fi">rauta (elementti) [AUTOTRANSLATED]</column>
+<column name="definition_fi">rauta</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tamler:n}, {baS:n}</column>
@@ -1903,7 +1903,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">соус для удовольствия [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">薄醬</column>
       <column name="definition_pt">molho de gladst</column>
-<column name="definition_fi">kastike gladstone [AUTOTRANSLATED]</column>
+<column name="definition_fi">eräs kasti gladstille</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhatlh:n}, {tlhatlh vIychorgh:n}, {Se'tu':n}</column>
@@ -1947,7 +1947,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">быть необходимым</column>
       <column name="definition_zh_HK">必要、需要</column>
       <column name="definition_pt">ser essencial, ser necessário</column>
-<column name="definition_fi">be essential, necessary [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla välttämätön, tarpeellinen</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'utbe':v}</column>
       <column name="see_also"></column>
@@ -1991,7 +1991,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">быть необязательным, ненужным [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">不必要、不需要</column>
           <column name="definition_pt">ser desnecessário, não-essencial</column>
-<column name="definition_fi">be nonessential, unnecessary [AUTOTRANSLATED]</column>
+<column name="definition_fi">olla tarpeeton</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'ut:v}</column>
           <column name="see_also"></column>
@@ -2035,7 +2035,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
           <column name="definition_ru">Удовольствие необязательно. [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">樂趣是不重要的。</column>
           <column name="definition_pt">Prazer não é essencial.</column>
-<column name="definition_fi">Nautinto ei ole välttämätöntä. [AUTOTRANSLATED]</column>
+<column name="definition_fi">Nautinto on tarpeetonta.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2078,7 +2078,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">комод [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">抽屜櫃 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cômoda</column>
-<column name="definition_fi">lipasto [AUTOTRANSLATED]</column>
+<column name="definition_fi">lipasto</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'voD:n}, {DeSwar:n}, {yorgh:n}</column>
@@ -2121,7 +2121,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">офицер, бывший офицер</column>
       <column name="definition_zh_HK">軍官、退休人員 [AUTOTRANSLATED]</column>
       <column name="definition_pt">oficial, oficial emérito</column>
-<column name="definition_fi">upseeri, emeritusvirkamies [AUTOTRANSLATED]</column>
+<column name="definition_fi">upseeri, eläköitynyt upseeri</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yaS:n}, {paj:v}, {Deq:v}</column>
@@ -2164,7 +2164,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">нажимать</column>
       <column name="definition_zh_HK">撳低</column>
       <column name="definition_pt">pressionar para baixo</column>
-<column name="definition_fi">paina alas [AUTOTRANSLATED]</column>
+<column name="definition_fi">painaa alas</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yuv:v}, {leQ:n}</column>
@@ -2208,7 +2208,7 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="definition_ru">миллион</column>
       <column name="definition_zh_HK">百萬</column>
       <column name="definition_pt">milhão</column>
-<column name="definition_fi">million [AUTOTRANSLATED]</column>
+<column name="definition_fi">miljoonaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI':n}, {bIp:n:num}, {Saghan:n:num}</column>
@@ -2263,7 +2263,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="definition_ru">вселенная</column>
       <column name="definition_zh_HK">宇宙</column>
       <column name="definition_pt">universo</column>
-<column name="definition_fi">maailmankaikkeus [AUTOTRANSLATED]</column>
+<column name="definition_fi">maailmankaikkeus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngeHbej:n}, {'u' Dop:n}, {'u' quq:n}</column>
@@ -2306,7 +2306,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="definition_ru">зеркальная вселенная [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">相反時空</column>
       <column name="definition_pt">universo espelho</column>
-<column name="definition_fi">peiliuniversumi [AUTOTRANSLATED]</column>
+<column name="definition_fi">peilimaailma</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' quq:n}</column>
@@ -2351,7 +2351,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="definition_ru">параллельная вселенная [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">平行時空</column>
       <column name="definition_pt">universo paralelo</column>
-<column name="definition_fi">rinnakkais universumi [AUTOTRANSLATED]</column>
+<column name="definition_fi">rinnakkaistodellisuus</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' Dop:n}</column>
