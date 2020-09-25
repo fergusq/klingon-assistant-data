@@ -2697,8 +2697,8 @@ Toisin kuin {pIl:v}, tämä viittaa itse motivaatioon. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">{SkyBox 99:src}: n teksti kuuluu:
-▶ KÄÄNNÖT2{loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
+<column name="notes_fi">{SkyBox 99:src}:n teksti kuuluu:
+▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink}</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3259,9 +3259,9 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Jotkut {Qo'noS:n}: n tunnetuista kaupungeista ovat:
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3{veng wa'DIch:n}{ruq'e'vet:n} [AUTOTRANSLATED]</column>
+<column name="notes_fi">{Qo'noS:n}:n tunnettuja kaupunkeja on:
+▶ {veng wa'DIch:n}
+▶ {ruq'e'vet:n}</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -7353,14 +7353,14 @@ This region has some vocabulary differences from {ta' Hol:n}. Terms which have a
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Tämä on alue lounaaseen {veng wa'DIch:n}: stä.
+<column name="notes_fi">Tämä on alue lounaaseen {veng wa'DIch:n}:sta.
 
-Tällä alueella on sanastoeroja {ta' Hol:n}: sta. Termeillä, joilla on erilainen merkitys tällä alueella kuin {ta' Hol:n}: ssa, ovat:
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8{cheSvel:n:2}{ghaw':n:2}{wep:n:2}{yIvbeH:n:2}{'IghvaH chej chatlh:n} [AUTOTRANSLATED]</column>
+Tällä alueella on sanastoeroja {ta' Hol:n}:iin. Termeillä, joilla on erilainen merkitys tällä alueella kuin {ta' Hol:n}:ssa, on:
+▶ {cheSvel:n:2}
+▶ {ghaw':n:2}
+▶ {wep:n:2}
+▶ {yIvbeH:n:2}
+▶ {'IghvaH chej chatlh:n}</column>
       <column name="hidden_notes">This word appears only in the body of {KGT:src} and not in the glossary.</column>
       <column name="components"></column>
       <column name="examples"></column>

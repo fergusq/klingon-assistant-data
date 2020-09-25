@@ -2389,25 +2389,25 @@ For every {QeD:n:nolink} there is a corresponding {tej:n}.[2; 3]</column>
       <column name="notes_ru">Клингонские науки включают в себя {HolQeD:n}, {HuchQeD:n}, {nughQeD:n}, {porghQeD:n}, и {'otlhQeD:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Klingonin tieteitä ovat:
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
-▶ KÄÄNTÄMINEN 9
-▶ KÄÄNNÖTTÖ10
-▶ KÄÄNTÄMINEN 11
-▶ KÄÄNTÄMINEN 12
-▶ KÄÄNTÄMINEN13
-▶ KÄÄNTÖ14
-▶ {DI'ruj QeD:n}5
-▶ KÄÄNTÄMINEN16
+<column name="notes_fi">Klingonin kielessä on seuraavia tieteitä:
+▶ {DI'ruj QeD:n}
+▶ {HapQeD:n}
+▶ {HolQeD:n}
+▶ {HovQeD:n}
+▶ {HuchQeD:n}
+▶ {mI'QeD:n}
+▶ {nughQeD:n}
+▶ {no'QeD:n}
+▶ {rayQeD:n}
+▶ {roSqa'QeD:n}
+▶ {qunQeD:n}
+▶ {porghQeD:n}
+▶ {tamlerQeD:n}
+▶ {yuQQeD:n}
+▶ {'an'orQeD:n}
+▶ {'otlhQeD:n}
 
-Jokaiselle {QeD:n:nolink}: lle on vastaava {tej:n}.{HapQeD:n}{HolQeD:n}{HovQeD:n}{HuchQeD:n}{mI'QeD:n}{nughQeD:n}{no'QeD:n}{rayQeD:n}{roSqa'QeD:n}{qunQeD:n}{porghQeD:n}{tamlerQeD:n}{yuQQeD:n}{'an'orQeD:n}{'otlhQeD:n}[2; 3] [AUTOTRANSLATED]</column>
+Jokaiselle {QeD:n:nolink}:lle on vastaava {tej:n}.</column>
       <column name="hidden_notes">"Q.E.D."</column>
       <column name="components"></column>
       <column name="examples">{Hov leng QeD:n}</column>

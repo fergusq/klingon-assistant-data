@@ -3299,19 +3299,19 @@ In {TNK:src}, the category title for "Countries" was translated {Sepmey tlhab:n:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Tämä viittaa alueeseen, jonka rajat ovat määriteltävissä ja joka oli poliittisesti erillinen aikaisemmin. Yksi sopiva käännös tälle sanalle voi olla "maa" .[2]
+<column name="notes_fi">Tämä viittaa alueeseen, jonka rajat ovat määriteltävissä ja joka oli poliittisesti erillinen aikaisemmin. Yksi sopiva käännös tälle sanalle voi olla "maa".[2]
 
-Jotkut {Qo'noS:n}: n tunnetuista alueista ovat:
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
-▶ KÄÄNTÄMINEN 9
-▶ KÄÄNNÖTTÖ10
+Jotkut {Qo'noS:n}:n tunnetuista alueista ovat:
+▶ {ghevchoq Sep:n}
+▶ {meqro'vaq Sep:n}
+▶ {noHva'Dut Sep:n}
+▶ {Qotmagh Sep:n}
+▶ {Sa'Qej Sep:n}
+▶ {taq'ev Sep:n}
+▶ {veng wa'DIch Sep:n}
+▶ {voSpegh Sep:n}
 
-Kohdassa {TNK:src} kategorian "Maat" otsikko käännettiin {Sepmey tlhab:n:nolink} (katso {tlhab:v}).{ghevchoq Sep:n}{meqro'vaq Sep:n}{noHva'Dut Sep:n}{Qotmagh Sep:n}{Sa'Qej Sep:n}{taq'ev Sep:n}{veng wa'DIch Sep:n}{voSpegh Sep:n}[3] [AUTOTRANSLATED]</column>
+{TNK:src}:ssa kategorian "Maat" otsikko käännettiin {Sepmey tlhab:n:nolink} (katso {tlhab:v}).</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3362,15 +3362,15 @@ Kohdassa {TNK:src} kategorian "Maat" otsikko käännettiin {Sepmey tlhab:n:nolin
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Paikkoja, joissa on merkittäviä alueellisia murteita, ovat:
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8{meqro'vaq Sep:n}{noHva'Dut Sep:n}{Qotmagh Sep:n}{ruq'e'vet:n}{Sa'Qej Sep:n}{taq'ev Sep:n}{voSpegh Sep:n}{mo'rISqa':n} [AUTOTRANSLATED]</column>
+<column name="notes_fi">Paikkoja, joissa on merkittäviä alueellisia murteita, on:
+▶ {meqro'vaq Sep:n}
+▶ {noHva'Dut Sep:n}
+▶ {Qotmagh Sep:n}
+▶ {ruq'e'vet:n}
+▶ {Sa'Qej Sep:n}
+▶ {taq'ev Sep:n}
+▶ {voSpegh Sep:n}
+▶ {mo'rISqa':n}</column>
       <column name="hidden_notes"></column>
       <column name="components">{Sep:n}, {Hol Sar:n}</column>
       <column name="examples"></column>

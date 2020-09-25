@@ -6377,8 +6377,8 @@ O texto de {SkyBox 99:src} diz:
 ▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
 <column name="notes_fi">Tämä on federaation avaruusaseman nimi.
 
-{SkyBox 99:src}: n teksti kuuluu:
-▶ KÄÄNNÖT2{loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink} [AUTOTRANSLATED]</column>
+{SkyBox 99:src}:n teksti kuuluu:
+▶ {loS... qIb HeHDaq, 'u' SepmeyDaq Sovbe'lu'bogh lenglu'meH He ghoSlu'bogh retlhDaq 'oHtaH. HaDlu'meH, QuSlu'meH, SuDlu'meH lojmIt Da logh Hop Hut tengchaH. vaj loghDaq lenglaHtaH Humanpu'. veH Qav 'oH logh'e'.:sen:nolink}</column>
       <column name="hidden_notes"></column>
       <column name="components">{logh Hop:n}, {Hut:n:num}, {tengchaH:n}</column>
       <column name="examples"></column>

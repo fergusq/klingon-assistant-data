@@ -8205,19 +8205,19 @@ See under {wot:n} for the verb suffixes.</column>
 Смотрите {wot:n} для глагольных суффиксов.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Klingonissa verbien etuliitteet osoittavat sekä lauseen kohteen että kohteen.
+<column name="notes_fi">Klingonin kielessä verbien etuliitteet ilmaisevat sekä subjektia että objektia.
 
-Katso verbi-etuliitteet kunkin seuraavan pronominin alla:
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ {ghaH:n} / {'oH:n}
-▶ {chaH:n} / {bIH:n}
+Katso seuraavien pronominien artikkeleista niitä koskevat etuliitteet:
+▶ {jIH:n:1h}
+▶ {maH:n:1h}
+▶ {SoH:n}
+▶ {tlhIH:n}
+▶ {ghaH:n}/{'oH:n}
+▶ {chaH:n}/{bIH:n}
 
-Katso myös kohdasta {pagh:n:1h}, kun verbillä ei ole esinettä, ja {jIH:n:1h}0-kohdasta, kun aihe on määrittelemätön.
+Katso artikkelissa {pagh:n:1h} objektittoman verbin etuliite, ja artikkelissa {-lu':v:suff} passiivin etuliite.
 
-Katso verbien jälkiliitteet kohdasta {wot:n}.{maH:n:1h}{SoH:n}{tlhIH:n}{-lu':v:suff} [AUTOTRANSLATED]</column>
+Katso artikkelissa {wot:n} verbipäätteet.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

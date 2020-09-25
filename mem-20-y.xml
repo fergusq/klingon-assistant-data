@@ -5509,11 +5509,11 @@ Some of the known districts on {Qo'noS:n} are:
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Tämä on alue {Sep:n}: ssä, joka sisältää yleensä ainakin yhden tärkeän {veng:n}: n.
+<column name="notes_fi">Tämä viittaa alueeseen {Sep:n}:issa, jossa on yleensä ainakin yksi tärkeä {veng:n}.
 
-Jotkut {Qo'noS:n}: n tunnetuista alueista ovat:
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6[2]{HuD beQ yoS:n}{tlhIng yoS:n} [AUTOTRANSLATED]</column>
+{Qo'noS:n}:n tunnettuja alueita on:
+▶ {HuD beQ yoS:n}
+▶ {tlhIng yoS:n}</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

@@ -1630,26 +1630,26 @@ Hämärä valo olisi {tamghay wovHa':n@@tamghay:n, wov:v, -Ha':v} (kun taas {tam
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Tunnettuja sanoja elementeille ovat:
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
-▶ KÄÄNTÄMINEN 9
-▶ KÄÄNNÖTTÖ10
-▶ KÄÄNTÄMINEN 11
-▶ KÄÄNTÄMINEN 12
-▶ KÄÄNTÄMINEN13
-▶ KÄÄNTÖ14
-▶ {bettI':n}5
-▶ KÄÄNTÄMINEN16
+<column name="notes_fi">Tunnettuja sanoja alkuaineille ovat:
+▶ {bettI':n}
+▶ {bIQSIp:n}
+▶ {butnat:n}
+▶ {ghav:n}
+▶ {jey':n}
+▶ {julSIp:n}
+▶ {letbIng:n}
+▶ {no'negh:n}
+▶ {ngIDvoS:n}
+▶ {popSop:n}
+▶ {qol'om:n}
+▶ {SIrlIy:n}
+▶ {Sorpuq:n}
+▶ {velSo':n}
+▶ {voQSIp:n}
+▶ {yInSIp:n}
 ▶ {yuHSIQ:n}
 ▶ {'apraQ:n}
-▶ KÄÄNNÖT19{bIQSIp:n}{butnat:n}{ghav:n}{jey':n}{julSIp:n}{letbIng:n}{no'negh:n}{ngIDvoS:n}{popSop:n}{qol'om:n}{SIrlIy:n}{Sorpuq:n}{velSo':n}{voQSIp:n}{yInSIp:n}{'uSqan:n} [AUTOTRANSLATED]</column>
+▶ {'uSqan:n}</column>
       <column name="hidden_notes">A reference to Tom Lehrer, who performed the song "The Elements" about the chemical elements.</column>
       <column name="components"></column>
       <column name="examples"></column>

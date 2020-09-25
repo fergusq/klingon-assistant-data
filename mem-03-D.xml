@@ -5967,39 +5967,39 @@ Noun Type 5: Syntactic markers
 ▶ {-'e':n:suff}</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Klingonissa on viiden tyyppisiä substantiiviliitteitä.
+<column name="notes_fi">Klingonin kielessä on viisi erilaista substantiiviliitetyyppiä.
 
-Substantiivityyppi 1: Augmentatiivinen / pienennettävä
-▶ KÄÄNTÄMINEN 1
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
+Liitetyyppi 1: augmentatiivi/diminutiivi
+▶ {-'a':n:suff}
+▶ {-Hom:n:suff}
+▶ {-oy:n:suff}
 
-Substantiivityyppi 2: Numero
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
+Liitetyyppi 2: luku
+▶ {-pu':n:suff}
+▶ {-Du':n:suff}
+▶ {-mey:n:suff}
 
-Substantiivityyppi 3: Karsinta
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
-▶ KÄÄNTÄMINEN 9
+Liitetyyppi 3: täsmennys
+▶ {-qoq:n:suff}
+▶ {-Hey:n:suff}
+▶ {-na':n:suff}
 
-Substantiivityyppi 4: Hallussapito / määrittely
-▶ {-'a':n:suff}0 / {-wI':n:suff}
+Liitetyyppi 4: omistus-, demonstratiiviliitteet
+▶ {-wIj:n:suff} / {-wI':n:suff}
 ▶ {-lIj:n:suff} / {-lI':n:suff}
-▶ KÄÄNTÖ14
+▶ {-Daj:n:suff}
 ▶ {-maj:n:suff} / {-ma':n:suff}
 ▶ {-raj:n:suff} / {-ra':n:suff}
-▶ KÄÄNNÖT19
-▶ {-Hom:n:suff}0
+▶ {-chaj:n:suff}
+▶ {-vam:n:suff}
 ▶ {-vetlh:n:suff}
 
-Substantiivityyppi 5: Syntaktiset markkerit
-▶ KÄÄNNÖT22
+Liitetyyppi 5: sijamuodot
+▶ {-Daq:n:suff}
 ▶ {-vo':n:suff}
 ▶ {-mo':n:suff}
 ▶ {-vaD:n:suff}
-▶ KÄÄNNÖT26{-oy:n:suff}{-pu':n:suff}{-Du':n:suff}{-mey:n:suff}{-qoq:n:suff}{-Hey:n:suff}{-na':n:suff}{-wIj:n:suff}{-Daj:n:suff}{-chaj:n:suff}{-vam:n:suff}{-Daq:n:suff}{-'e':n:suff} [AUTOTRANSLATED]</column>
+▶ {-'e':n:suff}</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">

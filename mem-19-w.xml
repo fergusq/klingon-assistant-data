@@ -5778,46 +5778,46 @@ See under {moHaq:n} for the verb prefixes.</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-<column name="notes_fi">Klingonissa on yhdeksän tyyppisiä verbiliitteitä roverien ({lengwI':n}) lisäksi, joilla ei ole kiinteää sijaintia muihin lopputyyppeihin nähden.
+<column name="notes_fi">There are nine types of verb suffixes in Klingon, in addition to the rovers ({lengwI':n}), which do not have a fixed position relative to the other suffix types.
 
-Verbityyppi 1: Itsensä / toisensa
-▶ KÄÄNNÖT2
-▶ KÄÄNTÄMINEN 3
+Päätetyyppi 1: itseään/toisiaan
+▶ {-'egh:v:suff}
+▶ {-chuq:v:suff}
 
-Verbityyppi 2: Tahto / taipumus
-▶ KÄÄNTÖ 4
-▶ KÄÄNNÖTÖ 5
-▶ KÄÄNTÄMINEN 6
-▶ KÄÄNNÖT 7
-▶ KÄÄNTÄMINEN8
+Päätetyyppi 2: tahtominen/valmius
+▶ {-nIS:v:suff}
+▶ {-qang:v:suff}
+▶ {-rup:v:suff}
+▶ {-beH:v:suff}
+▶ {-vIp:v:suff}
 
-Verbityyppi 3: Muuta
-▶ KÄÄNTÄMINEN 9
-▶ KÄÄNNÖT 10
+Päätetyyppi 3: muutos
+▶ {-choH:v:suff}
+▶ {-qa':v:suff}
 
-Verbityyppi 4: Syy
-▶ KÄÄNTÄMINEN 11
+Päätetyyppi 4: aiheuttaminen
+▶ {-moH:v:suff}
 
-Verbityyppi 5: Määrittelemätön aihe / kyky
-▶ KÄÄNTÄMINEN 12
-▶ KÄÄNTÄMINEN13
+Päätetyyppi 5: passiivi/kykeneminen
+▶ {-lu':v:suff}
+▶ {-laH:v:suff}
 
-Verbityyppi 6: Pätevyys
-▶ KÄÄNTÖ14
+Päätetyyppi 6: täsmennyspäätteet
+▶ {-chu':v:suff}
 ▶ {-bej:v:suff}
-▶ KÄÄNTÄMINEN16
+▶ {-law':v:suff}
 ▶ {-ba':v:suff}
 
-Verbityyppi 7: näkökohta
+Päätetyyppi 7: aspekti
 ▶ {-pu':v:suff}
-▶ KÄÄNNÖT19
-▶ {-'egh:v:suff}0
+▶ {-ta':v:suff}
+▶ {-taH:v:suff}
 ▶ {-lI':v:suff}
 
-Verbityyppi 8: Kunnianosoitus
-▶ KÄÄNNÖT22
+Päätetyyppi 8: kunniapääte
+▶ {-neS:v:suff}
 
-Verbityyppi 9: Syntaktiset markkerit
+Päätetyyppi 9: kieliopilliset päätteet
 ▶ {-DI':v:suff}
 ▶ {-chugh:v:suff}
 ▶ {-pa':v:suff}
@@ -5825,18 +5825,18 @@ Verbityyppi 9: Syntaktiset markkerit
 ▶ {-bogh:v:suff}
 ▶ {-meH:v:suff}
 ▶ {-'a':v:suff}
-▶ {-chuq:v:suff}0
+▶ {-wI':v:suff}
 ▶ {-mo':v:suff}
 ▶ {-jaj:v:suff}
 ▶ {-ghach:v:suff}
 
-Roverit:
+Seikkalijat:
 ▶ {-be':v:suff}
 ▶ {-Qo':v:suff}
 ▶ {-Ha':v:suff}
 ▶ {-qu':v:suff}
 
-Katso verbien etuliitteet kohdasta {moHaq:n}.{-nIS:v:suff}{-qang:v:suff}{-rup:v:suff}{-beH:v:suff}{-vIp:v:suff}{-choH:v:suff}{-qa':v:suff}{-moH:v:suff}{-lu':v:suff}{-laH:v:suff}{-chu':v:suff}{-law':v:suff}{-ta':v:suff}{-taH:v:suff}{-neS:v:suff}{-wI':v:suff} [AUTOTRANSLATED]</column>
+Katso verbietuliitteet artikkelissa {moHaq:n}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
