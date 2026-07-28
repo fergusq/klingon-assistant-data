@@ -4152,7 +4152,7 @@ This is also infrequently shortened to {pegh vIttlhegh:n:nolink}.[1]</column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
+      <column name="notes_fi">Englannin sana "noon" ({DungluQ:n}) viittaa todennäköisemmin täsmälliseen hetkeen tasan kello 12, kun taas "midday" viittaa pidempään ajanjaksoon aamupäivän ja iltapäivän välissä.</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{pem:n}, {jep:n:hyp}</column>

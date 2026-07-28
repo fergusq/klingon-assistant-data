@@ -385,7 +385,7 @@ Le concept d'une "vierge" peut être exprimé en décrivant littéralement ce qu
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi">panna, neitsyt</column>
+      <column name="search_tags_fi">panna, nussia, kuksia, neitsyt</column>
       <column name="search_tags_fr">baiser, sèxe, vierge</column>
       <column name="source">[1] {KGT:src}, [2] {PK:src}, [3] {HQ 3.3, p.10-13, Sep. 1994:src}, [4] {KLI mailing list 2020.03.30:src}</column>
     </table>
@@ -400,7 +400,7 @@ Le concept d'une "vierge" peut être exprimé en décrivant littéralement ce qu
       <column name="definition_ru">сжать (объект)</column>
       <column name="definition_zh_HK">擠壓（一個物體）</column>
       <column name="definition_pt">espremer (um objeto)</column>
-      <column name="definition_fi">puristaa jotakin</column>
+      <column name="definition_fi">puristaa jotakin (kädessään)</column>
       <column name="definition_fr">presser (un objet)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -494,7 +494,7 @@ Le concept d'une "vierge" peut être exprimé en décrivant littéralement ce qu
           <column name="definition_ru">сокращать [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">刪節 [AUTOTRANSLATED]</column>
           <column name="definition_pt">resumir [AUTOTRANSLATED]</column>
-          <column name="definition_fi">lyhentää, tiivistää</column>
+          <column name="definition_fi">lyhentää (ajallisesti); lyhentää, tiivistää (teksti)</column>
           <column name="definition_fr">abréger</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -823,7 +823,7 @@ Le concept d'une "vierge" peut être exprimé en décrivant littéralement ce qu
       <column name="definition_ru">меняться, быть изменчивым</column>
       <column name="definition_zh_HK">變化、多變</column>
       <column name="definition_pt">variar, ser variado</column>
-      <column name="definition_fi">poiketa, erota (normaalista), vaihdella; olla poikkeava, eroava, olla vaihteleva</column>
+      <column name="definition_fi">poiketa, erota (normaalista), vaihdella</column>
       <column name="definition_fr">varier, être variable</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -855,7 +855,7 @@ Le concept d'une "vierge" peut être exprimé en décrivant littéralement ce qu
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">olla poikkeava, eroava, vaihteleva</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2019.01.16:src}</column>
     </table>
@@ -1527,7 +1527,7 @@ On peut dire {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} etc., mais il s'agit un jar
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">kontti, laatikko, paketti</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {KCD:src}</column>
         </table>
@@ -1736,7 +1736,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="definition_ru">писательская судорога</column>
       <column name="definition_zh_HK">作家的抽筋</column>
       <column name="definition_pt">cãibra do escritor</column>
-      <column name="definition_fi">pitkästä kirjoittamisesta johtuva sormien lihasten kouristus?</column>
+      <column name="definition_fi">pitkästä kirjoittamisesta johtuva sormien lihasten kouristus</column>
       <column name="definition_fr">crampe de l'écrivain</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1830,7 +1830,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="definition_ru">разъедать</column>
       <column name="definition_zh_HK">侵蝕</column>
       <column name="definition_pt">erodir</column>
-      <column name="definition_fi">kuluttaa, murentaa, heikentää</column>
+      <column name="definition_fi">kuluttaa (maaperää veden, tuulen jne. toimesta eroosiossa)</column>
       <column name="definition_fr">éroder</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1862,7 +1862,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">murentaa, heikentää</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
@@ -2018,7 +2018,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="definition_ru">слава</column>
       <column name="definition_zh_HK">榮耀</column>
       <column name="definition_pt">glória</column>
-      <column name="definition_fi">suosio, maine; loisto, mahtavuus?</column>
+      <column name="definition_fi">loisto, kunnia, mahtavuus</column>
       <column name="definition_fr">gloire</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2054,7 +2054,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">suosio, maine</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Klingon Monopoly:src}</column>
     </table>
@@ -2160,7 +2160,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">panna, nussia, kuksia</column>
       <column name="search_tags_fr">baiser, niquer</column>
       <column name="source">[1] {HQ 1.3, Sep. 1992:src}, [2] {Stonewall campaign 2013:src} ({KLI mailing list 2019.03.22:src}), [3] {paq'batlh 2ed p.138-139:src}</column>
     </table>
@@ -2302,7 +2302,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">tissivako, rinnat, tissit</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 3 (1996):src}</column>
     </table>
@@ -2443,7 +2443,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">ulottuvuus</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {The Time Machine:src}</column>
     </table>
@@ -2678,7 +2678,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">kosmos</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKDA:src}</column>
     </table>
@@ -2866,7 +2866,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">houkutus</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2017:src}</column>
     </table>
@@ -2913,7 +2913,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">maaorja</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 32 (2025):src}</column>
     </table>
@@ -3022,7 +3022,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
           <column name="definition_ru">лесное животное</column>
           <column name="definition_zh_HK">森林動物</column>
           <column name="definition_pt">animal da floresta</column>
-          <column name="definition_fi">metsäeläin</column>
+          <column name="definition_fi">metsäneläin</column>
           <column name="definition_fr">animal de la forêt</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -3116,7 +3116,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
       <column name="definition_ru">онеметь</column>
       <column name="definition_zh_HK">是麻木了的</column>
       <column name="definition_pt">ficar dormente</column>
-      <column name="definition_fi">olla tunnoton</column>
+      <column name="definition_fi">olla tunnoton, turta</column>
       <column name="definition_fr">être engourdi, être insensible</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3331,7 +3331,7 @@ Dans le {paq'batlh:src}, l'expression {qul ngeng HeH:n:nolink} est utilisé pour
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">allas</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {Saarbrücken qepHom'a' 2025:src}</column>
         </table>
@@ -3472,7 +3472,7 @@ Dans le {paq'batlh:src}, l'expression {qul ngeng HeH:n:nolink} est utilisé pour
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">porras</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
@@ -3640,7 +3640,7 @@ Il s'utilise aussi avec {qaw:n} idiomatiquement pour se référer à la mémoris
       <column name="definition_ru">врезаться, столкнуться, столкнуться с</column>
       <column name="definition_zh_HK">碰撞</column>
       <column name="definition_pt">chocar, esbarrar, colidir com</column>
-      <column name="definition_fi">törmätä johonkin, tavata sattumalta?</column>
+      <column name="definition_fi">törmätä johonkin (paikallaan olevaan)</column>
       <column name="definition_fr">se cogner, se heurter, entrer en collision avec</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4208,7 +4208,7 @@ Dans {TNK:src}, "Où est le magasin?" est traduit par {nuqDaq ghaH ngevwI''e'?:s
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">viedä</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -4686,7 +4686,7 @@ Dans {TNK:src}, "Où est le magasin?" est traduit par {nuqDaq ghaH ngevwI''e'?:s
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">vuokrata</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -5023,7 +5023,7 @@ For a very long time, this was an unofficial word, but it was confirmed by Okran
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">öljy</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Honor Bound:src}, [2] {KLI mailing list 2020.04.21:src}</column>
     </table>
@@ -5134,7 +5134,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="definition_ru">застрять (не может двигаться)</column>
       <column name="definition_zh_HK">是卡住的（無法移動）</column>
       <column name="definition_pt">ficar preso (incapaz de se mover)</column>
-      <column name="definition_fi">olla jumissa (kykenemätön liikkumaan)</column>
+      <column name="definition_fi">olla jumissa, juuttunut (kykenemätön liikkumaan)</column>
       <column name="definition_fr">être coincé, être bloqué (incapable de bouger)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5315,7 +5315,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">rinnat, tissit</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 26 (2019):src}</column>
     </table>
@@ -5460,7 +5460,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">tieto</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -6313,7 +6313,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">salaviesti, koodiviesti</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {HQ 8.4, p.12, Dec. 1999:src}</column>
     </table>
@@ -6375,7 +6375,7 @@ One of these was used in the production of the opera {'u':src}.</column>
       <column name="definition_ru">жульничать, мошенничать, мухлевать, обдуривать</column>
       <column name="definition_zh_HK">作弊</column>
       <column name="definition_pt">enganar, trapacear, trair</column>
-      <column name="definition_fi">huijata</column>
+      <column name="definition_fi">huijata, fuskata</column>
       <column name="definition_fr">tricher</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6877,7 +6877,7 @@ Ce mot se trouve aussi dans l'expression archaïque {ngoS tlhogh cha:sen:nolink}
       <column name="definition_ru">быть ответственным, быть сознательным, быть несущим ответственность</column>
       <column name="definition_zh_HK">是負責任的</column>
       <column name="definition_pt">ser responsável</column>
-      <column name="definition_fi">olla vastuullinen</column>
+      <column name="definition_fi">olla vastuullinen; olla luotettava</column>
       <column name="definition_fr">être responsable</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6911,7 +6911,7 @@ Ce mot se trouve aussi dans l'expression archaïque {ngoS tlhogh cha:sen:nolink}
       <column name="search_tags_ru">быть подотчетным, держать ответ</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">olla vastuunalainen, olla vastuussa</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {KLI mailing list 2018.02.02:src}</column>
     </table>
@@ -7373,7 +7373,7 @@ For a verb with a similar meaning, see {quq:v}. For an idiom meaning "by that ti
       <column name="definition_ru">окунь</column>
       <column name="definition_zh_HK">棲息</column>
       <column name="definition_pt">empoleirar-se</column>
-      <column name="definition_fi">istua, kyyhöttää</column>
+      <column name="definition_fi">istua orrella, oksalla, (linnusta) seisoa tai istua oksalla</column>
       <column name="definition_fr">(se) percher</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7514,7 +7514,7 @@ For a verb with a similar meaning, see {quq:v}. For an idiom meaning "by that ti
       <column name="definition_ru">Доминион</column>
       <column name="definition_zh_HK">自治領</column>
       <column name="definition_pt">O Domínio</column>
-      <column name="definition_fi">Dominion</column>
+      <column name="definition_fi">eräs valtio, Dominion</column>
       <column name="definition_fr">Le Dominion</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7749,7 +7749,7 @@ For a verb with a similar meaning, see {quq:v}. For an idiom meaning "by that ti
           <column name="definition_ru">замена персонажа</column>
           <column name="definition_zh_HK">角色替代</column>
           <column name="definition_pt">substituto de personagem</column>
-          <column name="definition_fi">hahmon korvike</column>
+          <column name="definition_fi">korvaava merkki</column>
           <column name="definition_fr">substitut de caractère/lettre</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -7828,7 +7828,7 @@ For a verb with a similar meaning, see {quq:v}. For an idiom meaning "by that ti
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">noppa</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2018:src}</column>
     </table>
@@ -7875,7 +7875,7 @@ For a verb with a similar meaning, see {quq:v}. For an idiom meaning "by that ti
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">tummennettu merkki, kursiivi</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2018.02.17:src}</column>
     </table>
@@ -8084,7 +8084,7 @@ Hormis {chIS:v} et {qIj:v}, seulement deux mots de couleur sont connus en klingo
       <column name="definition_ru">насмехаться</column>
       <column name="definition_zh_HK">嘲笑</column>
       <column name="definition_pt">zombar</column>
-      <column name="definition_fi">pilkata, ivata</column>
+      <column name="definition_fi">naurahtaa pilkallisesti, tuhahtaa</column>
       <column name="definition_fr">se moquer</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8118,7 +8118,7 @@ The intransitivity of this verb was confirmed during the Q &amp; A session. The 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">pilkata, ivata</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
@@ -8224,7 +8224,7 @@ The intransitivity of this verb was confirmed during the Q &amp; A session. The 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">lika</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 30 (2023):src}</column>
     </table>

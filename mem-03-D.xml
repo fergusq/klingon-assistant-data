@@ -14319,7 +14319,7 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
+      <column name="notes_fi">Englannin sana "noon" viittaa todennäköisemmin täsmälliseen hetkeen tasan kello 12, kun taas "midday" ({pemjep:n}) viittaa pidempään ajanjaksoon aamupäivän ja iltapäivän välissä.</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>

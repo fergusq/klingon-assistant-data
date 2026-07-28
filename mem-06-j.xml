@@ -10626,7 +10626,7 @@ Wenn {-Daq:n} benutzt wird, impliziert es, dass man daneben geblasen hat und die
           <column name="definition_ru">уменьшить</column>
           <column name="definition_zh_HK">縮小</column>
           <column name="definition_pt">Reduzir o zoom</column>
-          <column name="definition_fi">loitontaa, zoomata pois jostakin</column>
+          <column name="definition_fi">loitontaa, zoomata pois jostakin; tiivistää (teksti)</column>
           <column name="definition_fr">dézoomer, résumer, dégonfler</column>
           <column name="synonyms"></column>
           <column name="antonyms">{jo':v:2}</column>
