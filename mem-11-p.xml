@@ -313,7 +313,7 @@ In the context of a vow or promise which has been made (see {'Ip:v} and {lay':v}
       <column name="definition_ru">молоток высокого суда</column>
       <column name="definition_zh_HK">高閣槌</column>
       <column name="definition_pt">martelo do tribunal</column>
-      <column name="definition_fi">(korkeimman oikeuden?) nuija</column>
+      <column name="definition_fi">eräs esine, "kynsipallo" (pallomainen nuija klingonien tuomioistuimessa)</column>
       <column name="definition_fr">marteau de la Haute Cour</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -978,7 +978,7 @@ When connecting multiple sentences, only the final conjunction is needed. See th
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">ratkoa</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
@@ -1087,7 +1087,7 @@ When connecting multiple sentences, only the final conjunction is needed. See th
       <column name="definition_ru">Пок</column>
       <column name="definition_zh_HK">《學》</column>
       <column name="definition_pt">Pok</column>
-      <column name="definition_fi">Pok</column>
+      <column name="definition_fi">eräs hahmo, Pok</column>
       <column name="definition_fr">Pok</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1456,7 +1456,7 @@ See also {tIq'ghob:n:hyp} for a hypothetical similar grammatical construction.</
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">ajatella</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
@@ -1518,7 +1518,7 @@ See also {tIq'ghob:n:hyp} for a hypothetical similar grammatical construction.</
       <column name="definition_ru">учение, обучение, выучка</column>
       <column name="definition_zh_HK">教導</column>
       <column name="definition_pt">ensinamentos</column>
-      <column name="definition_fi">opetus, opetukset</column>
+      <column name="definition_fi">opetukset</column>
       <column name="definition_fr">enseignements</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1550,7 +1550,7 @@ See also {tIq'ghob:n:hyp} for a hypothetical similar grammatical construction.</
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">opetus</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -1879,7 +1879,7 @@ See also {tIq'ghob:n:hyp} for a hypothetical similar grammatical construction.</
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">puoliso, tyttöystävä, poikaystävä</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {KGT:src}</column>
         </table>
@@ -1973,7 +1973,7 @@ See also {tIq'ghob:n:hyp} for a hypothetical similar grammatical construction.</
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">deitti</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
@@ -2338,7 +2338,7 @@ Note that the Klingon term for a star system is {Hovtay':n}.</column>
       <column name="definition_ru">ранг(военный или правительственный), уровень, слой, положение, стаж</column>
       <column name="definition_zh_HK">等級（軍事、政府）、等級、層次、地位</column>
       <column name="definition_pt">classificação (militar, governamental), nível, camada, posição</column>
-      <column name="definition_fi">sotilasarvo, taso, sijoitus, asema, luokitus</column>
+      <column name="definition_fi">sotilasarvo; taso, sijoitus, asema, luokitus</column>
       <column name="definition_fr">grade (militaire, gouvernemental), niveau, échelon, position</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2759,7 +2759,7 @@ Do not confuse this with {paw:v}.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{paw:v}, {'aD:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -2870,7 +2870,7 @@ Do not confuse this with {paw:v}.</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">äkkiä, yllättäen</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -3209,7 +3209,7 @@ The {bIS'ub:n} of a {pa':n:1h,nolink} is its {rav:n:1}, and its {'aqroS:n:1} is 
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">seinä</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {s.k 1998.12.07:src} (reprinted in {HQ 8.1, p.9, Mar. 1999:src})</column>
     </table>
@@ -3271,7 +3271,7 @@ The {bIS'ub:n} of a {pa':n:1h,nolink} is its {rav:n:1}, and its {'aqroS:n:1} is 
       <column name="definition_ru">прошлое (в целом)</column>
       <column name="definition_zh_HK">過去（整體而言）</column>
       <column name="definition_pt">o passado (como um todo)</column>
-      <column name="definition_fi">menneisyys (kokonaisuutena)</column>
+      <column name="definition_fi">menneisyys</column>
       <column name="definition_fr">le passé (dans son ensemble)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tuch:n}</column>
@@ -3591,7 +3591,7 @@ Generally, when a verb describing a state of being is used as an imperative, the
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">kurkku</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
@@ -4030,7 +4030,7 @@ This is also infrequently shortened to {pegh vIttlhegh:n:nolink}.[1]</column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">arkku</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
@@ -4267,7 +4267,7 @@ This is also infrequently shortened to {pegh vIttlhegh:n:nolink}.[1]</column>
       <column name="search_tags_ru">ракета</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">ohjus</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -5000,7 +5000,7 @@ This would normally take the suffix {-pu':n}. Using the suffix {-mey:n} adds an 
       <column name="definition_ru">костная связка</column>
       <column name="definition_zh_HK">骨粘合劑</column>
       <column name="definition_pt">Dispositivo de cicatrização óssea</column>
-      <column name="definition_fi">luunsitoja?</column>
+      <column name="definition_fi">eräs lääketieteellinen laite, luunsitoja</column>
       <column name="definition_fr">colle à os</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5227,7 +5227,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">veitsi</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
@@ -5274,7 +5274,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">lauta</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2015:src}</column>
     </table>
@@ -5419,7 +5419,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">varovaisesti, hennosti</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 19 (2012):src} ({KLI mailing list 2012.08.30:src})</column>
     </table>
@@ -5529,7 +5529,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="definition_ru">сильно использовать третий палец</column>
       <column name="definition_zh_HK">強有力地使用第三個腳趾</column>
       <column name="definition_pt">use o terceiro dedo com força</column>
-      <column name="definition_fi">käyttää kolmatta varvasta voimakkaasti</column>
+      <column name="definition_fi">"käyttää kolmatta varvasta voimakkaasti", olla ketterä, notkea</column>
       <column name="definition_fr">utiliser le troisième orteil avec force (c.a.d être très agile)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6052,7 +6052,7 @@ The verb {roS:v:2} means "to use the third toe". It is also homophonous with a v
       <column name="definition_ru">ожидать, рассчитывать, ждать</column>
       <column name="definition_zh_HK">期望</column>
       <column name="definition_pt">ter expectativa</column>
-      <column name="definition_fi">odottaa, olettaa</column>
+      <column name="definition_fi">odottaa jotakuta, olettaa</column>
       <column name="definition_fr">attendre</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6420,7 +6420,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi">apaattinen</column>
+          <column name="search_tags_fi">olla demotivoitunut</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {KLI mailing list 2010.09.01:src}</column>
         </table>
@@ -6520,7 +6520,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">tanko</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
@@ -7200,7 +7200,7 @@ For other units of time, {pIq:n:nolink} is used.</column>
       <column name="definition_ru">Название Клингонской письменности</column>
       <column name="definition_zh_HK">克林崗書寫系統</column>
       <column name="definition_pt">Sistema de escrita klingon</column>
-      <column name="definition_fi">klingonin kirjoitusjärjestelmä</column>
+      <column name="definition_fi">eräs klingonin kirjoitusjärjestelmä</column>
       <column name="definition_fr">Système d'écriture Klingon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7422,7 +7422,7 @@ Prior to {DSC:src}, the {pIqaD:n:nolink} seen in the shows, movies, and videogam
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">kilpailu, kisa</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {qep'a' 27 (2020):src}</column>
         </table>
@@ -7469,7 +7469,7 @@ Prior to {DSC:src}, the {pIqaD:n:nolink} seen in the shows, movies, and videogam
           <column name="search_tags_ru"></column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">kilpailu, kisa, peli</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {qep'a' 27 (2020):src}</column>
         </table>
@@ -7578,7 +7578,7 @@ Prior to {DSC:src}, the {pIqaD:n:nolink} seen in the shows, movies, and videogam
       <column name="definition_ru">быть косвенным, обходным, хитрым</column>
       <column name="definition_zh_HK">是間接的、是迂迴的、是狡猾的</column>
       <column name="definition_pt">ser indireto, ser rotundo, ser desonesto</column>
-      <column name="definition_fi">olla epäsuora, olla ovela, kavala, petollinen</column>
+      <column name="definition_fi">olla epäsuora; olla ovela, kavala, petollinen</column>
       <column name="definition_fr">être indirect, être détourné, être sournois</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pIQ:v}</column>
@@ -7866,7 +7866,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/4gCJJiBXaE4}</col
       <column name="definition_ru">быть здоровым, быть жизнеспособным, быть полезным</column>
       <column name="definition_zh_HK">是健康的</column>
       <column name="definition_pt">ser saudável</column>
-      <column name="definition_fi">olla terve, olla terveellinen</column>
+      <column name="definition_fi">olla terve; olla terveellinen</column>
       <column name="definition_fr">être en bonne santé</column>
       <column name="synonyms"></column>
       <column name="antonyms">{rop:v}</column>
@@ -8445,7 +8445,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/4gCJJiBXaE4}</col
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pIw:n}, {SIp:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10103,7 +10103,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">pippuri</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 32 (2025):src}</column>
     </table>
@@ -10118,7 +10118,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
           <column name="definition_ru">Земный черный перец</column>
           <column name="definition_zh_HK">磨黑胡椒</column>
           <column name="definition_pt">pimenta preta moída</column>
-          <column name="definition_fi">pippurijauhe</column>
+	  <column name="definition_fi">eräs valmiste, jauhettu {porSor:n}, pippurijauhe</column>
           <column name="definition_fr">poivre noir meulé</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -10165,7 +10165,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
           <column name="definition_ru">перец</column>
           <column name="definition_zh_HK">胡椒</column>
           <column name="definition_pt">Peppercorn</column>
-          <column name="definition_fi">{porSor:n}in marja, pippuri</column>
+          <column name="definition_fi">eräs marja, {porSor:n}in marja, pippuri</column>
           <column name="definition_fr">grain de poivre</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
@@ -11289,7 +11289,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">risteys</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
@@ -11479,7 +11479,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
+      <column name="search_tags_fi">pönttö</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -11764,7 +11764,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
           <column name="search_tags_ru">транспорт</column>
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
-          <column name="search_tags_fi"></column>
+          <column name="search_tags_fi">maa-ajoneuvo</column>
           <column name="search_tags_fr"></column>
           <column name="source">[1] {TNK:src}</column>
         </table>
@@ -13922,7 +13922,7 @@ The Klingon equivalent to a phaser is a {nISwI':n}.</column>
       <column name="definition_ru">шип, шип ботинка</column>
       <column name="definition_zh_HK">穗、靴子穗</column>
       <column name="definition_pt">ponta da bota</column>
-      <column name="definition_fi">saappaan sarvi tai piikki</column>
+      <column name="definition_fi">piikki, saappaan piikki</column>
       <column name="definition_fr">pointe, pointe de botte</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -14067,7 +14067,7 @@ This word takes the plural suffix {-mey:n}, unlike when {pu':n:3} refers to a ho
       <column name="definition_ru">фазерный экипаж</column>
       <column name="definition_zh_HK">相位工作人員</column>
       <column name="definition_pt">equipe do faser</column>
-      <column name="definition_fi">vaiheistiimi?</column>
+      <column name="definition_fi">vaiheistiimi</column>
       <column name="definition_fr">équipage de phaseurs</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -14304,7 +14304,7 @@ The 2009 {Star Trek:src} movie has a deleted scene with the line: {buqmeylIjDaq 
       <column name="definition_ru">имбирь</column>
       <column name="definition_zh_HK">生薑</column>
       <column name="definition_pt">gengibre</column>
-      <column name="definition_fi">inkivääri</column>
+      <column name="definition_fi">eräs inkivääriä muistuttava juuri</column>
       <column name="definition_fr">gingembre</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>

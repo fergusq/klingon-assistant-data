@@ -2242,7 +2242,7 @@ When the verb {Sar:v} is used adjectivally, it usually follows a plural noun. It
       <column name="definition_ru">кампания [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">活動 [AUTOTRANSLATED]</column>
       <column name="definition_pt">campanha [AUTOTRANSLATED]</column>
-      <column name="definition_fi">kampanja (sota), sotatoimet</column>
+      <column name="definition_fi">sotaretki, sarja sotatoimia; (laajemmin) sarja samaan tavoitteeseen tähtääviä toimenpiteitä</column>
       <column name="definition_fr">campagne</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2274,7 +2274,7 @@ When the verb {Sar:v} is used adjectivally, it usually follows a plural noun. It
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
-      <column name="search_tags_fi">sotatoimi</column>
+      <column name="search_tags_fi">kampanja</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 33 (2026):src}</column>
     </table>

@@ -13446,7 +13446,7 @@ Pitching downwards is indicated using a negative angle (see {taH:v:2}).</column>
       <column name="definition_ru">будущее (в целом)</column>
       <column name="definition_zh_HK">未來（整體而言）</column>
       <column name="definition_pt">o futuro (como um todo)</column>
-      <column name="definition_fi">tulevaisuus (kokonaisuutena)</column>
+      <column name="definition_fi">tulevaisuus</column>
       <column name="definition_fr">l'avenir (dans son ensemble)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pa'logh:n}</column>

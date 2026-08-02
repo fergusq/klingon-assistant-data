@@ -5272,7 +5272,7 @@ The example sentences from the mailing list came out of a discussion about revis
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">"Major artery".</column>
-      <column name="components"></column>
+      <column name="components">{mej:v}, {'aD:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
